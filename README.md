@@ -4,7 +4,7 @@
 ***
 
 <p align="center">
-  <img src="UPCLogo.png" alt="UPC" width="150">
+  <img src="resources/UPCLogo.png" alt="UPC" width="150">
 </p>
 
 ## <center>Informe 1</center>
