@@ -7,16 +7,21 @@
   <img src="resources/UPCLogo.png" alt="UPC" width="150">
 </p>
 
-## <center>Informe 1</center>
-### <center>BeautyServices</center>
+## <center>Informe del TB1</center>
+## Ingeniería de Software
+## Ciclo 2024-02
 ## <center>Profesor: Juan Antonio Flores Moroco</center>
+## <center>Startup: BeautyServices</center>
+## <center>Producto: Bliss</center>
 ## Integrantes
 
-* **André Arturo Bernaola Pérez**
-* **Diego Ivan Cabrera Buitron**
-* **Elvia Marcela Rodriguez Villa**
-* **David Alejandro Rivas Sarango**
-* **Diego Martin Sorano Medriano**
+| Nombre |Código de alumno|
+|:-------:|:----------:|
+|André Arturo Bernaola Pérez|u|
+|Diego Ivan Cabrera Buitron|u|
+|Elvia Marcela Rodriguez Villa|u|
+|David Alejandro Rivas Sarango|U20191E831|
+|Diego Martin Sorano Medriano|u|
 
 ***
 ***
