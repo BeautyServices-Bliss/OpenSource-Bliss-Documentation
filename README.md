@@ -27,8 +27,8 @@
 ***
 ***
 
-### <center>Agosto 2024</center>
-### Registro de versiones del informe
+## <center>Agosto 2024</center>
+## Registro de versiones del informe
 
 | Versión   | Fecha     | Autor |Descripción de la modificación |
 |-----------|-----------|-------|-------------                  |
@@ -36,7 +36,23 @@
 |           |           |       |                               |
 |           |           |       |                               |
 
-### Students Outcomes
+## Project Report Collaboration Insights
+
+URL de la organización del proyecto: [https://github.com/upc-opensource-g-bliss]
+
+**TBI**
+|Integrante|Tareas Asignadas|
+|-|-|
+|André Arturo Bernaola Pérez||
+|Diego Ivan Cabrera Buitron||
+|Elvia Marcela Rodriguez Villa||
+|David Alejandro Rivas Sarango||
+|Diego Martin Sorano Medriano||
+
+**TB1 Github**
+
+
+## Students Outcomes
 
 | Criterio específico | Acciones realizadas | Conclusiones |
 |---------------------|---------------------|--------------|
