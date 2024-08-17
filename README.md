@@ -57,10 +57,10 @@ URL de la organización del proyecto: [https://github.com/upc-opensource-g-bliss
 1.2. [***Solution Profile***](#1.2.)<br>
 1.2.1. [Antecedentes y Problemática](#1.2.1.)<br>
 1.2.2. [Lean UX Process](#1.2.2.)<br>
-1.2.3. [Lean UX Problem Statements](#1.2.3.)<br>
-1.2.4. [Lean UX Assumptions](#1.2.4.)<br>
-1.2.5. [Lean UX Hypothesis Statements](#1.2.5.)<br>
-1.2.6. [Lean UX Canvas](#1.2.6.)<br>
+1.2.2.1. [Lean UX Problem Statements](#1.2.2.1.)<br>
+1.2.2.2. [Lean UX Assumptions](#1.2.2.2.)<br>
+1.2.2.3. [Lean UX Hypothesis Statements](#1.2.2.3.)<br>
+1.2.2.4. [Lean UX Canvas](#1.2.2.4.)<br>
 1.3. [***Segmentos objetivo***](#1.3.)<br>
 2. [**Capítulo II: Requirements Elicitation & Analysis**](#2.)<br>
 2.1. [***Competidores***](#2.1.)<br>
@@ -267,6 +267,7 @@ experiencia de usuario más segura y confiable en nuestra plataforma?
 
 <div id='1.2.2.2.'><h5> 1.2.2.2. Lean UX Assumptions</h5></div>
 
+<div id='1.2.2.3.'><h5> 1.2.2.3. Lean UX Hypothesis Statements.</h5></div>
 * **Hypothesis Statement 01:**
   
   **Creemos que** ofrecer una amplia gama de servicios de cuidado y belleza a través de
@@ -334,9 +335,15 @@ Enlace para acceder al Canvas (https://app.mural.co/t/studentprojects6765/m/stud
 
 <div id='2.'><h2> Capítulo II: Requirements Elicitation & Analysis</h2></div>
 <div id='2.1.'><h3> 2.1. Competidores</h3></div>
+<<<<<<< HEAD
 <div id='2.1.1.'><h4> 2.1.1. Análisis Competitivo</h4></div>
 
 ||Bliss <br><img src='resources/bliss.png' width="110" height="70">|Treatwell <img src='resources/treatwell.png' width="70" height="70">|SimplyBook <img src='resources/simply.png' width="70" height="70">|Booksy <br><img src='resources/boosky.png' width="70" height="70">|
+=======
+<div id='2.1.1.'><h4> 2.1.Análisis Competitivo</h4></div>
+
+||Bliss  |Treatwell <img src='resources/images.jpeg' width="50" height="50">|SimplyBook.me <img src='resources/cropin.jpg' width="50" height="50">|Booksy <img src='resources/unnamed.jpg' width="50" height="50">|
+>>>>>>> 6c45c3f5f6e2a1cb2b47ce91f00761dfa9dd7747
 |:-:|:-:|:-:|:-:|:-:|
 |**Overview**|Bliss es una plataforma de citas y reservas, enfocadas en la búsqueda, comparación y programación del servicio de negocios de belleza y bienestar|Treatwell es una plataforma de reserva de servicios de belleza y bienestar en Europa.|SimplyBook.me es una plataforma de programación en línea para una variedad de negocios, que facilita la gestión de citas y reservas.|Booksy es una aplicación de reserva de citas enfocada en la industria de belleza y bienestar, que facilita a los usuarios la búsqueda y reserva de servicios de peluquería, estética y cuidado personal.|
 |**Ventajas Competitivas**|Ofrece una interfaz intuitiva para su facilidad de uso, disponibilidad las 24 horas del día, gestión centralizada de citas con la finalidad de poder ver y gestionar todas sus citas desde la plataforma.|Ofrece conveniencia alpermitir a los clientes reservar servicios de belleza en línea y acceso a una amplia gama de salones y tratamientos.|Ofrece conveniencia al permitir a los clientes reservar citas en línea las 24 horas del día y acceso a funciones como recordatorios automáticos y pagos en línea.|Ofrece conveniencia al permitir a los clientes encontrar y reservar servicios de belleza en línea las 24 horas del día, así como acceder a información detallada sobre profesionales, servicios y precios.|
@@ -483,7 +490,10 @@ probabilidad que busquen hacerles daño y robarles. Aun con eso, reconocen que u
 plataforma que permita la comunicación con clientes para ofrecer un mejor servicio
 sería de gran ayuda. La característica más importante para estos trabajadores es la
 seguridad que ofrece la plataforma al agendar una cita.
+<<<<<<< HEAD
 
+=======
+>>>>>>> 6c45c3f5f6e2a1cb2b47ce91f00761dfa9dd7747
 <div id='2.3.'><h3> 2.3. Needfinding</h3></div>
 <div id='2.3.2.'><h4> 2.3.2. User Task Matrix</h4>
 <div id='2.3.3.'><h4> 2.3.3. User Journey Mapping</h4>
