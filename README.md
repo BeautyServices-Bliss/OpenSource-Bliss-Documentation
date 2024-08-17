@@ -338,26 +338,27 @@ Enlace para acceder al Canvas (https://app.mural.co/t/studentprojects6765/m/stud
 <div id='2.1.2.'><h4> 2.1.2. Estrategias y tácticas frente a competidores</h4></div>
 
 **Estrategias:**
-Ampliación de servicios: Ofrecer una amplia gama de servicios de manicura, pedicura y tratamientos faciales, asegurando que cubran las necesidades de los usuarios y proporcionen una experiencia de belleza completa en el hogar.
 
-Verificación de profesionales: Implementar un riguroso proceso de verificación para los estilistas y negocios asociados, garantizando la calidad y confiabilidad de los servicios ofrecidos a través de la plataforma.
+* Ampliación de servicios: Ofrecer una amplia gama de servicios de manicura, pedicura y tratamientos faciales, asegurando que cubran las necesidades de los usuarios y proporcionen una experiencia de belleza completa en el hogar.
 
-Enfoque en la comodidad del usuario: Centrarse en la conveniencia y la facilidad de uso de la aplicación para mejorar la experiencia del usuario y fomentar la repetición de negocios.
+* Verificación de profesionales: Implementar un riguroso proceso de verificación para los estilistas y negocios asociados, garantizando la calidad y confiabilidad de los servicios ofrecidos a través de la plataforma.
+
+* Enfoque en la comodidad del usuario: Centrarse en la conveniencia y la facilidad de uso de la aplicación para mejorar la experiencia del usuario y fomentar la repetición de negocios.
 
 **Tácticas:**
 
-Optimización de la interfaz de usuario: Mejorar la navegación y la búsqueda dentro de la aplicación para que los usuarios puedan encontrar fácilmente servicios disponibles que se ajusten a sus horarios y preferencias.
+* Optimización de la interfaz de usuario: Mejorar la navegación y la búsqueda dentro de la aplicación para que los usuarios puedan encontrar fácilmente servicios disponibles que se ajusten a sus horarios y preferencias.
 
-Sistema de calificación y comentarios: Implementar un sistema de calificación y comentarios para que los usuarios puedan evaluar la calidad de los servicios recibidos, lo que ayudará a construir confianza y transparencia en la plataforma.
+* Sistema de calificación y comentarios: Implementar un sistema de calificación y comentarios para que los usuarios puedan evaluar la calidad de los servicios recibidos, lo que ayudará a construir confianza y transparencia en la plataforma.
 
-Programación flexible: Permitir a los usuarios seleccionar franjas horarias específicas y preferencias de estilistas al reservar citas, ofreciendo opciones que se adapten a sus
+* Programación flexible: Permitir a los usuarios seleccionar franjas horarias específicas y preferencias de estilistas al reservar citas, ofreciendo opciones que se adapten a sus
 horarios y necesidades.
 
-Promoción de garantía de calidad: Comunicar claramente la garantía de calidad y verificación de profesionales en la plataforma a través de campañas de marketing y mensajes en la aplicación para generar confianza entre los usuarios.
+* Promoción de garantía de calidad: Comunicar claramente la garantía de calidad y verificación de profesionales en la plataforma a través de campañas de marketing y mensajes en la aplicación para generar confianza entre los usuarios.
 
-Incentivos para usuarios y estilistas: Ofrecer descuentos, promociones o recompensas tanto para los usuarios que realicen reservas como para los estilistas que mantengan altos estándares de servicio y calidad.
+* Incentivos para usuarios y estilistas: Ofrecer descuentos, promociones o recompensas tanto para los usuarios que realicen reservas como para los estilistas que mantengan altos estándares de servicio y calidad.
 
-Colaboraciones estratégicas: Establecer asociaciones con marcas de productos de belleza o influencers para aumentar la visibilidad y la credibilidad de la plataforma entre el público objetivo.
+* Colaboraciones estratégicas: Establecer asociaciones con marcas de productos de belleza o influencers para aumentar la visibilidad y la credibilidad de la plataforma entre el público objetivo.
 
 <div id='2.2.'><h3> 2.2. Entrevistas</h3></div>
 <div id='2.2.1.'><h4> 2.2.1. Diseño de entrevistas</h4></div>
