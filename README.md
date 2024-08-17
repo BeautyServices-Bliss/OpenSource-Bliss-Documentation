@@ -337,14 +337,14 @@ Enlace para acceder al Canvas (https://app.mural.co/t/studentprojects6765/m/stud
 
 <div id='2.1.2.'><h4> 2.1.2. Estrategias y tácticas frente a competidores</h4></div>
 
-Estrategias:
+**Estrategias:**
 Ampliación de servicios: Ofrecer una amplia gama de servicios de manicura, pedicura y tratamientos faciales, asegurando que cubran las necesidades de los usuarios y proporcionen una experiencia de belleza completa en el hogar.
 
 Verificación de profesionales: Implementar un riguroso proceso de verificación para los estilistas y negocios asociados, garantizando la calidad y confiabilidad de los servicios ofrecidos a través de la plataforma.
 
 Enfoque en la comodidad del usuario: Centrarse en la conveniencia y la facilidad de uso de la aplicación para mejorar la experiencia del usuario y fomentar la repetición de negocios.
 
-Tácticas:
+**Tácticas:**
 
 Optimización de la interfaz de usuario: Mejorar la navegación y la búsqueda dentro de la aplicación para que los usuarios puedan encontrar fácilmente servicios disponibles que se ajusten a sus horarios y preferencias.
 
