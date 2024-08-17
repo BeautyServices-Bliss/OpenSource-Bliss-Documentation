@@ -16,11 +16,11 @@
 
 | Nombre |Código de alumno|
 |:-------:|:----------:|
-|André Arturo Bernaola Pérez|u|
-|Diego Ivan Cabrera Buitron|u|
-|Elvia Marcela Rodriguez Villa|u|
+|André Arturo Bernaola Pérez|U202114192|
+|Diego Ivan Cabrera Buitron|U20211B293|
+|Elvia Marcela Rodriguez Villa|U20231C784|
 |David Alejandro Rivas Sarango|U20191E831|
-|Diego Martin Sorano Medriano|u|
+|Diego Martin Sorano Medriano|U202114793|
 
 ## <center>Agosto 2024</center>
 ## Registro de versiones del informe
@@ -35,7 +35,7 @@
 
 URL de la organización del proyecto: [https://github.com/upc-opensource-g-bliss]
 
-**TBI**
+**TB1**
 |Integrante|Tareas Asignadas|
 |-|-|
 |André Arturo Bernaola Pérez||
@@ -147,24 +147,37 @@ URL de la organización del proyecto: [https://github.com/upc-opensource-g-bliss
 <div id='1.'><h2>Capítulo I: Introducción</h2></div>
 <div id='1.1.'><h3> 1.1 Startup Profile</h3></div>
 
-En esta sección se presenta la descripción del startup y los perfiles de los miembros del equipo.
 <div id='1.1.1.'><h4> 1.1.1. Descripción del startup</h4></div>
 
-**Misión**:
-**Visión**:
+<p style="text-align: justify">
+Las empresas de belleza y del cuidado personal están creciendo rápidamente, especialmente el sector de tratamientos faciales y dermocosmética, que ha crecido casi 8 veces en los últimos 10 años. Los centros de belleza están diseñados para satisfacer las necesidades de la clase media emergente de 2019, la cual está creciendo. 
+
+La importancia del servicio personalizado al usuario es evidente en este contexto. Los salones de belleza en Perú, que crecen cada vez más, luchan por diferenciarse en un mercado donde la oferta aún está polarizada e informal. Las pequeñas empresas familiares son un buen lugar para empezar, son un poco más relajadas y tienen un estilo de gestión bajo, pero pueden personalizarse y atender las necesidades individuales de cada cliente. Los datos del Inei muestran que el 75.6% de los salones de belleza están dirigidos por mujeres. 
+
+Para aprovechar al máximo la competencia competitiva y el crecimiento, es fundamental elevar la calidad del servicio y la gestión, con un mayor énfasis en ofrecer experiencias de usuario personalizadas. No sólo aumentará la satisfacción del cliente, sino que también ayudará a formalizar y "profesionalizar" la industria de la belleza, permitiéndoles establecer relaciones más sólidas y duraderas con sus clientes.
+</p>
+
+**Misión**: Ofrecer un servicio de belleza y cuidado personal altamente personalizado, centrado en satisfacer las necesidades y expectativas de cada cliente.
+
+**Visión**: Ser los referente en la industria de la belleza y cuidado personal, reconocidos por brindar experiencias personalizadas, contribuyendo al crecimiento y formalizar este sector.
 
 ##### Logotipo de la Startup:
 
-##### Logotipo del producto
+<img src="resources/beautyServices.png" alt="BeautyServices" width="150">
+
+##### Logotipo del producto:
+
+<img src="resources/bliss.png" alt="bliss" width="150" style="margin-left: 2px; margin-top: 15px; margin-bottom: 10px"> <br>
 
 <div id='1.1.2.'><h4> 1.1.2. Perfiles de los integrantes del equipo</h4></div>
-|Descripción de los perfiles de los integrantes del equipo|Foto del integrante|
-| :--------:| :--------: |
-|||
-|||
-|||
-|Mi nombre es **David Rivas**,actualmente estoy cursando la carrera de Ingeniería de Software en la UPC. Soy una persona honesta y responsable. Me interesa el área de Data Science, por esto estoy siguiendo cursos de capacitacion en SQL y Python. ||
-|||
+
+|Integrante |Descripción|
+|-----------|-----------|
+|           |**David Alejandro Rivas Sarango** <br> Mi nombre es **David Rivas**, actualmente estoy cursando la carrera de Ingeniería de Software en la UPC. Soy una persona honesta y responsable. Me interesa el área de Data Science, por esto estoy siguiendo cursos de capacitacion en SQL y Python.|
+|<img src="resources/diego.png" alt="diego">|**Diego Ivan Cabrera Buitron** <br> Mi nombre es **Diego Cabrera**, estoy cursando la carrera de Ingeniería de Software, me considera una persona responsable y perseverante. Al culminar mi carrera quiero especializarme en el sector de la ciberseguridad|
+|           ||
+|           ||
+
 <div id='1.2.'><h3> 1.2. Solution Profile</h3></div>
 <div id='1.2.1.'><h4> 1.2.1. Antecedentes y Problemática</h4></div>
 
@@ -307,7 +320,9 @@ de la calidad de los servicios por parte de los usuarios.
 
 <div id='1.2.2.4.'><h5> 1.2.2.4. Lean UX Canvas</h5></div>
 
-<img src="resources/leanuxcanvas.png">
+<p>
+  <img src="resources/leanuxcanvas.png" alt="LeanUxCanvas">
+</p>
 
 Enlace para acceder al Canvas (https://app.mural.co/t/studentprojects6765/m/studentprojects6765/1723924811878/e2acd47a64a2a0139c4cf13feb7c67c6a2e5f92d?sender=u9e84aeace61d1c60b4be6095)
 <div id='1.3.'><h3> 1.3. Segmento objetivo</h3></div>
@@ -319,14 +334,156 @@ Enlace para acceder al Canvas (https://app.mural.co/t/studentprojects6765/m/stud
 
 <div id='2.'><h2> Capítulo II: Requirements Elicitation & Analysis</h2></div>
 <div id='2.1.'><h3> 2.1. Competidores</h3></div>
+<div id='2.1.1.'><h4> 2.1.1. Análisis Competitivo</h4></div>
 
-<div id='2.1.1.'><h4> 2.1.Análisis Competitivo</h4></div>
+||Bliss <br><img src='resources/bliss.png' width="110" height="70">|Treatwell <img src='resources/treatwell.png' width="70" height="70">|SimplyBook <img src='resources/simply.png' width="70" height="70">|Booksy <br><img src='resources/boosky.png' width="70" height="70">|
+|:-:|:-:|:-:|:-:|:-:|
+|**Overview**|Bliss es una plataforma de citas y reservas, enfocadas en la búsqueda, comparación y programación del servicio de negocios de belleza y bienestar|Treatwell es una plataforma de reserva de servicios de belleza y bienestar en Europa.|SimplyBook.me es una plataforma de programación en línea para una variedad de negocios, que facilita la gestión de citas y reservas.|Booksy es una aplicación de reserva de citas enfocada en la industria de belleza y bienestar, que facilita a los usuarios la búsqueda y reserva de servicios de peluquería, estética y cuidado personal.|
+|**Ventajas Competitivas**|Ofrece una interfaz intuitiva para su facilidad de uso, disponibilidad las 24 horas del día, gestión centralizada de citas con la finalidad de poder ver y gestionar todas sus citas desde la plataforma.|Ofrece conveniencia alpermitir a los clientes reservar servicios de belleza en línea y acceso a una amplia gama de salones y tratamientos.|Ofrece conveniencia al permitir a los clientes reservar citas en línea las 24 horas del día y acceso a funciones como recordatorios automáticos y pagos en línea.|Ofrece conveniencia al permitir a los clientes encontrar y reservar servicios de belleza en línea las 24 horas del día, así como acceder a información detallada sobre profesionales, servicios y precios.|
+|**Mercado Objetivo**|Las micro y pequeñas empresas enfocadas en la industria de belleza y bienestar que estén interesadas en publicar sus servicios en una plataforma online, también las mujeres que busquen gestionar y pedir este servicio.|Usuarios urbanos interesados en servicios de belleza y bienestar en Europa.|Negocios de servicios que requieren programación de citas, como peluquerías, salones de belleza, consultorios médicos, centros de fitness y más. |Usuarios que buscan servicios de belleza y bienestar, así como profesionales de la industria de belleza y cuidado personal.|
+|**Estrategias de Marketing**|Fomentar la participación en nuestra plataforma al permitir que los clientes reaccionen y compartan los servicios, al igual que hacer colaboraciones con las empresas de esta industria para un marketing digital.|Marketing digital, colaboraciones con salones de belleza, promociones y programas de fidelización.|Marketing digital, promoción en redes sociales, colaboraciones con negocios afines y programas de referidos.|Marketing digital, promoción en redes sociales, colaboraciones con negocios afines y programas de referidos.|Marketing digital dirigido a usuarios finales y a profesionales, promoción en redes sociales, colaboraciones con salones y eventos de la industria.|
+|**Productos & Servicios**|Gestión de citas y reserva a servicios del sector belleza y bienestar, permitir transacciones de pago en línea, interfaz intuitiva para presentar los servicios que ofrece su empresa y sección de comentarios para que los clientes muestres y opiniones y las empresas puedan comunicarse con sus clientes.|Reserva de citas para servicios de peluquería, belleza y bienestar|Plataforma de programación en línea con funciones como calendarios, recordatorios de citas, gestión de personal y pagos en línea.|Aplicación móvil y plataforma en línea que permite la reserva de citas, gestión de agendas y comunicación entre clientes y profesionales.|
+|**Precios & Costos**|Las empresas deberán pagar en nuestra plataforma, será un porcentaje bajo por cada reserva o cita pagada, sin embargo, para los que buscan un servicio la aplicación será gratuita.|Varían según el servicio y la ubicación del salón.|Varían según el plan y las características seleccionadas, con opciones de suscripción mensual o anual.|Varían según el plan y las características seleccionadas para los profesionales, mientras que para los usuarios finales, la aplicación es gratuita.|
+|**Canales de distribución (WEB y/o Móvil)**|Plataforma en línea y aplicación móvil.|Plataforma en línea y aplicación móvil.|Plataforma en línea y aplicación móvil.|Aplicación móvil disponible en tiendas de aplicaciones y plataforma en línea.|
+|**Fortalezas**|Función de filtrado de servicios de belleza según precio, lugar, valorados por la comunidad, entre otros. Interfaz intuitiva para que las empresas puedan mostrar a los usuarios sus servicios. Herramientas para permitir a la comunidad expresarse y recomendar los servicios de su agrado.|Amplia red de salones asociados, conveniencia de reserva en línea, variedad de servicios.|Interfaz intuitiva, amplia personalización, adaptabilidad a diferentes industrias y tipos de negocios.|Especialización en la industria de belleza, interfaz intuitiva, amplia red de profesionales y servicios.|
+|**Debilidades**|Dependencia por los comentarios y puntajes de los usuarios, pues sin ellos no podremos filtrar los mejores servicios. Las empresas que paguen por nuestro servicio posiblemente no puedan seguir nuestra curva de aprendizaje para todas las|Dependencia de la disponibilidad de los salones asociados, posibles problemas de calidad del servicio.|Posible curva de aprendizaje para usuarios nuevos, limitaciones en funciones avanzadas en planes más básicos.|Dependencia de la disponibilidad de los profesionales, posibles problemas de calidad del servicio.|
+|**Oportunidades**|Existen usuarios interesados en plataformas similares. Muchas empresas pequeñas no usan estos medios, pero están interesados. Colaboraremos con ellos para llegar al público objetivo. Facilidad al expandir nuestros servicios pues es digital. Después de la pandemia las plataformas digitales ganaron confianza.|Expansión a nuevos mercados, introducción de nuevos servicios, mejorar la experiencia del usuario.|Expansión a nuevos mercados, mejora continua de características y funciones, colaboraciones estratégicas con otros servicios.|Expansión a nuevos mercados, introducción de nuevas características y servicios, colaboraciones estratégicas con marcas de belleza.|
+|**Amenazas**|Competiremos con aplicaciones ya establecidas. Podría haber problemas a la seguridad de los datos y física de las empresas al cualquier usuario pedir sus servicios. |Competencia de otras plataformas similares, cambios en las preferencias de los consumidores, problemas regulatorios.|Competencia de otras plataformas de programación en línea, cambios en las necesidades y expectativas de los usuarios, problemas de seguridad de datos.|Competencia de otras aplicaciones de reserva de citas, cambios en las preferencias de los usuarios, problemas de calidad del servicio por parte de los profesionales.|
+
 <div id='2.1.2.'><h4> 2.1.2. Estrategias y tácticas frente a competidores</h4></div>
+
+**Estrategias:**
+
+* Ampliación de servicios: Ofrecer una amplia gama de servicios de manicura, pedicura y tratamientos faciales, asegurando que cubran las necesidades de los usuarios y proporcionen una experiencia de belleza completa en el hogar.
+
+* Verificación de profesionales: Implementar un riguroso proceso de verificación para los estilistas y negocios asociados, garantizando la calidad y confiabilidad de los servicios ofrecidos a través de la plataforma.
+
+* Enfoque en la comodidad del usuario: Centrarse en la conveniencia y la facilidad de uso de la aplicación para mejorar la experiencia del usuario y fomentar la repetición de negocios.
+
+**Tácticas:**
+
+* Optimización de la interfaz de usuario: Mejorar la navegación y la búsqueda dentro de la aplicación para que los usuarios puedan encontrar fácilmente servicios disponibles que se ajusten a sus horarios y preferencias.
+
+* Sistema de calificación y comentarios: Implementar un sistema de calificación y comentarios para que los usuarios puedan evaluar la calidad de los servicios recibidos, lo que ayudará a construir confianza y transparencia en la plataforma.
+
+* Programación flexible: Permitir a los usuarios seleccionar franjas horarias específicas y preferencias de estilistas al reservar citas, ofreciendo opciones que se adapten a sus
+horarios y necesidades.
+
+* Promoción de garantía de calidad: Comunicar claramente la garantía de calidad y verificación de profesionales en la plataforma a través de campañas de marketing y mensajes en la aplicación para generar confianza entre los usuarios.
+
+* Incentivos para usuarios y estilistas: Ofrecer descuentos, promociones o recompensas tanto para los usuarios que realicen reservas como para los estilistas que mantengan altos estándares de servicio y calidad.
+
+* Colaboraciones estratégicas: Establecer asociaciones con marcas de productos de belleza o influencers para aumentar la visibilidad y la credibilidad de la plataforma entre el público objetivo.
+
 <div id='2.2.'><h3> 2.2. Entrevistas</h3></div>
-  
 <div id='2.2.1.'><h4> 2.2.1. Diseño de entrevistas</h4></div>
+
+### Segmento 1
+
+• ¿Cómo sueles enterarte de nuevos servicios de cuidado y belleza, como tratamientos de belleza, manicura, masajes, extensiones de pestañas, tintes de cabello, depilación, etc.?
+
+• ¿Qué canales de información utilizas con más frecuencia para buscar estos servicios? (Por ejemplo, redes sociales, buscadores en línea, recomendaciones de amigos o familiares, etc.)
+
+• Cuando buscas un servicio específico, como manicura o extensiones de pestañas, ¿qué características te gustaría ver en un catálogo en línea para ayudarte a tomar una decisión informada?
+
+• ¿Has buscado servicios de tintes de cabello, cortes de pelo o peinados en línea? ¿Qué información te gustaría encontrar en una plataforma digital para obtener una cotización precisa?
+
+• ¿Qué aspectos te llaman más la atención al descubrir un nuevo servicio de cuidado y belleza en línea? (Por ejemplo, la calidad de las imágenes, las reseñas de otros usuarios, la descripción detallada de los servicios, etc.)
+
+• ¿Has utilizado alguna vez plataformas digitales específicas para encontrar y reservar servicios de cuidado y belleza? Si es así, ¿qué aspectos te gustaron más de esas plataformas y cuáles crees que podrían mejorar?
+
+• ¿Qué información consideras más importante al buscar y comparar diferentes proveedores de servicios de cuidado y belleza en línea? (Por ejemplo, precios, disponibilidad de citas, ubicación, reseñas de clientes, etc.)
+
+• ¿Qué tan importante es para ti la facilidad y rapidez del proceso de reserva en línea al elegir un proveedor de servicios de cuidado y belleza?
+
+• ¿Has experimentado algún problema o dificultad al reservar servicios de cuidado y belleza en línea en el pasado? ¿Qué aspectos crees que podrían mejorar para hacer este proceso más eficiente?
+
+• ¿Te gustaría tener acceso a promociones especiales o descuentos exclusivos al reservar servicios de cuidado y belleza a través de una plataforma digital? ¿Cómo te gustaría recibir esta información?
+
+• ¿Qué características adicionales te gustaría ver en una plataforma digital para reservar servicios de cuidado y belleza que aún no existan en otras plataformas?
+
+• ¿Qué tan importante es para ti la seguridad y confianza en la plataforma digital al proporcionar información personal y financiera para reservar servicios de cuidado y belleza?
+
+
+### Segmento 2
+
+• ¿Qué servicios de cuidado y belleza ofrece actualmente en su negocio?
+
+• ¿Cuáles son los servicios más solicitados por los clientes de su negocio?
+
+• ¿Cómo suelen los clientes reservar citas actualmente en su negocio?
+
+• ¿Cuál es su principal desafío o dificultad al gestionar las reservas y citas en su negocio actualmente?
+
+• ¿Qué características o funciones le gustaría ver en una aplicación que les ayude a gestionar las reservas y citas de su negocio y dar a conocerlo a más personas?
+
+• ¿Con qué frecuencia hace uso de las redes sociales o medios de información para poder contactar a sus clientes?
+
+• ¿Qué aspectos considera más importantes al elegir una plataforma para promocionar sus servicios y aceptar reservas? (Por ejemplo, costo, facilidad de uso, popularidad)
+
+• Actualmente, ¿ofrece servicios de cuidado y belleza a domicilio?
+
+• Sí: ¿A qué tipo de clientes ofrece este tipo de servicio? (Por ejemplo, clientes frecuentes o conocidos, cualquier persona que lo/a contacte)
+
+• No: ¿Por qué? (qué necesita o desea para implementar este servicio)
+
+• *Explicación breve de la aplicación* ¿Cómo cree que una aplicación como la que estamos desarrollando podría beneficiar a su negocio y a sus clientes?
+
+• Considerando los posibles beneficios que podría traerle esta aplicación a su negocio, ¿estaría dispuesto/a a pagar una comisión por cada servicio adquirido a través de la aplicación? (de ser posible, especificar tasa máxima en % o, si es comisión fija, monto en soles)
+
+• ¿Estaría dispuesto/a a ofrecer promociones o descuentos exclusivos a través de la aplicación para atraer nuevos clientes o fidelizar a los existentes?
+
+• ¿Qué sugerencias o comentarios adicionales tiene para mejorar la experiencia de reserva de servicios de cuidado y belleza a través de una aplicación?
+
 <div id='2.2.2.'><h4> 2.2.2. Registro de entrevistas</h4></div>
+
+***Entrevistas a Clientes***
+
+|Nombre entrevistado| Valeria Fernanda Valle Martinez|
+|-|-|
+|Edad|19 años|
+|Profesión | Estudiante de Psicología|
+|Departamento|Lima, Perú|
+||Valeria nos menciona que usa anuncios en las redes sociales para buscar salones de belleza, el que más usa es Instagram. Sin embargo, nos cuenta que los anuncios no le permiten conocer la información completa del local como, por ejemplo: la calidad de los productos, precio, ubicación o servicio. Nos contó que no usa aplicaciones para gestionar las citas, pero reconoce el valor de estas, pues le permitirían ver la información de los salones de belleza y los compararlo con otros para buscar el mejor servicio. Mostro interés en nuestro proyecto, y afirmo que la característica más resaltante seria que la mantengan informada de las promociones y datos de los salones de belleza.|
+||URL: [ https://drive.google.com/file/d/1S4OemuKdZ3HVOmgrfeUWXDjV7_4m7pIx/view?usp=sharing]|
+
+***Entrevistas a MYPES***
+
+|Nombre entrevistado|  María Margarita Rodríguez Ninaquispe de Cienfuegos|
+|-|-|
+|Edad|55 años|
+|Profesión | Estilista|
+|Departamento|Lima, Perú|
+||María, dueña de un salón de belleza con 30 años de historia, nos cuenta que sus clientes le pueden enviar un mensaje por WhatsApp para reservar una cita, esto beneficia a sus clientes pues no se molestan en esperar su turno mejorando la atención. Menciona que está interesada en promocionar su negocio por redes sociales u otras plataformas, pero teme exponerse a la delincuencia por estos medios. Esto no la detiene de llevar servicio a domicilio con sus clientes habituales. Le contamos de nuestro proyecto y como queremos presentarle una plataforma para que clientes puedan reservar citas, pero, aunque reconozca los beneficios teme que delincuentes creen perfiles falsos y lleguen a su local, por ello incluso usando WhatsApp como medio de comunicación con clientes reconoce que solo acepta cita a los clientes habituales o por recomendación, nunca a extraños. |
+||URL:[https://drive.google.com/file/d/1dBjvYYgw0as8N2YYhyk_MVW3MaRZ0CLA/view?usp=sharing]|
+
+|Nombre entrevistado|  Yaritza Gutiérrez Córdova|
+|-|-|
+|Edad|21 años|
+|Profesión |  Estilista – Estudiante de Ingeniería Civil|
+|Departamento|Lima, Perú|
+||Yaritza, es una estudiante de la carrera de ingeniería Civil y actualmente tiene un emprendimiento de salón de belleza, ella nos cuenta que su hermana es la que hace sus reservas de las citas para sus clientes, pero tiene el miedo a que su hermana un día pueda confundirse y no pueda ella ir a la cita y que ella si va a hogares a hacer ofrecer sus servicios, pero siempre se demora al escoger los productos con los clientes. Le dimos la información sobre nuestro proyecto y le presentamos todas las funciones de nuestra plataforma con el sistema de reserva de citas, consultas y compra de productos de belleza, ella le sorprendió mucho nuestro proyecto también nos dio una recomendación para poder implementar a la aplicación y esta es que con ayuda de la IA los clientes puedan seleccionar los productos que van a querer que se le usen y puedan ver como un “resultado” con la ia con una foto de estos mismos.|
+||URL: [https://drive.google.com/file/d/1BaFeF2a1AaS3HgkfppCM8Afc9LAMu6gs/view?usp=sharing]|
+
 <div id='2.2.3.'><h4> 2.2.3. Análisis de entrevistas</h4></div>
+
+**Segmento 1: Clientes de la industria de belleza y bienestar.**
+
+Basado en las entrevistas concluimos que los clientes buscan en los anuncios de las redes
+sociales salones de belleza o servicios, por ello les cuesta tener información actualizada
+e información relevante como marca de sus productos, servicio, entre otros. Por ello una
+plataforma como la nuestra que le ayude a acceder a esta información actualizada y
+gestione las visitas les sería muy útil.
+
+**Segmento 2: Empresas pequeñas**
+
+Con respecto a las entrevistas de trabajadores en el sector belleza y bienestar, notamos
+que sienten que se exponen al peligro cuando atienden a un cliente, siempre está la
+probabilidad que busquen hacerles daño y robarles. Aun con eso, reconocen que una
+plataforma que permita la comunicación con clientes para ofrecer un mejor servicio
+sería de gran ayuda. La característica más importante para estos trabajadores es la
+seguridad que ofrece la plataforma al agendar una cita.
+
 <div id='2.3.'><h3> 2.3. Needfinding</h3></div>
 <div id='2.3.2.'><h4> 2.3.2. User Task Matrix</h4>
 <div id='2.3.3.'><h4> 2.3.3. User Journey Mapping</h4>
