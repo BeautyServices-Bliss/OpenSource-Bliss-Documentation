@@ -316,7 +316,7 @@ Enlace para acceder al Canvas (https://app.mural.co/t/studentprojects6765/m/stud
 
 2. Aficionadas al embellecimiento: Este segmento esta compuesto por mujeres en el rango de edad de 20 a 45 años, del sector socioeconómico B-C que residan en Lima.
 
-<div id='1.3.1.'><h4> 1.3.1 Stakeholders</h4></div>
+
 <div id='2.'><h2> Capítulo II: Requirements Elicitation & Analysis</h2></div>
 <div id='2.1.'><h3> 2.1. Competidores</h3></div>
 
