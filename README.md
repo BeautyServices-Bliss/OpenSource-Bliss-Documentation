@@ -60,8 +60,8 @@ URL de la organización del proyecto: [https://github.com/upc-opensource-g-bliss
 1.2.3. [Lean UX Problem Statements](#1.2.3.)<br>
 1.2.4. [Lean UX Assumptions](#1.2.4.)<br>
 1.2.5. [Lean UX Hypothesis Statements](#1.2.5.)<br>
-1.2.6. [Lean UX Canvas](#1.2.5.)<br>
-1.3. [***Segmentos objetivo***](#1.2.6.)<br>
+1.2.6. [Lean UX Canvas](#1.2.6.)<br>
+1.3. [***Segmentos objetivo***](#1.3.)<br>
 2. [**Capítulo II: Requirements Elicitation & Analysis**](#2.)<br>
 2.1. [***Competidores***](#2.1.)<br>
 2.1.1. [Análisis competitivo](#2.1.1.)<br>
@@ -222,8 +222,11 @@ El objetivo de nuestra aplicación es mejorar la gestión de clientes mediante u
 <div id='1.2.2.2.'><h5> 1.2.2.2. Lean UX Assumptions</h5></div>
 <div id='1.2.2.4.'><h5> 1.2.2.4. Lean UX Canvas</h5></div>
 <div id='1.3.'><h3> 1.3. Segmento objetivo</h3></div>
+
 1. MYPES: Este segmento esta compuesto por dueños de negocios que brindan servicios de cuidado y belleza que funcionan en Lima.
-2. Aficionadas al embellecimiento: Este segmento esta compuesto por mujeres en el rango de edad de 20 a 45 años, del sector socioeconómico B-C que residan en Lima. 
+
+2. Aficionadas al embellecimiento: Este segmento esta compuesto por mujeres en el rango de edad de 20 a 45 años, del sector socioeconómico B-C que residan en Lima.
+
 <div id='1.3.1.'><h4> 1.3.1 Stakeholders</h4></div>
 <div id='2.'><h2> Capítulo II: Requirements Elicitation & Analysis</h2></div>
 <div id='2.1.'><h3> 2.1. Competidores</h3></div>
