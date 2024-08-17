@@ -147,13 +147,74 @@ URL de la organización del proyecto: [https://github.com/upc-opensource-g-bliss
 <div id='1.'><h2>Capítulo I: Introducción</h2></div>
 <div id='1.1.'><h3> 1.1 Startup Profile</h3></div>
 
+En esta sección se presenta la descripción del startup y los perfiles de los miembros del equipo.
+<div id='1.1.1.'><h4> 1.1.1. Descripción del startup</h4></div>
+
+**Misión**:
+**Visión**:
+
 ##### Logotipo de la Startup:
 
 ##### Logotipo del producto
 
 <div id='1.1.2.'><h4> 1.1.2. Perfiles de los integrantes del equipo</h4></div>
+|Descripción de los perfiles de los integrantes del equipo|Foto del integrante|
+| :--------:| :--------: |
+|||
+|||
+|||
+|Mi nombre es **David Rivas**,actualmente estoy cursando la carrera de Ingeniería de Software en la UPC. Soy una persona honesta y responsable. Me interesa el área de Data Science, por esto estoy siguiendo cursos de capacitacion en SQL y Python. ||
+|||
 <div id='1.2.'><h3> 1.2. Solution Profile</h3></div>
 <div id='1.2.1.'><h4> 1.2.1. Antecedentes y Problemática</h4></div>
+
+##### What (Qué)
+###### ¿Cuál es el problema?
+Muchas personas pueden encontrar difícil reservar citas de servicios de cuidado y belleza. Asimismo, a muchas Mypes de este rubro se les dificulta encontrar nuevos clientes.
+###### ¿Cuál es la relación con la persona en cuestión?
+Las personas en cuestión son clientes potenciales que desean acceder a servicios de cuidado y belleza de manera conveniente y confiable; y estilistas o dueños de negocio que desean promocionar su negocio a más personas.
+
+##### When (Cuando)
+###### ¿Cuándo sucede el problema?
+El problema puede ocurrir cuando los clientes desean reservar citas de servicios de cuidado y belleza, mas no tienen tiempo para buscar proveedores o llamar por teléfono para hacer una reserva.
+###### ¿Cuándo utiliza el cliente el producto?
+Cuando los clientes deseen buscar, reservar y pagar por servicios de cuidado y belleza, ya sea en casa o en el establecimiento del proveedor, y cuando los proveedores de servicios de cuidado y belleza necesitan hacer uso de una plataforma para promocionar sus servicios.
+
+##### Where (Dónde)
+###### ¿A dónde se dirige?
+El cliente se dirige a la aplicación para buscar y reservar citas de servicios de cuidado y belleza con proveedores cercanos a su ubicación.
+###### ¿Dónde surge el problema?
+El problema surge cuando los clientes desean reservar citas de servicios de cuidado y belleza, pero encuentran dificultades para encontrar proveedores confiables o para coordinar horarios que se ajusten a su agenda.
+###### ¿Dónde está el cliente cuando usa el producto?
+El cliente puede usar el producto desde cualquier lugar donde tenga acceso a Internet, como su hogar, su lugar de trabajo o en movimiento a través de dispositivos móviles.
+
+##### Who (Quién)
+###### ¿Quiénes están involucrados?
+Los clientes que buscan servicios de cuidado y belleza y los proveedores que ofrecen estos servicios.
+###### ¿A quiénes les sucede el problema?
+El problema afecta a los clientes que desean acceder a servicios de cuidado y belleza y a los proveedores que buscan aumentar su clientela y gestionar sus citas de manera eficiente.
+###### ¿Quién lo utilizará?
+El cliente de este producto es quien busque servicios de cuidado y belleza, especialmente mujeres de 20 a 45 años en el sector socioeconómico B-C de Lima, así como Mypes que brinden servicios de cuidado y belleza en Lima.
+
+##### Why (Por qué)
+###### ¿Cuál es la causa del problema?
+La causa del problema es la falta de una plataforma centralizada que conecte de manera conveniente a los clientes con proveedores de servicios de cuidado y belleza, así como la dificultad para coordinar horarios y encontrar proveedores confiables en el mercado actual.
+
+#### 2H
+##### How (Cómo)
+###### ¿En qué condiciones nuestros clientes usan el producto?
+Nuestros clientes usarán el producto en diversas condiciones, ya sea cuando estén en casa buscando un servicio de cuidado y belleza para una ocasión especial, durante un descanso en el trabajo mientras navegan por opciones de tratamientos, o incluso en movimiento cuando necesiten reservar rápidamente un servicio mientras están fuera de casa.
+###### ¿Cómo nos conocieron los compradores? 
+Los compradores pueden conocernos a través de diversas fuentes, como recomendaciones de amigos o familiares, publicidad en línea a través de redes sociales, reseñas en línea, o incluso a través de promociones con otros negocios locales
+###### ¿Cómo prefieren los consumidores acceder a nuestro contenido?
+A través de dispositivos móviles, como teléfonos inteligentes o tabletas. A los consumidores les gustaría poder encontrar fácilmente información sobre los servicios disponibles, ver reseñas y calificaciones de otros usuarios, y realizar reservas en pocos pasos.
+###### ¿Que llevó a la persona a llegar a esta situación?
+La situación surge de la necesidad de las personas de mantener su apariencia y bienestar mediante servicios de cuidado y belleza, así como de la dificultad para encontrar proveedores confiables y coordinar citas de manera conveniente en el mercado actual. Esto puede deberse a la falta de tiempo o a la falta de opciones cercanas.
+
+##### How much (Cuánto)
+###### ¿Cuál es la magnitud del problema?
+De acuerdo con la Asociación Peruana de Empresarios de la Belleza (2022), 4 de cada 10 peluquerías se vieron obligadas a cerrar a raíz de la pandemia, y solo un 30% de estas siguen en la formalidad. Esto, en muchos casos, es producto de los elevados costos tanto del alquiler como de la materia prima que los estilistas requieren para realiza su labor.
+
 <div id='1.2.2.'><h4> 1.2.2. Lean UX Process</h4></div>
 <div id='1.2.2.1.'><h5> 1.2.2.1. Lean UX Problem Statements</h5></div>
 <div id='1.2.2.2.'><h5> 1.2.2.2. Lean UX Assumptions</h5></div>
