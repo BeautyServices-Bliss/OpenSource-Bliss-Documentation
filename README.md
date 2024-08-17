@@ -13,6 +13,7 @@
 <h4 style="text-align: center;"> Docente: Juan Antonio Flores Moroco </h4>
 <h4 style="text-align: center;"> Startup: BeautyServices </h4>
 <h4 style="text-align: center;"> Producto: Bliss  </h4>
+
 ## Integrantes
 
 | Nombre |Código de alumno|
