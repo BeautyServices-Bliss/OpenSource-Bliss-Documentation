@@ -219,6 +219,32 @@ De acuerdo con la Asociación Peruana de Empresarios de la Belleza (2022), 4 de 
 El objetivo de nuestra aplicación es mejorar la gestión de clientes mediante una plataforma que facilite a los clientes la búsqueda y reserva de servicios de belleza y cuidado personal.
 
 <div id='1.2.2.1.'><h5> 1.2.2.1. Lean UX Problem Statements</h5></div>
+a) El objetivo de nuestra aplicación es mejorar la gestión de clientes mediante una
+plataforma que facilite a los clientes la búsqueda y reserva de servicios de belleza y
+cuidado personal. 
+Sin embargo, nos enfrentamos a un desafío significativo: la alta tasa de informalidad en
+la industria, que genera desconfianza entre los clientes al seleccionar un centro para sus
+necesidades de belleza. Esta falta de transparencia y garantías sobre la calidad de los
+servicios ofrecidos crea incertidumbre y afecta negativamente la experiencia del
+usuario.
+¿Cómo podemos mejorar el proceso de selección del cliente para salones,
+tratamientos y servicios, asegurando un diseño que promueva la confianza y
+seguridad?
+b) Otro objetivo a mencionar es el de proporcionar un sistema eficiente de y
+transparente para la búsqueda y reserva de servicios, así como establecer canales de
+comunicación efectivos con los clientes.
+Nos enfrentamos a otro desafío significativo, los sistemas de gestión de citas para
+servicios de cuidado y belleza son ineficientes y generan desconfiaza en el usuario fina.
+¿Cómo podemos implementar estrategias efectivas para fomentar la transparencia y la
+calidad en los servicios ofrecidos por los centros de belleza, mejorando así la confianza
+de los usuarios en nuestra plataforma?
+c) Reconocemos la importancia de garantizar una experiencia segura y sin
+preocupaciones para los usuarios que utilizan nuestra plataforma para reservar servicios
+de belleza. La alta tasa de informalidad en la industria de los centros de belleza crea
+desafíos adicionales para garantizar la calidad y confiabilidad de los servicios ofrecidos.
+¿Cómo podemos establecer procedimientos claros y efectivos para verificar y promover
+la formalidad y calidad de los centros de belleza asociados, brindando así una
+experiencia de usuario más segura y confiable en nuestra plataforma?
 <div id='1.2.2.2.'><h5> 1.2.2.2. Lean UX Assumptions</h5></div>
 
 * **Hypothesis Statement 01:**
