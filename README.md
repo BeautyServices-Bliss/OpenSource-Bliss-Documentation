@@ -320,6 +320,7 @@ Enlace para acceder al Canvas (https://app.mural.co/t/studentprojects6765/m/stud
 <div id='2.'><h2> Capítulo II: Requirements Elicitation & Analysis</h2></div>
 <div id='2.1.'><h3> 2.1. Competidores</h3></div>
 <div id='2.1.1.'><h4> 2.1.Análisis Competitivo</h4></div>
+
 ||Bliss  |Treatwell <img src='resources/images.jpeg' width="50" height="50">|SimplyBook.me <img src='resources/cropin.jpg' width="50" height="50">|Booksy <img src='resources/unnamed.jpg' width="50" height="50">|
 |:-:|:-:|:-:|:-:|:-:|
 |**Overview**|Bliss es una plataforma de citas y reservas, enfocadas en la búsqueda, comparación y programación del servicio de negocios de belleza y bienestar|Treatwell es una plataforma de reserva de servicios de belleza y bienestar en Europa.|SimplyBook.me es una plataforma de programación en línea para una variedad de negocios, que facilita la gestión de citas y reservas.|Booksy es una aplicación de reserva de citas enfocada en la industria de belleza y bienestar, que facilita a los usuarios la búsqueda y reserva de servicios de peluquería, estética y cuidado personal.|
