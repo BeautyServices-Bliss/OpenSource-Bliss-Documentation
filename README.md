@@ -268,6 +268,7 @@ experiencia de usuario más segura y confiable en nuestra plataforma?
 <div id='1.2.2.2.'><h5> 1.2.2.2. Lean UX Assumptions</h5></div>
 
 <div id='1.2.2.3.'><h5> 1.2.2.3. Lean UX Hypothesis Statements.</h5></div>
+
 * **Hypothesis Statement 01:**
   
   **Creemos que** ofrecer una amplia gama de servicios de cuidado y belleza a través de
@@ -321,9 +322,7 @@ de la calidad de los servicios por parte de los usuarios.
 
 <div id='1.2.2.4.'><h5> 1.2.2.4. Lean UX Canvas</h5></div>
 
-<p>
   <img src="resources/leanuxcanvas.png" alt="LeanUxCanvas">
-</p>
 
 Enlace para acceder al Canvas (https://app.mural.co/t/studentprojects6765/m/studentprojects6765/1723924811878/e2acd47a64a2a0139c4cf13feb7c67c6a2e5f92d?sender=u9e84aeace61d1c60b4be6095)
 <div id='1.3.'><h3> 1.3. Segmento objetivo</h3></div>
