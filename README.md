@@ -57,10 +57,10 @@ URL de la organización del proyecto: [https://github.com/upc-opensource-g-bliss
 1.2. [***Solution Profile***](#1.2.)<br>
 1.2.1. [Antecedentes y Problemática](#1.2.1.)<br>
 1.2.2. [Lean UX Process](#1.2.2.)<br>
-1.2.3. [Lean UX Problem Statements](#1.2.3.)<br>
-1.2.4. [Lean UX Assumptions](#1.2.4.)<br>
-1.2.5. [Lean UX Hypothesis Statements](#1.2.5.)<br>
-1.2.6. [Lean UX Canvas](#1.2.6.)<br>
+1.2.2.1. [Lean UX Problem Statements](#1.2.2.1.)<br>
+1.2.2.2. [Lean UX Assumptions](#1.2.2.2.)<br>
+1.2.2.3. [Lean UX Hypothesis Statements](#1.2.2.3.)<br>
+1.2.2.4. [Lean UX Canvas](#1.2.2.4.)<br>
 1.3. [***Segmentos objetivo***](#1.3.)<br>
 2. [**Capítulo II: Requirements Elicitation & Analysis**](#2.)<br>
 2.1. [***Competidores***](#2.1.)<br>
@@ -254,6 +254,7 @@ experiencia de usuario más segura y confiable en nuestra plataforma?
 
 <div id='1.2.2.2.'><h5> 1.2.2.2. Lean UX Assumptions</h5></div>
 
+<div id='1.2.2.3.'><h5> 1.2.2.3. Lean UX Hypothesis Statements.</h5></div>
 * **Hypothesis Statement 01:**
   
   **Creemos que** ofrecer una amplia gama de servicios de cuidado y belleza a través de
