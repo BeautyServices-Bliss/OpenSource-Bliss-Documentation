@@ -52,13 +52,6 @@ URL de la organización del proyecto: [https://github.com/upc-opensource-g-bliss
 **TB1 Github**
 
 
-## Students Outcomes
-
-| Criterio específico | Acciones realizadas | Conclusiones |
-|---------------------|---------------------|--------------|
-|Comunica oralmente con efectividad a diferentes rangos de audiencia.| **André Arturo Bernaola Pérez**<br> <br>**Diego Ivan Cabrera Buitron**<br> <br>**Elvia Marcela Rodriguez Villa**<br> <br>**David Alejandro Rivas Sarango**<br> <br>**Diego Martin Soriano Medrano**<br>| |
-|Comunica por escrito con efectividad a diferentes rangos de audiencia|**André Arturo Bernaola Pérez**<br> <br>**Diego Ivan Cabrera Buitron**<br> <br>**Elvia Marcela Rodriguez Villa**<br> <br>**David Alejandro Rivas Sarango**<br> <br>**Diego Martin Soriano Medrano**<br>| |
-
 ***
 
 ## Contenido
@@ -146,3 +139,41 @@ URL de la organización del proyecto: [https://github.com/upc-opensource-g-bliss
 6. [**Conclusiones**](#6.)<br>
 7. [**Bibliografía**](#7.)<br>
 8. [**Anexos**](#8.)<br>
+
+## Students Outcomes
+
+| Criterio específico | Acciones realizadas | Conclusiones |
+|---------------------|---------------------|--------------|
+|Comunica oralmente con efectividad a diferentes rangos de audiencia.| **André Arturo Bernaola Pérez**<br> <br>**Diego Ivan Cabrera Buitron**<br> <br>**Elvia Marcela Rodriguez Villa**<br> <br>**David Alejandro Rivas Sarango**<br> <br>**Diego Martin Soriano Medrano**<br>| |
+|Comunica por escrito con efectividad a diferentes rangos de audiencia|**André Arturo Bernaola Pérez**<br> <br>**Diego Ivan Cabrera Buitron**<br> <br>**Elvia Marcela Rodriguez Villa**<br> <br>**David Alejandro Rivas Sarango**<br> <br>**Diego Martin Soriano Medrano**<br>| |
+
+***
+
+<div id='1.'><h2>Capítulo I: Introducción</h2></div>
+<div id='1.1.'><h3> 1.1 Startup Profile</h3></div>
+
+##### Logotipo de la Startup:
+
+##### Logotipo del producto
+
+<div id='1.1.2.'><h4> 1.1.2. Perfiles de los integrantes del equipo</h4></div>
+<div id='1.2.'><h3> 1.2. Solution Profile</h3></div>
+<div id='1.2.1.'><h4> 1.2.1. Antecedentes y Problemática</h4></div>
+<div id='1.2.2.'><h4> 1.2.2. Lean UX Process</h4></div>
+<div id='1.2.2.1.'><h5> 1.2.2.1. Lean UX Problem Statements</h5></div>
+<div id='1.2.2.2.'><h5> 1.2.2.2. Lean UX Assumptions</h5></div>
+<div id='1.2.2.4.'><h5> 1.2.2.4. Lean UX Canvas</h5></div>
+<div id='1.3.'><h3> 1.3. Segmento objetivo</h3></div>
+<div id='1.3.1.'><h4> 1.3.1 Stakeholders</h4></div>
+<div id='2.'><h2> Capítulo II: Requirements Elicitation & Analysis</h2></div>
+<div id='2.1.'><h3> 2.1. Competidores</h3></div>
+<div id='2.1.1.'><h4> 2.1.Análisis Competitivo</h4></div>
+<div id='2.1.2.'><h4> 2.1.2. Estrategias y tácticas frente a competidores</h4></div>
+<div id='2.2.'><h3> 2.2. Entrevistas</h3></div>
+  
+<div id='2.2.1.'><h4> 2.2.1. Diseño de entrevistas</h4></div>
+<div id='2.2.2.'><h4> 2.2.2. Registro de entrevistas</h4></div>
+<div id='2.2.3.'><h4> 2.2.3. Análisis de entrevistas</h4></div>
+<div id='2.3.'><h3> 2.3. Needfinding</h3></div>
+<div id='2.3.2.'><h4> 2.3.2. User Task Matrix</h4>
+<div id='2.3.3.'><h4> 2.3.3. User Journey Mapping</h4>
