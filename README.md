@@ -216,13 +216,18 @@ La situación surge de la necesidad de las personas de mantener su apariencia y 
 De acuerdo con la Asociación Peruana de Empresarios de la Belleza (2022), 4 de cada 10 peluquerías se vieron obligadas a cerrar a raíz de la pandemia, y solo un 30% de estas siguen en la formalidad. Esto, en muchos casos, es producto de los elevados costos tanto del alquiler como de la materia prima que los estilistas requieren para realiza su labor.
 
 <div id='1.2.2.'><h4> 1.2.2. Lean UX Process</h4></div>
+El objetivo de nuestra aplicación es mejorar la gestión de clientes mediante una plataforma que facilite a los clientes la búsqueda y reserva de servicios de belleza y cuidado personal.
+
 <div id='1.2.2.1.'><h5> 1.2.2.1. Lean UX Problem Statements</h5></div>
 <div id='1.2.2.2.'><h5> 1.2.2.2. Lean UX Assumptions</h5></div>
 <div id='1.2.2.4.'><h5> 1.2.2.4. Lean UX Canvas</h5></div>
 <div id='1.3.'><h3> 1.3. Segmento objetivo</h3></div>
+1. MYPES: Este segmento esta compuesto por dueños de negocios que brindan servicios de cuidado y belleza que funcionan en Lima.
+2. Aficionadas al embellecimiento: Este segmento esta compuesto por mujeres en el rango de edad de 20 a 45 años, del sector socioeconómico B-C que residan en Lima. 
 <div id='1.3.1.'><h4> 1.3.1 Stakeholders</h4></div>
 <div id='2.'><h2> Capítulo II: Requirements Elicitation & Analysis</h2></div>
 <div id='2.1.'><h3> 2.1. Competidores</h3></div>
+
 <div id='2.1.1.'><h4> 2.1.Análisis Competitivo</h4></div>
 <div id='2.1.2.'><h4> 2.1.2. Estrategias y tácticas frente a competidores</h4></div>
 <div id='2.2.'><h3> 2.2. Entrevistas</h3></div>
