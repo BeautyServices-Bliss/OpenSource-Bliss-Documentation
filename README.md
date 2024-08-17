@@ -454,12 +454,15 @@ horarios y necesidades.
 <div id='2.2.3.'><h4> 2.2.3. Análisis de entrevistas</h4></div>
 
 **Segmento 1: Clientes de la industria de belleza y bienestar.**
+
 Basado en las entrevistas concluimos que los clientes buscan en los anuncios de las redes
 sociales salones de belleza o servicios, por ello les cuesta tener información actualizada
 e información relevante como marca de sus productos, servicio, entre otros. Por ello una
 plataforma como la nuestra que le ayude a acceder a esta información actualizada y
 gestione las visitas les sería muy útil.
+
 **Segmento 2: Empresas pequeñas**
+
 Con respecto a las entrevistas de trabajadores en el sector belleza y bienestar, notamos
 que sienten que se exponen al peligro cuando atienden a un cliente, siempre está la
 probabilidad que busquen hacerles daño y robarles. Aun con eso, reconocen que una
