@@ -220,7 +220,63 @@ El objetivo de nuestra aplicación es mejorar la gestión de clientes mediante u
 
 <div id='1.2.2.1.'><h5> 1.2.2.1. Lean UX Problem Statements</h5></div>
 <div id='1.2.2.2.'><h5> 1.2.2.2. Lean UX Assumptions</h5></div>
+
+* **Hypothesis Statement 01:**
+  
+  **Creemos que** ofrecer una amplia gama de servicios de cuidado y belleza a través de
+nuestra aplicación para usuarios que buscan comodidad y conveniencia ayudará a que
+estos puedan reservar citas fácilmente y acceder a servicios de calidad.
+
+  **Sabremos** que hemos tenido éxito
+  
+  **Cuando** se vea un aumento significativo en la
+cantidad de reservas realizadas a través de nuestra aplicación, así como una mayor
+retención de clientes satisfechos.
+
+* **Hypothesis Statement 02:**
+  
+**Creemos que** implementar un sistema de verificación de estilistas calificados y negocios
+confiables garantizará la calidad de las citas reservadas y ayudará a que nuestros
+usuarios se sientan seguros al reservar servicios de cuidado y belleza.
+
+**Sabremos** que hemos tenido éxito
+  
+  **Cuando** se reciban comentarios positivos de los
+usuarios acerca de la garantía y la buena calidad del servicio recibido, así como cuando
+veamos un mayor tráfico en la aplicación.
+
+* **Hypothesis Statement 03:**
+  
+  **Creemos que** establecer colaboraciones estratégicas con salones de belleza, estilistas,
+marcas de belleza relevantes, y ofrecer programas de referidos atractivos ayudará a que
+adquiramos clientes de manera efectiva y aumentemos la visibilidad de nuestra
+aplicación.
+
+**Sabremos** que hemos tenido éxito
+
+  **Cuando** observemos un aumento en la adquisición
+de clientes durante los períodos de nuestras colaboraciones, así como una mayor
+interacción de los usuarios con la aplicación a través de programas de referidos.
+
+* * **Hypothesis Statement 04:**
+    
+**Creemos que** aumentaremos la confianza del usuario y fomentaremos la lealtad a
+nuestra marca si incorporamos funciones de calificación y reseñas para que los usuarios
+puedan evaluar la calidad de los servicios recibidos y compartir sus experiencias con
+otros usuarios.
+
+**Sabremos** que hemos tenido éxito
+
+**Cuando** observemos un aumento significativo en la
+participación de los usuarios en la función de calificación y reseñas, así como un
+incremento en la cantidad de reseñas positivas y una mejora general en la percepción
+de la calidad de los servicios por parte de los usuarios.
+
 <div id='1.2.2.4.'><h5> 1.2.2.4. Lean UX Canvas</h5></div>
+
+<img src="resources/leanuxcanvas.png">
+
+Enlace para acceder al Canvas (https://app.mural.co/t/studentprojects6765/m/studentprojects6765/1723924811878/e2acd47a64a2a0139c4cf13feb7c67c6a2e5f92d?sender=u9e84aeace61d1c60b4be6095)
 <div id='1.3.'><h3> 1.3. Segmento objetivo</h3></div>
 
 1. MYPES: Este segmento esta compuesto por dueños de negocios que brindan servicios de cuidado y belleza que funcionan en Lima.
