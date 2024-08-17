@@ -1,8 +1,6 @@
 # <center>Universidad Peruana de Ciencias Aplicadas</center>
 ## <center>Desarrollo de Aplicaciones Open Source WS53</center>
 
-***
-
 <p align="center">
   <img src="resources/UPCLogo.png" alt="UPC" width="150">
 </p>
@@ -23,10 +21,6 @@
 |Elvia Marcela Rodriguez Villa|u|
 |David Alejandro Rivas Sarango|U20191E831|
 |Diego Martin Sorano Medriano|u|
-
-***
-***
-***
 
 ## <center>Agosto 2024</center>
 ## Registro de versiones del informe
