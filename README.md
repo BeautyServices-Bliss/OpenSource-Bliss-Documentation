@@ -574,7 +574,7 @@ seguridad que ofrece la plataforma al agendar una cita.
 
 <br>
 
- <div id='2.4.'><h3> 2.4. Ubiquituos Language</h3></div>
+ <div id='2.4.'><h3> 2.4. Ubiquitous Language</h3></div>
 
 | **Término (Inglés)**   | **Término (Español)**   | **Definición** |
 |-|-|-|
