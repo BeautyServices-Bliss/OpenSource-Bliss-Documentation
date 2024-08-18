@@ -482,18 +482,17 @@ Con respecto a las entrevistas de trabajadores en el sector belleza y bienestar,
 
 <img src="resources/userpersona1.png" alt="userpersona1"/>
 
-<b>
+
 
 **User Persona 2**
 
 <img src="resources/userpersona2.png" alt="userpersona2"/>
 
-<b>
+
 
 <div id='2.3.2.'><h4> 2.3.2. User Task Matrix</h4>
 
 **Segmento 1**
-
 |Task Matrix|Importancia|
 |-|-|
 |Buscar servicios de belleza|Alta|
@@ -506,7 +505,6 @@ Con respecto a las entrevistas de trabajadores en el sector belleza y bienestar,
 
 
 **Segmento 2**
-
 |Task Matrix|Importancia|
 |-|-|
 |Registrarse en la plataforma|Alta|
@@ -529,17 +527,17 @@ Con respecto a las entrevistas de trabajadores en el sector belleza y bienestar,
 |Experiencia|Siente curiosidad por explorar opciones.|Busca información detallada y reseñas para tomar decisiones informadas.|Necesita transparencia en los precios y opciones de personalización.|Desea un servicio de alta calidad que cumpla con sus expectativas.|Desea compartir su experiencia y ayudar a otros usuarios.|
 |Expectativa|Expectativas de encontrar una solución conveniente.|Desea un centro con buena reputación y servicios	de calidad.|Necesita una herramienta intuitiva para programar citas.|Desea una experiencia satisfactoria y sin contratiempos.|Desea sentirse valorado como cliente y motivado para volver.|
 
-<b>
+
 
 <div id='2.3.4.'><h4> 2.3.4. Empathy Mapping</h4>
 
 <img src="resources/empathymap1.png">
 
-<b>
+
 
 <img src="resources/empathymap2.png">
 
-<b>
+
 
 <div id='2.3.5.'><h4> 2.3.5. As-is Scenario Mapping</h4></div>
 
@@ -565,7 +563,7 @@ Con respecto a las entrevistas de trabajadores en el sector belleza y bienestar,
 
  <div id='2.4.'><h3> 2.4. Ubiquitous Language</h3></div>
 
-| **Término (Inglés)**   | **Término (Español)**   | **Definición** |
+|Término (Inglés)|Término (Español)|Definición|
 |-|-|-|
 | **Client** | Cliente | Persona que utiliza los servicios de cuidado y belleza ofrecidos por el salón. El cliente puede reservar citas, pedir servicios personalizados y proporcionar feedback. |
 | **Stylist** | Estilista | Profesional que ofrece servicios de cuidado y belleza dentro del salón. El estilista realiza las tareas según las citas agendadas y es responsable de la satisfacción del cliente. |
@@ -582,7 +580,7 @@ Con respecto a las entrevistas de trabajadores en el sector belleza y bienestar,
 
 **User Persona 1**
 
-| **Phases** | **Doing** | **Thinking** | **Feeling** |
+| Phases | Doing | Thinking | Feeling |
 |-|-|-|-|
 | **Búsqueda y Descubrimiento de Servicios** | Los usuarios utilizan una plataforma en línea con filtros avanzados para encontrar servicios de cuidado y belleza.<br>La plataforma ofrece recomendaciones personalizadas basadas en preferencias previas y reseñas de otros usuarios. | "Tengo una variedad de opciones de alta calidad y es fácil encontrar el servicio adecuado para mí."| Confianza en que encontrarán un servicio que cumpla con sus expectativas.|
 | **Selección y Reserva de Citas** | Los usuarios reservan citas a través de una aplicación o sitio web, con disponibilidad de horarios en tiempo real.<br>Reciben confirmaciones automáticas y recordatorios antes de la cita. | "Es conveniente y rápido reservar una cita en línea, y tengo la seguridad de que mi horario está confirmado." | Tranquilidad al saber que la cita está confirmada y sin preocupaciones de disponibilidad.|
@@ -593,7 +591,7 @@ Con respecto a las entrevistas de trabajadores en el sector belleza y bienestar,
 
 **User Persona 2**
 
-| **Phases** | **Doing** | **Thinking** | **Feeling** |
+| Phases | Doing | Thinking | Feeling |
 |-|-|-|-|
 | **Promoción y Visibilidad** | Los estilistas utilizan la plataforma para destacar sus servicios con perfiles detallados, incluyendo portafolios y testimonios.<br>Reciben apoyo en marketing digital a través de la plataforma para llegar a más clientes potenciales. | "Tengo herramientas para destacar entre la competencia y atraer a los clientes correctos."| Motivación al ver cómo la visibilidad mejora y los clientes interesados aumentan.|
 | **Gestión de Citas y Comunicación** | Las citas se gestionan a través de la plataforma, liberando tiempo para que los estilistas se concentren en su trabajo sin interrupciones.<br>Un sistema de mensajería dentro de la plataforma permite la comunicación directa y eficiente con los clientes. | "Puedo gestionar mi agenda de manera eficiente y dedicar más tiempo a los servicios."| Alivio al no tener que lidiar con interrupciones constantes y satisfacción con una gestión de citas organizada. |
@@ -604,7 +602,7 @@ Con respecto a las entrevistas de trabajadores en el sector belleza y bienestar,
 
 <div id='3.2.'><h3> 3.2. User Stories</h3></div>
 
-|_**Epic ID**_|_**Título**_|_**Descripción**_|
+|Epic ID|Título|Descripción|
 |-|-|-|
 |EP001|Registro|Como usuario, quiero registrarme en la aplicación y poder autenticar mi identidad para acceder a los beneficios y promociones de mi cuenta.|
 |EP002|Perfil de estilista|Como estilista, quiero mostrar información de mi salón de belleza, los servicios que puedo ofrecer y promociones.|
