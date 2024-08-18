@@ -469,33 +469,24 @@ horarios y necesidades.
 
 **Segmento 1: Clientes de la industria de belleza y bienestar.**
 
-Basado en las entrevistas concluimos que los clientes buscan en los anuncios de las redes
-sociales salones de belleza o servicios, por ello les cuesta tener información actualizada
-e información relevante como marca de sus productos, servicio, entre otros. Por ello una
-plataforma como la nuestra que le ayude a acceder a esta información actualizada y
-gestione las visitas les sería muy útil.
+Basado en las entrevistas concluimos que los clientes buscan en los anuncios de las redes sociales salones de belleza o servicios, por ello les cuesta tener información actualizada e información relevante como marca de sus productos, servicio, entre otros. Por ello una plataforma como la nuestra que le ayude a acceder a esta información actualizada y gestione las visitas les sería muy útil.
 
 **Segmento 2: Empresas pequeñas**
 
-Con respecto a las entrevistas de trabajadores en el sector belleza y bienestar, notamos
-que sienten que se exponen al peligro cuando atienden a un cliente, siempre está la
-probabilidad que busquen hacerles daño y robarles. Aun con eso, reconocen que una
-plataforma que permita la comunicación con clientes para ofrecer un mejor servicio
-sería de gran ayuda. La característica más importante para estos trabajadores es la
-seguridad que ofrece la plataforma al agendar una cita.
+Con respecto a las entrevistas de trabajadores en el sector belleza y bienestar, notamos que sienten que se exponen al peligro cuando atienden a un cliente, siempre está la probabilidad que busquen hacerles daño y robarles. Aun con eso, reconocen que una plataforma que permita la comunicación con clientes para ofrecer un mejor servicio sería de gran ayuda. La característica más importante para estos trabajadores es la seguridad que ofrece la plataforma al agendar una cita.
 
 <div id='2.3.'><h3> 2.3. Needfinding</h3></div>
 <div id='2.3.1.'><h4> 2.3.1. User Personas</h4>
 
 **User Persona 1**
 
-<img src="resources/userpersona1.png" alt="userpersona1">
+<img src="resources/userpersona1.png" alt="userpersona1"/>
 
 <b>
 
 **User Persona 2**
 
-<img src="resources/userpersona2.png" alt="userpersona2">
+<img src="resources/userpersona2.png" alt="userpersona2"/>
 
 <b>
 
@@ -504,7 +495,7 @@ seguridad que ofrece la plataforma al agendar una cita.
 **Segmento 1**
 
 |Task Matrix|Importancia|
-|-|:-:|
+|-|-|
 |Buscar servicios de belleza|Alta|
 |Seleccionar un centro|Media|
 |Reservar un servicio|Media|
@@ -513,12 +504,11 @@ seguridad que ofrece la plataforma al agendar una cita.
 |Recibir confirmación de reserva|Baja|
 |Proporcionar retroalimentación|Media|
 
-<br>
 
 **Segmento 2**
 
 |Task Matrix|Importancia|
-|-|:-:|
+|-|-|
 |Registrarse en la plataforma|Alta|
 |Gestionar información del centro|Media|
 |Confirmar y gestionar reservas|Media|
@@ -528,7 +518,6 @@ seguridad que ofrece la plataforma al agendar una cita.
 |Subir y mantener el catálogo de servicios|Alta|
 |Crear y administrar promociones|Baja|
 
-<br>
 
 <div id='2.3.3.'><h4> 2.3.3. User Journey Mapping</h4>
 
