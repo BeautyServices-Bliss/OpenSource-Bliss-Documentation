@@ -896,7 +896,7 @@ A continuación mostraremos algunas imágenes de referencia del Style Guidelines
 <div id='5.1.'><h3> 5.1. Software Configuration Management</h3></div>
 <div id='5.1.1.'><h4> 5.1.1.Software Development Environment Configuration</h4></div>
 
-  **Project Management**
+**Project Management**
 
 Para la organizacion del proyecto necesitabamos una planificación en cuanto a tareas asignadas, un punto de reunión y un repositorio donde trabajaramos en conjunto cada avance del proyecto, es por esto que elegimos las siguientes herramientas:
 
