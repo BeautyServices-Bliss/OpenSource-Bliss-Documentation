@@ -444,8 +444,8 @@ horarios y necesidades.
 |Edad|19 años|
 |Profesión | Estudiante de Psicología|
 |Departamento|Lima, Perú|
-||Valeria nos menciona que usa anuncios en las redes sociales para buscar salones de belleza, el que más usa es Instagram. Sin embargo, nos cuenta que los anuncios no le permiten conocer la información completa del local como, por ejemplo: la calidad de los productos, precio, ubicación o servicio. Nos contó que no usa aplicaciones para gestionar las citas, pero reconoce el valor de estas, pues le permitirían ver la información de los salones de belleza y los compararlo con otros para buscar el mejor servicio. Mostro interés en nuestro proyecto, y afirmo que la característica más resaltante seria que la mantengan informada de las promociones y datos de los salones de belleza.|
-||URL: [ https://drive.google.com/file/d/1S4OemuKdZ3HVOmgrfeUWXDjV7_4m7pIx/view?usp=sharing]|
+|<img src="resources/entrevista1ss.JPG" />|Valeria nos menciona que usa anuncios en las redes sociales para buscar salones de belleza, el que más usa es Instagram. Sin embargo, nos cuenta que los anuncios no le permiten conocer la información completa del local como, por ejemplo: la calidad de los productos, precio, ubicación o servicio. Nos contó que no usa aplicaciones para gestionar las citas, pero reconoce el valor de estas, pues le permitirían ver la información de los salones de belleza y los compararlo con otros para buscar el mejor servicio. Mostro interés en nuestro proyecto, y afirmo que la característica más resaltante seria que la mantengan informada de las promociones y datos de los salones de belleza.|
+|Duración entrevista: 4:49|URL: [ https://drive.google.com/file/d/1S4OemuKdZ3HVOmgrfeUWXDjV7_4m7pIx/view?usp=sharing]|
 
 ***Entrevistas a MYPES***
 
@@ -454,16 +454,16 @@ horarios y necesidades.
 |Edad|55 años|
 |Profesión | Estilista|
 |Departamento|Lima, Perú|
-||María, dueña de un salón de belleza con 30 años de historia, nos cuenta que sus clientes le pueden enviar un mensaje por WhatsApp para reservar una cita, esto beneficia a sus clientes pues no se molestan en esperar su turno mejorando la atención. Menciona que está interesada en promocionar su negocio por redes sociales u otras plataformas, pero teme exponerse a la delincuencia por estos medios. Esto no la detiene de llevar servicio a domicilio con sus clientes habituales. Le contamos de nuestro proyecto y como queremos presentarle una plataforma para que clientes puedan reservar citas, pero, aunque reconozca los beneficios teme que delincuentes creen perfiles falsos y lleguen a su local, por ello incluso usando WhatsApp como medio de comunicación con clientes reconoce que solo acepta cita a los clientes habituales o por recomendación, nunca a extraños. |
-||URL:[https://drive.google.com/file/d/1dBjvYYgw0as8N2YYhyk_MVW3MaRZ0CLA/view?usp=sharing]|
+|<img src="resources/entrevista2ss.JPG" />|María, dueña de un salón de belleza con 30 años de historia, nos cuenta que sus clientes le pueden enviar un mensaje por WhatsApp para reservar una cita, esto beneficia a sus clientes pues no se molestan en esperar su turno mejorando la atención. Menciona que está interesada en promocionar su negocio por redes sociales u otras plataformas, pero teme exponerse a la delincuencia por estos medios. Esto no la detiene de llevar servicio a domicilio con sus clientes habituales. Le contamos de nuestro proyecto y como queremos presentarle una plataforma para que clientes puedan reservar citas, pero, aunque reconozca los beneficios teme que delincuentes creen perfiles falsos y lleguen a su local, por ello incluso usando WhatsApp como medio de comunicación con clientes reconoce que solo acepta cita a los clientes habituales o por recomendación, nunca a extraños. |
+|Duración entrevista: 8:54|URL:[https://drive.google.com/file/d/1dBjvYYgw0as8N2YYhyk_MVW3MaRZ0CLA/view?usp=sharing]|
 
 |Nombre entrevistado|  Yaritza Gutiérrez Córdova|
 |-|-|
 |Edad|21 años|
 |Profesión |  Estilista – Estudiante de Ingeniería Civil|
 |Departamento|Lima, Perú|
-||Yaritza, es una estudiante de la carrera de ingeniería Civil y actualmente tiene un emprendimiento de salón de belleza, ella nos cuenta que su hermana es la que hace sus reservas de las citas para sus clientes, pero tiene el miedo a que su hermana un día pueda confundirse y no pueda ella ir a la cita y que ella si va a hogares a hacer ofrecer sus servicios, pero siempre se demora al escoger los productos con los clientes. Le dimos la información sobre nuestro proyecto y le presentamos todas las funciones de nuestra plataforma con el sistema de reserva de citas, consultas y compra de productos de belleza, ella le sorprendió mucho nuestro proyecto también nos dio una recomendación para poder implementar a la aplicación y esta es que con ayuda de la IA los clientes puedan seleccionar los productos que van a querer que se le usen y puedan ver como un “resultado” con la ia con una foto de estos mismos.|
-||URL: [https://drive.google.com/file/d/1BaFeF2a1AaS3HgkfppCM8Afc9LAMu6gs/view?usp=sharing]|
+|<img src="resources/entrevista3ss.JPG" />|Yaritza, es una estudiante de la carrera de ingeniería Civil y actualmente tiene un emprendimiento de salón de belleza, ella nos cuenta que su hermana es la que hace sus reservas de las citas para sus clientes, pero tiene el miedo a que su hermana un día pueda confundirse y no pueda ella ir a la cita y que ella si va a hogares a hacer ofrecer sus servicios, pero siempre se demora al escoger los productos con los clientes. Le dimos la información sobre nuestro proyecto y le presentamos todas las funciones de nuestra plataforma con el sistema de reserva de citas, consultas y compra de productos de belleza, ella le sorprendió mucho nuestro proyecto también nos dio una recomendación para poder implementar a la aplicación y esta es que con ayuda de la IA los clientes puedan seleccionar los productos que van a querer que se le usen y puedan ver como un “resultado” con la ia con una foto de estos mismos.|
+|Duración entrevista: 5:24|URL: [https://drive.google.com/file/d/1BaFeF2a1AaS3HgkfppCM8Afc9LAMu6gs/view?usp=sharing]|
 
 <div id='2.2.3.'><h4> 2.2.3. Análisis de entrevistas</h4></div>
 
