@@ -174,7 +174,7 @@ Para aprovechar al máximo la competencia competitiva y el crecimiento, es funda
 |Integrante |Descripción|
 |-----------|-----------|
 |           |**David Alejandro Rivas Sarango** <br> Mi nombre es **David Rivas**, actualmente estoy cursando la carrera de Ingeniería de Software en la UPC. Soy una persona honesta y responsable. Me interesa el área de Data Science, por esto estoy siguiendo cursos de capacitacion en SQL y Python.|
-|<img src="resources/diego.png" alt="diego">|**Diego Ivan Cabrera Buitron** <br> Mi nombre es **Diego Cabrera**, estoy cursando la carrera de Ingeniería de Software, me considera una persona responsable y perseverante. Al culminar mi carrera quiero especializarme en el sector de la ciberseguridad|
+|<img src="resources/diego.png" alt="diego">|**Diego Ivan Cabrera Buitron** <br> Mi nombre es **Diego Cabrera**, estoy cursando la carrera de Ingeniería de Software, me considero una persona responsable y perseverante. Al culminar mi carrera quiero especializarme en el sector de la ciberseguridad|
 |           ||
 |           ||
 
@@ -486,19 +486,387 @@ sería de gran ayuda. La característica más importante para estos trabajadores
 seguridad que ofrece la plataforma al agendar una cita.
 
 <div id='2.3.'><h3> 2.3. Needfinding</h3></div>
+<div id='2.3.1.'><h4> 2.3.1. User Personas</h4>
+
+**User Persona 1**
+
+<img src="resources/userpersona1.png" alt="userpersona1">
+
+<b>
+
+**User Persona 2**
+
+<img src="resources/userpersona2.png" alt="userpersona2">
+
+<b>
+
 <div id='2.3.2.'><h4> 2.3.2. User Task Matrix</h4>
+
+**Segmento 1**
+
+|Task Matrix|Importancia|
+|-|:-:|
+|Buscar servicios de belleza|Alta|
+|Seleccionar un centro|Media|
+|Reservar un servicio|Media|
+|Elegir Servicio|Baja|
+|Visualizar centros cercanos|Media|
+|Recibir confirmación de reserva|Baja|
+|Proporcionar retroalimentación|Media|
+
+<br>
+
+**Segmento 2**
+
+|Task Matrix|Importancia|
+|-|:-:|
+|Registrarse en la plataforma|Alta|
+|Gestionar información del centro|Media|
+|Confirmar y gestionar reservas|Media|
+|Comunicarse con los clientes|Alta|
+|Recibir y responder a la retroalimentación|Media|
+|Recibir confirmación de reserva|Media|
+|Subir y mantener el catálogo de servicios|Alta|
+|Crear y administrar promociones|Baja|
+
+<br>
+
 <div id='2.3.3.'><h4> 2.3.3. User Journey Mapping</h4>
+
+|Etapa|Descubrimiento|Investigación|Reserva|Experiencia de servicio|Post-servicio|
+|-|-|-|-|-|-|
+|Feliz|Encuentra la plataforma por recomendación.|Encuentra reseñas positivas sobre servicios ofrecidos.|Recibe confimarción inmediata de la reserva.|Recibe un servicio satisfactorio según sus preferencias.|Recibe un agradecimiento y una invitación para futuros servicios.|
+|Neutra|Navega por varias opciones de búsqueda.|Lee descripciones de servicios y precios.|Elije fecha y hora disponible para la cita.|Llega al centro de belleza según lo programado.|Deja comentarios o calificaciones sobre	la experiencia.|
+|No Feliz|Selecciona nuestra plataforma debido a buenas críticas.|Filtra resultados según ubicación y servicios deseados.|Proporciona detalles	sobre preferencias del servicio.|No se	siente bienvenido	y cómodo en el centro.|No se siente valorado como cliente y motivado para regresar.|
+|Experiencia|Siente curiosidad por explorar opciones.|Busca información detallada y reseñas para tomar decisiones informadas.|Necesita transparencia en los precios y opciones de personalización.|Desea un servicio de alta calidad que cumpla con sus expectativas.|Desea compartir su experiencia y ayudar a otros usuarios.|
+|Expectativa|Expectativas de encontrar una solución conveniente.|Desea un centro con buena reputación y servicios	de calidad.|Necesita una herramienta intuitiva para programar citas.|Desea una experiencia satisfactoria y sin contratiempos.|Desea sentirse valorado como cliente y motivado para volver.|
+
+<b>
+
 <div id='2.3.4.'><h4> 2.3.4. Empathy Mapping</h4>
+
+<img src="resources/empathymap1.png">
+
+<b>
+
+<img src="resources/empathymap2.png">
+
+<b>
+
 <div id='2.3.5.'><h4> 2.3.5. As-is Scenario Mapping</h4></div>
+
+**User Persona 1**
+
+|Phases|Búsqueda y Descubrimiento de Servicios|Selección y Reserva de Citas|Experiencia del Servicio|Post-Servicio y Retorno|
+|-|-|-|-|-|
+|Doing| - Los usuarios buscan servicios de cuidado y belleza. <br> - Solicitud de recomendaciones a amigos, familiares o buscando en directorios en línea. | - Los usuarios llaman por teléfono al salón de belleza seleccionado. <br> - Se consulta por la disponibilidad de citas y se reserva una si es que hay.|-	Los usuarios asisten a su cita programada. <br> - Se recibe el servicio	de cuidado y belleza acordado.|Después del servicio, los usuarios pueden proporcionar comentarios verbales al estilista o al salón de belleza.|
+|Thinking|“Me siento limitado por las opciones disponibles  y  me preocupa no poder encontrar un lugar que se ajuste a lo que necesito. No estoy seguro de si podré encontrar un servicio de calidad cerca de mí”.|“Estoy	frustrado porque	tengo	que comunicarme	por teléfono en lugar de reservar  de  manera más sencilla. Además, me preocupa que no haya disponibilidad de citas cuando llame”.|“Me pregunto si el	estilista cumplirá	con mis expectativas. Me	preocupa también que el ambiente	del salón  no  sea cómodo y que el servicio no sea de	buena calidad”.|“El servicio no está mal, pero no cumplió del todo con mis expectativas”.|
+|Feeling|Pueden sentirse limitados por las pocas opciones disponibles. Preocupación por la calidad del servicio que recibirán.|Ansiedad al tratar de encontrar un horario conveniente	para confirmar una cita.|Satisfacción si la experiencia fue positiva, pero también decepción si el servicio	no cumplió con sus expectativas.|Desánimo si la experiencia no fue satisfactoria y no se tiene un medio claro de proporcionar comentarios.|
+
+<br>
+
+**User Persona 2**
+
+|Phases|Promoción	y visibilidad|Gestión de citas y comunicación|Experiencia	del Servicio|Retroalimentación y fidelización|
+|-|-|-|-|-|
+|Doing|-	Publicación anuncios   en   redes sociales  locales  y directorios en línea para promocionar los servicios de belleza.|-	Los clientes se contactan por teléfono con los estilistas para preguntar	sobre	los servicios	y	para programar citas.|-	El estilista realiza los servicios de belleza acordados con los clientes en el salón| - Al  final  del servicio, el estilista solicita retroalimentación verbalmente a los clientes.|
+|Thinking|“Me siento frustrado porque	la competencia es alta y es difícil destacar entre otros estilistas o salones. Me preocupa no poder llegar a suficientes clientes potenciales”.|“Me siento estresado porque responder a llamadas telefónicas y mensajes	consume mucho tiempo y a menudo interrumpe mi trabajo. Me preocupa que algunos clientes se vayan a otra parte si no puedo responder	de inmediato".|“Me pregunto si el cliente está satisfecho con el resultado. La verdad es que no entendí bien lo que me explicó”.|“Ojalá este cliente vuelva. Me ha dicho que el servicio estuvo bien, pero no se veía muy convencido”.|
+|Feeling|Los estilistas se desmotivan por la falta de visibilidad y se lucha constantemente para atraer nuevos clientes.|Los estilistas abruman por la constante interrupción de las llamadas telefónicas y los mensajes, y se preocupan	por mantener la lealtad de los clientes.|Se siente tensión por cumplir con las expectativas del cliente y mantener una reputación positiva.|Sensación	de inseguridad		y preocupación por la retroalimentación del cliente. <br> Ansiedad	por mantener la lealtad del cliente y su reputación profesional.|
+
+<br>
+
  <div id='2.4.'><h3> 2.4. Ubiquituos Language</h3></div>
+
+| **Término (Inglés)**   | **Término (Español)**   | **Definición** |
+|-|-|-|
+| **Client** | Cliente | Persona que utiliza los servicios de cuidado y belleza ofrecidos por el salón. El cliente puede reservar citas, pedir servicios personalizados y proporcionar feedback. |
+| **Stylist** | Estilista | Profesional que ofrece servicios de cuidado y belleza dentro del salón. El estilista realiza las tareas según las citas agendadas y es responsable de la satisfacción del cliente. |
+| **Appointment** | Cita | Reserva realizada por un cliente para recibir uno o más servicios en una fecha y hora específicas. Las citas pueden ser gestionadas y confirmadas a través del sistema. |
+| **Service** | Servicio | Actividad específica ofrecida por el salón, como un corte de cabello, manicura, pedicura, etc. Los servicios son solicitados y recibidos por los clientes durante una cita. |
+| **Reservation** | Reservación | Proceso de solicitar y asegurar una cita en el sistema del salón. Una reservación incluye la selección del servicio, estilista, y la fecha/hora preferida. |
+| **Feedback** | Retroalimentación | Opinión o evaluación proporcionada por un cliente después de recibir un servicio. El feedback se utiliza para mejorar la calidad del servicio y la satisfacción del cliente. |
+| **Promotion** | Promoción | Estrategias y acciones diseñadas para aumentar la visibilidad de los servicios del salón y atraer más clientes. Las promociones pueden incluir descuentos, paquetes especiales, y publicidad. |
+| **Availability** | Disponibilidad | El tiempo en que un estilista está libre para realizar servicios y el horario disponible para que un cliente haga una reservación. La disponibilidad se gestiona a través del sistema de citas. |
+
+
 <div id='3.'><h2>Capítulo 3: Requirements Specification</h2></div>
 <div id='3.1.'><h3> 3.1. To-be scenario mapping</h3></div>
+
+**User Persona 1**
+
+| **Phases** | **Doing** | **Thinking** | **Feeling** |
+|-|-|-|-|
+| **Búsqueda y Descubrimiento de Servicios** | Los usuarios utilizan una plataforma en línea con filtros avanzados para encontrar servicios de cuidado y belleza.<br>La plataforma ofrece recomendaciones personalizadas basadas en preferencias previas y reseñas de otros usuarios. | "Tengo una variedad de opciones de alta calidad y es fácil encontrar el servicio adecuado para mí."| Confianza en que encontrarán un servicio que cumpla con sus expectativas.|
+| **Selección y Reserva de Citas** | Los usuarios reservan citas a través de una aplicación o sitio web, con disponibilidad de horarios en tiempo real.<br>Reciben confirmaciones automáticas y recordatorios antes de la cita. | "Es conveniente y rápido reservar una cita en línea, y tengo la seguridad de que mi horario está confirmado." | Tranquilidad al saber que la cita está confirmada y sin preocupaciones de disponibilidad.|
+| **Experiencia del Servicio** | Los usuarios asisten a la cita con expectativas claras de lo que recibirán.<br>El servicio se personaliza según las preferencias del cliente previamente indicadas en la plataforma. | "Estoy emocionado por recibir el servicio, ya que sé que se han considerado mis preferencias."| Satisfacción y anticipación positiva por la experiencia.|
+| **Post-Servicio y Retorno** | Los usuarios pueden dejar comentarios y reseñas a través de la plataforma, con incentivos para hacerlo.<br>Reciben recomendaciones de seguimiento para mantener el cuidado recibido. | "Me encanta cómo puedo dar mi opinión fácilmente y obtener recomendaciones personalizadas."| Empoderamiento y satisfacción continua con el servicio.|
+
+<br>
+
+**User Persona 2**
+
+| **Phases** | **Doing** | **Thinking** | **Feeling** |
+|-|-|-|-|
+| **Promoción y Visibilidad** | Los estilistas utilizan la plataforma para destacar sus servicios con perfiles detallados, incluyendo portafolios y testimonios.<br>Reciben apoyo en marketing digital a través de la plataforma para llegar a más clientes potenciales. | "Tengo herramientas para destacar entre la competencia y atraer a los clientes correctos."| Motivación al ver cómo la visibilidad mejora y los clientes interesados aumentan.|
+| **Gestión de Citas y Comunicación** | Las citas se gestionan a través de la plataforma, liberando tiempo para que los estilistas se concentren en su trabajo sin interrupciones.<br>Un sistema de mensajería dentro de la plataforma permite la comunicación directa y eficiente con los clientes. | "Puedo gestionar mi agenda de manera eficiente y dedicar más tiempo a los servicios."| Alivio al no tener que lidiar con interrupciones constantes y satisfacción con una gestión de citas organizada. |
+| **Experiencia del Servicio** | Los estilistas proporcionan servicios personalizados basados en la información y preferencias del cliente disponibles en la plataforma.<br>Reciben retroalimentación en tiempo real a través de la aplicación. | "Estoy seguro de que el cliente recibirá exactamente lo que desea."| Confianza en su capacidad para cumplir y superar las expectativas del cliente.|
+| **Retroalimentación y Fidelización** | La plataforma solicita automáticamente retroalimentación al cliente y comparte los resultados con el estilista.<br>La plataforma ofrece herramientas para la fidelización de clientes, como descuentos personalizados o recomendaciones de productos. | "Tengo un sistema que me ayuda a mejorar continuamente y a mantener la lealtad de mis clientes."| Seguridad y confianza en la calidad del servicio que ofrecen y en la relación a largo plazo con sus clientes. |
+
+<br>
+
 <div id='3.2.'><h3> 3.2. User Stories</h3></div>
+
+|_**Epic ID**_|_**Título**_|_**Descripción**_|
+|-|-|-|
+|EP001|Registro|Como usuario, quiero registrarme en la aplicación y poder autenticar mi identidad para acceder a los beneficios y promociones de mi cuenta.|
+|EP002|Perfil de estilista|Como estilista, quiero mostrar información de mi salón de belleza, los servicios que puedo ofrecer y promociones.|
+|EP003|Gestión de citas|Como estilista, deseo poder gestionar mis citas programadas de forma sencilla para poder administrar mejor mi tiempo y, por consiguiente, mi negocio.|
+|EP004|Sistema de Pagos|Como estilista, quiero suscribirme para acceder a todas las funciones que permiten promocionar mi negocio. También, gestionar los pagos de las citas de forma segura.|
+|EP005|Búsqueda de servicio|Como usuario, quiero poner parámetros en la búsqueda de los servicios, parámetros como tipo de servicio, ubicación, rango de precios, entre otros. También, poder modificar estos parámetros.|
+|EP006|Sistema de Reservas|Como usuario, quiero poder ver la disponibilidad de citas de los estilistas y realizar una reserva en línea para el servicio deseado en un horario conveniente para mí.|
+|EP007|Valoración de servicio|Como usuario, quiero poder dejar una valoración y reseña sobre el servicio recibido después de mi cita para ayudar a otros usuarios a tomar decisiones informadas.|
+|EP008|Sistema de Calificación y Retroalimentación|Como estilista, quiero recibir una calificación detallada de mis servicios para comprender mejor las áreas en las que puedo mejorar y proporcionar una experiencia óptima a mis clientes.|
+|EP009|Programa de Fidelización|Como estilista, quiero poder ofrecer incentivos especiales y recompensas a mis clientes leales como parte de un programa de fidelización para mantener su preferencia hacia mi negocio.|
+|EP010|Seguridad y Verificación de Estilistas|Como usuario, quiero poder verificar la autenticidad y la reputación de los estilistas a través de un sistema de verificación de antecedentes y revisiones de otros usuarios para garantizar una experiencia segura y satisfactoria.|
+
+<br>
+
+<table border="1" cellspacing="0" cellpadding="5">
+  <tr>
+    <th>User Story ID</th>
+    <th>US001</th>
+    <th>Epic ID</th>
+    <th>EP001</th>
+  </tr>
+  <tr>
+    <td>Título</td>
+    <td colspan="3">Verificación de correo electrónico</td>
+  </tr>
+  <tr>
+    <td>Descripción</td>
+    <td colspan="3">Como usuario, quiero recibir un correo electrónico de verificación después de registrarme para confirmar mi dirección de correo electrónico.</td>
+  </tr>
+  <tr>
+    <td rowspan="5">Criterios de aceptación:</td>
+    <td colspan="3">Escenario 1: Verificación exitosa</td>
+  </tr>
+  <tr>
+    <td colspan="3">Dado que un usuario quiere crear una nueva cuenta</td>
+  </tr>
+  <tr>
+    <td colspan="3">Cuando encuentra el correo que le mandamos donde está el enlace con el código para crear su cuenta</td>
+  </tr>
+  <tr>
+    <td colspan="3">Y ingresa correctamente su código al enlace</td>
+  </tr>
+  <tr>
+    <td colspan="3">Entonces la cuenta nueva está creada y se le redirige a la página principal de la aplicación</td>
+  </tr>
+</table>
+
+<br>
+
+<table border="1" cellspacing="0" cellpadding="5">
+  <tr>
+    <th>User Story ID</th>
+    <th>US002</th>
+    <th>Epic ID</th>
+    <th>EP002</th>
+  </tr>
+  <tr>
+    <td>Título</td>
+    <td colspan="3">Creación de perfil de estilista</td>
+  </tr>
+  <tr>
+    <td>Descripción</td>
+    <td colspan="3">Como estilista, quiero poder crear un perfil en la aplicación para mostrar información sobre mi salón de belleza y los servicios que ofrezco.</td>
+  </tr>
+  <tr>
+    <td rowspan="5">Criterios de aceptación:</td>
+    <td colspan="3">Escenario 1: Publicación de perfil de estilista</td>
+  </tr>
+  <tr>
+    <td colspan="3">Dado que el usuario quiere ser reconocido como estilista para ofrecer sus servicios </td>
+  </tr>
+  <tr>
+    <td colspan="3">Cuando accede a la página de creación de perfil desde la página principal</td>
+  </tr>
+  <tr>
+    <td colspan="3">Y completa el formulario de creación de perfil con información sobre su salón, servicios y promociones</td>
+  </tr>
+  <tr>
+    <td colspan="3">Entonces se completa el perfil, se guarda la información y se muestra en la aplicación</td>
+  </tr>
+</table>
+
+<br>
+
+<table border="1" cellspacing="0" cellpadding="5">
+  <tr>
+    <th>User Story ID</th>
+    <th>US003</th>
+    <th>Epic ID</th>
+    <th>EP003</th>
+  </tr>
+  <tr>
+    <td>Título</td>
+    <td colspan="3">Búsqueda de servicios de belleza</td>
+  </tr>
+  <tr>
+    <td>Descripción</td>
+    <td colspan="3">Como usuario, quiero poder buscar servicios de belleza en la aplicación según mis preferencias y necesidades.</td>
+  </tr>
+  <tr>
+    <td rowspan="10">Criterios de aceptación:</td>
+    <td colspan="3">Escenario 1: Búsqueda por Tipo de Servicio</td>
+  </tr>
+  <tr>
+    <td colspan="3">Dado que un usuario desea encontrar un servicio de belleza específico en la aplicación, </td>
+  </tr>
+  <tr>
+    <td colspan="3">Cuando accede a la función de búsqueda y selecciona el tipo de servicio que necesita, como corte de cabello o manicura,</td>
+  </tr>
+  <tr>
+    <td colspan="3">Y la aplicación filtra los resultados para mostrar solo los estilistas que ofrecen ese tipo de servicio en su área,</td>
+  </tr>
+  <tr>
+    <td colspan="3">Entonces el usuario puede explorar las opciones disponibles y seleccionar un estilista para programar una cita.</td>
+  </tr>
+  <tr>
+    <td colspan="3">Escenario 2: Búsqueda por Ubicación</td>
+  </tr>
+  <tr>
+    <td colspan="3">Dado que un usuario prefiere encontrar un estilista cercano a su ubicación,</td>
+  </tr>
+  <tr>
+    <td colspan="3">Cuando utiliza la función de búsqueda y especifica su ubicación actual o código postal,</td>
+  </tr>
+  <tr>
+    <td colspan="3">Y la aplicación muestra una lista de estilistas disponibles en esa área junto con sus servicios ofrecidos,</td>
+  </tr>
+  <tr>
+    <td colspan="3">Entonces el usuario puede revisar las opciones cerca de él y elegir un estilista conveniente para programar una cita.</td>
+  </tr>
+</table>
+
+<br>
+
+<table border="1" cellspacing="0" cellpadding="5">
+  <tr>
+    <th>User Story ID</th>
+    <th>US004</th>
+    <th>Epic ID</th>
+    <th>EP004</th>
+  </tr>
+  <tr>
+    <td>Título</td>
+    <td colspan="3">Suscripción de estilista al sistema de pagos</td>
+  </tr>
+  <tr>
+    <td>Descripción</td>
+    <td colspan="3">Como estilista, quiero poder suscribirme al sistema de pagos en la aplicación para acceder a todas las funciones de promoción y gestionar los pagos de las citas de manera segura.</td>
+  </tr>
+  <tr>
+    <td rowspan="10">Criterios de aceptación:</td>
+    <td colspan="3">Escenario 1: Suscripción Premium Exitosa</td>
+  </tr>
+  <tr>
+    <td colspan="3">Dado que un estilista desea acceder a las funciones de promoción en la aplicación, </td>
+  </tr>
+  <tr>
+    <td colspan="3">Cuando accede a la sección de suscripción al sistema de pagos desde su perfil,</td>
+  </tr>
+  <tr>
+    <td colspan="3">Y completa el formulario de suscripción proporcionando la información requerida,</td>
+  </tr>
+  <tr>
+    <td colspan="3">Entonces el estilista completa con éxito el proceso de suscripción y obtiene acceso a todas las funciones premium.</td>
+  </tr>
+  <tr>
+    <td colspan="3">Escenario 2: Habilitación de Pagos Seguros</td>
+  </tr>
+  <tr>
+    <td colspan="3">Dado que un estilista está listo para gestionar los pagos de las citas a través de la aplicación,</td>
+  </tr>
+  <tr>
+    <td colspan="3">Cuando inicia sesión en su cuenta y encuentra una opción para suscribirse al sistema de pagos,</td>
+  </tr>
+  <tr>
+    <td colspan="3">Y sigue los pasos para completar la suscripción y verificar su cuenta bancaria o método de pago preferido,</td>
+  </tr>
+  <tr>
+    <td colspan="3">Entonces el estilista está habilitado para recibir pagos de manera segura a través de la plataforma.</td>
+  </tr>
+</table>
+
+<br>
+
+<table border="1" cellspacing="0" cellpadding="5">
+  <tr>
+    <th>User Story ID</th>
+    <th>US005</th>
+    <th>Epic ID</th>
+    <th>EP005</th>
+  </tr>
+  <tr>
+    <td>Título</td>
+    <td colspan="3">Filtro por Tipo de Servicio</td>
+  </tr>
+  <tr>
+    <td>Descripción</td>
+    <td colspan="3">Como usuario, quiero poder filtrar los servicios de belleza por tipo para encontrar fácilmente lo que necesito.</td>
+  </tr>
+  <tr>
+    <td rowspan="10">Criterios de aceptación:</td>
+    <td colspan="3">Escenario 1: Búsqueda por Tipo de Servicio</td>
+  </tr>
+  <tr>
+    <td colspan="3">Dado que un usuario está buscando servicios de belleza en la aplicación,</td>
+  </tr>
+  <tr>
+    <td colspan="3">Cuando selecciona un tipo de servicio específico, como corte de pelo o manicura,</td>
+  </tr>
+  <tr>
+    <td colspan="3">Y el sistema filtra los resultados para mostrar solo los estilistas que ofrecen ese tipo de servicio,</td>
+  </tr>
+  <tr>
+    <td colspan="3">Entonces el usuario puede explorar las opciones disponibles para ese servicio.</td>
+  </tr>
+  <tr>
+    <td colspan="3">Escenario 2: Actualización de Servicios en el Perfil</td>
+  </tr>
+  <tr>
+    <td colspan="3">Dado que un estilista actualiza los servicios que ofrece en su perfil,</td>
+  </tr>
+  <tr>
+    <td colspan="3">Cuando un cliente busca un servicio específico proporcionado por ese estilista,</td>
+  </tr>
+  <tr>
+    <td colspan="3">Y el sistema filtra los resultados para mostrar ese servicio en el perfil del estilista,</td>
+  </tr>
+  <tr>
+    <td colspan="3">Entonces el cliente puede ver la lista de servicios disponibles y programar una cita según sus necesidades.</td>
+  </tr>
+</table>
+
 <div id='3.3'><h3> 3.3. Impact Mapping. </h3></div>
 <div id='3.4'><h3> 3.4. Product Backlog.</h3></div>
 <div id='4.'><h2>Capítulo 4: Product Design</h2></div>
 <div id='4.1.'><h3> 4.1. Style Guidelines</h3></div>
 <div id='4.1.1.'><h4> 4.1.1. General Style Guidelines</h4></div>
+
+El enfoque del estilo del presente producto está enfocade en el uso de la estética glassmorphism ya que está acorde a las tendencias de uso de los últimos años en el sector de la belleza y el cuidad personal.
+
+A continuación mostraremos algunas imágenes de referencia del Style Guidelines document.
+
+<img src="resources/styleg1.png" width="300"><br>
+<img src="resources/styleg2.png" width="300"><br>
+<img src="resources/styleg3.png" width="300"><br>
+<img src="resources/styleg4.png" width="300"><br>
+<img src="resources/styleg5.png" width="300"><br>
+
+<br>
+
 <div id='4.1.2.'><h4> 4.1.2. Web Style Guidelines</h4></div>
 <div id='4.1.3.'><h4> 4.1.3. Mobile Style Guidelines</h4></div>
 <div id='4.2.'><h3> 4.2. Information Architecture</h3></div>
