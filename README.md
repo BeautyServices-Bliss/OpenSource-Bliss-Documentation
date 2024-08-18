@@ -1051,6 +1051,7 @@ Usaremos el flujo de trabajo planteado por Vincent Driessen en "A successful Git
  * Para este proyecto en concreto consideramos que los cambios en la rama de producción y de pruebas deben tener autorización de un compa­ñero de equipo.
    
 Teniendo en cuenta la información anterior nos inclinamos por este tipo de organización en los branches:
+
 * **Main branch:** Esta rama esta destinada a la producción de la aplicación, cada cambio deberá tener autorización de un compañero de equipo para evitar cambios sin verificar.
 * **Hotfix branch:** En esta rama se incluirán todas las versiones que poseen errores identificados y que con cada arreglo de este se despliegue otra vez a Main Branch además de implementarla en lo que será Develop Branch.
 * **Release branch:** Esta rama se utilizará para una previa a lo que será el Main Branch, aquí se seguirá de cerca a la aplicación en otros ambientes en busca de bugs.
@@ -1065,6 +1066,7 @@ Con cada deployment de la aplicación debe establecerse como una nueva versión.
 Usaremos buenas prácticas en cuanto al código de manera que sea coherente y sostenible.
 
 **HTML:**
+
 * Cada etiqueta, id, nombre y clase será nombrada usando Lowercase.
 * Utilizar UTF-8.
 * Redacción en inglés.
@@ -1072,12 +1074,13 @@ Usaremos buenas prácticas en cuanto al código de manera que sea coherente y so
 * Terminar cada etiqueta con />.
     
 **CSS:**
+
 * Width del body al 100%.
 * En cuanto a las imágenes, especificar el ancho (Width) de acuerdo a la etiqueta padre.
 * Cada etiqueta, nombre y clase será nombrada de acuerdo al propósito y clasificación del elemento.
 * Separación de palabras con un guion "-".
 * Margin y padding en "*" con valor de 0.
-* 
+  
 <div id='5.1.4.'><h4> 5.1.4.Software Deployment Configuration</h4></div>
 
 ### Landing Page Deployment
