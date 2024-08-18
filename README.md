@@ -527,6 +527,126 @@ seguridad que ofrece la plataforma al agendar una cita.
 <div id='5.'><h2>Capítulo 5: Product Implementation, Validation & Deployment</h2></div>
 <div id='5.1.'><h3> 5.1. Software Configuration Management</h3></div>
 <div id='5.1.1.'><h4> 5.1.1.Software Development Environment Configuration</h4></div>
+
+  **Project Management**
+
+Para la organizacion del proyecto necesitabamos una planificación en cuanto a tareas asignadas, un punto de reunión y un repositorio donde trabajaramos en conjunto cada avance del proyecto, es por esto que elegimos las siguientes herramientas:
+
+* Centro de organización de trabajo: Github
+    
+* Planificación de tareas: Trello
+    
+* Reuniones con el equipo: Google Meet
+    
+**Requirements Management**
+
+Para realizar las actividades del proyecto necesitábamos designarlas a cada integrante del grupo en caso de revisión o cambios, esta lista de asignaciones fue realizada en Trello:
+
+<table>
+    <tbody>
+        <tr>
+            <td>Link de referencia: </td>
+            <td>https://www.trello.com/</td>
+        </tr>
+    </tbody>
+</table>
+
+**Product UX/UI Design**
+
+Para el diseño de los wireframe y mockups, además de un prototipo de Web App se utilizó Figma:
+
+<table>
+    <tbody>
+        <tr>
+            <td>Link de referencia: </td>
+            <td>https://www.figma.com/</td>
+        </tr>
+    </tbody>
+</table>
+
+**Software Development**
+
+La herramienta para la implementación del proyecto es IntelliJ de Jetbrains:
+
+<table>
+    <tbody>
+        <tr>
+            <td>Link de referencia: </td>
+            <td>https://www.jetbrains.com/idea/</td>
+        </tr>
+    </tbody>
+</table>
+
+HTML: El lenguaje base de etiquetado para aplicaciones web sera empleado en este proyecto.
+
+<table>
+    <tbody>
+        <tr>
+            <td>Link de referencia: </td>
+            <td>https://www.w3schools.com/html/html5_syntax.asp</td>
+        </tr>
+    </tbody>
+</table>
+
+CSS: Viene de la mano con HTML, Cascade Styles Sheet maneja el diseño de las aplicaciones web.
+
+<table>
+    <tbody>
+        <tr>
+            <td>Link de referencia: </td>
+            <td>https://www.w3schools.com/css/css_intro.asp</td>
+        </tr>
+    </tbody>
+</table>
+
+Lenguaje empleado en la implementación del proyecto es TypeScript:
+
+<table>
+    <tbody>
+        <tr>
+            <td>Link de referencia: </td>
+            <td>https://www.typescriptlang.org/</td>
+        </tr>
+    </tbody>
+</table>
+
+Framework de JavaScript Angular para el diseño (Frontend):
+
+<table>
+    <tbody>
+        <tr>
+            <td>Link de referencia: </td>
+            <td>https://angular.io/</td>
+        </tr>
+    </tbody>
+</table>
+
+**Software Testing**
+
+Gherkin es un sistema de etiquetado utilizado para detallar como se comporta el software de manera legible.
+
+<table>
+    <tbody>
+        <tr>
+            <td>Link de referencia: </td>
+            <td>https://cucumber.io/docs/gherkin/</td>
+        </tr>
+    </tbody>
+</table>
+
+**Software Deployment**
+
+Se ha utilizado Netlify para el despliegue de la landing page:
+
+<table>
+    <tbody>
+        <tr>
+            <td>Link de referencia: </td>
+            <td>https://www.netlify.com/</td>
+        </tr>
+    </tbody>
+</table>
+
 <div id='5.1.2.'><h4> 5.1.2.Source Code Management</h4></div>
 <div id='5.1.3.'><h4> 5.1.3.Source Code Style Guide & Conventions</h4></div>
 <div id='5.1.4.'><h4> 5.1.4.Software Deployment Configuration</h4></div>
