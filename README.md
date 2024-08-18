@@ -648,6 +648,28 @@ Se ha utilizado Netlify para el despliegue de la landing page:
 </table>
 
 <div id='5.1.2.'><h4> 5.1.2.Source Code Management</h4></div>
+
+<table>
+    <tbody>
+        <tr>
+            <td> Bliss-landing-page </td>
+            <td>  </td>
+        </tr>
+        <tr>
+            <td>Link Bliss-web-services: </td>
+            <td>  </td>
+        </tr>
+        <tr>
+            <td>Link Front Web Applications: </td>
+            <td>  </td>
+        </tr>
+        <tr>
+            <td>Link "Testing": </td>
+            <td>  </td>
+        </tr>
+    </tbody>
+</table>
+
 <div id='5.1.3.'><h4> 5.1.3.Source Code Style Guide & Conventions</h4></div>
 <div id='5.1.4.'><h4> 5.1.4.Software Deployment Configuration</h4></div>
 <div id='5.2.'><h3> 5.2.Landing Page, Services & Applications Implementation </h3></div>
