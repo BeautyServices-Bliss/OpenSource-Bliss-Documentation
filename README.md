@@ -602,6 +602,36 @@ Con respecto a las entrevistas de trabajadores en el sector belleza y bienestar,
 
 <div id='3.2.'><h3> 3.2. User Stories</h3></div>
 
+|User Story ID|Título|Descripción|Criterios de Aceptación|EpicID|
+|-|-|-|-|-|
+|US01|Verificación de correo electrónico|Como usuario nuevo, quiero poder crear una cuenta en la aplicación proporcionando mi nombre, dirección de correo electrónico y contraseña.|Escenario 1: Registro completado
+Dado que un nuevo usuario quiere registrarse
+Cuando ingresa su nombre, dirección de correo electrónico y contraseña Y presiona el botón de Crear Cuenta
+Entonces se envía un correo de verificación a la dirección enviada
+Escenario 2: Error al registrar los datos
+Dado que un nuevo usuario quiere registrarse
+Cuando ingresa un nombre, contraseña o un correo electrónico que no cumpla los
+requisitos establecidos
+Y presiona el botón de Crear Cuenta
+Entonces aparece en pantalla un mensaje de error, indicando donde se encuentra el
+error y pidiendo que se ingrese de nuevo|EP001: Gestión de cuenta del usuario|
+|US002|Verificación de correo electrónico|Como usuario, quiero recibir un correo electrónico de
+verificación después de registrarme para confirmar mi
+dirección de correo electrónico.|Escenario 1: Verificación exitosa
+Dado que un usuario quiere crear una nueva cuenta
+Cuando encuentra el correo que le mandamos donde está el enlace con el código
+para crear su cuenta
+Y ingresa correctamente su código al enlace
+Entonces la cuenta nueva esta creada y se le redirige a la página principal de la
+aplicación
+Escenario 2: Error en la verificación
+Dado que un usuario quiere crear una nueva cuenta
+Cuando no encuentra el correo que mandamos a la dirección registrada y ya
+presiono el botón mandar de nuevo
+Y ya pasaron 15 minutos
+Entonces aparecerá un mensaje de error que pedirá ingresar de nuevo el correo
+electrónico|EP001: Gestión de cuenta del usuario|
+
 |Epic ID|Título|Descripción|
 |-|-|-|
 |EP001|Registro|Como usuario, quiero registrarme en la aplicación y poder autenticar mi identidad para acceder a los beneficios y promociones de mi cuenta.|
