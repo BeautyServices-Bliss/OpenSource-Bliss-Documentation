@@ -654,8 +654,8 @@ Con respecto a las entrevistas de trabajadores en el sector belleza y bienestar,
 |EP010|Seguridad y Verificación de Estilistas|Como usuario, quiero poder verificar la autenticidad y la reputación de los estilistas a través de un sistema de verificación de antecedentes y revisiones de otros usuarios para garantizar una experiencia segura y satisfactoria.|
 
 
-<div id='3.3'><h3> 3.3. Impact Mapping. </h3></div>
-<div id='3.4'><h3> 3.4. Product Backlog.</h3></div>
+<div id='3.3.'><h3> 3.3. Impact Mapping. </h3></div>
+<div id='3.4.'><h3> 3.4. Product Backlog.</h3></div>
 <div id='4.'><h2>Capítulo 4: Product Design</h2></div>
 <div id='4.1.'><h3> 4.1. Style Guidelines</h3></div>
 <div id='4.1.1.'><h4> 4.1.1. General Style Guidelines</h4></div>
