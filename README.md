@@ -498,8 +498,8 @@ Con respecto a las entrevistas de trabajadores en el sector belleza y bienestar,
 |Buscar servicios de belleza|Alta|
 |Seleccionar un centro|Media|
 |Reservar un servicio|Media|
-|Elegir Servicio|Baja|
-|Visualizar centros cercanos|Media|
+|Elegir Servicio|Media|
+|Visualizar centros cercanos|Baja|
 |Recibir confirmación de reserva|Baja|
 |Proporcionar retroalimentación|Media|
 
