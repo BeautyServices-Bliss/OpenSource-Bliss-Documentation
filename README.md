@@ -895,10 +895,25 @@ A continuación mostraremos algunas imágenes de referencia del Style Guidelines
 <div id='4.1.3.'><h4> 4.1.3. Mobile Style Guidelines</h4></div>
 <div id='4.2.'><h3> 4.2. Information Architecture</h3></div>
 <div id='4.2.1.'><h4> 4.2.1. Organization Systems</h4></div>
+
+El sistema de organización del contenido está basado en categorías específicas como servicios, especialistas, y comentarios. Además, se incluyen promociones y ofertas especiales, lo cual sugiere un esquema de categorización por tópicos y audiencia. La organización visual se presenta en formato jerárquico, mostrando primero los servicios disponibles y luego los detalles específicos de cada uno, como los comentarios de los usuarios.
+
 <div id='4.2.2.'><h4> 4.2.2. Labeling Systems</h4></div>
+
+Las etiquetas utilizadas para representar la información son claras y concisas, buscando evitar la confusión. Por ejemplo, se utilizan etiquetas como "Servicios", "Especialistas", "Comentarios" y "Buscar" para guiar a los usuarios. Además, se emplean etiquetas específicas para describir los servicios, como "Limpieza y tratamiento de uñas" y "Diseño en Gel".
+
 <div id='4.2.3.'><h4> 4.2.3. SEO Tags and Meta Tags</h4></div>
+
+
+
 <div id='4.2.4.'><h4> 4.2.4. Searching Systems</h4></div>
+
+El sistema de búsqueda está diseñado para facilitar el acceso rápido a la información. Se proporciona una barra de búsqueda en varias secciones del diseño, permitiendo a los usuarios filtrar los resultados por diferentes criterios, como el tipo de servicio o la ubicación. Además, se ofrecen opciones de búsqueda con filtros específicos y se muestra cómo lucirán los datos después de realizar una búsqueda.
+
 <div id='4.2.5.'><h4> 4.2.5. Navigation Systems</h4></div>
+
+El sistema de navegación incluye menús y botones claros que guían a los usuarios a través del contenido de manera efectiva. Los usuarios pueden navegar fácilmente entre las diferentes secciones, como "Servicios", "Comentarios", y "Promociones". La navegación está diseñada para ser intuitiva, permitiendo a los usuarios cumplir sus metas e interactuar de manera satisfactoria con el producto.
+
 <div id='4.3.2.'><h4> 4.3.2. Landing Page Mock-up</h4></div>
 <div id='4.4.'><h3> 4.4. Web Applications UX/UI Design</h3></div>
 
