@@ -1152,10 +1152,16 @@ Se desplegó en Github Pages, para esto necesitamos:
 
 En este primer sprint se desarrolló la Landing Page con Tailwind, siendo desplegada en GithubPages. En esta landing encontraremos los features principales con el primer diseño de acuerdo al mockup de este.
 
-Link de Landing Page: https://upc-opensource-g-bliss.github.io/Landing-Page/
+
 
 <div id='5.2.1.6.'><h5> 5.2.1.6.Services Documentation Evidence for Sprint Review</h5></div>
+
+Para este primer sprint no fue contemplada la evidencia de documentación de los servicios.
+
 <div id='5.2.1.7.'><h5> 5.2.1.7.Software Deployment Evidence for Sprint Review</h5></div>
+
+Link de Landing Page: https://upc-opensource-g-bliss.github.io/Landing-Page/
+
 <div id='5.2.1.8.'><h5> 5.2.1.8.Team Collaboration Insights during Sprint</h5></div>
 <div id='5.3.3.'><h4> 5.3.3.Evaluaciones según heurísticas</h4></div>
 <div id='5.3.'><h3> 5.3. Validation Interviews</h3></div>
