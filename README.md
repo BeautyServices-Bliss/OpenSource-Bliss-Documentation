@@ -1125,13 +1125,22 @@ Usaremos buenas prácticas en cuanto al código de manera que sea coherente y so
 
 ### Landing Page Deployment
 
-Se desplegó en Netlify, para esto necesitamos:
+Se desplegó en Github Pages, para esto necesitamos:
 
 * Una cuenta personal
 * Permisos de Github
 * Repositorio existente
 
+  Siguiendo los siguientes pasos:
+  
+1) Ir a configuración de nuestro repositorio de Github.
+2) Seleccionar el apartado de Pages.
+3) Elegir la rama main y folder(/root).
+4) Una vez hecho el paso anterior se estaría contruyendo y poco tiempo después tendriamos que observar la landing desplegada.
 
+<img src="resources/gthbpgsss1.JPG" />
+
+<img src="resources/gthbpgsss2.JPG" />
   
 <div id='5.2.'><h3> 5.2.Landing Page, Services & Applications Implementation </h3></div>
 <div id='5.2.1.'><h4> 5.2.1.Sprint 1</h4></div>
@@ -1140,6 +1149,11 @@ Se desplegó en Netlify, para esto necesitamos:
 <div id='5.2.1.3.'><h5> 5.2.1.3.Development Evidence for Sprint Review</h5></div>
 <div id='5.2.1.4.'><h5> 5.2.1.4.Testing Suite Evidence for Sprint Review</h5></div>
 <div id='5.2.1.5.'><h5> 5.2.1.5.Execution Evidence for Sprint Review</h5></div>
+
+En este primer sprint se desarrolló la Landing Page con Tailwind, siendo desplegada en GithubPages. En esta landing encontraremos los features principales con el primer diseño de acuerdo al mockup de este.
+
+Link de Landing Page: https://upc-opensource-g-bliss.github.io/Landing-Page/
+
 <div id='5.2.1.6.'><h5> 5.2.1.6.Services Documentation Evidence for Sprint Review</h5></div>
 <div id='5.2.1.7.'><h5> 5.2.1.7.Software Deployment Evidence for Sprint Review</h5></div>
 <div id='5.2.1.8.'><h5> 5.2.1.8.Team Collaboration Insights during Sprint</h5></div>
