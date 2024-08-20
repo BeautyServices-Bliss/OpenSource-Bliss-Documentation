@@ -49,7 +49,7 @@ URL de la organización del proyecto: [https://github.com/upc-opensource-g-bliss
 ***
 
 ## Contenido
-1. [Capítulo I: Introducción](#capítuloiintroducción)
+1. [Capítulo I: Introducción](#capítulo-i-introducción)
 1.1. [***Startup Profile***](#Startup-Profile) <br>
 1.1.1. [Descripción del startup](#Descripción-del-startup)<br>
 1.1.2.[Perfiles de los integrantes del equipo](#Perfiles-de-los-integrantes-del-equipo)<br>
