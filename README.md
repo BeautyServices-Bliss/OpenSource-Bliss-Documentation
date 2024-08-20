@@ -706,6 +706,10 @@ El sistema de navegación incluye menús y botones claros que guían a los usuar
 <div id='4.5.'><h3> 4.5. Web Applications Prototyping</h3></div>
 <div id='4.6.'><h3> 4.6. Domain-Driven Software Architecture</h3></div>
 <div id='4.6.1.'><h4> 4.6.1. Software Architecture Context Diagram</h4></div>
+
+hola
+<img src=" resources/c4-model/bliss-context-diagram.png" />
+
 <div id='4.6.2.'><h4> 4.6.2. Software Architecture Container Diagrams</h4></div>
 <div id='4.6.3.'><h4> 4.6.3. Software Architecture Components Diagrams</h4></div>
 <div id='4.7.'><h3> 4.7. Software Object-Oriented Design</h3></div>
