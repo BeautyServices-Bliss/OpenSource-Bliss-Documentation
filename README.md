@@ -708,6 +708,7 @@ El sistema de navegación incluye menús y botones claros que guían a los usuar
 <div id='4.6.1.'><h4> 4.6.1. Software Architecture Context Diagram</h4></div>
 
 hola
+
 <img src=" resources/c4-model/bliss-context-diagram.png" />
 
 <div id='4.6.2.'><h4> 4.6.2. Software Architecture Container Diagrams</h4></div>
