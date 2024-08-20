@@ -52,15 +52,15 @@ URL de la organización del proyecto: [https://github.com/upc-opensource-g-bliss
 1. [**Capítulo I: Introducción**](#capítulo-i-introducción) <br>
 1.1. [***1.1.Startup Profile***](#11-startup-profile) <br>
 1.1.1. [1.1.1. Descripción del startup](#111-descripción-del-startup) <br>
-1.1.2.[1.1.2. Perfiles de los integrantes del equipo](#112perfiles-de-los-integrantes-del-equipo) <br>
-1.2. [***1.2. Solution Profile***](#12solution-profile) <br>
-1.2.1. [1.2.1.Antecedentes y Problemática](#121antecedentes-y-problemática) <br>
-1.2.2. [1.2.2.Lean UX Process](#122lean-ux-process) <br>
-1.2.2.1. [1.2.2.1.Lean UX Problem Statements](#1221lean-ux-problem-statements) <br>
-1.2.2.2. [1.2.2.2.Lean UX Assumptions](#1222lean-ux-assumptions) <br>
-1.2.2.3. [1.2.2.3.Lean UX Hypothesis Statements](#1223lean-ux-hypothesis-statements) <br>
-1.2.2.4. [1.2.2.4. Lean UX Canvas](#1224lean-ux-canvas) <br>
-1.3. [***1.3. Segmentos objetivo***](#13segmentos-objetivo) <br>
+1.1.2.[1.1.2. Perfiles de los integrantes del equipo](#112-perfiles-de-los-integrantes-del-equipo) <br>
+1.2. [***1.2. Solution Profile***](#12-solution-profile) <br>
+1.2.1. [1.2.1.Antecedentes y Problemática](#121-antecedentes-y-problemática) <br>
+1.2.2. [1.2.2.Lean UX Process](#122-lean-ux-process) <br>
+1.2.2.1. [1.2.2.1.Lean UX Problem Statements](#1221-lean-ux-problem-statements) <br>
+1.2.2.2. [1.2.2.2.Lean UX Assumptions](#1222-lean-ux-assumptions) <br>
+1.2.2.3. [1.2.2.3.Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements) <br>
+1.2.2.4. [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas) <br>
+1.3. [***1.3. Segmentos objetivo***](#13-segmentos-objetivo) <br>
 2. [**2. Capítulo II: Requirements Elicitation & Analysis**](#capítulo-ii-requirements-elicitation-&-analysis) <br>
 2.1. [***Competidores***](#competidores) <br>
 2.1.1. [Análisis competitivo](#análisis-competitivo) <br>
