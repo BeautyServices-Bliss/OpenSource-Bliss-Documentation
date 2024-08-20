@@ -99,7 +99,7 @@ URL de la organización del proyecto: [https://github.com/upc-opensource-g-bliss
 4.4.2. [Web Applications Wireflow Diagrams](#web-applications-wireflow-diagrams) <br>
 4.4.3. [Web Applications Mock-ups](#web-applications-mock-ups) <br>
 4.4.4. [Web Applications User Flow Diagrams](#web-applications-user-flow-diagrams) <br>
-4.5. [***Web Applications Prototyping***](#web-applications-prototyping)v
+4.5. [***Web Applications Prototyping***](#web-applications-prototyping) <br>
 4.6. [***Domain-Driven Software Architecture***](#domain-driven-software-architecture) <br>
 4.6.1. [Software Architecture Context Diagram](#software-architecture-context-diagram) <br>
 4.6.2. [Software Architecture Container Diagrams](#software-architecture-container-diagrams) <br>
@@ -123,7 +123,7 @@ URL de la organización del proyecto: [https://github.com/upc-opensource-g-bliss
 5.2.1.4. [Testing Suite Evidence for Sprint Review](#testing-suite-evidence-for-sprint-review) <br>
 5.2.1.5. [Execution Evidence for Sprint Review](#execution-evidence-for-sprint-review) <br>
 5.2.1.6. [Services Documentation Evidence for Sprint Review](#services-documentation-evidence-for-sprint-review) <br>
-5.2.1.7. [Software Deployment Evidence for Sprint Review](#oftware-deployment-evidence-for-sprint-review)v
+5.2.1.7. [Software Deployment Evidence for Sprint Review](#oftware-deployment-evidence-for-sprint-review) <br>
 5.2.1.8. [Team Collaboration Insights during Sprint](#team-collaboration-insights-during-sprint) <br>
 5.3. [***Validation Interviews***](#validation-interviews) <br>
 5.3.1.[Diseño de Entrevistas](#diseño-de-entrevistas) <br>
