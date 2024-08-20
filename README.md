@@ -450,6 +450,7 @@ horarios y necesidades.
 |Duración entrevista: 2:32|URL: [ https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211b293_upc_edu_pe/Eb1SlaolL0hPgcxnmQAkrl8BAtm7CIc5veK7VOxQ5YVp8g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BfN0lJ]|
 
 |**Nombre entrevistado**|  **Valeria Fernanda Valle Martinez**|
+|:-|:-|
 |Edad|19 años|
 |Profesión | Estudiante de Psicología|
 |Departamento|Lima, Perú|
@@ -457,6 +458,7 @@ horarios y necesidades.
 |Duración entrevista: 4:49|URL: [ https://drive.google.com/file/d/1S4OemuKdZ3HVOmgrfeUWXDjV7_4m7pIx/view?usp=sharing]|
 
 |**Nombre entrevistado**|  **Gabriela Suemy Ayllón García-Pacheco**|
+|:-|:-|
 |Edad|19 años|
 |Profesión | Estudiante de Psicología|
 |Departamento|Lima, Perú|
