@@ -49,90 +49,90 @@ URL de la organización del proyecto: [https://github.com/upc-opensource-g-bliss
 ***
 
 ## Contenido
-1. [Capítulo I: Introducción](#capítulo-i-introducción)
-1.1. [***Startup Profile***](#Startup-Profile) <br>
-1.1.1. [Descripción del startup](#Descripción-del-startup)<br>
-1.1.2.[Perfiles de los integrantes del equipo](#Perfiles-de-los-integrantes-del-equipo)<br>
-1.2. [***Solution Profile***](#Solution-Profile)<br>
-1.2.1. [Antecedentes y Problemática](#Antecedentes-y-Problemática)<br>
-1.2.2. [Lean UX Process](#Lean-UX-Process)<br>
-1.2.2.1. [Lean UX Problem Statements](#Lean-UX-Problem-Statements)<br>
-1.2.2.2. [Lean UX Assumptions](#Lean-UX-Assumptions)<br>
-1.2.2.3. [Lean UX Hypothesis Statements](#Lean-UX-Hypothesis-Statements)<br>
-1.2.2.4. [Lean UX Canvas](#Lean-UX-Canvas)<br>
-1.3. [***Segmentos objetivo***](#Segmentos-objetivo)<br>
-2. [**Capítulo II: Requirements Elicitation & Analysis**](#Capítulo-II:-Requirements-Elicitation-&-Analysis)<br>
-2.1. [***Competidores***](#Competidores)<br>
-2.1.1. [Análisis competitivo](#Análisis-competitivo)<br>
-2.1.2. [Estrategias y tácticas frente a competidores](#Estrategias-y-tácticas-frente-a-competidores)<br>
-2.2. [***Entrevistas***](#Entrevistas)<br>
-2.2.1. [Diseño de entrevistas](#Diseño-de-entrevistas)<br>
-2.2.2. [Registro de entrevistas](#Registro-de-entrevistas)<br>
-2.2.3. [Análisis de entrevistas](#Análisis-de-entrevistas)<br>
-2.3. [***Needfinding***](#Needfinding)<br>
-2.3.1. [User Personas](#User-Personas)<br>
-2.3.2. [User Task Matrix](#User-Task-Matrix)<br>
-2.3.3. [User Journey Mapping](#User-Journey-Mapping)<br>
-2.3.4. [Empathy Mapping](#Empathy-Mapping)<br>
-2.3.5. [As-is Scenario Mapping](#As-is-Scenario-Mapping)<br>
-2.4. [***Ubiquitous Language***](#Ubiquitous-Language)<br>
-3. [**Capítulo III: Requirements Specification**](#Capítulo-III:-Requirements-Specification)<br>
-3.1. [***To-Be Scenario Mapping***](#To-Be-Scenario-Mapping)<br>
-3.2. [***User Stories***](#User-Stories)<br>
-3.3. [***Impact Mapping***](#Impact-Mapping)<br>
-3.4. [***Product Backlog***](#Product-Backlog)<br>
-4. [**Capítulo IV: Product Design**](#Capítulo-IV:-Product-Design)<br>
-4.1. [***Style Guidelines***](#Style-Guidelines)<br>
-4.1.1. [General Style Guidelines](#General-Style-Guidelines)<br>
-4.1.2. [Web Style Guidelines](#Web-Style-Guidelines)<br>
-4.2. [***Information Architecture***](#Information-Architecture)<br>
-4.2.1. [Organization Systems](#Organization-Systems)<br>
-4.2.2. [Labeling Systems](#Labeling-Systems)<br>
-4.2.3. [SEO Tags and Meta Tags](#SEO-Tags-and-Meta-Tags)<br>
-4.2.4. [Searching Systems](#Searching-Systems)<br>
-4.2.5. [Navigation Systems](#Navigation-Systems)<br>
-4.3. [***Landing Page UI Design***](#Landing-Page-UI-Design)<br>
-4.3.1. [Landing Page Wireframe](#Landing-Page-Wireframe)<br>
-4.3.2. [Landing Page Mock-up](#Landing-Page-Mock-up)<br>
-4.4. [***Web Applications UX/UI Design***](#Web-Applications-UX/UI-Design)<br>
-4.4.1. [Web Applications Wireframes](#Web-Applications-Wireframes)<br>
-4.4.2. [Web Applications Wireflow Diagrams](#Web-Applications-Wireflow-Diagrams)<br>
-4.4.3. [Web Applications Mock-ups](#Web-Applications-Mock-ups)<br>
-4.4.4. [Web Applications User Flow Diagrams](#Web-Applications-User-Flow-Diagrams)<br>
-4.5. [***Web Applications Prototyping***](#Web-Applications-Prototyping)<br>
-4.6. [***Domain-Driven Software Architecture***](#Domain-Driven-Software-Architecture)<br>
-4.6.1. [Software Architecture Context Diagram](#Software-Architecture-Context-Diagram)<br>
-4.6.2. [Software Architecture Container Diagrams](#Software-Architecture-Container-Diagrams)<br>
-4.6.3. [Software Architecture Components Diagrams](#Software-Architecture-Components-Diagrams)<br>
-4.7. [***Software Object-Oriented Design***](#Software-Object-Oriented-Design)<br>
-4.7.1. [Class Diagrams](#Class-Diagrams)<br>
-4.7.2. [Class Dictionary](#Class-Dictionary)<br>
-4.8. [***Database Design***](#Database-Design)<br>
-4.8.1. [Database Diagram](#Database-Diagram)<br>
-5. [**Capítulo V: Product Implementation, Validation & Deployment**](#Capítulo-V:-Product-Implementation,-Validation-&-Deployment)<br>
-5.1. [***Software Configuration Management***](#Software-Configuration-Management)<br>
-5.1.1. [Software Development Environment Configuration](#Software-Development-Environment-Configuration)<br>
-5.1.2. [Source Code Management](#Source-Code-Management)<br>
-5.1.3. [Source Code Style Guide & Conventions](#Source-Code-Style-Guide-&-Conventions)<br>
-5.1.4. [Software Deployment Configuration](#Software-Deployment-Configuration)<br>
-5.2. [***Landing Page, Services & Applications Implementation***](#Landing-Page,-Services-&-Applications-Implementation)<br>
-5.2.1. [Sprint 1](#Sprint-1)<br>
-5.2.1.1. [Sprint Planning 1](#Sprint-Planning-1)<br>
-5.2.1.2. [Sprint Backlog 1](#Sprint-Backlog-1)<br>
-5.2.1.3. [Development Evidence for Sprint Review](#Development-Evidence-for-Sprint-Review)<br>
-5.2.1.4. [Testing Suite Evidence for Sprint Review](#Testing-Suite-Evidence-for-Sprint-Review)<br>
-5.2.1.5. [Execution Evidence for Sprint Review](#Execution-Evidence-for-Sprint-Review)<br>
-5.2.1.6. [Services Documentation Evidence for Sprint Review](#Services-Documentation-Evidence-for-Sprint-Review)<br>
-5.2.1.7. [Software Deployment Evidence for Sprint Review](#Software-Deployment-Evidence-for-Sprint-Review)<br>
-5.2.1.8. [Team Collaboration Insights during Sprint](#Team-Collaboration-Insights-during-Sprint)<br>
-5.3. [***Validation Interviews***](#Validation-Interviews)<br>
-5.3.1.[Diseño de Entrevistas](#Diseño-de-Entrevistas)<br>
-5.3.2.[Registro de Entrevistas](#Registro-de-Entrevistas)<br>
-5.3.3.[Evaluaciones según Heurísticas](#Evaluaciones-según-Heurísticas)<br>
-5.4. [***Video About-the-Product***](#Video-About-the-Product)<br>
-6. [**Conclusiones**](#Conclusiones)<br>
-7. [**Bibliografía**](#Bibliografía)<br>
-8. [**Anexos**](#Anexos)<br>
+1. [**Capítulo I: Introducción**](#capítulo-i-introducción)
+1.1. [***Startup Profile***](#startup-profile)
+1.1.1. [Descripción del startup](#descripción-del-startup)
+1.1.2.[Perfiles de los integrantes del equipo](#perfiles-de-los-integrantes-del-equipo)
+1.2. [***Solution Profile***](#solution-profile)
+1.2.1. [Antecedentes y Problemática](#antecedentes-y-problemática)
+1.2.2. [Lean UX Process](#lean-ux-process)
+1.2.2.1. [Lean UX Problem Statements](#lean-ux-problem-statements)
+1.2.2.2. [Lean UX Assumptions](#lean-ux-assumptions)
+1.2.2.3. [Lean UX Hypothesis Statements](#lean-ux-hypothesis-statements)
+1.2.2.4. [Lean UX Canvas](#lean-ux-canvas)
+1.3. [***Segmentos objetivo***](#segmentos-objetivo)
+2. [**Capítulo II: Requirements Elicitation & Analysis**](#capítulo-ii-requirements-elicitation-&-analysis)
+2.1. [***Competidores***](#competidores)
+2.1.1. [Análisis competitivo](#análisis-competitivo)
+2.1.2. [Estrategias y tácticas frente a competidores](#estrategias-y-tácticas-frente-a-competidores)
+2.2. [***Entrevistas***](#entrevistas)
+2.2.1. [Diseño de entrevistas](#diseño-de-entrevistas)
+2.2.2. [Registro de entrevistas](#registro-de-entrevistas)
+2.2.3. [Análisis de entrevistas](#análisis-de-entrevistas)
+2.3. [***Needfinding***](#needfinding)
+2.3.1. [User Personas](#user-personas)
+2.3.2. [User Task Matrix](#user-task-matrix)
+2.3.3. [User Journey Mapping](#user-journey-mapping)
+2.3.4. [Empathy Mapping](#empathy-mapping)
+2.3.5. [As-is Scenario Mapping](#as-is-scenario-mapping)
+2.4. [***Ubiquitous Language***](#ubiquitous-Language)
+3. [**Capítulo III: Requirements Specification**](#capítulo-iii-requirements-specification)
+3.1. [***To-Be Scenario Mapping***](#to-be-scenario-mapping)
+3.2. [***User Stories***](#user-stories)
+3.3. [***Impact Mapping***](#impact-mapping)
+3.4. [***Product Backlog***](#product-backlog)
+4. [**Capítulo IV: Product Design**](#capítulo-iv-product-design)
+4.1. [***Style Guidelines***](#style-guidelines)
+4.1.1. [General Style Guidelines](#general-style-guidelines)
+4.1.2. [Web Style Guidelines](#web-style-guidelines)
+4.2. [***Information Architecture***](#information-architecture)
+4.2.1. [Organization Systems](#organization-systems)
+4.2.2. [Labeling Systems](#labeling-systems)
+4.2.3. [SEO Tags and Meta Tags](#seo-tags-and-meta-tags)
+4.2.4. [Searching Systems](#searching-systems)
+4.2.5. [Navigation Systems](#navigation-systems)
+4.3. [***Landing Page UI Design***](#landing-page-ui-design)
+4.3.1. [Landing Page Wireframe](#landing-page-wireframe)
+4.3.2. [Landing Page Mock-up](#landing-page-mock-up)
+4.4. [***Web Applications UX/UI Design***](#web-applications-uxui-design)
+4.4.1. [Web Applications Wireframes](#web-applications-wireframes)
+4.4.2. [Web Applications Wireflow Diagrams](#web-applications-wireflow-diagrams)
+4.4.3. [Web Applications Mock-ups](#web-applications-mock-ups)
+4.4.4. [Web Applications User Flow Diagrams](#web-applications-user-flow-diagrams)
+4.5. [***Web Applications Prototyping***](#web-applications-prototyping)
+4.6. [***Domain-Driven Software Architecture***](#domain-driven-software-architecture)
+4.6.1. [Software Architecture Context Diagram](#software-architecture-context-diagram)
+4.6.2. [Software Architecture Container Diagrams](#software-architecture-container-diagrams)
+4.6.3. [Software Architecture Components Diagrams](#software-architecture-components-diagrams)
+4.7. [***Software Object-Oriented Design***](#software-object-oriented-design)
+4.7.1. [Class Diagrams](#class-diagrams)
+4.7.2. [Class Dictionary](#class-dictionary)
+4.8. [***Database Design***](#database-design)
+4.8.1. [Database Diagram](#database-diagram)
+5. [**Capítulo V: Product Implementation, Validation & Deployment**](#capítulo-v-product-implementation,-validation-&-deployment)
+5.1. [***Software Configuration Management***](#software-configuration-management)
+5.1.1. [Software Development Environment Configuration](#software-development-environment-configuration)
+5.1.2. [Source Code Management](#source-code-management)
+5.1.3. [Source Code Style Guide & Conventions](#source-code-style-guide-&-conventions)
+5.1.4. [Software Deployment Configuration](#software-deployment-configuration)
+5.2. [***Landing Page, Services & Applications Implementation***](#landing-page,-services-&-applications-implementation)
+5.2.1. [Sprint 1](#sprint-1)
+5.2.1.1. [Sprint Planning 1](#sprint-planning-1)
+5.2.1.2. [Sprint Backlog 1](#sprint-backlog-1)
+5.2.1.3. [Development Evidence for Sprint Review](#development-evidence-for-sprint-review)
+5.2.1.4. [Testing Suite Evidence for Sprint Review](#testing-suite-evidence-for-sprint-review)
+5.2.1.5. [Execution Evidence for Sprint Review](#execution-evidence-for-sprint-review)
+5.2.1.6. [Services Documentation Evidence for Sprint Review](#services-documentation-evidence-for-sprint-review)
+5.2.1.7. [Software Deployment Evidence for Sprint Review](#oftware-deployment-evidence-for-sprint-review)
+5.2.1.8. [Team Collaboration Insights during Sprint](#team-collaboration-insights-during-sprint)
+5.3. [***Validation Interviews***](#validation-interviews)
+5.3.1.[Diseño de Entrevistas](#diseño-de-entrevistas)
+5.3.2.[Registro de Entrevistas](#registro-de-entrevistas)
+5.3.3.[Evaluaciones según Heurísticas](#evaluaciones-según-heurísticas)
+5.4. [***Video About-the-Product***](#video-about-the-product)
+6. [**Conclusiones**](#conclusiones)
+7. [**Bibliografía**](#bibliografía)
+8. [**Anexos**](#anexos)
 
 ## Students Outcomes
 
