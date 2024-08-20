@@ -448,12 +448,14 @@ horarios y necesidades.
 |Departamento|Lima, Perú|
 |<img src="resources/entrevista1.png" />|Paco, estudiante de economía, utiliza principalmente Instagram y Facebook para descubrir servicios de cuidado y belleza, valorando las fotos y opiniones en tiempo real. En un catálogo en línea, busca fotografías de alta calidad, testimonios de clientes, precios claros e información sobre la experiencia de los profesionales. Al obtener cotizaciones, prefiere detalles de los servicios, comparativas de precios, imágenes antes y después, y reseñas. Le atraen las imágenes de calidad y reseñas al descubrir nuevos servicios, y ya ha usado plataformas como StyleSeat, aunque cree que podrían ofrecer más detalles sobre los profesionales y su trabajo. Al comparar proveedores, prioriza las reseñas, ubicación, disponibilidad y precios.|
 |Duración entrevista: 2:32|URL: [ https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211b293_upc_edu_pe/Eb1SlaolL0hPgcxnmQAkrl8BAtm7CIc5veK7VOxQ5YVp8g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BfN0lJ]|
+
 |**Nombre entrevistado**|  **Valeria Fernanda Valle Martinez**|
 |Edad|19 años|
 |Profesión | Estudiante de Psicología|
 |Departamento|Lima, Perú|
 |<img src="resources/entrevista1ss.JPG" />|Valeria nos menciona que usa anuncios en las redes sociales para buscar salones de belleza, el que más usa es Instagram. Sin embargo, nos cuenta que los anuncios no le permiten conocer la información completa del local como, por ejemplo: la calidad de los productos, precio, ubicación o servicio. Nos contó que no usa aplicaciones para gestionar las citas, pero reconoce el valor de estas, pues le permitirían ver la información de los salones de belleza y los compararlo con otros para buscar el mejor servicio. Mostro interés en nuestro proyecto, y afirmo que la característica más resaltante seria que la mantengan informada de las promociones y datos de los salones de belleza.|
 |Duración entrevista: 4:49|URL: [ https://drive.google.com/file/d/1S4OemuKdZ3HVOmgrfeUWXDjV7_4m7pIx/view?usp=sharing]|
+
 |**Nombre entrevistado**|  **Gabriela Suemy Ayllón García-Pacheco**|
 |Edad|19 años|
 |Profesión | Estudiante de Psicología|
