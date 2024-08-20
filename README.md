@@ -145,9 +145,9 @@ URL de la organización del proyecto: [https://github.com/upc-opensource-g-bliss
 
 ## Capítulo I: Introducción
 
-<div id='1.1.'><h3> 1.1 Startup Profile</h3></div>
+### 1.1 Startup Profile
 
-<div id='1.1.1.'><h4> 1.1.1. Descripción del startup</h4></div>
+#### 1.1.1. Descripción del startup
 
 <p style="text-align: justify">
 Las empresas de belleza y del cuidado personal están creciendo rápidamente, especialmente el sector de tratamientos faciales y dermocosmética, que ha crecido casi 8 veces en los últimos 10 años. Los centros de belleza están diseñados para satisfacer las necesidades de la clase media emergente de 2019, la cual está creciendo. 
@@ -169,7 +169,7 @@ Para aprovechar al máximo la competencia competitiva y el crecimiento, es funda
 
 <img src="resources/bliss.png" alt="bliss" width="150" style="margin-left: 2px; margin-top: 15px; margin-bottom: 10px"> <br>
 
-<div id='1.1.2.'><h4> 1.1.2. Perfiles de los integrantes del equipo</h4></div>
+#### 1.1.2. Perfiles de los integrantes del equipo
 
 |Integrante |Descripción|
 |-----------|-----------|
@@ -178,8 +178,8 @@ Para aprovechar al máximo la competencia competitiva y el crecimiento, es funda
 |           ||
 |           ||
 
-<div id='1.2.'><h3> 1.2. Solution Profile</h3></div>
-<div id='1.2.1.'><h4> 1.2.1. Antecedentes y Problemática</h4></div>
+### 1.2. Solution Profile
+####  1.2.1. Antecedentes y Problemática
 
 ##### What (Qué)
 ###### ¿Cuál es el problema?
@@ -228,10 +228,10 @@ La situación surge de la necesidad de las personas de mantener su apariencia y 
 ###### ¿Cuál es la magnitud del problema?
 De acuerdo con la Asociación Peruana de Empresarios de la Belleza (2022), 4 de cada 10 peluquerías se vieron obligadas a cerrar a raíz de la pandemia, y solo un 30% de estas siguen en la formalidad. Esto, en muchos casos, es producto de los elevados costos tanto del alquiler como de la materia prima que los estilistas requieren para realiza su labor.
 
-<div id='1.2.2.'><h4> 1.2.2. Lean UX Process</h4></div>
+####  1.2.2. Lean UX Process
 El objetivo de nuestra aplicación es mejorar la gestión de clientes mediante una plataforma que facilite a los clientes la búsqueda y reserva de servicios de belleza y cuidado personal.
 
-<div id='1.2.2.1.'><h5> 1.2.2.1. Lean UX Problem Statements</h5></div>
+#####  1.2.2.1. Lean UX Problem Statements
 
 a) El objetivo de nuestra aplicación es mejorar la gestión de clientes mediante una
 plataforma que facilite a los clientes la búsqueda y reserva de servicios de belleza y
