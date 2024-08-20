@@ -935,6 +935,64 @@ Se desplegó en Github Pages, para esto necesitamos:
   
 <div id='5.2.'><h3> 5.2.Landing Page, Services & Applications Implementation </h3></div>
 <div id='5.2.1.'><h4> 5.2.1.Sprint 1</h4></div>
+
+<table>
+    <thead>
+        <tr>
+            <td>Sprint #</td>
+            <td>Sprint 1</td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Planning Background</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Date</td>
+            <td>20/08/2024</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>21:00</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>UPC</td>
+        </tr>
+        <tr>
+            <td>Prepared By</td>
+            <td>BeautyServices</td>
+        </tr>
+        <tr>
+            <td>Attendees (to planning meeting)</td>
+            <td>Sorano Medriano, Diego Martin/Rodriguez Villa, Elvia Marcela/Cabrera Buitron, Diego Ivan/ Rivas Sarango, David Alejandro / Bernaola Pérez, André Arturo</td>
+        </tr>
+        <tr>
+            <td>Sprint n – 1 Review Summary</td>
+            <td>Siendo este el primer sprint, no hay reviews de sprints anteriores.</td>
+        </tr>
+        <tr>
+            <td>Sprint n – 1 Retrospective Summary</td>
+            <td>Siendo el primer sprint, se mencionará la expectativa de los miembros del equipo: Terminar las actividades antes de la crítica. </td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Goal & User Stories</td>
+        </tr>
+        <tr>
+            <td>Sprint 1 Goal</td>
+            <td>Diseñar e implementar la landing page</td>
+        </tr>
+        <tr>
+            <td>Sprint 1 Velocity</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Sum of Story Points</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
 <div id='5.2.1.1.'><h5> 5.2.1.1.Sprint Planning 1</h5></div>
 <div id='5.2.1.2.'><h5> 5.2.1.2.Sprint Backlog 1</h5></div>
 <div id='5.2.1.3.'><h5> 5.2.1.3.Development Evidence for Sprint Review</h5></div>
