@@ -709,7 +709,7 @@ El sistema de navegación incluye menús y botones claros que guían a los usuar
 
 hola
 
-<img src=" resources/c4-model/bliss-context-diagram.png" />
+<img src="resources/c4-model/bliss-context-diagram.png" />
 
 <div id='4.6.2.'><h4> 4.6.2. Software Architecture Container Diagrams</h4></div>
 <div id='4.6.3.'><h4> 4.6.3. Software Architecture Components Diagrams</h4></div>
