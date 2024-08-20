@@ -48,6 +48,13 @@ URL de la organización del proyecto: [https://github.com/upc-opensource-g-bliss
 
 ***
 
+## Tabla de Contenidos
+1. [Introducción](#introducción)
+2. [Lenguajes de Programación](#lenguajes-de-programación)
+   - [JavaScript/TypeScript](#javascripttypescript)
+
+
+
 ## Contenido
 1. [Capítulo I: Introducción](#capítuloI:Introducción)<br>
 1.1. [***Startup Profile***](#Startup-Profile) <br>
@@ -133,6 +140,8 @@ URL de la organización del proyecto: [https://github.com/upc-opensource-g-bliss
 6. [**Conclusiones**](#Conclusiones)<br>
 7. [**Bibliografía**](#Bibliografía)<br>
 8. [**Anexos**](#Anexos)<br>
+
+## Introducción
 
 ## Students Outcomes
 
