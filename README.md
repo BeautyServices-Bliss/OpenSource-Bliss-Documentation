@@ -835,13 +835,13 @@ Gherkin es un sistema de etiquetado utilizado para detallar como se comporta el 
 
 **Software Deployment**
 
-Se ha utilizado Netlify para el despliegue de la landing page:
+Se ha utilizado Gitthub Pages para el despliegue de la landing page:
 
 <table>
     <tbody>
         <tr>
             <td>Link de referencia: </td>
-            <td>https://www.netlify.com/</td>
+            <td>https://pages.github.com/</td>
         </tr>
     </tbody>
 </table>
