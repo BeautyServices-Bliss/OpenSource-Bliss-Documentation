@@ -174,10 +174,11 @@ Para aprovechar al máximo la competencia competitiva y el crecimiento, es funda
 
 |Integrante |Descripción|
 |-----------|-----------|
-|<img src="resources/rivas-foto.jpg"/>|**David Alejandro Rivas Sarango** <br> Mi nombre es **David Rivas**, actualmente estoy cursando la carrera de Ingeniería de Software en la UPC. Soy una persona honesta y responsable. Me interesa el área de Data Science, por esto estoy siguiendo cursos de capacitacion en SQL y Python.|
+||**André Arturo Bernaola Pérez**|
 |<img src="resources/diego.png" alt="diego">|**Diego Ivan Cabrera Buitron** <br> Mi nombre es **Diego Cabrera**, estoy cursando la carrera de Ingeniería de Software, me considero una persona responsable y perseverante. Al culminar mi carrera quiero especializarme en el sector de la ciberseguridad|
-|           ||
-|           ||
+|           |**Elvia Marcela Rodriguez Villa**|
+|           |**Diego Martin Soriano Medrano**|
+|<img src="resources/rivas-foto.jpg"/>|**David Alejandro Rivas Sarango** <br> Mi nombre es **David Rivas**, actualmente estoy cursando la carrera de Ingeniería de Software en la UPC. Soy una persona honesta y responsable. Me interesa el área de Data Science, por esto estoy siguiendo cursos de capacitacion en SQL y Python.|
 
 ### Solution Profile
 #### Antecedentes y Problemática
