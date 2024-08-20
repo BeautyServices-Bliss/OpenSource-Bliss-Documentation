@@ -61,7 +61,7 @@ URL de la organización del proyecto: [https://github.com/upc-opensource-g-bliss
 1.2.2.3. [Lean UX Hypothesis Statements](#lean-ux-hypothesis-statements)
 1.2.2.4. [Lean UX Canvas](#lean-ux-canvas)
 1.3. [***Segmentos objetivo***](#segmentos-objetivo)
-2. [**Capítulo II: Requirements Elicitation & Analysis**](#capítulo-ii-requirements-elicitation-&-analysis)
+3. [**Capítulo II: Requirements Elicitation & Analysis**](#capítulo-ii-requirements-elicitation-&-analysis)
 2.1. [***Competidores***](#competidores)
 2.1.1. [Análisis competitivo](#análisis-competitivo)
 2.1.2. [Estrategias y tácticas frente a competidores](#estrategias-y-tácticas-frente-a-competidores)
@@ -76,12 +76,12 @@ URL de la organización del proyecto: [https://github.com/upc-opensource-g-bliss
 2.3.4. [Empathy Mapping](#empathy-mapping)
 2.3.5. [As-is Scenario Mapping](#as-is-scenario-mapping)
 2.4. [***Ubiquitous Language***](#ubiquitous-Language)
-3. [**Capítulo III: Requirements Specification**](#capítulo-iii-requirements-specification)
+4. [**Capítulo III: Requirements Specification**](#capítulo-iii-requirements-specification)
 3.1. [***To-Be Scenario Mapping***](#to-be-scenario-mapping)
 3.2. [***User Stories***](#user-stories)
 3.3. [***Impact Mapping***](#impact-mapping)
 3.4. [***Product Backlog***](#product-backlog)
-4. [**Capítulo IV: Product Design**](#capítulo-iv-product-design)
+5. [**Capítulo IV: Product Design**](#capítulo-iv-product-design)
 4.1. [***Style Guidelines***](#style-guidelines)
 4.1.1. [General Style Guidelines](#general-style-guidelines)
 4.1.2. [Web Style Guidelines](#web-style-guidelines)
@@ -109,7 +109,7 @@ URL de la organización del proyecto: [https://github.com/upc-opensource-g-bliss
 4.7.2. [Class Dictionary](#class-dictionary)
 4.8. [***Database Design***](#database-design)
 4.8.1. [Database Diagram](#database-diagram)
-5. [**Capítulo V: Product Implementation, Validation & Deployment**](#capítulo-v-product-implementation,-validation-&-deployment)
+6. [**Capítulo V: Product Implementation, Validation & Deployment**](#capítulo-v-product-implementation,-validation-&-deployment)
 5.1. [***Software Configuration Management***](#software-configuration-management)
 5.1.1. [Software Development Environment Configuration](#software-development-environment-configuration)
 5.1.2. [Source Code Management](#source-code-management)
@@ -130,9 +130,9 @@ URL de la organización del proyecto: [https://github.com/upc-opensource-g-bliss
 5.3.2.[Registro de Entrevistas](#registro-de-entrevistas)
 5.3.3.[Evaluaciones según Heurísticas](#evaluaciones-según-heurísticas)
 5.4. [***Video About-the-Product***](#video-about-the-product)
-6. [**Conclusiones**](#conclusiones)
-7. [**Bibliografía**](#bibliografía)
-8. [**Anexos**](#anexos)
+7. [**Conclusiones**](#conclusiones)
+8. [**Bibliografía**](#bibliografía)
+9. [**Anexos**](#anexos)
 
 ## Students Outcomes
 
@@ -145,7 +145,7 @@ URL de la organización del proyecto: [https://github.com/upc-opensource-g-bliss
 
 ## Capítulo I: Introducción
 
-### Startup Profile
+### 1.1. Startup Profile
 
 #### Descripción del startup
 
