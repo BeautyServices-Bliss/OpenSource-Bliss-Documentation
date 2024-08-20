@@ -6,13 +6,12 @@
 </p>
 
 ## <center>Informe del TB1</center>
-<h4 style="text-align: center;"> Ingeniería de Software </h4>
-<h4 style="text-align: center;"> Ciclo 2024-01 </h4>
-<h4 style="text-align: center;"> Docente: Juan Antonio Flores Moroco </h4>
-<h4 style="text-align: center;"> Startup: BeautyServices </h4>
-<h4 style="text-align: center;"> Producto: Bliss  </h4>
-
-## Integrantes
+###  <center>Ingeniería de Software</center>
+###  <center>Ciclo 2024-01</center>
+###  <center>Docente: Juan Antonio Flores Moroco</center>
+###  <center>Startup: BeautyServices </center>
+###  <center>Producto: Bliss </center>
+##  <center>Integrantes
 
 | Nombre |Código de alumno|
 |:-------:|:----------:|
