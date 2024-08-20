@@ -51,17 +51,17 @@ URL de la organización del proyecto: [https://github.com/upc-opensource-g-bliss
 ## Contenido
 1. [**Capítulo I: Introducción**](#capítulo-i-introducción) <br>
 1.1. [***1.1.Startup Profile***](#11-startup-profile) <br>
-1.1.1. [Descripción del startup](#descripción-del-startup) <br>
-1.1.2.[Perfiles de los integrantes del equipo](#perfiles-de-los-integrantes-del-equipo) <br>
-1.2. [***Solution Profile***](#solution-profile) <br>
-1.2.1. [Antecedentes y Problemática](#antecedentes-y-problemática) <br>
-1.2.2. [Lean UX Process](#lean-ux-process) <br>
-1.2.2.1. [Lean UX Problem Statements](#lean-ux-problem-statements) <br>
-1.2.2.2. [Lean UX Assumptions](#lean-ux-assumptions) <br>
-1.2.2.3. [Lean UX Hypothesis Statements](#lean-ux-hypothesis-statements) <br>
-1.2.2.4. [Lean UX Canvas](#lean-ux-canvas) <br>
-1.3. [***Segmentos objetivo***](#segmentos-objetivo) <br>
-2. [**Capítulo II: Requirements Elicitation & Analysis**](#capítulo-ii-requirements-elicitation-&-analysis) <br>
+1.1.1. [1.1.1. Descripción del startup](#111-descripción-del-startup) <br>
+1.1.2.[1.1.2. Perfiles de los integrantes del equipo](#112perfiles-de-los-integrantes-del-equipo) <br>
+1.2. [***1.2. Solution Profile***](#12solution-profile) <br>
+1.2.1. [1.2.1.Antecedentes y Problemática](#121antecedentes-y-problemática) <br>
+1.2.2. [1.2.2.Lean UX Process](#122lean-ux-process) <br>
+1.2.2.1. [1.2.2.1.Lean UX Problem Statements](#1221lean-ux-problem-statements) <br>
+1.2.2.2. [1.2.2.2.Lean UX Assumptions](#1222lean-ux-assumptions) <br>
+1.2.2.3. [1.2.2.3.Lean UX Hypothesis Statements](#1223lean-ux-hypothesis-statements) <br>
+1.2.2.4. [1.2.2.4. Lean UX Canvas](#1224lean-ux-canvas) <br>
+1.3. [***1.3. Segmentos objetivo***](#13segmentos-objetivo) <br>
+2. [**2. Capítulo II: Requirements Elicitation & Analysis**](#capítulo-ii-requirements-elicitation-&-analysis) <br>
 2.1. [***Competidores***](#competidores) <br>
 2.1.1. [Análisis competitivo](#análisis-competitivo) <br>
 2.1.2. [Estrategias y tácticas frente a competidores](#estrategias-y-tácticas-frente-a-competidores) <br>
@@ -147,7 +147,7 @@ URL de la organización del proyecto: [https://github.com/upc-opensource-g-bliss
 
 ### 1.1. Startup Profile
 
-#### Descripción del startup
+#### 1.1.1. Descripción del startup
 
 <p style="text-align: justify">
 Las empresas de belleza y del cuidado personal están creciendo rápidamente, especialmente el sector de tratamientos faciales y dermocosmética, que ha crecido casi 8 veces en los últimos 10 años. Los centros de belleza están diseñados para satisfacer las necesidades de la clase media emergente de 2019, la cual está creciendo. 
@@ -169,7 +169,7 @@ Para aprovechar al máximo la competencia competitiva y el crecimiento, es funda
 
 <img src="resources/bliss.png" alt="bliss" width="150" style="margin-left: 2px; margin-top: 15px; margin-bottom: 10px"> <br>
 
-#### Perfiles de los integrantes del equipo
+#### 1.1.2. Perfiles de los integrantes del equipo
 
 |Integrante |Descripción|
 |-----------|-----------|
@@ -179,8 +179,8 @@ Para aprovechar al máximo la competencia competitiva y el crecimiento, es funda
 |           |**Diego Martin Soriano Medrano**|
 |<img src="resources/rivas-foto.jpg"/>|**David Alejandro Rivas Sarango** <br> Mi nombre es **David Rivas**, actualmente estoy cursando la carrera de Ingeniería de Software en la UPC. Soy una persona honesta y responsable. Me interesa el área de Data Science, por esto estoy siguiendo cursos de capacitacion en SQL y Python.|
 
-### Solution Profile
-#### Antecedentes y Problemática
+### 1.2. Solution Profile
+#### 1.2.1. Antecedentes y Problemática
 
 ##### What (Qué)
 ###### ¿Cuál es el problema?
@@ -229,10 +229,10 @@ La situación surge de la necesidad de las personas de mantener su apariencia y 
 ###### ¿Cuál es la magnitud del problema?
 De acuerdo con la Asociación Peruana de Empresarios de la Belleza (2022), 4 de cada 10 peluquerías se vieron obligadas a cerrar a raíz de la pandemia, y solo un 30% de estas siguen en la formalidad. Esto, en muchos casos, es producto de los elevados costos tanto del alquiler como de la materia prima que los estilistas requieren para realiza su labor.
 
-#### Lean UX Process
+#### 1.2.2. Lean UX Process
 El objetivo de nuestra aplicación es mejorar la gestión de clientes mediante una plataforma que facilite a los clientes la búsqueda y reserva de servicios de belleza y cuidado personal.
 
-##### Lean UX Problem Statements
+##### 1.2.2.1. Lean UX Problem Statements
 
 a) El objetivo de nuestra aplicación es mejorar la gestión de clientes mediante una
 plataforma que facilite a los clientes la búsqueda y reserva de servicios de belleza y
@@ -266,9 +266,9 @@ desafíos adicionales para garantizar la calidad y confiabilidad de los servicio
 la formalidad y calidad de los centros de belleza asociados, brindando así una
 experiencia de usuario más segura y confiable en nuestra plataforma?
 
-<div id='1.2.2.2.'><h5> 1.2.2.2. Lean UX Assumptions</h5></div>
+###### 1.2.2.2. Lean UX Assumptions
 
-<div id='1.2.2.3.'><h5> 1.2.2.3. Lean UX Hypothesis Statements.</h5></div>
+######  1.2.2.3. Lean UX Hypothesis Statements
 
 * **Hypothesis Statement 01:**
   
@@ -321,21 +321,21 @@ participación de los usuarios en la función de calificación y reseñas, así 
 incremento en la cantidad de reseñas positivas y una mejora general en la percepción
 de la calidad de los servicios por parte de los usuarios.
 
-<div id='1.2.2.4.'><h5> 1.2.2.4. Lean UX Canvas</h5></div>
+###### 1.2.2.4. Lean UX Canvas
 
   <img src="resources/leanuxcanvas.png" alt="LeanUxCanvas">
 
 Enlace para acceder al Canvas (https://app.mural.co/t/studentprojects6765/m/studentprojects6765/1723924811878/e2acd47a64a2a0139c4cf13feb7c67c6a2e5f92d?sender=u9e84aeace61d1c60b4be6095)
-<div id='1.3.'><h3> 1.3. Segmento objetivo</h3></div>
+### 1.3. Segmento objetivo
 
 1. MYPES: Este segmento esta compuesto por dueños de negocios que brindan servicios de cuidado y belleza que funcionan en Lima.
 
 2. Aficionadas al embellecimiento: Este segmento esta compuesto por mujeres en el rango de edad de 20 a 45 años, del sector socioeconómico B-C que residan en Lima.
 
 
-<div id='2.'><h2> Capítulo II: Requirements Elicitation & Analysis</h2></div>
-<div id='2.1.'><h3> 2.1. Competidores</h3></div>
-<div id='2.1.1.'><h4> 2.1.1. Análisis Competitivo</h4></div>
+## Capítulo II: Requirements Elicitation & Analysis
+### 2.1. Competidores
+#### 2.1.1. Análisis Competitivo
 
 ||Bliss <br><img src='resources/bliss.png' width="110" height="70">|Treatwell <img src='resources/treatwell.png' width="70" height="70">|SimplyBook <img src='resources/simply.png' width="70" height="70">|Booksy <br><img src='resources/boosky.png' width="70" height="70">|
 |:-:|:-:|:-:|:-:|:-:|
