@@ -6,13 +6,12 @@
 </p>
 
 ## <center>Informe del TB1</center>
-<h4 style="text-align: center;"> Ingeniería de Software </h4>
-<h4 style="text-align: center;"> Ciclo 2024-01 </h4>
-<h4 style="text-align: center;"> Docente: Juan Antonio Flores Moroco </h4>
-<h4 style="text-align: center;"> Startup: BeautyServices </h4>
-<h4 style="text-align: center;"> Producto: Bliss  </h4>
-
-## Integrantes
+###  <center>Ingeniería de Software</center>
+###  <center>Ciclo 2024-01</center>
+###  <center>Docente: Juan Antonio Flores Moroco</center>
+###  <center>Startup: BeautyServices </center>
+###  <center>Producto: Bliss </center>
+##  <center>Integrantes
 
 | Nombre |Código de alumno|
 |:-------:|:----------:|
@@ -50,90 +49,90 @@ URL de la organización del proyecto: [https://github.com/upc-opensource-g-bliss
 ***
 
 ## Contenido
-1. [Capítulo I: Introducción](#1.)<br>
-1.1. [***Startup Profile***](#1.1.) <br>
-1.1.1. [Descripción del startup](#1.1.1.)<br>
-1.1.2.[Perfiles de los integrantes del equipo](#1.1.2.)<br>
-1.2. [***Solution Profile***](#1.2.)<br>
-1.2.1. [Antecedentes y Problemática](#1.2.1.)<br>
-1.2.2. [Lean UX Process](#1.2.2.)<br>
-1.2.2.1. [Lean UX Problem Statements](#1.2.2.1.)<br>
-1.2.2.2. [Lean UX Assumptions](#1.2.2.2.)<br>
-1.2.2.3. [Lean UX Hypothesis Statements](#1.2.2.3.)<br>
-1.2.2.4. [Lean UX Canvas](#1.2.2.4.)<br>
-1.3. [***Segmentos objetivo***](#1.3.)<br>
-2. [**Capítulo II: Requirements Elicitation & Analysis**](#2.)<br>
-2.1. [***Competidores***](#2.1.)<br>
-2.1.1. [Análisis competitivo](#2.1.1.)<br>
-2.1.2. [Estrategias y tácticas frente a competidores](#2.1.2.)<br>
-2.2. [***Entrevistas***](#2.2.)<br>
-2.2.1. [Diseño de entrevistas](#2.2.1.)<br>
-2.2.2. [Registro de entrevistas](#2.2.2.)<br>
-2.2.3. [Análisis de entrevistas](#2.2.3.)<br>
-2.3. [***Needfinding***](#2.3.)<br>
-2.3.1. [User Personas](#2.3.1.)<br>
-2.3.2. [User Task Matrix](#2.3.2.)<br>
-2.3.3. [User Journey Mapping](#2.3.3.)<br>
-2.3.4. [Empathy Mapping](#2.3.4.)<br>
-2.3.5. [As-is Scenario Mapping](#2.3.5.)<br>
-2.4. [***Ubiquitous Language***](#2.4.)<br>
-3. [**Capítulo III: Requirements Specification**](#3.)<br>
-3.1. [***To-Be Scenario Mapping***](#3.1.)<br>
-3.2. [***User Stories***](#3.2.)<br>
-3.3. [***Impact Mapping***](#3.3.)<br>
-3.4. [***Product Backlog***](#3.4.)<br>
-4. [**Capítulo IV: Product Design.**](#4.)<br>
-4.1. [***Style Guidelines***](#4.1.)<br>
-4.1.1. [General Style Guidelines](#4.1.1.)<br>
-4.1.2. [Web Style Guidelines](#4.1.2.)<br>
-4.2. [***Information Architecture***](#4.2.)<br>
-4.2.1. [Organization Systems](#4.2.1.)<br>
-4.2.2. [Labeling Systems](#4.2.2.)<br>
-4.2.3. [SEO Tags and Meta Tags](#4.2.3.)<br>
-4.2.4. [Searching Systems](#4.2.4.)<br>
-4.2.5. [Navigation Systems](#4.2.5.)<br>
-4.3. [***Landing Page UI Design***](#4.3.)<br>
-4.3.1. [Landing Page Wireframe](#4.3.1.)<br>
-4.3.2. [Landing Page Mock-up](#4.3.2.)<br>
-4.4. [***Web Applications UX/UI Design***](#4.4.)<br>
-4.4.1. [Web Applications Wireframes](#4.4.1.)<br>
-4.4.2. [Web Applications Wireflow Diagrams](#4.4.2.)<br>
-4.4.3. [Web Applications Mock-ups](#4.4.3.)<br>
-4.4.4. [Web Applications User Flow Diagrams](#4.4.4.)<br>
-4.5. [***Web Applications Prototyping***](#4.5.)<br>
-4.6. [***Domain-Driven Software Architecture***](#4.6.)<br>
-4.6.1. [Software Architecture Context Diagram](#4.6.1.)<br>
-4.6.2. [Software Architecture Container Diagrams](#4.6.2.)<br>
-4.6.3. [Software Architecture Components Diagrams](#4.6.3.)<br>
-4.7. [***Software Object-Oriented Design***](#4.7.)<br>
-4.7.1. [Class Diagrams](#4.7.1.)<br>
-4.7.2. [Class Dictionary](#4.7.2.)<br>
-4.8. [***Database Design***](#4.8.)<br>
-4.8.1. [Database Diagram](#4.8.1.)<br>
-5. [**Capítulo V: Product Implementation, Validation & Deployment**](#5.)<br>
-5.1. [***Software Configuration Management***](#5.1.)<br>
-5.1.1. [Software Development Environment Configuration](#5.1.1.)<br>
-5.1.2. [Source Code Management](#5.1.2.)<br>
-5.1.3. [Source Code Style Guide & Conventions](#5.1.3.)<br>
-5.1.4. [Software Deployment Configuration](#5.1.4.)<br>
-5.2. [***Landing Page, Services & Applications Implementation***](#5.2.)<br>
-5.2.1. [Sprint 1](#5.2.1.)<br>
-5.2.1.1. [Sprint Planning 1](#5.2.1.1.)<br>
-5.2.1.2. [Sprint Backlog 1](#5.2.1.2.)<br>
-5.2.1.3. [Development Evidence for Sprint Review](#5.2.1.3.)<br>
-5.2.1.4. [Testing Suite Evidence for Sprint Review](#5.2.1.4.)<br>
-5.2.1.5. [Execution Evidence for Sprint Review](#5.2.1.5.)<br>
-5.2.1.6. [Services Documentation Evidence for Sprint Review](#5.2.1.6.)<br>
-5.2.1.7. [Software Deployment Evidence for Sprint Review](#5.2.1.7.)<br>
-5.2.1.8. [Team Collaboration Insights during Sprint](#5.2.1.8.)<br>
-5.3. [***Validation Interviews***](#5.3.)<br>
-5.3.1.[Diseño de Entrevistas](#5.3.1.)<br>
-5.3.2.[Registro de Entrevistas](#5.3.2.)<br>
-5.3.3.[Evaluaciones según Heurísticas](#5.3.3.)<br>
-5.4. [***Video About-the-Product***](#5.4.)<br>
-6. [**Conclusiones**](#6.)<br>
-7. [**Bibliografía**](#7.)<br>
-8. [**Anexos**](#8.)<br>
+1. [**Capítulo I: Introducción**](#capítulo-i-introducción) <br>
+1.1. [***1.1.Startup Profile***](#11-startup-profile) <br>
+1.1.1. [1.1.1. Descripción del startup](#111-descripción-del-startup) <br>
+1.1.2.[1.1.2. Perfiles de los integrantes del equipo](#112-perfiles-de-los-integrantes-del-equipo) <br>
+1.2. [***1.2. Solution Profile***](#12-solution-profile) <br>
+1.2.1. [1.2.1.Antecedentes y Problemática](#121-antecedentes-y-problemática) <br>
+1.2.2. [1.2.2.Lean UX Process](#122-lean-ux-process) <br>
+1.2.2.1. [1.2.2.1.Lean UX Problem Statements](#1221-lean-ux-problem-statements) <br>
+1.2.2.2. [1.2.2.2.Lean UX Assumptions](#1222-lean-ux-assumptions) <br>
+1.2.2.3. [1.2.2.3.Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements) <br>
+1.2.2.4. [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas) <br>
+1.3. [***1.3. Segmentos objetivo***](#13-segmentos-objetivo) <br>
+2. [**2. Capítulo II: Requirements Elicitation & Analysis**](#capítulo-ii-requirements-elicitation-&-analysis) <br>
+2.1. [***Competidores***](#competidores) <br>
+2.1.1. [Análisis competitivo](#análisis-competitivo) <br>
+2.1.2. [Estrategias y tácticas frente a competidores](#estrategias-y-tácticas-frente-a-competidores) <br>
+2.2. [***Entrevistas***](#entrevistas) <br>
+2.2.1. [Diseño de entrevistas](#diseño-de-entrevistas) <br>
+2.2.2. [Registro de entrevistas](#registro-de-entrevistas) <br>
+2.2.3. [Análisis de entrevistas](#análisis-de-entrevistas) <br>
+2.3. [***Needfinding***](#needfinding) <br>
+2.3.1. [User Personas](#user-personas) <br>
+2.3.2. [User Task Matrix](#user-task-matrix) <br>
+2.3.3. [User Journey Mapping](#user-journey-mapping) <br>
+2.3.4. [Empathy Mapping](#empathy-mapping) <br>
+2.3.5. [As-is Scenario Mapping](#as-is-scenario-mapping) <br>
+2.4. [***Ubiquitous Language***](#ubiquitous-Language)
+3. [**Capítulo III: Requirements Specification**](#capítulo-iii-requirements-specification) <br>
+3.1. [***To-Be Scenario Mapping***](#to-be-scenario-mapping) <br>
+3.2. [***User Stories***](#user-stories) <br>
+3.3. [***Impact Mapping***](#impact-mapping) <br>
+3.4. [***Product Backlog***](#product-backlog) <br>
+4. [**Capítulo IV: Product Design**](#capítulo-iv-product-design) <br>
+4.1. [***Style Guidelines***](#style-guidelines) <br>
+4.1.1. [General Style Guidelines](#general-style-guidelines) <br>
+4.1.2. [Web Style Guidelines](#web-style-guidelines) <br>
+4.2. [***Information Architecture***](#information-architecture) <br>
+4.2.1. [Organization Systems](#organization-systems) <br>
+4.2.2. [Labeling Systems](#labeling-systems) <br>
+4.2.3. [SEO Tags and Meta Tags](#seo-tags-and-meta-tags) <br>
+4.2.4. [Searching Systems](#searching-systems) <br>
+4.2.5. [Navigation Systems](#navigation-systems) <br>
+4.3. [***Landing Page UI Design***](#landing-page-ui-design) <br>
+4.3.1. [Landing Page Wireframe](#landing-page-wireframe) <br>
+4.3.2. [Landing Page Mock-up](#landing-page-mock-up) <br>
+4.4. [***Web Applications UX/UI Design***](#web-applications-uxui-design) <br>
+4.4.1. [Web Applications Wireframes](#web-applications-wireframes) <br>
+4.4.2. [Web Applications Wireflow Diagrams](#web-applications-wireflow-diagrams) <br>
+4.4.3. [Web Applications Mock-ups](#web-applications-mock-ups) <br>
+4.4.4. [Web Applications User Flow Diagrams](#web-applications-user-flow-diagrams) <br>
+4.5. [***Web Applications Prototyping***](#web-applications-prototyping) <br>
+4.6. [***Domain-Driven Software Architecture***](#domain-driven-software-architecture) <br>
+4.6.1. [Software Architecture Context Diagram](#software-architecture-context-diagram) <br>
+4.6.2. [Software Architecture Container Diagrams](#software-architecture-container-diagrams) <br>
+4.6.3. [Software Architecture Components Diagrams](#software-architecture-components-diagrams) <br>
+4.7. [***Software Object-Oriented Design***](#software-object-oriented-design) <br>
+4.7.1. [Class Diagrams](#class-diagrams) <br>
+4.7.2. [Class Dictionary](#class-dictionary) <br>
+4.8. [***Database Design***](#database-design) <br>
+4.8.1. [Database Diagram](#database-diagram) <br>
+5. [**Capítulo V: Product Implementation, Validation & Deployment**](#capítulo-v-product-implementation,-validation-&-deployment) <br>
+5.1. [***Software Configuration Management***](#software-configuration-management) <br>
+5.1.1. [Software Development Environment Configuration](#software-development-environment-configuration) <br>
+5.1.2. [Source Code Management](#source-code-management) <br>
+5.1.3. [Source Code Style Guide & Conventions](#source-code-style-guide-&-conventions) <br>
+5.1.4. [Software Deployment Configuration](#software-deployment-configuration) <br>
+5.2. [***Landing Page, Services & Applications Implementation***](#landing-page,-services-&-applications-implementation) <br>
+5.2.1. [Sprint 1](#sprint-1) <br>
+5.2.1.1. [Sprint Planning 1](#sprint-planning-1) <br>
+5.2.1.2. [Sprint Backlog 1](#sprint-backlog-1) <br>
+5.2.1.3. [Development Evidence for Sprint Review](#development-evidence-for-sprint-review) <br>
+5.2.1.4. [Testing Suite Evidence for Sprint Review](#testing-suite-evidence-for-sprint-review) <br>
+5.2.1.5. [Execution Evidence for Sprint Review](#execution-evidence-for-sprint-review) <br>
+5.2.1.6. [Services Documentation Evidence for Sprint Review](#services-documentation-evidence-for-sprint-review) <br>
+5.2.1.7. [Software Deployment Evidence for Sprint Review](#oftware-deployment-evidence-for-sprint-review) <br>
+5.2.1.8. [Team Collaboration Insights during Sprint](#team-collaboration-insights-during-sprint) <br>
+5.3. [***Validation Interviews***](#validation-interviews) <br>
+5.3.1.[Diseño de Entrevistas](#diseño-de-entrevistas) <br>
+5.3.2.[Registro de Entrevistas](#registro-de-entrevistas) <br>
+5.3.3.[Evaluaciones según Heurísticas](#evaluaciones-según-heurísticas) <br>
+5.4. [***Video About-the-Product***](#video-about-the-product) <br>
+6. [**Conclusiones**](#conclusiones) <br>
+7. [**Bibliografía**](#bibliografía) <br>
+8. [**Anexos**](#anexos)
 
 ## Students Outcomes
 
@@ -144,10 +143,11 @@ URL de la organización del proyecto: [https://github.com/upc-opensource-g-bliss
 
 ***
 
-<div id='1.'><h2>Capítulo I: Introducción</h2></div>
-<div id='1.1.'><h3> 1.1 Startup Profile</h3></div>
+## Capítulo I: Introducción
 
-<div id='1.1.1.'><h4> 1.1.1. Descripción del startup</h4></div>
+### 1.1. Startup Profile
+
+#### 1.1.1. Descripción del startup
 
 <p style="text-align: justify">
 Las empresas de belleza y del cuidado personal están creciendo rápidamente, especialmente el sector de tratamientos faciales y dermocosmética, que ha crecido casi 8 veces en los últimos 10 años. Los centros de belleza están diseñados para satisfacer las necesidades de la clase media emergente de 2019, la cual está creciendo. 
@@ -169,17 +169,18 @@ Para aprovechar al máximo la competencia competitiva y el crecimiento, es funda
 
 <img src="resources/bliss.png" alt="bliss" width="150" style="margin-left: 2px; margin-top: 15px; margin-bottom: 10px"> <br>
 
-<div id='1.1.2.'><h4> 1.1.2. Perfiles de los integrantes del equipo</h4></div>
+#### 1.1.2. Perfiles de los integrantes del equipo
 
 |Integrante |Descripción|
 |-----------|-----------|
-|<img src="resources/rivas-foto.jpg"/>|**David Alejandro Rivas Sarango** <br> Mi nombre es **David Rivas**, actualmente estoy cursando la carrera de Ingeniería de Software en la UPC. Soy una persona honesta y responsable. Me interesa el área de Data Science, por esto estoy siguiendo cursos de capacitacion en SQL y Python.|
+||**André Arturo Bernaola Pérez**|
 |<img src="resources/diego.png" alt="diego">|**Diego Ivan Cabrera Buitron** <br> Mi nombre es **Diego Cabrera**, estoy cursando la carrera de Ingeniería de Software, me considero una persona responsable y perseverante. Al culminar mi carrera quiero especializarme en el sector de la ciberseguridad|
-|<img src="resources/rodriguez.jpg" alt="Glitter">|**Elvia Marcela Rodrígez Villa** <br> Soy Elvia Rodríguez, actual estudiante universitaria y egresada de Laboratoria. Soy actual embajadora del programa de estudiantes de Microsoft y fui participante de diversos voluntariados y Hackathons cómo Ciencia en tu Comunidad y el Laboratorio de Emprendimientos de SENAJU|
-|           ||
+|           |**Elvia Marcela Rodriguez Villa**|
+|           |**Diego Martin Soriano Medrano**|
+|<img src="resources/rivas-foto.jpg"/>|**David Alejandro Rivas Sarango** <br> Mi nombre es **David Rivas**, actualmente estoy cursando la carrera de Ingeniería de Software en la UPC. Soy una persona honesta y responsable. Me interesa el área de Data Science, por esto estoy siguiendo cursos de capacitacion en SQL y Python.|
 
-<div id='1.2.'><h3> 1.2. Solution Profile</h3></div>
-<div id='1.2.1.'><h4> 1.2.1. Antecedentes y Problemática</h4></div>
+### 1.2. Solution Profile
+#### 1.2.1. Antecedentes y Problemática
 
 ##### What (Qué)
 ###### ¿Cuál es el problema?
@@ -228,10 +229,10 @@ La situación surge de la necesidad de las personas de mantener su apariencia y 
 ###### ¿Cuál es la magnitud del problema?
 De acuerdo con la Asociación Peruana de Empresarios de la Belleza (2022), 4 de cada 10 peluquerías se vieron obligadas a cerrar a raíz de la pandemia, y solo un 30% de estas siguen en la formalidad. Esto, en muchos casos, es producto de los elevados costos tanto del alquiler como de la materia prima que los estilistas requieren para realiza su labor.
 
-<div id='1.2.2.'><h4> 1.2.2. Lean UX Process</h4></div>
+#### 1.2.2. Lean UX Process
 El objetivo de nuestra aplicación es mejorar la gestión de clientes mediante una plataforma que facilite a los clientes la búsqueda y reserva de servicios de belleza y cuidado personal.
 
-<div id='1.2.2.1.'><h5> 1.2.2.1. Lean UX Problem Statements</h5></div>
+##### 1.2.2.1. Lean UX Problem Statements
 
 a) El objetivo de nuestra aplicación es mejorar la gestión de clientes mediante una
 plataforma que facilite a los clientes la búsqueda y reserva de servicios de belleza y
@@ -265,7 +266,25 @@ desafíos adicionales para garantizar la calidad y confiabilidad de los servicio
 la formalidad y calidad de los centros de belleza asociados, brindando así una
 experiencia de usuario más segura y confiable en nuestra plataforma?
 
-<div id='1.2.2.2.'><h5> 1.2.2.2. Lean UX Assumptions</h5></div>
+###### 1.2.2.2. Lean UX Assumptions
+
+Creo que mis clientes necesitan saber cómo y dónde acceder a servicios de manicure, pedicure y tratamientos faciales a domicilio de manera conveniente y segura. 
+
+Estas necesidades se pueden resolver con una aplicación que conecte a clientes con profesionales de belleza verificados, ofreciendo una amplia gama de servicios personalizados y garantizando medidas de seguridad y calidad. 
+
+Mis clientes son personas que buscan comodidad y confiabilidad al reservar servicios de belleza, sin comprometer la calidad y la seguridad. 
+
+El valor N°1 que mi cliente quiere de mi servicio es la facilidad de reserva, la calidad de los servicios y la tranquilidad de tener profesionales confiables en su hogar. 
+
+El cliente también puede adquirir estos beneficios adicionales como descuentos por lealtad, recomendaciones personalizadas y acceso a productos exclusivos. 
+
+Voy a adquirir a la mayoría de mis clientes a través de estrategias de marketing digital, colaboraciones con empresas de belleza y programas de referidos. Haré dinero a través de anuncios por colaboraciones con marcas de belleza, comisiones por reservas y membresías premium. 
+
+Mi competencia principal en el mercado serán aplicaciones similares que ofrecen servicios de belleza a domicilio, salones de belleza locales y plataformas de reserva en línea. Los venceremos debido a nuestra estrategia de enfoque en la seguridad y calidad, personalización de servicios, y programas de fidelización. 
+
+Mi mayor riesgo de producto es que los clientes no confíen en la seguridad de tener desconocidos en sus hogares o que prefieran la experiencia tradicional en un salón de belleza. 
+
+Resolveremos esto a través de la implementación de rigurosos procesos de verificación de profesionales, garantías de seguridad y promoción de la comodidad y conveniencia de nuestros servicios a domicilio.
 
 <div id='1.2.2.3.'><h5> 1.2.2.3. Lean UX Hypothesis Statements.</h5></div>
 
@@ -320,21 +339,21 @@ participación de los usuarios en la función de calificación y reseñas, así 
 incremento en la cantidad de reseñas positivas y una mejora general en la percepción
 de la calidad de los servicios por parte de los usuarios.
 
-<div id='1.2.2.4.'><h5> 1.2.2.4. Lean UX Canvas</h5></div>
+###### 1.2.2.4. Lean UX Canvas
 
   <img src="resources/leanuxcanvas.png" alt="LeanUxCanvas">
 
 Enlace para acceder al Canvas (https://app.mural.co/t/studentprojects6765/m/studentprojects6765/1723924811878/e2acd47a64a2a0139c4cf13feb7c67c6a2e5f92d?sender=u9e84aeace61d1c60b4be6095)
-<div id='1.3.'><h3> 1.3. Segmento objetivo</h3></div>
+### 1.3. Segmento objetivo
 
 1. MYPES: Este segmento esta compuesto por dueños de negocios que brindan servicios de cuidado y belleza que funcionan en Lima.
 
 2. Aficionadas al embellecimiento: Este segmento esta compuesto por mujeres en el rango de edad de 20 a 45 años, del sector socioeconómico B-C que residan en Lima.
 
 
-<div id='2.'><h2> Capítulo II: Requirements Elicitation & Analysis</h2></div>
-<div id='2.1.'><h3> 2.1. Competidores</h3></div>
-<div id='2.1.1.'><h4> 2.1.1. Análisis Competitivo</h4></div>
+## Capítulo II: Requirements Elicitation & Analysis
+### 2.1. Competidores
+#### 2.1.1. Análisis Competitivo
 
 ||Bliss <br><img src='resources/bliss.png' width="110" height="70">|Treatwell <img src='resources/treatwell.png' width="70" height="70">|SimplyBook <img src='resources/simply.png' width="70" height="70">|Booksy <br><img src='resources/boosky.png' width="70" height="70">|
 |:-:|:-:|:-:|:-:|:-:|
@@ -446,13 +465,17 @@ horarios y necesidades.
 |Departamento|Lima, Perú|
 |<img src="resources/entrevista1.png" />|Paco, estudiante de economía, utiliza principalmente Instagram y Facebook para descubrir servicios de cuidado y belleza, valorando las fotos y opiniones en tiempo real. En un catálogo en línea, busca fotografías de alta calidad, testimonios de clientes, precios claros e información sobre la experiencia de los profesionales. Al obtener cotizaciones, prefiere detalles de los servicios, comparativas de precios, imágenes antes y después, y reseñas. Le atraen las imágenes de calidad y reseñas al descubrir nuevos servicios, y ya ha usado plataformas como StyleSeat, aunque cree que podrían ofrecer más detalles sobre los profesionales y su trabajo. Al comparar proveedores, prioriza las reseñas, ubicación, disponibilidad y precios.|
 |Duración entrevista: 2:32|URL: [ https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211b293_upc_edu_pe/Eb1SlaolL0hPgcxnmQAkrl8BAtm7CIc5veK7VOxQ5YVp8g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BfN0lJ]|
+
 |**Nombre entrevistado**|  **Valeria Fernanda Valle Martinez**|
+|:-|:-|
 |Edad|19 años|
 |Profesión | Estudiante de Psicología|
 |Departamento|Lima, Perú|
 |<img src="resources/entrevista1ss.JPG" />|Valeria nos menciona que usa anuncios en las redes sociales para buscar salones de belleza, el que más usa es Instagram. Sin embargo, nos cuenta que los anuncios no le permiten conocer la información completa del local como, por ejemplo: la calidad de los productos, precio, ubicación o servicio. Nos contó que no usa aplicaciones para gestionar las citas, pero reconoce el valor de estas, pues le permitirían ver la información de los salones de belleza y los compararlo con otros para buscar el mejor servicio. Mostro interés en nuestro proyecto, y afirmo que la característica más resaltante seria que la mantengan informada de las promociones y datos de los salones de belleza.|
 |Duración entrevista: 4:49|URL: [ https://drive.google.com/file/d/1S4OemuKdZ3HVOmgrfeUWXDjV7_4m7pIx/view?usp=sharing]|
+
 |**Nombre entrevistado**|  **Gabriela Suemy Ayllón García-Pacheco**|
+|:-|:-|
 |Edad|19 años|
 |Profesión | Estudiante de Psicología|
 |Departamento|Lima, Perú|
@@ -612,6 +635,44 @@ Con respecto a las entrevistas de trabajadores en el sector belleza y bienestar,
 
 <div id='3.2.'><h3> 3.2. User Stories</h3></div>
 
+|User Story ID|Título|Descripción|Criterios de Aceptación|EpicID|
+|-|-|-|-|-|
+|US01|Verificación de correo electrónico|Como usuario nuevo, quiero poder crear una cuenta en la aplicación proporcionando mi nombre, dirección de correo electrónico y contraseña.|**Escenario 1:** Registro completado  <br> Dado que un nuevo usuario quiere registrarse  <br> Cuando ingresa su nombre, dirección de correo electrónico y contraseña Y presiona el botón de Crear Cuenta  <br> Entonces se envía un correo de verificación a la dirección enviada  <br> **Escenario 2:** Error al registrar los datos  <br> Dado que un nuevo usuario quiere registrarse  <br> Cuando ingresa un nombre, contraseña o un correo electrónico que no cumpla los requisitos establecidos  <br>  Y presiona el botón de Crear Cuenta  <br> Entonces aparece en pantalla un mensaje de error, indicando donde se encuentra el error y pidiendo que se ingrese de nuevo|EP001: Gestión de cuenta del usuario|
+|US002|Verificación de correo electrónico|Como usuario, quiero recibir un correo electrónico de verificación después de registrarme para confirmar mi dirección de correo electrónico.|**Escenario 1:** Verificación exitosa  <br> Dado que un usuario quiere crear una nueva cuenta  <br> Cuando encuentra el correo que le mandamos donde está el enlace con el código  <br> para crear su cuenta  <br> Y ingresa correctamente su código al enlace  <br> Entonces la cuenta nueva esta creada y se le redirige a la página principal de la aplicación  <br> **Escenario 2:** Error en la verificación  <br> Dado que un usuario quiere crear una nueva cuenta  <br> Cuando no encuentra el correo que mandamos a la dirección registrada y ya  <br> presiono el botón mandar de nuevo  <br> Y ya pasaron 15 minutos  <br> Entonces aparecerá un mensaje de error que pedirá ingresar de nuevo el correo electrónico|EP001: Gestión de cuenta del usuario|
+|US003|Inicio de sesión de usuario|Como usuario registrado, quiero poder iniciar sesión en la aplicación utilizando mi correo electrónico y contraseña.|**Escenario 1:** Iniciar sesión exitosa <br> Dado que un usuario quiere ingresar a su cuenta <br> Cuando el usuario proporciona su dirección de correo electrónico y contraseña <br> Y presiona el botón Iniciar Sesión <br> Entonces el usuario es redirigido a la página principal de la aplicación <br> **Escenario 2:** Error al iniciar sesión <br> Dado que un usuario quiere ingresar a su cuenta <br> Cuando el usuario proporciona un correo electrónico o contraseña invalido <br> Y presiona el botón Iniciar Sesión <br> Entonces aparece en pantalla un mensaje de error, indicando donde se encuentra el <br> error y pidiendo que se ingrese de nuevo <br> |EP001: Gestión de cuenta del usuario|
+|US004|Creación de perfil de estilista|Como estilista, quiero poder crear un perfil en la aplicación para mostrar información sobre mi salón de belleza y los servicios que ofrezco.|**Escenario 1:** Publicación de perfil de estilista <br> Dado que el usuario quiere ser reconocido como estilista para ofrecer sus servicios <br> Cuando accede a la página de creación de perfil desde la página principal <br> Y completa el formulario de creación de perfil con información sobre su salón, servicios y promociones <br> Entonces se completa el perfil, se guarda la información y se muestra en la aplicación|EP002|
+|US005|Edición de perfil de estilista|Como estilista, quiero poder editar mi perfil en la aplicación para actualizar la información sobre mi salón y servicios. |**Escenario 1:** Modificar el perfil de estilista <br> Dado que el estilista quiere cambiar la información de su perfil  <br> Cuando accede a la página de creación de perfil desde la página principal <br> Y cambia la información guardada en su formulario <br> Entonces se modifica el perfil, se guarda la información y se muestra en la aplicación|EP002|
+|US006|Visualización de perfil de estilista|Como usuario, quiero poder ver el perfil de un estilista en la aplicación para obtener información sobre su salón y los servicios que ofrece.|**Escenario 1:** Visualización de perfil de estilista <br> Dado que el usuario desea ver la información de un estilista en su perfil <br> Cuando ingrese a la opción de Búsqueda de Servicio en la página principal <br> Y presione al estilista que le interese <br> Entonces aparecerá la información de su perfil de estilista, esta información contiene la ubicación de su salón de belleza y los servicios que ofrece|EP002|
+|US007|Búsqueda de servicios de belleza|Como usuario, quiero poder buscar servicios de belleza en la aplicación según mis preferencias y necesidades.|**Escenario 1:** Búsqueda por Tipo de Servicio <br> Dado que un usuario desea encontrar un servicio de belleza específico en la aplicación, <br> Cuando accede a la función de búsqueda y selecciona el tipo de servicio que necesita, como corte de cabello o manicura, <br> Y la aplicación filtra los resultados para mostrar solo los estilistas que ofrecen ese tipo de servicio en su área, <br> Entonces el usuario puede explorar las opciones disponibles y seleccionar un estilista para programar una cita. <br> **Escenario 2:** Búsqueda por Ubicación <br> Dado que un usuario prefiere encontrar un estilista cercano a su ubicación,  <br> Cuando utiliza la función de búsqueda y especifica su ubicación actual o código postal, <br> Y la aplicación muestra una lista de estilistas disponibles en esa área junto con sus servicios ofrecidos, <br> Entonces el usuario puede revisar las opciones cerca de él y elegir un estilista conveniente para programar una cita.|EP003|
+|US008|Gestión de citas |Como usuario, quiero poder comparar los precios de diferentes servicios de belleza para tomar decisiones informadas. |**Escenario 1:** Comparación de Precios al Buscar <br> Dado que un usuario busca servicios de belleza en la aplicación, <br> Cuando accede a la sección de búsqueda de servicios y selecciona un tipo específico de servicio, <br> Y se le presentan opciones de diferentes estilistas junto con los precios de cada servicio,Entonces el usuario puede comparar los precios y tomar decisiones informadassobre qué servicio reservar. <br> **Escenario 2:** Evaluación de Relación Calidad-Precio <br> Dado que un usuario está explorando los perfiles de estilistas en la aplicación, <br> Cuando selecciona un estilista en particular y examina los servicios que ofrece, <br> Y encuentra una lista detallada de servicios con sus respectivos precios, <br> Entonces el usuario puede evaluar la relación calidad-precio y decidir si desea reservar una cita con ese estilista.|EP003|
+| US009 | Generación de cita en línea | Como usuario, quiero poder generar una cita en línea para un servicio de belleza específico con un estilista disponible. | **Escenario 1:** Reserva de Cita desde el Calendario <br> Dado que un usuario ha encontrado un servicio de belleza deseado en la aplicación, <br> Cuando selecciona un estilista disponible para ese servicio, <br> Y elige una fecha y hora conveniente para la cita desde el calendario proporcionado, <br> Entonces el usuario completa el proceso de generación de cita en línea y recibe una confirmación de la reserva. <br> **Escenario 2:** Flujo Sencillo de Reserva de Cita <br> Dado que un usuario está navegando por la lista de servicios de belleza ofrecidos en la aplicación, <br> Cuando encuentra un servicio específico que desea reservar, <br> Y selecciona la opción de "Reservar cita" junto al servicio deseado, <br> Entonces se le guía a través de un flujo sencillo para elegir un estilista disponible y confirmar los detalles de la cita. | EP003 |
+| US010 | Suscripción de estilista al sistema de pagos | Como estilista, quiero poder suscribirme al sistema de pagos en la aplicación para acceder a todas las funciones de promoción y gestionar los pagos de las citas de manera segura. | **Escenario 1:** Suscripción Premium Exitosa <br> Dado que un estilista desea acceder a las funciones de promoción en la aplicación, <br> Cuando accede a la sección de suscripción al sistema de pagos desde su perfil, <br> Y completa el formulario de suscripción proporcionando la información requerida, <br> Entonces el estilista completa con éxito el proceso de suscripción y obtiene acceso a todas las funciones premium. <br> **Escenario 2:** Habilitación de Pagos Seguros <br> Dado que un estilista está listo para gestionar los pagos de las citas a través de la aplicación, <br> Cuando inicia sesión en su cuenta y encuentra una opción para suscribirse al sistema de pagos, <br> Y sigue los pasos para completar la suscripción y verificar su cuenta bancaria o método de pago preferido, <br> Entonces el estilista está habilitado para recibir pagos de manera segura a través de la plataforma. | EP004 |
+| US011 | Gestión de pagos de citas por parte del estilista | Como estilista, quiero poder gestionar los pagos de las citas realizadas a través de la aplicación para garantizar una transacción segura y sin problemas. | **Escenario 1:** Registro de Pago Post-Cita <br> Dado que un estilista ha completado una cita con un cliente, <br> Cuando accede al registro de citas realizadas en la aplicación, <br> Y selecciona una cita específica para la cual necesita gestionar el pago, <br> Entonces el estilista puede registrar manualmente el pago recibido por la cita o marcar la cita como pagada si se procesó electrónicamente. <br> **Escenario 2:** Proceso de Reembolso Eficiente <br> Dado que un estilista necesita realizar un reembolso por una cita cancelada o modificada, <br> Cuando accede a la sección de gestión de pagos y selecciona la cita correspondiente, <br> Y sigue el proceso para procesar el reembolso a través del sistema de pagos integrado en la aplicación, <br> Entonces el estilista completa con éxito el reembolso y se asegura de que el cliente reciba el reembolso de manera oportuna y adecuada. | EP004 |
+| US012 | Gestión de facturación y reportes para estilistas | Como estilista, quiero poder acceder a herramientas de gestión de facturación y generar reportes sobre los ingresos y pagos de mi negocio. | **Escenario 1:** Exploración Detallada del Perfil del Estilista <br> Dado que un usuario busca servicios de belleza ofrecidos por un estilista en particular, <br> Cuando accede al perfil del estilista en la aplicación, <br> Y encuentra una lista detallada de servicios que el estilista ofrece, junto con sus descripciones y precios, <br> Entonces el usuario puede revisar los servicios disponibles y decidir si desea reservar una cita con ese estilista. <br> **Escenario 2:** Comparación de Servicios entre Estilistas <br> Dado que un usuario está buscando un servicio específico en la aplicación, <br> Cuando utiliza la función de búsqueda para encontrar estilistas que ofrecen ese servicio en su área, <br> Y examina los perfiles de los estilistas que aparecen en los resultados de búsqueda, <br> Entonces el usuario puede ver los servicios ofrecidos por cada estilista y comparar las opciones antes de tomar una decisión de reserva. | EP004 |
+| US013 | Filtro por Tipo de Servicio | Como usuario, quiero poder filtrar los servicios de belleza por tipo para encontrar fácilmente lo que necesito. |**Escenario 1:** Búsqueda por Tipo de Servicio <br> Dado que un usuario está buscando servicios de belleza en la aplicación, <br> Cuando selecciona un tipo de servicio específico, como corte de pelo o manicura, <br> Y el sistema filtra los resultados para mostrar solo los estilistas que ofrecen ese tipo de servicio, <br> Entonces el usuario puede explorar las opciones disponibles para ese servicio. <br> **Escenario 2:** Actualización de Servicios en el Perfil <br> Dado que un estilista actualiza los servicios que ofrece en su perfil, <br> Cuando un cliente busca un servicio específico proporcionado por ese estilista, <br> Y el sistema filtra los resultados para mostrar ese servicio en el perfil del estilista, <br> Entonces el cliente puede ver la lista de servicios disponibles y programar una cita según sus necesidades. | EP005 |
+| US014 | Filtro por Ubicación | Como usuario, quiero poder filtrar los servicios de belleza por ubicación para encontrar opciones cerca de mí. | **Escenario 1:** Búsqueda por Ubicación <br> Dado que un usuario ha seleccionado una fecha y hora para una cita en la aplicación, <br> Cuando procede a confirmar la cita seleccionada, <br> Y el sistema verifica la disponibilidad del estilista para esa fecha y hora, <br> Entonces el usuario recibe una confirmación de que la cita está programada correctamente. <br> **Escenario 2:** Búsqueda sin Resultados <br> Dado que un usuario ha elegido un horario de cita en la aplicación, <br> Cuando intenta confirmar la cita, pero el horario seleccionado ya no está disponible debido a una reserva reciente, <br> Entonces el sistema notifica al usuario sobre la falta de disponibilidad y le solicita que elija otro horario. | EP005 |
+| US015 | Filtro por Rango de Precios | Como usuario, quiero poder filtrar los servicios de belleza por rango de precios para encontrar opciones que se ajusten a mi presupuesto. | **Escenario 1:** Selección de Rango de Precios <br> Dado que el usuario está en la página de búsqueda de servicios, <br> Cuando especifica un rango de precios utilizando una barra deslizante o campos de texto <br> Y presiona el botón de búsqueda, <br> Entonces se muestran solo los estilistas y salones cuyos servicios están dentro de ese rango de precios especificado. <br> **Escenario 2:** Rango de Precios no Coincidente <br> Dado que el usuario está en la página de búsqueda de servicios, <br> Cuando especifica un rango de precios que no coincide con ningún servicio disponible, <br> Y presiona el botón de búsqueda, <br> Entonces se muestra un mensaje indicando que no se encontraron resultados dentro del rango de precios especificado. | EP005 |
+| US016 | Visualización de disponibilidad de citas | Como usuario, quiero poder ver la disponibilidad de citas de los estilistas en la aplicación para elegir un horario conveniente para mí. | **Escenario 1:** Exploración de Calendario <br> Dado que un usuario busca un servicio en la aplicación, <br> Cuando selecciona un estilista específico para ver su disponibilidad de citas, <br> Y el sistema muestra un calendario con los horarios disponibles del estilista, <br> Entonces el usuario puede seleccionar una fecha y hora conveniente para programar su cita. <br> **Escenario 2:** Actualización de Disponibilidad <br> Dado que un estilista actualiza su horario de disponibilidad en la aplicación, <br> Cuando un cliente busca una cita con ese estilista, <br> Y el sistema muestra los horarios actualizados y disponibles del estilista, <br> Entonces el cliente puede elegir una cita que se ajuste a su horario. | EP006 |
+| US017 | Notificación de confirmación de reserva | Como usuario, quiero recibir una notificación de confirmación después de reservar una cita en la aplicación para tener la seguridad de que se ha realizado correctamente. | **Escenario 1:** Notificación Automática <br> Dado que un usuario ha realizado una reserva de cita en la aplicación, <br> Cuando la reserva se procesa correctamente por el sistema, <br> Y se genera automáticamente una notificación de confirmación, <br> Entonces el usuario recibe la notificación en su dispositivo móvil o por correo electrónico, <br> Y la notificación incluye detalles como la fecha, hora y ubicación de la cita. | EP006 |
+| US018 | Cancelación de cita por parte del usuario | Como usuario, quiero tener la opción de cancelar una cita reservada en la aplicación en caso de necesidad. | **Escenario 1:** Cancelación Confirmada <br> Dado que un usuario necesita cancelar una cita previamente reservada en la aplicación, <br> Cuando accede a la sección de citas próximas en la aplicación, <br> Y selecciona la opción de cancelar la cita correspondiente, <br> Entonces se le presenta un mensaje de confirmación para asegurarse de que realmente desea cancelar la cita. <br> **Escenario 2:** Cancelación con Cargo Adicional <br> Dado que un usuario necesita cancelar una cita debido a un imprevisto de último minuto, <br> Cuando intenta cancelar la cita después del plazo establecido por la política de cancelación, <br> Entonces se le informa al usuario sobre posibles cargos por cancelación tardía, si corresponde, <br> Y se le da la opción de confirmar la cancelación y aceptar los cargos adicionales, o reconsiderar y conservar la cita. | EP006 |
+| US019 | Dejar valoración y reseña después de la cita | Como usuario, quiero poder dejar una valoración y reseña sobre el servicio recibido después de completar una cita para ayudar a otros usuarios en su elección. | **Escenario 1:** Publicación de Reseña Poscita <br> Dado que un usuario ha completado una cita con un estilista, <br> Cuando accede a la sección de valoraciones en la aplicación, <br> Y escribe una reseña detallada sobre la experiencia del servicio recibido, <br> Entonces selecciona una calificación de estrellas y confirma la publicación de la reseña. <br> **Escenario 2:** Reconocimiento de Reseña Positiva <br> Dado que un estilista ha prestado un servicio a un cliente, <br> Cuando el cliente deja una reseña y calificación después de la cita, <br> Y la reseña incluye comentarios positivos sobre la calidad del servicio y la profesionalidad del estilista, <br> Entonces el estilista recibe una notificación sobre la nueva reseña y puede verla en su perfil. | EP007 |
+| US020 | Visualizar valoraciones y reseñas de otros usuarios | Como usuario, quiero poder ver las valoraciones y reseñas dejadas por otros usuarios sobre un estilista en particular para tomar decisiones informadas. | Escenario 1: Exploración de Valoraciones en el Perfil <br> Dado que un usuario busca información sobre un estilista en particular, <br> Cuando accede al perfil del estilista en la aplicación, <br> Y encuentra una sección dedicada a las valoraciones y reseñas dejadas por otros usuarios, <br> Entonces puede leer las valoraciones y reseñas para tomar decisiones informadas sobre el estilista. <br> Escenario 2: Revisión de Valoraciones en la Búsqueda <br> Dado que un usuario está explorando los resultados de búsqueda de estilistas en la aplicación, <br> Cuando selecciona un estilista específico para ver más detalles, <br> Y encuentra una lista de valoraciones y reseñas dejadas por otros usuarios, <br> Entonces puede ver la calificación promedio y leer las reseñas para evaluar la calidad del servicio del estilista. | EP007 |
+| US021 | Filtrar estilistas por calificación y reseñas | Como usuario, quiero poder filtrar y ordenar la lista de estilistas disponibles según su calificación y las reseñas dejadas por otros usuarios. | **Escenario 1:** Filtrado por Calificación y Reseñas <br> Dado que un usuario está buscando un estilista en la aplicación, <br> Cuando accede a la función de filtro y ordenamiento, <br> Y selecciona la opción de filtrar estilistas por calificación y reseñas, <br> Entonces la lista de estilistas se actualiza para mostrar solo aquellos con calificaciones y reseñas específicas. <br> **Escenario 2:** Ordenamiento por Calificación <br> Dado que un usuario está navegando por la lista de estilistas disponibles en la aplicación, <br> Cuando activa la función de filtro por calificación y reseñas, <br> Y elige ordenar la lista en función de las calificaciones más altas, <br> Entonces la lista se reorganiza para mostrar primero los estilistas mejor valorados según las reseñas de otros usuarios. | EP007 |
+| US022 | Recepción de calificación detallada después de la cita | Como estilista, quiero recibir una calificación detallada de mis servicios después de cada cita para comprender mejor las áreas en las que puedo mejorar. | **Escenario 1:** Retroalimentación Constructiva <br> Dado que un estilista ha completado una cita con un cliente, <br> Cuando el cliente deja una calificación detallada y comentarios sobre la experiencia del servicio recibido, <br> Y el estilista recibe la calificación y comentarios después de la cita, <br> Entonces el estilista puede comprender mejor las áreas en las que puede mejorar y proporcionar una experiencia óptima en futuras citas. <br> **Escenario 2:** Agradecimiento por Retroalimentación Positiva <br> Dado que un estilista recibe una calificación positiva de un cliente después de una cita, <br> Cuando el cliente destaca aspectos específicos del servicio que disfrutó y proporciona comentarios elogiosos, <br> Y el estilista recibe la calificación y comentarios con gratitud, <br> Entonces el estilista se siente motivado y confiado en la calidad de su trabajo. | EP008 |
+| US023 | Respuesta a la retroalimentación del cliente | Como estilista, quiero tener la opción de responder a la retroalimentación dejada por los clientes para agradecerles o abordar cualquier inquietud que puedan tener. | **Escenario 1:** Manejo de Retroalimentación Negativa <br> Dado que un estilista recibe una retroalimentación negativa de un cliente después de una cita, <br> Cuando el estilista tiene la opción de responder a la retroalimentación del cliente, <br> Y decide abordar las preocupaciones del cliente o agradecerle por sus comentarios, <br> Entonces la respuesta del estilista se muestra junto con la retroalimentación del cliente en la aplicación. <br> **Escenario 2:** Agradecimiento por Retroalimentación Constructiva <br> Dado que un estilista recibe una retroalimentación constructiva de un cliente después de una cita, <br> Cuando el estilista toma nota de los comentarios del cliente y se compromete a mejorar en áreas específicas, <br> Y el estilista responde con un mensaje personalizado expresando su aprecio por la retroalimentación útil, <br> Entonces el cliente se siente valorado y comprendido por el estilista. | EP008 |
+| US024 | Análisis de calificaciones y retroalimentación recibidas | Como estilista, quiero tener acceso a herramientas de análisis para comprender mejor las áreas en las que puedo mejorar en base a las calificaciones y retroalimentación recibidas. | **Escenario 1:** Análisis de Desempeño Mensual <br> Dado que un estilista accede al panel de análisis en la aplicación, <br> Cuando revisa las calificaciones y retroalimentación recibidas de los clientes en un período de tiempo específico, <br> Y utiliza herramientas de análisis para identificar patrones y áreas de mejora en su servicio, <br> Entonces el estilista puede tomar medidas para mejorar la calidad de su trabajo y la satisfacción del cliente. <br> **Escenario 2:** Investigación de Calificación Baja <br> Dado que un estilista está revisando su desempeño mensual en la aplicación, <br> Cuando analiza las calificaciones y retroalimentación recibidas de los clientes durante el último mes, <br> Y encuentra que un servicio en particular tiene una calificación más baja de lo esperado, <br> Entonces el estilista investiga las razones detrás de la calificación y toma medidas correctivas según sea necesario. | EP008 |
+| US025 | Registro en el programa de fidelización | Como cliente, quiero poder registrarme en el programa de fidelización de la aplicación para obtener beneficios exclusivos y recompensas. | **Escenario 1:** Registro de Membresía Exitoso <br> Dado que un cliente accede a la sección de programas de fidelización en la aplicación, <br> Cuando encuentra información sobre los beneficios exclusivos y recompensas del programa de fidelización, <br> Y decide registrarse en el programa proporcionando su información personal, <br> Entonces el cliente completa con éxito el proceso de registro y recibe una confirmación de su membresía. <br> **Escenario 2:** Registro antes de Reserva <br> Dado que un cliente está a punto de finalizar una reserva en la aplicación, <br> Cuando se le presenta la opción de registrarse en el programa de fidelización antes de completar la reserva, <br> Y el cliente elige registrarse para obtener beneficios adicionales, <br> Entonces el cliente completa el registro y puede disfrutar de las ventajas del programa en futuras reservas. | EP009 |
+| US026 | Acumulación de puntos de fidelización | Como cliente, quiero poder acumular puntos de fidelización cada vez que uso los servicios de un estilista participante para obtener recompensas. | **Escenario 1:** Acumulación Automática de Puntos <br> Dado que un cliente utiliza los servicios de un estilista participante en el programa de fidelización, <br> Cuando la cita se completa con éxito y se marca como realizada en la aplicación, <br> Y el sistema asigna automáticamente una cantidad de puntos al cliente por la cita realizada, <br> Entonces los puntos de fidelización se acumulan en la cuenta del cliente y pueden ser utilizados para obtener recompensas. <br> **Escenario 2:** Decisión de Acumulación Continua <br> Dado que un cliente revisa su saldo de puntos en la aplicación, <br> Cuando encuentra que ha acumulado suficientes puntos para obtener una recompensa deseada, <br> Y decide continuar acumulando puntos para obtener una recompensa aún mejor en el futuro, <br> Entonces el cliente valora el programa de fidelización como una forma efectiva de ser recompensado por su lealtad. | EP009 |
+| US027 | Canje de puntos por recompensas | Como cliente, quiero poder canjear los puntos de fidelización acumulados por recompensas y beneficios exclusivos. | **Escenario 1:** Canje Exitoso de Puntos <br> Dado que un cliente ha acumulado suficientes puntos de fidelización en su cuenta, <br> Cuando accede a la sección de recompensas en la aplicación, <br> Y selecciona una recompensa disponible para canjear con sus puntos acumulados, <br> Entonces el sistema verifica la disponibilidad de la recompensa y los puntos suficientes en la cuenta del cliente, <br> Y completa con éxito el canje de puntos, proporcionando la recompensa al cliente. <br> **Escenario 2:** Insuficiencia de Puntos para Canje <br> Dado que un cliente busca recompensas disponibles en la aplicación, <br> Cuando encuentra una recompensa deseada pero no tiene suficientes puntos para canjearla, <br> Entonces el cliente tiene la opción de seguir acumulando puntos o explorar otras recompensas disponibles. | EP009 |
+| US028 | Verificación de antecedentes de estilistas | Como usuario, quiero poder verificar los antecedentes de los estilistas en la aplicación para garantizar una experiencia segura y satisfactoria. | **Escenario 1:** Revisión de Antecedentes del Estilista <br> Dado que un usuario busca información sobre un estilista en particular en la aplicación, <br> Cuando accede a la sección de verificación de antecedentes o seguridad del estilista, <br> Y encuentra detalles sobre la verificación de antecedentes y las revisiones de otros usuarios, <br> Entonces el usuario puede sentirse seguro al programar una cita con el estilista. <br> **Escenario 2:** Registro Verificado del Estilista <br> Dado que un estilista se registra en la plataforma como proveedor de servicios, <br> Cuando proporciona información personal y profesional para verificar su identidad y antecedentes, <br> Y la plataforma realiza verificaciones de antecedentes y revisa la reputación del estilista a través de revisiones de otros usuarios, <br> Entonces el estilista puede comenzar a ofrecer sus servicios en la plataforma con una mayor credibilidad y confianza por parte de los usuarios. | EP010 |
+| US029 | Revisiones y comentarios de otros usuarios | Como usuario, quiero poder leer las revisiones y comentarios dejados por otros usuarios sobre un estilista en particular para evaluar su reputación y calidad de servicio. | **Escenario 1:** Exploración de Revisiones del Estilista <br> Dado que un usuario está interesado en programar una cita con un estilista específico, <br> Cuando busca el perfil del estilista en la aplicación, <br> Y encuentra una sección dedicada a las revisiones y comentarios de otros usuarios, <br> Entonces el usuario puede leer las experiencias anteriores de los clientes con ese estilista para tomar una decisión informada. <br> **Escenario 2:** Dejar una Revisión Después de la Cita <br> Dado que un usuario ha completado una cita con un estilista, <br> Cuando se le solicita dejar una revisión y calificación después de la cita, <br> Y comparte su experiencia detallada junto con comentarios útiles para otros usuarios, <br> Entonces la revisión se publica en el perfil del estilista para ayudar a otros usuarios en su decisión de reserva. | EP010 |
+|US030 | Denuncia de comportamiento inapropiado | Como usuario, quiero tener la opción de denunciar cualquier comportamiento inapropiado o preocupante por parte de un estilista en la aplicación. | **Escenario 1:** Denuncia Post-Cita <br> Dado que un usuario ha experimentado un comportamiento inapropiado por parte de un estilista durante una cita, <br> Cuando el usuario accede a la sección de opciones adicionales en la aplicación después de la cita, <br> Y selecciona la opción de "Denunciar comportamiento inapropiado", <br> Entonces se le presenta un formulario donde puede proporcionar detalles sobre la situación y enviar la denuncia al equipo de soporte de la aplicación. <br> **Escenario 2:** Reporte de Observación Inapropiada <br> Dado que un usuario ha sido testigo de un comportamiento inapropiado hacia otro cliente por parte de un estilista en la aplicación, <br> Cuando el usuario accede al perfil del estilista o la página de la cita afectada, <br> Y encuentra la opción de "Reportar comportamiento inapropiado", <br> Entonces puede proporcionar detalles sobre lo observado y enviar un informe al equipo de soporte para su revisión. | EP010|
+|US031 | Como usuario, quiero tener una pantalla fluida de inicio para poder navegar de manera sencilla. | Como usuario, hemos implementado una pantalla de inicio fluida que permite una navegación sencilla en nuestra aplicación. Esto garantiza una experiencia de usuario intuitiva y eficiente desde el primer momento de uso. | **Escenario 1:** Pantalla Fluida de Inicio <br> Dado que el usuario inicia la aplicación, <br> Cuando la pantalla de inicio se carga sin demoras perceptibles, <br> Entonces se garantiza una transición fluida hacia la navegación principal de la aplicación. <br> **Escenario 2:** Acceso Rápido a Funcionalidades Clave <br> Dado que el usuario ha abierto la aplicación, <br> Cuando accede a la pantalla de inicio, <br> Y encuentra las opciones principales claramente etiquetadas y organizadas, <br> Entonces puede navegar fácilmente hacia funciones clave como búsqueda de servicios, visualización de perfiles de estilistas y programación de citas con no más de dos toques o clics. | EP001|
+
+
+
+
+
 |Epic ID|Título|Descripción|
 |-|-|-|
 |EP001|Registro|Como usuario, quiero registrarme en la aplicación y poder autenticar mi identidad para acceder a los beneficios y promociones de mi cuenta.|
@@ -737,6 +798,11 @@ El sistema de navegación incluye menús y botones claros que guían a los usuar
 <div id='4.5.'><h3> 4.5. Web Applications Prototyping</h3></div>
 <div id='4.6.'><h3> 4.6. Domain-Driven Software Architecture</h3></div>
 <div id='4.6.1.'><h4> 4.6.1. Software Architecture Context Diagram</h4></div>
+
+hola
+
+<img src="resources/c4-model/bliss-context-diagram.png" />
+
 <div id='4.6.2.'><h4> 4.6.2. Software Architecture Container Diagrams</h4></div>
 <div id='4.6.3.'><h4> 4.6.3. Software Architecture Components Diagrams</h4></div>
 <div id='4.7.'><h3> 4.7. Software Object-Oriented Design</h3></div>
