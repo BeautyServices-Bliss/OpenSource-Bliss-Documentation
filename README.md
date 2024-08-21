@@ -178,10 +178,7 @@ Para aprovechar al máximo la competencia competitiva y el crecimiento, es funda
 |           |**Elvia Marcela Rodriguez Villa**|
 |           |**Diego Martin Soriano Medrano**|
 |<img src="resources/rivas-foto.jpg"/>|**David Alejandro Rivas Sarango** <br> Mi nombre es **David Rivas**, actualmente estoy cursando la carrera de Ingeniería de Software en la UPC. Soy una persona honesta y responsable. Me interesa el área de Data Science, por esto estoy siguiendo cursos de capacitacion en SQL y Python.|
-|<img src="resources/rodriguez.jpg"/>|**Elvia Marcela Rodríguez Villa** <br> oy Elvia Rodríguez, actual estudiante 
-universitaria y egresada de Laboratoria.   Soy 
-actual embajadora del programa de estudiantes de Microsoft y fui participante de diversos voluntariados y Hackathons cómo Ciencia en tu Comunidad y el Laboratorio de Emprendimientos de SENAJU. Asimismo, soy maestra de inglés y suelo incorporar mis conocimientos de programación de interfaces 
-de usuario en mi labor educativa. |
+|<img src="resources/rodriguez.jpg"/>|**Elvia Marcela Rodríguez Villa** <br> Soy Elvia Rodríguez, actual estudiante universitaria y egresada de Laboratoria. Soy actual embajadora del programa de estudiantes de Microsoft y fui participante de diversos voluntariados y Hackathons cómo Ciencia en tu Comunidad y el Laboratorio de Emprendimientos de SENAJU. Asimismo, soy maestra de inglés y suelo incorporar mis conocimientos de programación de interfaces de usuario en mi labor educativa. |
 
 ### 1.2. Solution Profile
 #### 1.2.1. Antecedentes y Problemática
