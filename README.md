@@ -731,55 +731,53 @@ A continuación mostraremos algunas imágenes de referencia del Style Guidelines
 
 <br>
 
-<div id='4.1.2.'><h4> 4.1.2. Web Style Guidelines</h4></div>
-<div id='4.1.3.'><h4> 4.1.3. Mobile Style Guidelines</h4></div>
-<div id='4.2.'><h3> 4.2. Information Architecture</h3></div>
-<div id='4.2.1.'><h4> 4.2.1. Organization Systems</h4></div>
+#### 4.1.2. Web Style Guidelines
+#### 4.1.3. Mobile Style Guidelines
+### 4.2. Information Architecture
+#### 4.2.1. Organization Systems
 
 El sistema de organización del contenido está basado en categorías específicas como servicios, especialistas, y comentarios. Además, se incluyen promociones y ofertas especiales, lo cual sugiere un esquema de categorización por tópicos y audiencia. La organización visual se presenta en formato jerárquico, mostrando primero los servicios disponibles y luego los detalles específicos de cada uno, como los comentarios de los usuarios.
 
-<div id='4.2.2.'><h4> 4.2.2. Labeling Systems</h4></div>
+#### 4.2.2. Labeling Systems
 
 Las etiquetas utilizadas para representar la información son claras y concisas, buscando evitar la confusión. Por ejemplo, se utilizan etiquetas como "Servicios", "Especialistas", "Comentarios" y "Buscar" para guiar a los usuarios. Además, se emplean etiquetas específicas para describir los servicios, como "Limpieza y tratamiento de uñas" y "Diseño en Gel".
 
-<div id='4.2.3.'><h4> 4.2.3. SEO Tags and Meta Tags</h4></div>
+#### 4.2.3. SEO Tags and Meta Tags
 
 
 
-<div id='4.2.4.'><h4> 4.2.4. Searching Systems</h4></div>
+#### 4.2.4. Searching Systems
 
 El sistema de búsqueda está diseñado para facilitar el acceso rápido a la información. Se proporciona una barra de búsqueda en varias secciones del diseño, permitiendo a los usuarios filtrar los resultados por diferentes criterios, como el tipo de servicio o la ubicación. Además, se ofrecen opciones de búsqueda con filtros específicos y se muestra cómo lucirán los datos después de realizar una búsqueda.
 
-<div id='4.2.5.'><h4> 4.2.5. Navigation Systems</h4></div>
+#### 4.2.5. Navigation Systems
 
 El sistema de navegación incluye menús y botones claros que guían a los usuarios a través del contenido de manera efectiva. Los usuarios pueden navegar fácilmente entre las diferentes secciones, como "Servicios", "Comentarios", y "Promociones". La navegación está diseñada para ser intuitiva, permitiendo a los usuarios cumplir sus metas e interactuar de manera satisfactoria con el producto.
 
-<div id='4.3.2.'><h4> 4.3.2. Landing Page Mock-up</h4></div>
-<div id='4.4.'><h3> 4.4. Web Applications UX/UI Design</h3></div>
+#### 4.3.2. Landing Page Mock-up
+### 4.4. Web Applications UX/UI Design
 
 
-<div id='4.4.1.'><h4> 4.4.1. Web Applications Wireframes</h4></div>
-<div id='4.4.2.'><h4> 4.4.2. Web Applications Wireflow Diagrams</h4></div>
-<div id='4.4.3.'><h4> 4.4.3. Web Applications Mock-ups</h4></div>
-<div id='4.4.4.'><h4> 4.4.2. Web Applications User Flow Diagrams</h4></div>
-<div id='4.5.'><h3> 4.5. Web Applications Prototyping</h3></div>
-<div id='4.6.'><h3> 4.6. Domain-Driven Software Architecture</h3></div>
-<div id='4.6.1.'><h4> 4.6.1. Software Architecture Context Diagram</h4></div>
-
-hola
+#### 4.4.1. Web Applications Wireframes
+#### 4.4.2. Web Applications Wireflow Diagrams
+#### 4.4.3. Web Applications Mock-ups
+#### 4.4.2. Web Applications User Flow Diagrams
+### 4.5. Web Applications Prototyping
+### 4.6. Domain-Driven Software Architecture
+#### 4.6.1. Software Architecture Context Diagram
 
 <img src="resources/c4-model/bliss-context-diagram.png" />
 
-<div id='4.6.2.'><h4> 4.6.2. Software Architecture Container Diagrams</h4></div>
-<div id='4.6.3.'><h4> 4.6.3. Software Architecture Components Diagrams</h4></div>
-<div id='4.7.'><h3> 4.7. Software Object-Oriented Design</h3></div>
-<div id='4.7.1.'><h4> 4.7.1. Class Diagrams</h4></div>
-<div id="4.7.1."><h4>4.7.2. Class Dictionary</h4>
-<div id='4.8.'><h3> 4.8. Database Design</h3></div>
-<div id='4.8.1.'><h4> 4.8.1. Database Diagram</h4></div>
-<div id='5.'><h2>Capítulo 5: Product Implementation, Validation & Deployment</h2></div>
-<div id='5.1.'><h3> 5.1. Software Configuration Management</h3></div>
-<div id='5.1.1.'><h4> 5.1.1.Software Development Environment Configuration</h4></div>
+#### 4.6.2. Software Architecture Container Diagrams
+#### 4.6.3. Software Architecture Components Diagrams
+### 4.7. Software Object-Oriented Design
+#### 4.7.1. Class Diagrams
+#### 4.7.2. Class Dictionary
+### 4.8. Database Design
+#### 4.8.1. Database Diagram
+## Capítulo 5: Product Implementation, Validation & Deployment
+### 5.1. Software Configuration Management
+#### 5.1.1.Software Development Environment Configuration
 
 **Project Management**
 
@@ -900,7 +898,7 @@ Se ha utilizado Gitthub Pages para el despliegue de la landing page:
     </tbody>
 </table>
 
-<div id='5.1.2.'><h4> 5.1.2.Source Code Management</h4></div>
+#### 5.1.2.Source Code Management
 
 <table>
     <tbody>
@@ -945,7 +943,7 @@ Teniendo en cuenta la información anterior nos inclinamos por este tipo de orga
 
 Con cada deployment de la aplicación debe establecerse como una nueva versión.
 
-<div id='5.1.3.'><h4> 5.1.3.Source Code Style Guide & Conventions</h4></div>
+#### 5.1.3.Source Code Style Guide & Conventions
 
 
 Usaremos buenas prácticas en cuanto al código de manera que sea coherente y sostenible.
@@ -987,8 +985,8 @@ Se desplegó en Github Pages, para esto necesitamos:
 
 <img src="resources/gthbpgsss2.JPG" />
   
-<div id='5.2.'><h3> 5.2.Landing Page, Services & Applications Implementation </h3></div>
-<div id='5.2.1.'><h4> 5.2.1.Sprint 1</h4></div>
+#### 5.2.Landing Page, Services & Applications Implementation
+#### 5.2.1.Sprint 1
 
 <table>
     <thead>
@@ -1047,30 +1045,30 @@ Se desplegó en Github Pages, para esto necesitamos:
     </tbody>
 </table>
 
-<div id='5.2.1.1.'><h5> 5.2.1.1.Sprint Planning 1</h5></div>
-<div id='5.2.1.2.'><h5> 5.2.1.2.Sprint Backlog 1</h5></div>
-<div id='5.2.1.3.'><h5> 5.2.1.3.Development Evidence for Sprint Review</h5></div>
-<div id='5.2.1.4.'><h5> 5.2.1.4.Testing Suite Evidence for Sprint Review</h5></div>
-<div id='5.2.1.5.'><h5> 5.2.1.5.Execution Evidence for Sprint Review</h5></div>
+##### 5.2.1.1.Sprint Planning 1
+##### 5.2.1.2.Sprint Backlog 1
+##### 5.2.1.3.Development Evidence for Sprint Review
+##### 5.2.1.4.Testing Suite Evidence for Sprint Review
+##### 5.2.1.5.Execution Evidence for Sprint Review
 
 En este primer sprint se desarrolló la Landing Page con Tailwind, siendo desplegada en GithubPages. En esta landing encontraremos los features principales con el primer diseño de acuerdo al mockup de este.
 
 
 
-<div id='5.2.1.6.'><h5> 5.2.1.6.Services Documentation Evidence for Sprint Review</h5></div>
+##### 5.2.1.6.Services Documentation Evidence for Sprint Review
 
 Para este primer sprint no fue contemplada la evidencia de documentación de los servicios.
 
-<div id='5.2.1.7.'><h5> 5.2.1.7.Software Deployment Evidence for Sprint Review</h5></div>
+###### 5.2.1.7.Software Deployment Evidence for Sprint Review
 
 Link de Landing Page: https://upc-opensource-g-bliss.github.io/Landing-Page/
 
-<div id='5.2.1.8.'><h5> 5.2.1.8.Team Collaboration Insights during Sprint</h5></div>
-<div id='5.3.3.'><h4> 5.3.3.Evaluaciones según heurísticas</h4></div>
-<div id='5.3.'><h3> 5.3. Validation Interviews</h3></div>
-<div id='5.3.1.'><h4> 5.3.1.Diseño de Entrevistas</h4></div>
-<div id='5.3.2.'><h4> 5.3.2.Registro de Entrevistas</h4></div>
-<div id='5.4.'><h3> 5.4. Video About-the-Product</h3></div>
-<div id='6.'><h2>Conclusiones</h2></div>
-<div id='7.'><h2>Bibliografía</h2></div>
-<div id='8.'><h2>Anexos</h2></div>
+##### 5.2.1.8.Team Collaboration Insights during Sprint
+#### 5.3.3.Evaluaciones según heurísticas
+### 5.3. Validation Interviews
+#### 5.3.1.Diseño de Entrevistas
+#### 5.3.2.Registro de Entrevistas
+### 5.4. Video About-the-Product
+## Conclusiones
+## Bibliografía
+## Anexos
