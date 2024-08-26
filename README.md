@@ -287,7 +287,7 @@ Mi mayor riesgo de producto es que los clientes no confíen en la seguridad de t
 
 Resolveremos esto a través de la implementación de rigurosos procesos de verificación de profesionales, garantías de seguridad y promoción de la comodidad y conveniencia de nuestros servicios a domicilio.
 
-<div id='1.2.2.3.'><h5> 1.2.2.3. Lean UX Hypothesis Statements.</h5></div>
+###### 1.2.2.3. Lean UX Hypothesis Statements
 
 * **Hypothesis Statement 01:**
   
@@ -370,7 +370,7 @@ Enlace para acceder al Canvas (https://app.mural.co/t/studentprojects6765/m/stud
 |**Oportunidades**|Existen usuarios interesados en plataformas similares. Muchas empresas pequeñas no usan estos medios, pero están interesados. Colaboraremos con ellos para llegar al público objetivo. Facilidad al expandir nuestros servicios pues es digital. Después de la pandemia las plataformas digitales ganaron confianza.|Expansión a nuevos mercados, introducción de nuevos servicios, mejorar la experiencia del usuario.|Expansión a nuevos mercados, mejora continua de características y funciones, colaboraciones estratégicas con otros servicios.|Expansión a nuevos mercados, introducción de nuevas características y servicios, colaboraciones estratégicas con marcas de belleza.|
 |**Amenazas**|Competiremos con aplicaciones ya establecidas. Podría haber problemas a la seguridad de los datos y física de las empresas al cualquier usuario pedir sus servicios. |Competencia de otras plataformas similares, cambios en las preferencias de los consumidores, problemas regulatorios.|Competencia de otras plataformas de programación en línea, cambios en las necesidades y expectativas de los usuarios, problemas de seguridad de datos.|Competencia de otras aplicaciones de reserva de citas, cambios en las preferencias de los usuarios, problemas de calidad del servicio por parte de los profesionales.|
 
-<div id='2.1.2.'><h4> 2.1.2. Estrategias y tácticas frente a competidores</h4></div>
+#### 2.1.2. Estrategias y tácticas frente a competidores
 
 **Estrategias:**
 
@@ -395,8 +395,8 @@ horarios y necesidades.
 
 * Colaboraciones estratégicas: Establecer asociaciones con marcas de productos de belleza o influencers para aumentar la visibilidad y la credibilidad de la plataforma entre el público objetivo.
 
-<div id='2.2.'><h3> 2.2. Entrevistas</h3></div>
-<div id='2.2.1.'><h4> 2.2.1. Diseño de entrevistas</h4></div>
+### 2.2. Entrevistas
+#### 2.2.1. Diseño de entrevistas
 
 ### Segmento 1
 
@@ -455,7 +455,7 @@ horarios y necesidades.
 
 • ¿Qué sugerencias o comentarios adicionales tiene para mejorar la experiencia de reserva de servicios de cuidado y belleza a través de una aplicación?
 
-<div id='2.2.2.'><h4> 2.2.2. Registro de entrevistas</h4></div>
+#### 2.2.2. Registro de entrevistas
 
 ***Entrevistas a Clientes***
 
@@ -499,7 +499,7 @@ horarios y necesidades.
 |<img src="resources/entrevista3ss.JPG" />|Yaritza, es una estudiante de la carrera de ingeniería Civil y actualmente tiene un emprendimiento de salón de belleza, ella nos cuenta que su hermana es la que hace sus reservas de las citas para sus clientes, pero tiene el miedo a que su hermana un día pueda confundirse y no pueda ella ir a la cita y que ella si va a hogares a hacer ofrecer sus servicios, pero siempre se demora al escoger los productos con los clientes. Le dimos la información sobre nuestro proyecto y le presentamos todas las funciones de nuestra plataforma con el sistema de reserva de citas, consultas y compra de productos de belleza, ella le sorprendió mucho nuestro proyecto también nos dio una recomendación para poder implementar a la aplicación y esta es que con ayuda de la IA los clientes puedan seleccionar los productos que van a querer que se le usen y puedan ver como un “resultado” con la ia con una foto de estos mismos.|
 |Duración entrevista: 5:24|URL: [https://drive.google.com/file/d/1BaFeF2a1AaS3HgkfppCM8Afc9LAMu6gs/view?usp=sharing]|
 
-<div id='2.2.3.'><h4> 2.2.3. Análisis de entrevistas</h4></div>
+#### 2.2.3. Análisis de entrevistas</h4></div>
 
 **Segmento 1: Clientes de la industria de belleza y bienestar.**
 
@@ -509,8 +509,8 @@ Basado en las entrevistas concluimos que los clientes buscan en los anuncios de 
 
 Con respecto a las entrevistas de trabajadores en el sector belleza y bienestar, notamos que sienten que se exponen al peligro cuando atienden a un cliente, siempre está la probabilidad que busquen hacerles daño y robarles. Aun con eso, reconocen que una plataforma que permita la comunicación con clientes para ofrecer un mejor servicio sería de gran ayuda. La característica más importante para estos trabajadores es la seguridad que ofrece la plataforma al agendar una cita.
 
-<div id='2.3.'><h3> 2.3. Needfinding</h3></div>
-<div id='2.3.1.'><h4> 2.3.1. User Personas</h4>
+### 2.3. Needfinding
+#### 2.3.1. User Personas
 
 **User Persona 1**
 
@@ -524,7 +524,7 @@ Con respecto a las entrevistas de trabajadores en el sector belleza y bienestar,
 
 
 
-<div id='2.3.2.'><h4> 2.3.2. User Task Matrix</h4>
+####  2.3.2. User Task Matrix
 
 **Segmento 1**
 |Task Matrix|Importancia|
@@ -551,7 +551,7 @@ Con respecto a las entrevistas de trabajadores en el sector belleza y bienestar,
 |Crear y administrar promociones|Baja|
 
 
-<div id='2.3.3.'><h4> 2.3.3. User Journey Mapping</h4>
+#### 2.3.3. User Journey Mapping
 
 |Etapa|Descubrimiento|Investigación|Reserva|Experiencia de servicio|Post-servicio|
 |-|-|-|-|-|-|
@@ -563,7 +563,7 @@ Con respecto a las entrevistas de trabajadores en el sector belleza y bienestar,
 
 
 
-<div id='2.3.4.'><h4> 2.3.4. Empathy Mapping</h4>
+#### 2.3.4. Empathy Mapping
 
 <img src="resources/empathymap1.png">
 
@@ -573,7 +573,7 @@ Con respecto a las entrevistas de trabajadores en el sector belleza y bienestar,
 
 
 
-<div id='2.3.5.'><h4> 2.3.5. As-is Scenario Mapping</h4></div>
+#### 2.3.5. As-is Scenario Mapping
 
 **User Persona 1**
 
@@ -595,7 +595,7 @@ Con respecto a las entrevistas de trabajadores en el sector belleza y bienestar,
 
 <br>
 
- <div id='2.4.'><h3> 2.4. Ubiquitous Language</h3></div>
+### 2.4. Ubiquitous Language
 
 |Término (Inglés)|Término (Español)|Definición|
 |-|-|-|
@@ -609,8 +609,8 @@ Con respecto a las entrevistas de trabajadores en el sector belleza y bienestar,
 | **Availability** | Disponibilidad | El tiempo en que un estilista está libre para realizar servicios y el horario disponible para que un cliente haga una reservación. La disponibilidad se gestiona a través del sistema de citas. |
 
 
-<div id='3.'><h2>Capítulo 3: Requirements Specification</h2></div>
-<div id='3.1.'><h3> 3.1. To-be scenario mapping</h3></div>
+## Capítulo 3: Requirements Specification
+### 3.1. To-be scenario mapping
 
 **User Persona 1**
 
@@ -634,7 +634,7 @@ Con respecto a las entrevistas de trabajadores en el sector belleza y bienestar,
 
 <br>
 
-<div id='3.2.'><h3> 3.2. User Stories</h3></div>
+###  3.2. User Stories
 
 |Epic ID|Título|Descripción|
 |-|-|-|
@@ -651,7 +651,7 @@ Con respecto a las entrevistas de trabajadores en el sector belleza y bienestar,
 |EP011|Personalización|Como usuario, quiero poder adaptar mi solicitud de servicios de belleza y/o cuidado de acuerdo a mis preferencias y a la disposición de la empresa que ofrece el servicio.|
 |EP012|Recomendaciones |Como usuario, quiero recibir recomendaciones de acuerdo a mi ubicación, historial de servicios y preferencias|
 
-<div id='3.2.1'><h4> 3.2.1 User Stories-Usuario</h4></div>
+####  3.2.1 User Stories-Usuario
 
 |ID|Título|Descripción|Criterios de Aceptación|EpicID|
 |-|-|-|-|-|
@@ -674,7 +674,7 @@ Con respecto a las entrevistas de trabajadores en el sector belleza y bienestar,
 |US017|Ver perfil de usuario                            |Como ususario de la aplicacion, Quiero poder ver mi perfil Para acceder a mi informacion personal en mi cuenta.|**Escenario 1: Correcta visualización del perfil del usuario** <br>Dado que el usuario quiere ver su perfil<br> Cuando ingrese a su perfil de usuario<br>  Entonces se muestra la información del usuario<br>**Escenario 2:Error en la visualización del usuario**<br>Dado que el usuario quiere ver su perfil<br> Cuando ingrese a su perfil de usuario<br>  Entonces la información no se carga.||
 |US018|Editar mi perfil de usuario                      |Como usuario de la palicacion, Quiero poder editar mi perfil para mantener actualizada mi cuenta.|**Escenario 1: Correcta actualización del perfil del usuario** <br>Dado que el usuario modificar su informacion personal<br> Cuando realiza las modificaciones necesarias en el perfil de usuario<br> Entonces el sistema actualiza la información editada.<br> **Escenario 2: Error en la visualización del usuario**<br>Dado que el usuario modificar su informacion personal<br> Cuando realiza las modificaciones necesarias en el perfil de usuario<br> Entonces el sistema muestra un mensaje de error al actualizar.||
 
-<div id='3.2.2'><h4> 3.2.2 User Stories-Empresa Especialista</h4></div>
+#### 3.2.2 User Stories-Empresa Especialista
 
 | **ID** | **Título**                         | **Descripción**                                                                                                                          | **Criterios de Aceptación**                                                                                                                                                                                                                                                                     | **EpicID** |
 | ------ | ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
@@ -690,8 +690,8 @@ Con respecto a las entrevistas de trabajadores en el sector belleza y bienestar,
 
 
 
-<div id='3.3'><h3> 3.3. Impact Mapping. </h3></div>
-<div id='3.4'><h3> 3.4. Product Backlog.</h3></div>
+### 3.3. Impact Mapping
+#### 3.4. Product Backlog
 
 | **ID** | **Épica**              | **User Story**                               | **Descripción**                                                                                                                                                           | **Prioridad** | **Estimación** |
 | ------ | ---------------------- | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | -------------- |
@@ -715,7 +715,7 @@ Con respecto a las entrevistas de trabajadores en el sector belleza y bienestar,
 | US018  | Gestión de servicios   | Gestión de servicios ofrecidos               | Como empresa, quiero gestionar los servicios que ofrezco en la aplicación, incluyendo la actualización de disponibilidad.                                                 | Media         | 4              |
 | US019  | Gestión de servicios   | Gestión de especificaciones                  | Como empresa, quiero poder gestionar las especificaciones de los servicios que ofrezco en la aplicación, incluyendo las opciones de personalización.                      | Media         | 4              |
 
-<div id='4.'><h2>Capítulo 4: Product Design</h2></div>
+## Capítulo 4: Product Design
 <div id='4.1.'><h3> 4.1. Style Guidelines</h3></div>
 <div id='4.1.1.'><h4> 4.1.1. General Style Guidelines</h4></div>
 
