@@ -100,36 +100,36 @@ URL de la organización del proyecto: [https://github.com/upc-opensource-g-bliss
 4.4.3. [Web Applications Mock-ups](#443-web-applications-mock-ups) <br>
 4.4.4. [Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams) <br>
 4.5. [***Web Applications Prototyping***](#45-web-applications-prototyping) <br>
-4.6. [***Domain-Driven Software Architecture***](#domain-driven-software-architecture) <br>
-4.6.1. [Software Architecture Context Diagram](#software-architecture-context-diagram) <br>
-4.6.2. [Software Architecture Container Diagrams](#software-architecture-container-diagrams) <br>
-4.6.3. [Software Architecture Components Diagrams](#software-architecture-components-diagrams) <br>
-4.7. [***Software Object-Oriented Design***](#software-object-oriented-design) <br>
-4.7.1. [Class Diagrams](#class-diagrams) <br>
-4.7.2. [Class Dictionary](#class-dictionary) <br>
-4.8. [***Database Design***](#database-design) <br>
+4.6. [***Domain-Driven Software Architecture***](#46-domain-driven-software-architecture) <br>
+4.6.1. [Software Architecture Context Diagram](#461-software-architecture-context-diagram) <br>
+4.6.2. [Software Architecture Container Diagrams](#462-software-architecture-container-diagrams) <br>
+4.6.3. [Software Architecture Components Diagrams](#463-software-architecture-components-diagrams) <br>
+4.7. [***Software Object-Oriented Design***](#47-software-object-oriented-design) <br>
+4.7.1. [Class Diagrams](#471-class-diagrams) <br>
+4.7.2. [Class Dictionary](#472-class-dictionary) <br>
+4.8. [***Database Design***](#48-database-design) <br>
 4.8.1. [Database Diagram](#481-database-diagram) <br>
 5. [**Capítulo V: Product Implementation, Validation & Deployment**](#capítulo-v-product-implementation,-validation-&-deployment) <br>
-5.1. [***Software Configuration Management***](#software-configuration-management) <br>
-5.1.1. [Software Development Environment Configuration](#software-development-environment-configuration) <br>
-5.1.2. [Source Code Management](#source-code-management) <br>
-5.1.3. [Source Code Style Guide & Conventions](#source-code-style-guide-&-conventions) <br>
-5.1.4. [Software Deployment Configuration](#software-deployment-configuration) <br>
-5.2. [***Landing Page, Services & Applications Implementation***](#landing-page,-services-&-applications-implementation) <br>
+5.1. [***Software Configuration Management***](#51-software-configuration-management) <br>
+5.1.1. [Software Development Environment Configuration](#511-software-development-environment-configuration) <br>
+5.1.2. [Source Code Management](#512-source-code-management) <br>
+5.1.3. [Source Code Style Guide & Conventions](#513-source-code-style-guide-&-conventions) <br>
+5.1.4. [Software Deployment Configuration](#514-software-deployment-configuration) <br>
+5.2. [***Landing Page, Services & Applications Implementation***](#52-landing-page,-services-&-applications-implementation) <br>
 5.2.1. [Sprint 1](#sprint-1) <br>
-5.2.1.1. [Sprint Planning 1](#sprint-planning-1) <br>
-5.2.1.2. [Sprint Backlog 1](#sprint-backlog-1) <br>
-5.2.1.3. [Development Evidence for Sprint Review](#development-evidence-for-sprint-review) <br>
-5.2.1.4. [Testing Suite Evidence for Sprint Review](#testing-suite-evidence-for-sprint-review) <br>
-5.2.1.5. [Execution Evidence for Sprint Review](#execution-evidence-for-sprint-review) <br>
-5.2.1.6. [Services Documentation Evidence for Sprint Review](#services-documentation-evidence-for-sprint-review) <br>
-5.2.1.7. [Software Deployment Evidence for Sprint Review](#oftware-deployment-evidence-for-sprint-review) <br>
-5.2.1.8. [Team Collaboration Insights during Sprint](#team-collaboration-insights-during-sprint) <br>
-5.3. [***Validation Interviews***](#validation-interviews) <br>
-5.3.1.[Diseño de Entrevistas](#diseño-de-entrevistas) <br>
-5.3.2.[Registro de Entrevistas](#registro-de-entrevistas) <br>
-5.3.3.[Evaluaciones según Heurísticas](#evaluaciones-según-heurísticas) <br>
-5.4. [***Video About-the-Product***](#video-about-the-product) <br>
+5.2.1.1. [Sprint Planning 1](#5211-sprint-planning-1) <br>
+5.2.1.2. [Sprint Backlog 1](#5212-sprint-backlog-1) <br>
+5.2.1.3. [Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review) <br>
+5.2.1.4. [Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review) <br>
+5.2.1.5. [Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review) <br>
+5.2.1.6. [Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review) <br>
+5.2.1.7. [Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review) <br>
+5.2.1.8. [Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint) <br>
+5.3. [***Validation Interviews***](#53-validation-interviews) <br>
+5.3.1.[Diseño de Entrevistas](#531-diseño-de-entrevistas) <br>
+5.3.2.[Registro de Entrevistas](#532-registro-de-entrevistas) <br>
+5.3.3.[Evaluaciones según Heurísticas](#533-evaluaciones-según-heurísticas) <br>
+5.4. [***Video About-the-Product***](#54-video-about-the-product) <br>
 6. [**Conclusiones**](#conclusiones) <br>
 7. [**Bibliografía**](#bibliografía) <br>
 8. [**Anexos**](#anexos)
