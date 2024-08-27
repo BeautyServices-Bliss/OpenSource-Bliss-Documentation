@@ -7,7 +7,7 @@
 
 ## <center>Informe del TB1</center>
 ###  <center>Ingeniería de Software</center>
-###  <center>Ciclo 2024-01</center>
+###  <center>Ciclo 2024-02</center>
 ###  <center>Docente: Juan Antonio Flores Moroco</center>
 ###  <center>Startup: BeautyServices </center>
 ###  <center>Producto: Bliss </center>
@@ -235,37 +235,18 @@ El objetivo de nuestra aplicación es mejorar la gestión de clientes mediante u
 
 ##### 1.2.2.1. Lean UX Problem Statements
 
-a) El objetivo de nuestra aplicación es mejorar la gestión de clientes mediante una
-plataforma que facilite a los clientes la búsqueda y reserva de servicios de belleza y
-cuidado personal. 
-Sin embargo, nos enfrentamos a un desafío significativo: la alta tasa de informalidad en
-la industria, que genera desconfianza entre los clientes al seleccionar un centro para sus
-necesidades de belleza. Esta falta de transparencia y garantías sobre la calidad de los
-servicios ofrecidos crea incertidumbre y afecta negativamente la experiencia del
-usuario.
+a) El objetivo de nuestra aplicación es mejorar la gestión de clientes mediante una plataforma que facilite a los clientes la búsqueda y reserva de servicios de belleza y cuidado personal. 
+Sin embargo, nos enfrentamos a un desafío significativo: la alta tasa de informalidad en la industria, que genera desconfianza entre los clientes al seleccionar un centro para sus necesidades de belleza. Esta falta de transparencia y garantías sobre la calidad de los servicios ofrecidos crea incertidumbre y afecta negativamente la experiencia del usuario.
 
-¿Cómo podemos mejorar el proceso de selección del cliente para salones,
-tratamientos y servicios, asegurando un diseño que promueva la confianza y
-seguridad?
+¿Cómo podemos mejorar el proceso de selección del cliente para salones, tratamientos y servicios, asegurando un diseño que promueva la confianza y seguridad?
 
-b) Otro objetivo a mencionar es el de proporcionar un sistema eficiente de y
-transparente para la búsqueda y reserva de servicios, así como establecer canales de
-comunicación efectivos con los clientes.
-Nos enfrentamos a otro desafío significativo, los sistemas de gestión de citas para
-servicios de cuidado y belleza son ineficientes y generan desconfiaza en el usuario final.
+b) Otro objetivo a mencionar es el de proporcionar un sistema eficiente de y transparente para la búsqueda y reserva de servicios, así como establecer canales de comunicación efectivos con los clientes. Nos enfrentamos a otro desafío significativo, los sistemas de gestión de citas para servicios de cuidado y belleza son ineficientes y generan desconfiaza en el usuario final.
 
-¿Cómo podemos implementar estrategias efectivas para fomentar la transparencia y la
-calidad en los servicios ofrecidos por los centros de belleza, mejorando así la confianza
-de los usuarios en nuestra plataforma?
+¿Cómo podemos implementar estrategias efectivas para fomentar la transparencia y la calidad en los servicios ofrecidos por los centros de belleza, mejorando así la confianza de los usuarios en nuestra plataforma?
 
-c) Reconocemos la importancia de garantizar una experiencia segura y sin
-preocupaciones para los usuarios que utilizan nuestra plataforma para reservar servicios
-de belleza. La alta tasa de informalidad en la industria de los centros de belleza crea
-desafíos adicionales para garantizar la calidad y confiabilidad de los servicios ofrecidos.
+c) Reconocemos la importancia de garantizar una experiencia segura y sin preocupaciones para los usuarios que utilizan nuestra plataforma para reservar servicios de belleza. La alta tasa de informalidad en la industria de los centros de belleza crea desafíos adicionales para garantizar la calidad y confiabilidad de los servicios ofrecidos.
 
-¿Cómo podemos establecer procedimientos claros y efectivos para verificar y promover
-la formalidad y calidad de los centros de belleza asociados, brindando así una
-experiencia de usuario más segura y confiable en nuestra plataforma?
+¿Cómo podemos establecer procedimientos claros y efectivos para verificar y promover la formalidad y calidad de los centros de belleza asociados, brindando así una experiencia de usuario más segura y confiable en nuestra plataforma?
 
 ###### 1.2.2.2. Lean UX Assumptions
 
@@ -291,60 +272,42 @@ Resolveremos esto a través de la implementación de rigurosos procesos de verif
 
 * **Hypothesis Statement 01:**
   
-  **Creemos que** ofrecer una amplia gama de servicios de cuidado y belleza a través de
-nuestra aplicación para usuarios que buscan comodidad y conveniencia ayudará a que
-estos puedan reservar citas fácilmente y acceder a servicios de calidad.
+  **Creemos que** ofrecer una amplia gama de servicios de cuidado y belleza a través de nuestra aplicación para usuarios que buscan comodidad y conveniencia ayudará a que estos puedan reservar citas fácilmente y acceder a servicios de calidad.
 
   **Sabremos** que hemos tenido éxito
   
-  **Cuando** se vea un aumento significativo en la
-cantidad de reservas realizadas a través de nuestra aplicación, así como una mayor
-retención de clientes satisfechos.
+  **Cuando** se vea un aumento significativo en la cantidad de reservas realizadas a través de nuestra aplicación, así como una mayor retención de clientes satisfechos.
 
 * **Hypothesis Statement 02:**
   
-**Creemos que** implementar un sistema de verificación de estilistas calificados y negocios
-confiables garantizará la calidad de las citas reservadas y ayudará a que nuestros
-usuarios se sientan seguros al reservar servicios de cuidado y belleza.
+**Creemos que** implementar un sistema de verificación de estilistas calificados y negocios confiables garantizará la calidad de las citas reservadas y ayudará a que nuestros usuarios se sientan seguros al reservar servicios de cuidado y belleza.
 
 **Sabremos** que hemos tenido éxito
   
-  **Cuando** se reciban comentarios positivos de los
-usuarios acerca de la garantía y la buena calidad del servicio recibido, así como cuando
-veamos un mayor tráfico en la aplicación.
+  **Cuando** se reciban comentarios positivos de los usuarios acerca de la garantía y la buena calidad del servicio recibido, así como cuando veamos un mayor tráfico en la aplicación.
 
 * **Hypothesis Statement 03:**
   
-  **Creemos que** establecer colaboraciones estratégicas con salones de belleza, estilistas,
-marcas de belleza relevantes, y ofrecer programas de referidos atractivos ayudará a que
-adquiramos clientes de manera efectiva y aumentemos la visibilidad de nuestra
-aplicación.
+  **Creemos que** establecer colaboraciones estratégicas con salones de belleza, estilistas, marcas de belleza relevantes, y ofrecer programas de referidos atractivos ayudará a que adquiramos clientes de manera efectiva y aumentemos la visibilidad de nuestra aplicación.
 
 **Sabremos** que hemos tenido éxito
 
-  **Cuando** observemos un aumento en la adquisición
-de clientes durante los períodos de nuestras colaboraciones, así como una mayor
-interacción de los usuarios con la aplicación a través de programas de referidos.
+  **Cuando** observemos un aumento en la adquisición de clientes durante los períodos de nuestras colaboraciones, así como una mayor interacción de los usuarios con la aplicación a través de programas de referidos.
 
 * * **Hypothesis Statement 04:**
     
-**Creemos que** aumentaremos la confianza del usuario y fomentaremos la lealtad a
-nuestra marca si incorporamos funciones de calificación y reseñas para que los usuarios
-puedan evaluar la calidad de los servicios recibidos y compartir sus experiencias con
-otros usuarios.
+**Creemos que** aumentaremos la confianza del usuario y fomentaremos la lealtad a nuestra marca si incorporamos funciones de calificación y reseñas para que los usuarios puedan evaluar la calidad de los servicios recibidos y compartir sus experiencias con otros usuarios.
 
 **Sabremos** que hemos tenido éxito
 
-**Cuando** observemos un aumento significativo en la
-participación de los usuarios en la función de calificación y reseñas, así como un
-incremento en la cantidad de reseñas positivas y una mejora general en la percepción
-de la calidad de los servicios por parte de los usuarios.
+**Cuando** observemos un aumento significativo en la participación de los usuarios en la función de calificación y reseñas, así como un incremento en la cantidad de reseñas positivas y una mejora general en la percepción de la calidad de los servicios por parte de los usuarios.
 
 ###### 1.2.2.4. Lean UX Canvas
 
   <img src="resources/leanuxcanvas.png" alt="LeanUxCanvas">
 
 Enlace para acceder al Canvas (https://app.mural.co/t/studentprojects6765/m/studentprojects6765/1723924811878/e2acd47a64a2a0139c4cf13feb7c67c6a2e5f92d?sender=u9e84aeace61d1c60b4be6095)
+
 ### 1.3. Segmento objetivo
 
 1. MYPES: Este segmento esta compuesto por dueños de negocios que brindan servicios de cuidado y belleza que funcionan en Lima.
@@ -634,9 +597,9 @@ Con respecto a las entrevistas de trabajadores en el sector belleza y bienestar,
 | Phases | Doing | Thinking | Feeling |
 |-|-|-|-|
 | **Promoción y Visibilidad** | Los estilistas utilizan la plataforma para destacar sus servicios con perfiles detallados, incluyendo portafolios y testimonios.<br>Reciben apoyo en marketing digital a través de la plataforma para llegar a más clientes potenciales. | "Tengo herramientas para destacar entre la competencia y atraer a los clientes correctos."| Motivación al ver cómo la visibilidad mejora y los clientes interesados aumentan.|
-| **Gestión de Citas y Comunicación** | Las citas se gestionan a través de la plataforma, liberando tiempo para que los estilistas se concentren en su trabajo sin interrupciones.<br>Un sistema de mensajería dentro de la plataforma permite la comunicación directa y eficiente con los clientes. | "Puedo gestionar mi agenda de manera eficiente y dedicar más tiempo a los servicios."| Alivio al no tener que lidiar con interrupciones constantes y satisfacción con una gestión de citas organizada. |
+| **Gestión de Citas y Comunicación** | Las empresas gestionan sus citas través de la plataforma, liberando tiempo para que estos se concentren en su trabajo sin interrupciones.<br>Un sistema de mensajería dentro de la plataforma permite la comunicación directa y eficiente con los clientes. | "Puedo gestionar mi agenda de manera eficiente y dedicar más tiempo a los servicios."| Alivio al no tener que lidiar con interrupciones constantes y satisfacción con una gestión de citas organizada. |
 | **Experiencia del Servicio** | Los estilistas proporcionan servicios personalizados basados en la información y preferencias del cliente disponibles en la plataforma.<br>Reciben retroalimentación en tiempo real a través de la aplicación. | "Estoy seguro de que el cliente recibirá exactamente lo que desea."| Confianza en su capacidad para cumplir y superar las expectativas del cliente.|
-| **Retroalimentación y Fidelización** | La plataforma solicita automáticamente retroalimentación al cliente y comparte los resultados con el estilista.<br>La plataforma ofrece herramientas para la fidelización de clientes, como descuentos personalizados o recomendaciones de productos. | "Tengo un sistema que me ayuda a mejorar continuamente y a mantener la lealtad de mis clientes."| Seguridad y confianza en la calidad del servicio que ofrecen y en la relación a largo plazo con sus clientes. |
+| **Retroalimentación y Fidelización** | La empresa recibe mediante la plataforma automáticamente una retroalimentación al cliente y comparte los resultados.<br>La plataforma ofrece herramientas para la fidelización de clientes, como descuentos personalizados o recomendaciones de productos. | "Tengo un sistema que me ayuda a mejorar continuamente y a mantener la lealtad de mis clientes."| Seguridad y confianza en la calidad del servicio que ofrecen y en la relación a largo plazo con sus clientes. |
 
 <br>
 
@@ -644,18 +607,16 @@ Con respecto a las entrevistas de trabajadores en el sector belleza y bienestar,
 
 |Epic ID|Título|Descripción|
 |-|-|-|
-|EP001|Registro|Como usuario, quiero registrarme en la aplicación y poder autenticar mi identidad para acceder a los beneficios y promociones de mi cuenta.|
-|EP002|Perfil de empresa|Como especialista, quiero mostrar información de mi establecimiento de belleza y cuidado, los servicios que puedo ofrecer y promociones.|
-|EP003|Gestión de citas|Como especialista, deseo poder gestionar mis citas programadas de forma sencilla para poder administrar mejor mi tiempo y, por consiguiente, mi negocio.|
-|EP004|Sistema de Pagos|Como estilista quiero gestionar los pagos de las citas de forma segura.|
-|EP005|Búsqueda de servicio|Como usuario, quiero poner parámetros en la búsqueda de los servicios, parámetros como tipo de servicio, ubicación, rango de precios, entre otros. También, poder modificar estos parámetros.|
-|EP006|Sistema de Reservas|Como usuario, quiero poder ver la disponibilidad de citas de los estilistas y realizar una reserva en línea para el servicio deseado en un horario conveniente para mí.|
-|EP007|Valoración de servicio|Como usuario, quiero poder dejar una valoración y reseña sobre el servicio recibido después de mi cita para ayudar a otros usuarios a tomar decisiones informadas.|
-|EP008|Sistema de Calificación y Retroalimentación|Como estilista, quiero recibir una calificación detallada de mis servicios para comprender mejor las áreas en las que puedo mejorar y proporcionar una experiencia óptima a mis clientes.|
-|EP009|Programa de Fidelización|Como estilista, quiero poder ofrecer incentivos especiales y recompensas a mis clientes leales como parte de un programa de fidelización para mantener su preferencia hacia mi negocio.|
-|EP010|Seguridad y Verificación de Estilistas|Como usuario, quiero poder verificar la autenticidad y la reputación de los estilistas a través de un sistema de verificación de antecedentes y revisiones de otros usuarios para garantizar una experiencia segura y satisfactoria.|
-|EP011|Personalización|Como usuario, quiero poder adaptar mi solicitud de servicios de belleza y/o cuidado de acuerdo a mis preferencias y a la disposición de la empresa que ofrece el servicio.|
-|EP012|Recomendaciones |Como usuario, quiero recibir recomendaciones de acuerdo a mi ubicación, historial de servicios y preferencias|
+|EP001|Gestión de usuario|Como usuario de la aplicación, quiero poder gestionar mi perfil personal o de empresa para mantener la información actualizada.|
+|EP002|Busqueda y selección de servicios|Como cliente, quiero poder buscar y seleccionar servicios de belleza con facilidad, para encontrar la opción que mejor se adapte a mis necesidades.|
+|EP003|Reserva y confirmacion de servicios|Como cliente, quiero poder reservar un servicio y recibir una confirmación clara y rápida, para asegurarme de que mi cita esté programada.|
+|EP004|Retroalimentación y valoración|Como cliente, quiero poder proporcionar retroalimentación y valoraciones sobre los servicios recibidos, para ayudar a otros clientes y mejorar la calidad de los servicios ofrecidos.|
+|EP005|Gestión del catálogo de servicios|Como especialista, deseo poder gestionar mis citas programadas de forma sencilla para poder administrar mejor mi tiempo y, por consiguiente, mi negocio.|
+|EP006|Personalización del servicio|Como usuario, quiero poder adaptar mi solicitud de servicios de belleza y/o cuidado de acuerdo a mis preferencias y a la disposición de la empresa que ofrece el servicio.|
+|EP007|Seguridad y Verificación|Como usuario de la aplicación (cliente o empresa), quiero asegurarme de que mi identidad y la de otros usuarios estén verificadas, para garantizar un entorno seguro y confiable dentro de la plataforma. |
+|EP008|Comunicación|Como empresa de belleza, quiero comunicarme eficientemente con mis clientes.|
+|EP009|Reservas|Como empresa de belleza, quiero gestionar sus reservas para garantizar una experiencia de servicio mas fluida y satisfactoria.|
+|EP010|Sistema de pagos| Como usuario de la aplicación (cliente o empresa), quiero gestionar los pagos de manera segura y eficiente, para asegurar transacciones confiables y sin inconvenientes.|
 
 ####  3.2.1 User Stories-Usuario
 
@@ -663,13 +624,13 @@ Con respecto a las entrevistas de trabajadores en el sector belleza y bienestar,
 |-|-|-|-|-|
 | US001 | Creación de cuenta                            | Como  visitante de la aplicación web, quiero poder crear una cuenta en la aplicación proporcionando mi nombre, dirección de correo electrónico y contraseña.|**Escenario 1: Registro completado :** <br>Dado que un nuevo usuario quiere registrarse  <br> Cuando ingresa su nombre, dirección de correo electrónico y contraseña <br>Y presiona el botón de Crear Cuenta  <br> Entonces se envía un correo de verificación a la dirección enviada  <br> **Escenario 2:Error al registrar los datos**  <br> Dado que un nuevo usuario quiere registrarse  <br> Cuando ingresa un nombre, contraseña o un correo electrónico que no cumpla los requisitos establecidos  <br>  Y presiona el botón de Crear Cuenta  <br> Entonces aparece en pantalla un mensaje de error, indicando donde se encuentra el error y pidiendo que se ingrese de nuevo| EP001|
 | US002  | Verificación de correo electrónico           | Como usuario, quiero recibir un correo electrónico de verificación después de registrarme para confirmar mi dirección de correo electrónico| **Escenario 1: Verificación exitosa** <br>Dado que un usuario quiere crear una nueva cuenta  <br> Cuando encuentra el correo que le mandamos donde está el enlace con el código para crear su cuenta  <br> Y ingresa correctamente su código al enlace  <br> Entonces la cuenta nueva esta creada y se le redirige a la página principal de la aplicación.<br>**Escenario 2: Error en la verificación** Dado que un usuario quiere crear una nueva cuenta  <br> Cuando no encuentra el correo que mandamos a la dirección registrada  <br> presiono el botón mandar de nuevo  <br> Y ya pasaron 15 minutos  <br> Entonces aparecerá un mensaje de error que pedirá ingresar de nuevo el correo electrónico.| EP001|
-| US003  |Inicio de sesión de usuario| Como usuario registrado, quiero poder iniciar sesión en la aplicación utilizando mi correo electrónico y contraseña.| **Escenario 1: Inicio sesión exitoso** <br> Dado que un usuario quiere ingresar a su cuenta <br> Cuando el usuario proporciona su dirección de correo electrónico y contraseña <br> Y presiona el botón Iniciar Sesión <br> Entonces el usuario es redirigido a la página principal de la aplicación <br> **Escenario 2: Error al iniciar sesión** <br> Dado que un usuario quiere ingresar a su cuenta <br> Cuando el usuario proporciona un correo electrónico o contraseña invalido <br> Y presiona el botón Iniciar Sesión <br> Entonces aparece en pantalla un mensaje de error, indicando donde se encuentra el error y pidiendo que se ingrese de nuevo | EP003|
+| US003  |Inicio de sesión de usuario| Como usuario registrado, quiero poder iniciar sesión en la aplicación utilizando mi correo electrónico y contraseña.| **Escenario 1: Inicio sesión exitoso** <br> Dado que un usuario quiere ingresar a su cuenta <br> Cuando el usuario proporciona su dirección de correo electrónico y contraseña <br> Y presiona el botón Iniciar Sesión <br> Entonces el usuario es redirigido a la página principal de la aplicación <br> **Escenario 2: Error al iniciar sesión** <br> Dado que un usuario quiere ingresar a su cuenta <br> Cuando el usuario proporciona un correo electrónico o contraseña invalido <br> Y presiona el botón Iniciar Sesión <br> Entonces aparece en pantalla un mensaje de error, indicando donde se encuentra el error y pidiendo que se ingrese de nuevo | EP001|
 | US004  | Recomendación por ubicación                  | Como usuario, quiero visualizar como recomendados los servicios de belleza de establecimientos cercanos a mi ubicación actual.| **Escenario 1: Recomendaciones encontradas**<br> Dado que el usuario se encuentra en home <br> Entonces aparece en pantalla una lista de servicios ofrecidos por establecimientos cercanos a la ubicación del usuario| EP005|
 | US005  | Recomendación por historial                  | Como usuario, quiero visualizar como recomendados, los servicios de belleza de establecimientos a los que ya he solicitado servicios anteriormente | **Escenario 1:Recomendaciones encontradas**<br> Dado que el usuario se encuentra en home <br> Entonces aparece en pantalla una lista de servicios ofrecidos por establecimientos a los que el usuario ya ha solicitado servicios| EP005|
-| US006  | Visualización de disponibilidad de citas     | Como usuario, quiero poder ver la disponibilidad de citas de los centros de belleza y cuidado para elegir un horario conveniente para mí.| **Escenario 1: Exploración de Calendario** <br>Cuando selecciona un servicio  específico <br> Y selecciono el especialista <br>  Y detallo los requerimientos personalizados del servicio <br> Entonces el sistema muestra un calendario con horarios disponibles y puede seleccionar una fecha y hora conveniente.<br>**Escenario 2: Actualización de Disponibilidad**<br> Cuando un especialista actualiza su horario, el sistema muestra los horarios actualizados por servicio.| EP006|
+| US006  | Visualización de disponibilidad de citas     | Como usuario, quiero poder ver la disponibilidad de citas de los centros de belleza y cuidado para elegir un horario conveniente para mí.| **Escenario 1: Exploración de Calendario** <br>Cuando selecciona un servicio  específico <br> Y selecciono el especialista <br>  Y detallo los requerimientos personalizados del servicio <br> Entonces el sistema muestra un calendario con horarios disponibles y puede seleccionar una fecha y hora conveniente.<br>**Escenario 2: Actualización de Disponibilidad**<br> Cuando un especialista actualiza su horario, el sistema muestra los horarios actualizados por servicio.| EP005|
 | US007  | Notificación de confirmación de reserva      | Como usuario, quiero recibir una notificación de confirmación después de reservar una cita en la aplicación para tener la seguridad de que se ha realizado correctamente.| **Escenario 1: Notificación Automática**<br> Dado que el usuario reserva una cita <br>Cuando pasa 1 minuto <br>Entonces recibe la notificación con detalles de la cita en su dispositivo móvil o correo electrónico. **Escenario 2: Notificación no enviada**<br> Dado que el usuario reserva una cita <br>Cuando pasa 1 minuto <br>Entonces no llega una notificación en ningún dispositivo vinculado. | EP006|
 | US008  | Cancelación de cita por parte del usuario    | Como usuario, quiero tener la opción de cancelar una cita reservada en la aplicación en caso de necesidad.| **Escenario 1: Cancelación Confirmada**<br> Dado que el usuario quiere cancelar una cita<br> Cuando selecciona la opción de cancelar la cita<br> Entonces se presenta un mensaje de confirmación para asegurar la cancelación.<br>**Escenario 2: Error de Cancelación** Dado que el usuario quiere cancelar una cita<br> Cuando selecciona la opción de cancelar la cita <br>Entonces el sistema muestra mensaje de erorr al cancelar la cita.| EP006|
-| US009  | Dejar valoración y reseña después de la cita | Como usuario, quiero poder dejar una valoración y reseña sobre el servicio recibido después de completar una cita para ayudar a otros usuarios en su elección.| **Escenario 1: Publicación de Reseña Postcita confirmada** <br> Dado que el usuario ya recibio el servicio <br>Cuando pasan 5 minutos<br> Entonces en la aplicación donde puede escribir una reseña y seleccionar una calificación, confirmando la publicación de la reseña. **Escenario 2: Error en la reseña**  <br> Dado que el usuario ya recibio el servicio <br>Cuando pasan 5 minutos<br> Entonces en la aplicación no puede escribir una reseña.| EP006|
+| US009  | Dejar valoración y reseña después de la cita | Como usuario, quiero poder dejar una valoración y reseña sobre el servicio recibido después de completar una cita para ayudar a otros usuarios en su elección.| **Escenario 1: Publicación de Reseña Postcita confirmada** <br> Dado que el usuario ya recibio el servicio <br>Cuando pasan 5 minutos<br> Entonces en la aplicación donde puede escribir una reseña y seleccionar una calificación, confirmando la publicación de la reseña. **Escenario 2: Error en la reseña**  <br> Dado que el usuario ya recibio el servicio <br>Cuando pasan 5 minutos<br> Entonces en la aplicación no puede escribir una reseña.| EP008|
 | US010  | Personalización del Servicio                 | Como usuario, quiero poder personalizar el servicio reservado, incluyendo peticiones extras y el tipo de producto.| **Escenario 1: Correcta personalización del Servicio** <br>Dado que el usuario quiere personalizar el servicio<br> Cuando realiza una reserva, puede modificar o incluir algo respecto al servicio (ej. técnicas específicas, productos deseados) y tiene la intencion de confirmar estas opciones.<br> Entonces se establecen los nuevos requisitos de servicio.<br>**Escenario 2: Error en la personalización del servicio**<br>Dado que el usuario quiere personalizar el servicio<br> Cuando realiza una reserva, puede modificar o incluir algo respecto al servicio (ej. técnicas específicas, productos deseados) y tiene la intencion de confirmar estas opciones.<br> Entonces el sistema muestra un mensaje de error. | EP007|
 | US011  | Reserva de citas periódicas                 | Como usuario, quiero tener la opcion de reservar citas en conjunto, de tratamientos de cuidado y belleza que requieren de más de 2 citas periódicas.| **Escenario 1: Confirmación Reserva de citas periódicas**<br> Dado que el usuario confirmó un servicio con cuidados que requieren más de 2 citas.<br> Cuando el usuario acepte agendar todo el paquete de citas<br> Entonces las reservas se harán válidas y podrán ser visualizadas en el calendario del usuario.<br>**Escenario 2: Error de reservas periódicas**<br> Dado que el usuario confirmó un servicio con cuidados que requieren más de 2 citas.<br> Cuando el usuario acepte agendar todo el paquete de citas<br> Entonces | EP007|
 | US012  | Pago a través de la App                      | Como usuario, quiero poder pagar el servicio de belleza directamente a la empresa a través de la aplicación.| **Escenario 1: Pago Directo** <br>Cuando completa el proceso de reserva, puede pagar el servicio a través de la aplicación usando métodos de pago seguros.<br>**Escenario 2: Confirmación de Pago** Cuando realiza el pago, recibe una confirmación de la transacción en su dispositivo móvil o correo electrónico.| EP008|
