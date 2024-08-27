@@ -498,6 +498,12 @@ horarios y necesidades.
 |Departamento|Lima, Perú|
 |<img src="resources/entrevista3ss.JPG" />|Yaritza, es una estudiante de la carrera de ingeniería Civil y actualmente tiene un emprendimiento de salón de belleza, ella nos cuenta que su hermana es la que hace sus reservas de las citas para sus clientes, pero tiene el miedo a que su hermana un día pueda confundirse y no pueda ella ir a la cita y que ella si va a hogares a hacer ofrecer sus servicios, pero siempre se demora al escoger los productos con los clientes. Le dimos la información sobre nuestro proyecto y le presentamos todas las funciones de nuestra plataforma con el sistema de reserva de citas, consultas y compra de productos de belleza, ella le sorprendió mucho nuestro proyecto también nos dio una recomendación para poder implementar a la aplicación y esta es que con ayuda de la IA los clientes puedan seleccionar los productos que van a querer que se le usen y puedan ver como un “resultado” con la ia con una foto de estos mismos.|
 |Duración entrevista: 5:24|URL: [https://drive.google.com/file/d/1BaFeF2a1AaS3HgkfppCM8Afc9LAMu6gs/view?usp=sharing]|
+|**Nombre entrevistado**|  **Matías Munives Santamaría**|
+|Edad|21 años|
+|Profesión |  Estilista – Estudiante de Ingeniería de Sistemas|
+|Departamento|Lima, Perú|
+|<img src="resources/entrevista2.1.png" />|Matías ofrece servicios básicos como cortes de cabello, manicura, pedicura, masajes y faciales. Comenta que los cortes de cabello y las manicuras son los servicios más solicitados por sus clientes. Actualmente, las citas se gestionan principalmente a través de llamadas y mensajes por WhatsApp, aunque a veces surgen problemas cuando los clientes cancelan a último minuto. Le interesó nuestra propuesta de una aplicación que simplifique la organización de las reservas y atraiga a más clientes, siempre que sea fácil de usar y no demasiado costosa. También mencionó que no ofrecen servicios a domicilio debido a la logística y el personal requerido, pero estarían abiertos a considerar esta opción si se simplificara el proceso. Finalmente, está dispuesto a pagar una comisión por cada servicio adquirido a través de la aplicación, pero con un límite de 50 soles.|
+|Duración entrevista: 5:24|URL: [https://drive.google.com/file/d/1BaFeF2a1AaS3HgkfppCM8Afc9LAMu6gs/view?usp=sharing]|
 
 #### 2.2.3. Análisis de entrevistas</h4></div>
 
