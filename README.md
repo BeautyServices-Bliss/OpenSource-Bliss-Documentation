@@ -669,30 +669,30 @@ Con respecto a las entrevistas de trabajadores en el sector belleza y bienestar,
 |2|US015|Visualizar alianzas	|Como visitante, quiero visualizar las alianzas que tiene Bliss para poder confiar en la experiencia que brinda el producto.|1|
 |3|US027|Visualizar objetivo de Bliss	|Como visitante de la landing page, quiero ver la sección "Quiénes Somos" con información sobre el equipo, para conocer a las personas detrás de la empresa y su experiencia.|1|
 |4|US028|Visualizar visión del equipo|Como visitante de la landing page, quiero ver la visión de la empresa en la sección "Quiénes Somos" para entender los objetivos y valores fundamentales de la empresa.|2|
-|5|US004|Recomendación por ubicación	|Como usuario, quiero visualizar como recomendados los servicios de belleza de establecimientos cercanos a mi ubicación actual.||
-|6|US005|Visualización de historial|Como usuario, quiero visualizar los servicios de belleza de establecimientos a los que ya he solicitado servicios anteriormente.||
-|7|US010|Personalización del Servicio	|Como usuario, quiero poder personalizar el servicio reservado, incluyendo peticiones extras y el tipo de producto.||
-|8|US013|Búsqueda de servicios|Como usuario, quiero buscar un servicio o establecimiento específico mediante un cuadro de texto de busqueda.||
-|9|US016|Crear reserva de citas|Como usuario de la aplicacion, quiero poder registrar una nueva reserva Para poder acceder a mi servicio deseado.||
-|10|US022|Creacion de servicio|Como empresa, quiero crear un servicio a traves de la aplicacion para que los usuarios de la aplicación lo visualizen.||
-|11|US023|Eliminación de servicio|Como empresa, quiero poder eliminar un servicio que yo cree para mantener los servicio relevantes y a mi criterio.||
-|12|US024|Actualización de servicios ofrecidos|Como empresa, quiero actualizar los servicios que ofrezco en la aplicación, incluyendo la actualización de disponibilidad.||
-|13|US006|Visualización de disponibilidad de citas|Como usuario, quiero poder ver la disponibilidad de citas de los centros de belleza y cuidado para elegir un horario conveniente para mí.||
-|14|US011|Reserva de citas periódicas	|Como usuario, quiero tener la opcion de reservar citas en conjunto, de tratamientos de cuidado y belleza que requieren de más de 2 citas periódicas.||
-|15|US021|Gestión de citas	|Como empresa, quiero gestionar las citas realizadas a través de la aplicación.||
-|16|US007|Notificación de confirmación de reserva|Como usuario, quiero recibir una notificación de confirmación después de reservar una cita en la aplicación para tener la seguridad de que se ha realizado correctamente.||
-|17|US008|Cancelación de cita por parte del usuario|Como usuario, quiero tener la opción de cancelar una cita reservada en la aplicación en caso de necesidad.||
-|18|US009|Dejar valoración y reseña después de la cita|Como usuario, quiero poder dejar una valoración y reseña sobre el servicio recibido después de completar una cita para ayudar a otros usuarios en su elección.||
-|19|US017|Ver perfil de usuario|Como ususario de la aplicacion, Quiero poder ver mi perfil Para acceder a mi informacion personal en mi cuenta.||
-|20|US018|Editar mi perfil de usuario|Como usuario de la palicacion, Quiero poder editar mi perfil para mantener actualizada mi cuenta.||
-|21|US019|Registro de perfil de empresa|Como empresa, quiero crear un perfil en la aplicación para mostrar información sobre mi negocio y los servicios que ofrezco.||
-|22|US020|Edición de perfil de especialista|Como empresa, quiero editar los perfiles de mis espicialistas en la aplicación para actualizar la información sobre mi negocio y servicios.||
-|23|US001|	Creación de cuenta|Como visitante de la aplicación web, quiero poder crear una cuenta en la aplicación proporcionando mi nombre, dirección de correo electrónico y contraseña.||
-|24|US003|Inicio de sesión de usuario|Como usuario registrado, quiero poder iniciar sesión en la aplicación utilizando mi correo electrónico y contraseña.||
-|25|US025|Suscripción al sistema de pagos|Como empresa, quiero suscribirme al sistema de pagos en la aplicación para gestionar los pagos de las citas de manera segura.||
-|26|US012|Pago a través de la App|Como usuario, quiero poder pagar el servicio de belleza directamente a la empresa a través de la aplicación.||
-|27|US026|Integración con calendario personal|Como usuario, quiero sincronizar mis citas y reservas con mi calendario personal (Google Calendar, Outlook) para mantenerme organizado.||
-|28|US002|Verificación de correo electrónico	|Como visitante, quiero recibir un correo electrónico de verificación después de registrarme para confirmar mi dirección de correo electrónico||
+|5|US004|Recomendación por ubicación	|Como usuario, quiero visualizar como recomendados los servicios de belleza de establecimientos cercanos a mi ubicación actual.|3|
+|6|US005|Visualización de historial|Como usuario, quiero visualizar los servicios de belleza de establecimientos a los que ya he solicitado servicios anteriormente.|2|
+|7|US010|Personalización del Servicio	|Como usuario, quiero poder personalizar el servicio reservado, incluyendo peticiones extras y el tipo de producto.|2|
+|8|US013|Búsqueda de servicios|Como usuario, quiero buscar un servicio o establecimiento específico mediante un cuadro de texto de busqueda.|2|
+|9|US016|Crear reserva de citas|Como usuario de la aplicacion, quiero poder registrar una nueva reserva Para poder acceder a mi servicio deseado.|2|
+|10|US022|Creacion de servicio|Como empresa, quiero crear un servicio a traves de la aplicacion para que los usuarios de la aplicación lo visualizen.|1|
+|11|US023|Eliminación de servicio|Como empresa, quiero poder eliminar un servicio que yo cree para mantener los servicio relevantes y a mi criterio.|1|
+|12|US024|Actualización de servicios ofrecidos|Como empresa, quiero actualizar los servicios que ofrezco en la aplicación, incluyendo la actualización de disponibilidad.|2|
+|13|US006|Visualización de disponibilidad de citas|Como usuario, quiero poder ver la disponibilidad de citas de los centros de belleza y cuidado para elegir un horario conveniente para mí.|1|
+|14|US011|Reserva de citas periódicas	|Como usuario, quiero tener la opcion de reservar citas en conjunto, de tratamientos de cuidado y belleza que requieren de más de 2 citas periódicas.|2|
+|15|US021|Gestión de citas	|Como empresa, quiero gestionar las citas realizadas a través de la aplicación.|2|
+|16|US007|Notificación de confirmación de reserva|Como usuario, quiero recibir una notificación de confirmación después de reservar una cita en la aplicación para tener la seguridad de que se ha realizado correctamente.|1|
+|17|US008|Cancelación de cita por parte del usuario|Como usuario, quiero tener la opción de cancelar una cita reservada en la aplicación en caso de necesidad.|2|
+|18|US009|Dejar valoración y reseña después de la cita|Como usuario, quiero poder dejar una valoración y reseña sobre el servicio recibido después de completar una cita para ayudar a otros usuarios en su elección.|2|
+|19|US017|Ver perfil de usuario|Como ususario de la aplicacion, Quiero poder ver mi perfil Para acceder a mi informacion personal en mi cuenta.|1|
+|20|US018|Editar mi perfil de usuario|Como usuario de la palicacion, Quiero poder editar mi perfil para mantener actualizada mi cuenta.|3|
+|21|US019|Registro de perfil de empresa|Como empresa, quiero crear un perfil en la aplicación para mostrar información sobre mi negocio y los servicios que ofrezco.|1|
+|22|US020|Edición de perfil de especialista|Como empresa, quiero editar los perfiles de mis espicialistas en la aplicación para actualizar la información sobre mi negocio y servicios.|1|
+|23|US001|	Creación de cuenta|Como visitante de la aplicación web, quiero poder crear una cuenta en la aplicación proporcionando mi nombre, dirección de correo electrónico y contraseña.|3|
+|24|US003|Inicio de sesión de usuario|Como usuario registrado, quiero poder iniciar sesión en la aplicación utilizando mi correo electrónico y contraseña.|3|
+|25|US025|Suscripción al sistema de pagos|Como empresa, quiero suscribirme al sistema de pagos en la aplicación para gestionar los pagos de las citas de manera segura.|3|
+|26|US012|Pago a través de la App|Como usuario, quiero poder pagar el servicio de belleza directamente a la empresa a través de la aplicación.|2|
+|27|US026|Integración con calendario personal|Como usuario, quiero sincronizar mis citas y reservas con mi calendario personal (Google Calendar, Outlook) para mantenerme organizado.|1|
+|28|US002|Verificación de correo electrónico	|Como visitante, quiero recibir un correo electrónico de verificación después de registrarme para confirmar mi dirección de correo electrónico|2|
 
 
 ## Capítulo 4: Product Design
