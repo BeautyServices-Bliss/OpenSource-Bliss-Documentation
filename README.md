@@ -1,16 +1,23 @@
-# <center>Universidad Peruana de Ciencias Aplicadas</center>
-## <center>Desarrollo de Aplicaciones Open Source WS53</center>
-
 <p align="center">
   <img src="resources/UPCLogo.png" alt="UPC" width="150">
 </p>
 
-## <center>Informe del TB1</center>
+# <center>Universidad Peruana de Ciencias Aplicadas</center>
+
 ###  <center>Ingeniería de Software</center>
-###  <center>Ciclo 2024-02</center>
+
+###  <center>Ciclo 2024-01</center>
+
+## <center>Desarrollo de Aplicaciones Open Source WS53</center>
+
 ###  <center>Docente: Juan Antonio Flores Moroco</center>
+
+## <center>Informe del TB1</center>
+
 ###  <center>Startup: BeautyServices </center>
+
 ###  <center>Producto: Bliss </center>
+
 ##  <center>Integrantes
 
 | Nombre |Código de alumno|
@@ -22,6 +29,7 @@
 |Diego Martin Sorano Medriano|U202114793|
 
 ## <center>Agosto 2024</center>
+
 ## Registro de versiones del informe
 
 | Versión   | Fecha     | Autor |Descripción de la modificación |
@@ -41,7 +49,7 @@ URL de la organización del proyecto: [https://github.com/upc-opensource-g-bliss
 |Diego Ivan Cabrera Buitron||
 |Elvia Marcela Rodriguez Villa||
 |David Alejandro Rivas Sarango||
-|Diego Martin Sorano Medriano||
+|Diego Martin Soriano Medrano||
 
 **TB1 Github**
 
@@ -138,8 +146,8 @@ URL de la organización del proyecto: [https://github.com/upc-opensource-g-bliss
 
 | Criterio específico | Acciones realizadas | Conclusiones |
 |---------------------|---------------------|--------------|
-|Comunica oralmente con efectividad a diferentes rangos de audiencia.| **André Arturo Bernaola Pérez**<br> <br>**Diego Ivan Cabrera Buitron**<br> <br>**Elvia Marcela Rodriguez Villa**<br> <br>**David Alejandro Rivas Sarango**<br> <br>**Diego Martin Soriano Medrano**<br>| |
-|Comunica por escrito con efectividad a diferentes rangos de audiencia|**André Arturo Bernaola Pérez**<br> <br>**Diego Ivan Cabrera Buitron**<br> <br>**Elvia Marcela Rodriguez Villa**<br> <br>**David Alejandro Rivas Sarango**<br> <br>**Diego Martin Soriano Medrano**<br>| |
+|Comunica oralmente con efectividad a diferentes rangos de audiencia.| **André Arturo Bernaola Pérez** <br> **TB1** <br> <br>**Diego Ivan Cabrera Buitron** <br> **TB1** <br> <br>**Elvia Marcela Rodriguez Villa** <br> **TB1** <br> <br>**David Alejandro Rivas Sarango** <br> **TB1** <br> <br>**Diego Martin Soriano Medrano** <br> **TB1** | |
+|Comunica por escrito con efectividad a diferentes rangos de audiencia|**André Arturo Bernaola Pérez** <br> **TB1** <br> <br>**Diego Ivan Cabrera Buitron** <br> **TB1** <br> <br>**Elvia Marcela Rodriguez Villa** <br> **TB1** <br> <br>**David Alejandro Rivas Sarango** <br> **TB1** <br> <br>**Diego Martin Soriano Medrano** <br> **TB1** <br> | |
 
 ***
 
@@ -150,12 +158,14 @@ URL de la organización del proyecto: [https://github.com/upc-opensource-g-bliss
 #### 1.1.1. Descripción del startup
 
 <p style="text-align: justify">
-Las empresas de belleza y del cuidado personal están creciendo rápidamente, especialmente el sector de tratamientos faciales y dermocosmética, que ha crecido casi 8 veces en los últimos 10 años. Los centros de belleza están diseñados para satisfacer las necesidades de la clase media emergente de 2019, la cual está creciendo. 
+Las empresas de belleza y del cuidado personal están creciendo a un ritmo acelerado, especialmente el sector de tratamientos faciales y dermocosmética, que ha crecido casi 8 veces en los últimos 10 años. Los centros de belleza están diseñados para satisfacer las necesidades de la clase media emergente de 2019, la cual está creciendo. 
 
-La importancia del servicio personalizado al usuario es evidente en este contexto. Los salones de belleza en Perú, que crecen cada vez más, luchan por diferenciarse en un mercado donde la oferta aún está polarizada e informal. Las pequeñas empresas familiares son un buen lugar para empezar, son un poco más relajadas y tienen un estilo de gestión bajo, pero pueden personalizarse y atender las necesidades individuales de cada cliente. Los datos del Inei muestran que el 75.6% de los salones de belleza están dirigidos por mujeres. 
+La importancia del servicio personalizado al usuario es evidente en este contexto. Los salones de belleza en Perú, que crecen cada vez más, luchan por diferenciarse en un mercado donde la oferta aún está polarizada e informal. Las pequeñas empresas familiares son un buen lugar para empezar, son un poco más moldeables y tienen un estilo de gestión diferente y poco complejo. La principal ventaja que tienen estos establecimientos es que los servicios suelen ser bastante personalizables de acuerdo a las necesidades específicas de cada cliente. Los datos del Inei muestran que el 75.6% de los salones de belleza están dirigidos por mujeres. 
 
-Para aprovechar al máximo la competencia competitiva y el crecimiento, es fundamental elevar la calidad del servicio y la gestión, con un mayor énfasis en ofrecer experiencias de usuario personalizadas. No sólo aumentará la satisfacción del cliente, sino que también ayudará a formalizar y "profesionalizar" la industria de la belleza, permitiéndoles establecer relaciones más sólidas y duraderas con sus clientes.
+Para aprovechar al máximo la alta competitividad y el constante crecimiento de estos establecimientos, es fundamental elevar la calidad del servicio y prestar atención a la forma en que se gestiona la atención a los clientes, con un mayor énfasis en ofrecer experiencias de usuario personalizadas. No sólo aumentará la satisfacción del cliente, sino que también ayudará a formalizar y "profesionalizar" la industria de la belleza, permitiéndoles establecer relaciones más sólidas y duraderas con sus clientes.
 </p>
+
+<br/>
 
 **Misión**: Ofrecer un servicio de belleza y cuidado personal altamente personalizado, centrado en satisfacer las necesidades y expectativas de cada cliente.
 
@@ -176,7 +186,7 @@ Para aprovechar al máximo la competencia competitiva y el crecimiento, es funda
 ||**André Arturo Bernaola Pérez**|
 |<img src="resources/diego.png" alt="diego">|**Diego Ivan Cabrera Buitron** <br> Mi nombre es **Diego Cabrera**, estoy cursando la carrera de Ingeniería de Software, me considero una persona responsable y perseverante. Al culminar mi carrera quiero especializarme en el sector de la ciberseguridad|
 |           |**Elvia Marcela Rodriguez Villa**|
-|           |**Diego Martin Soriano Medrano**|
+|           |**Diego Martin Soriano Medrano** <br/> Estudio la carrera de ingeniería de software. Me considero una persona creativa y paciente. Tengo conocimiento en el uso de diferentes herramientas informáticas y lenguajes de programación. Estas herramientas me ayudan a realizar distintos tipos de trabajo y a resolver problemas. Parte de mis habilidades blandas es siempre tomar en cuenta la opinión de mis compañeros, lo cual me facilita el poder trabajar en equipo, para agilizar y optimizar las diferentes actividades. En mis tiempos libres suelo navegar por Internet. |
 |<img src="resources/rivas-foto.jpg"/>|**David Alejandro Rivas Sarango** <br> Mi nombre es **David Rivas**, actualmente estoy cursando la carrera de Ingeniería de Software en la UPC. Soy una persona honesta y responsable. Me interesa el área de Data Science, por esto estoy siguiendo cursos de capacitacion en SQL y Python.|
 |<img src="resources/rodriguez.jpg"/>|**Elvia Marcela Rodríguez Villa** <br> Soy Elvia Rodríguez, actual estudiante universitaria y egresada de Laboratoria. Soy actual embajadora del programa de estudiantes de Microsoft y fui participante de diversos voluntariados y Hackathons cómo Ciencia en tu Comunidad y el Laboratorio de Emprendimientos de SENAJU. Asimismo, soy maestra de inglés y suelo incorporar mis conocimientos de programación de interfaces de usuario en mi labor educativa. |
 
