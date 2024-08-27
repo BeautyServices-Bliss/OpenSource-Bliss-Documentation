@@ -536,24 +536,24 @@ Con respecto a las entrevistas de trabajadores en el sector belleza y bienestar,
 |Task Matrix|Importancia|
 |-|-|
 |Buscar servicios de belleza|Alta|
+|Elegir Servicio|Alta|
 |Seleccionar un centro|Media|
 |Reservar un servicio|Media|
-|Elegir Servicio|Media|
 |Visualizar centros cercanos|Baja|
 |Recibir confirmación de reserva|Baja|
-|Proporcionar retroalimentación|Media|
+|Proporcionar retroalimentación|Baja|
 
 
 **Segmento 2**
 |Task Matrix|Importancia|
 |-|-|
 |Registrarse en la plataforma|Alta|
+|Subir y mantener el catálogo de servicios|Alta|
+|Comunicarse con los clientes|Alta|
 |Gestionar información del centro|Media|
 |Confirmar y gestionar reservas|Media|
-|Comunicarse con los clientes|Alta|
 |Recibir y responder a la retroalimentación|Media|
 |Recibir confirmación de reserva|Media|
-|Subir y mantener el catálogo de servicios|Alta|
 |Crear y administrar promociones|Baja|
 
 
