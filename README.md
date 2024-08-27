@@ -611,8 +611,8 @@ Con respecto a las entrevistas de trabajadores en el sector belleza y bienestar,
 |EP002|Busqueda y selección de servicios|Como cliente, quiero poder buscar y seleccionar servicios de belleza con facilidad, para encontrar la opción que mejor se adapte a mis necesidades.|
 |EP003|Reserva y confirmacion de servicios|Como cliente, quiero poder reservar un servicio y recibir una confirmación clara y rápida, para asegurarme de que mi cita esté programada.|
 |EP004|Retroalimentación y valoración|Como cliente, quiero poder proporcionar retroalimentación y valoraciones sobre los servicios recibidos, para ayudar a otros clientes y mejorar la calidad de los servicios ofrecidos.|
-|EP005|Gestión del catálogo de servicios|Como especialista, deseo poder gestionar mis citas programadas de forma sencilla para poder administrar mejor mi tiempo y, por consiguiente, mi negocio.|
-|EP006|Personalización del servicio|Como usuario, quiero poder adaptar mi solicitud de servicios de belleza y/o cuidado de acuerdo a mis preferencias y a la disposición de la empresa que ofrece el servicio.|
+|EP005|Gestión del catálogo de servicios|Como empresa, deseo poder gestionar mis servicios ofrecidos.|
+|EP006|Personalización del servicio|Como cliente, quiero poder adaptar mi solicitud de servicios de belleza y/o cuidado de acuerdo a mis preferencias y a la disposición de la empresa que ofrece el servicio.|
 |EP007|Seguridad y Verificación|Como usuario de la aplicación (cliente o empresa), quiero asegurarme de que mi identidad y la de otros usuarios estén verificadas, para garantizar un entorno seguro y confiable dentro de la plataforma. |
 |EP008|Comunicación|Como empresa de belleza, quiero comunicarme eficientemente con mis clientes.|
 |EP009|Reservas|Como empresa de belleza, quiero gestionar sus reservas para garantizar una experiencia de servicio mas fluida y satisfactoria.|
