@@ -185,10 +185,9 @@ Para aprovechar al máximo la alta competitividad y el constante crecimiento de 
 |-----------|-----------|
 ||**André Arturo Bernaola Pérez**|
 |<img src="resources/diego.png" alt="diego">|**Diego Ivan Cabrera Buitron** <br> Mi nombre es **Diego Cabrera**, estoy cursando la carrera de Ingeniería de Software, me considero una persona responsable y perseverante. Al culminar mi carrera quiero especializarme en el sector de la ciberseguridad|
-|           |**Elvia Marcela Rodriguez Villa**|
-|           |**Diego Martin Soriano Medrano** <br/> Estudio la carrera de ingeniería de software. Me considero una persona creativa y paciente. Tengo conocimiento en el uso de diferentes herramientas informáticas y lenguajes de programación. Estas herramientas me ayudan a realizar distintos tipos de trabajo y a resolver problemas. Parte de mis habilidades blandas es siempre tomar en cuenta la opinión de mis compañeros, lo cual me facilita el poder trabajar en equipo, para agilizar y optimizar las diferentes actividades. En mis tiempos libres suelo navegar por Internet. |
 |<img src="resources/rivas-foto.jpg"/>|**David Alejandro Rivas Sarango** <br> Mi nombre es **David Rivas**, actualmente estoy cursando la carrera de Ingeniería de Software en la UPC. Soy una persona honesta y responsable. Me interesa el área de Data Science, por esto estoy siguiendo cursos de capacitacion en SQL y Python.|
 |<img src="resources/rodriguez.jpg"/>|**Elvia Marcela Rodríguez Villa** <br> Soy Elvia Rodríguez, actual estudiante universitaria y egresada de Laboratoria. Soy actual embajadora del programa de estudiantes de Microsoft y fui participante de diversos voluntariados y Hackathons cómo Ciencia en tu Comunidad y el Laboratorio de Emprendimientos de SENAJU. Asimismo, soy maestra de inglés y suelo incorporar mis conocimientos de programación de interfaces de usuario en mi labor educativa. |
+|<img src="resources/foto.jpg"/>|**Diego Martin Soriano Medrano** <br/> Estudio la carrera de ingeniería de software. Me considero una persona creativa y paciente. Tengo conocimiento en el uso de diferentes herramientas informáticas y lenguajes de programación. que ayudan a realizar distintos tipos de trabajo y a resolver problemas. Parte de mis habilidades blandas es siempre tomar en cuenta la opinión de mis compañeros, lo cual me facilita el poder trabajar en equipo, para agilizar diferentes actividades.|
 
 ### 1.2. Solution Profile
 #### 1.2.1. Antecedentes y Problemática
@@ -320,13 +319,19 @@ Enlace para acceder al Canvas (https://app.mural.co/t/studentprojects6765/m/stud
 
 ### 1.3. Segmento objetivo
 
-1. MYPES: Este segmento esta compuesto por dueños de negocios que brindan servicios de cuidado y belleza que funcionan en Lima.
+1. Clientas aficionadas al embellecimiento: Este segmento esta compuesto por mujeres en el rango de edad de 20 a 45 años, del sector socioeconómico B-C que residan en Lima.
 
-2. Aficionadas al embellecimiento: Este segmento esta compuesto por mujeres en el rango de edad de 20 a 45 años, del sector socioeconómico B-C que residan en Lima.
+2. MYPES: Este segmento esta compuesto por dueños de negocios que brindan servicios de cuidado y belleza que funcionan en Lima.
 
+<br/>
 
 ## Capítulo II: Requirements Elicitation & Analysis
 ### 2.1. Competidores
+
+Identificación y descripción 
+
+<br/>
+
 #### 2.1.1. Análisis Competitivo
 
 ||Bliss <br><img src='resources/bliss.png' width="110" height="70">|Treatwell <img src='resources/treatwell.png' width="70" height="70">|SimplyBook <img src='resources/simply.png' width="70" height="70">|Booksy <br><img src='resources/boosky.png' width="70" height="70">|
@@ -465,14 +470,18 @@ horarios y necesidades.
 |Departamento|Lima, Perú|
 |<img src="resources/entrevista2ss.JPG" />|María, dueña de un salón de belleza con 30 años de historia, nos cuenta que sus clientes le pueden enviar un mensaje por WhatsApp para reservar una cita, esto beneficia a sus clientes pues no se molestan en esperar su turno mejorando la atención. Menciona que está interesada en promocionar su negocio por redes sociales u otras plataformas, pero teme exponerse a la delincuencia por estos medios. Esto no la detiene de llevar servicio a domicilio con sus clientes habituales. Le contamos de nuestro proyecto y como queremos presentarle una plataforma para que clientes puedan reservar citas, pero, aunque reconozca los beneficios teme que delincuentes creen perfiles falsos y lleguen a su local, por ello incluso usando WhatsApp como medio de comunicación con clientes reconoce que solo acepta cita a los clientes habituales o por recomendación, nunca a extraños. |
 |Duración entrevista: 8:54|URL:[https://drive.google.com/file/d/1dBjvYYgw0as8N2YYhyk_MVW3MaRZ0CLA/view?usp=sharing]|
+
 |**Nombre entrevistado**|  **Yaritza Gutiérrez Córdova**|
 |Edad|21 años|
+|:-|:-|
 |Profesión |  Estilista – Estudiante de Ingeniería Civil|
 |Departamento|Lima, Perú|
 |<img src="resources/entrevista3ss.JPG" />|Yaritza, es una estudiante de la carrera de ingeniería Civil y actualmente tiene un emprendimiento de salón de belleza, ella nos cuenta que su hermana es la que hace sus reservas de las citas para sus clientes, pero tiene el miedo a que su hermana un día pueda confundirse y no pueda ella ir a la cita y que ella si va a hogares a hacer ofrecer sus servicios, pero siempre se demora al escoger los productos con los clientes. Le dimos la información sobre nuestro proyecto y le presentamos todas las funciones de nuestra plataforma con el sistema de reserva de citas, consultas y compra de productos de belleza, ella le sorprendió mucho nuestro proyecto también nos dio una recomendación para poder implementar a la aplicación y esta es que con ayuda de la IA los clientes puedan seleccionar los productos que van a querer que se le usen y puedan ver como un “resultado” con la ia con una foto de estos mismos.|
 |Duración entrevista: 5:24|URL: [https://drive.google.com/file/d/1BaFeF2a1AaS3HgkfppCM8Afc9LAMu6gs/view?usp=sharing]|
+
 |**Nombre entrevistado**|  **Matías Munives Santamaría**|
 |Edad|21 años|
+|:-|:-|
 |Profesión |  Estilista – Estudiante de Ingeniería de Sistemas|
 |Departamento|Lima, Perú|
 |<img src="resources/entrevista2.1.png" />|Matías ofrece servicios básicos como cortes de cabello, manicura, pedicura, masajes y faciales. Comenta que los cortes de cabello y las manicuras son los servicios más solicitados por sus clientes. Actualmente, las citas se gestionan principalmente a través de llamadas y mensajes por WhatsApp, aunque a veces surgen problemas cuando los clientes cancelan a último minuto. Le interesó nuestra propuesta de una aplicación que simplifique la organización de las reservas y atraiga a más clientes, siempre que sea fácil de usar y no demasiado costosa. También mencionó que no ofrecen servicios a domicilio debido a la logística y el personal requerido, pero estarían abiertos a considerar esta opción si se simplificara el proceso. Finalmente, está dispuesto a pagar una comisión por cada servicio adquirido a través de la aplicación, pero con un límite de 50 soles.|
@@ -505,7 +514,13 @@ Con respecto a las entrevistas de trabajadores en el sector belleza y bienestar,
 
 ####  2.3.2. User Task Matrix
 
-**Segmento 1**
+Para la realizar el User Task Matrix se tomo a los dos sengmetos objetivos ya presenteados que son:
+
+1. Clientas
+
+2. MYPES
+
+**Clientas**
 |Task Matrix|Importancia|
 |-|-|
 |Buscar servicios de belleza|Alta|
@@ -516,19 +531,19 @@ Con respecto a las entrevistas de trabajadores en el sector belleza y bienestar,
 |Recibir confirmación de reserva|Baja|
 |Proporcionar retroalimentación|Baja|
 
+<br/>
 
-**Segmento 2**
+**MYPES**
 |Task Matrix|Importancia|
 |-|-|
-|Registrarse en la plataforma|Alta|
-|Subir y mantener el catálogo de servicios|Alta|
-|Comunicarse con los clientes|Alta|
-|Gestionar información del centro|Media|
-|Confirmar y gestionar reservas|Media|
-|Recibir y responder a la retroalimentación|Media|
-|Recibir confirmación de reserva|Media|
+|Mantener un catálogo de servicios actualizado|Alta|
+|Mantener constante comunicación con los clientes|Alta|
+|Gestionar y actualizar información del centro de belleza|Media|
+|Confirmar y gestionar reservas por distintos medios|Media|
+|Recibir y responder a la retroalimentación de los clientes|Media|
 |Crear y administrar promociones|Baja|
 
+<br/>
 
 #### 2.3.3. User Journey Mapping
 
