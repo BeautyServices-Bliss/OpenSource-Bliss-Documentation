@@ -26,7 +26,7 @@
 |Diego Ivan Cabrera Buitron|U20211B293|
 |Elvia Marcela Rodriguez Villa|U20231C784|
 |David Alejandro Rivas Sarango|U20191E831|
-|Diego Martin Sorano Medriano|U202114793|
+|Diego Martin Soriano Medrano|U202114793|
 
 ## <center>Agosto 2024</center>
 
