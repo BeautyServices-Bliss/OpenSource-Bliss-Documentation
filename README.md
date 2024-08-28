@@ -38,6 +38,9 @@
 | 2         |18/08/2024|Cabrera Diego|Desarrollo del capítulo 1 y Entrevistas|
 | 3         |24/08/2024|Rivas David,  Rodriguez Elvia|Desarrollo de las US y Product Backlog|
 |4          |25/08/2024|Bernaola Andre|Implementación de la Landing Page|
+
+<br/>
+
 ## Project Report Collaboration Insights
 
 URL de la organización del proyecto: [https://github.com/upc-opensource-g-bliss]
@@ -53,6 +56,7 @@ URL de la organización del proyecto: [https://github.com/upc-opensource-g-bliss
 
 **TB1 Github**
 
+<br/>
 
 ***
 
@@ -142,6 +146,8 @@ URL de la organización del proyecto: [https://github.com/upc-opensource-g-bliss
 7. [**Bibliografía**](#bibliografía) <br>
 8. [**Anexos**](#anexos)
 
+<br/>
+
 ## Students Outcomes
 
 | Criterio específico | Acciones realizadas | Conclusiones |
@@ -150,6 +156,8 @@ URL de la organización del proyecto: [https://github.com/upc-opensource-g-bliss
 |Comunica por escrito con efectividad a diferentes rangos de audiencia|**André Arturo Bernaola Pérez** <br> **TB1** <br> <br>**Diego Ivan Cabrera Buitron** <br> **TB1** <br> <br>**Elvia Marcela Rodriguez Villa** <br> **TB1** <br> <br>**David Alejandro Rivas Sarango** <br> **TB1** <br> <br>**Diego Martin Soriano Medrano** <br> **TB1** <br> | |
 
 ***
+
+<br/>
 
 ## Capítulo I: Introducción
 
@@ -523,27 +531,31 @@ Para la realizar el User Task Matrix se tomo a los dos sengmetos objetivos ya pr
 **Clientas**
 |Task Matrix|Importancia|
 |-|-|
-|Buscar servicios de belleza|Alta|
-|Elegir Servicio|Alta|
-|Seleccionar un centro|Media|
-|Reservar un servicio|Media|
-|Visualizar centros cercanos|Baja|
+|Requerir servicios de belleza|Alta|
+|Buscar locales de servicios de belleza cercanos|Alta|
+|Seleccionar un centro de belleza|Media|
+|Pedir atención o realizar una reserva en el local de servicios de belleza|Alta|
 |Recibir confirmación de reserva|Baja|
-|Proporcionar retroalimentación|Baja|
+|Elegir el servicio requerido|Alta|
+|En caso sea necesario pedir cambios en el servicio requerido|Alta|
+|Proporcionar retroalimentación sobre el servicio recibido|Baja|
 
-<br/>
+<br>
 
 **MYPES**
 |Task Matrix|Importancia|
 |-|-|
+|Publicitar el local de belleza en internet|Alta|
 |Mantener un catálogo de servicios actualizado|Alta|
+|Atencer, confirmar y gestionar reservas por distintos medios|Media|
+|Atender las reservas y a todos los clientes|Media|
+|Realizar cambios en el servicio realizado en caso el cliente lo requiera|Media|
 |Mantener constante comunicación con los clientes|Alta|
 |Gestionar y actualizar información del centro de belleza|Media|
-|Confirmar y gestionar reservas por distintos medios|Media|
+|Crear y administrar promociones del local|Baja|
 |Recibir y responder a la retroalimentación de los clientes|Media|
-|Crear y administrar promociones|Baja|
 
-<br/>
+<br>
 
 #### 2.3.3. User Journey Mapping
 
@@ -555,17 +567,17 @@ Para la realizar el User Task Matrix se tomo a los dos sengmetos objetivos ya pr
 |Experiencia|Siente curiosidad por explorar opciones.|Busca información detallada y reseñas para tomar decisiones informadas.|Necesita transparencia en los precios y opciones de personalización.|Desea un servicio de alta calidad que cumpla con sus expectativas.|Desea compartir su experiencia y ayudar a otros usuarios.|
 |Expectativa|Expectativas de encontrar una solución conveniente.|Desea un centro con buena reputación y servicios	de calidad.|Necesita una herramienta intuitiva para programar citas.|Desea una experiencia satisfactoria y sin contratiempos.|Desea sentirse valorado como cliente y motivado para volver.|
 
-
+<br>
 
 #### 2.3.4. Empathy Mapping
 
 <img src="resources/empathymap1.png">
 
-
+<br>
 
 <img src="resources/empathymap2.png">
 
-
+<br>
 
 #### 2.3.5. As-is Scenario Mapping
 
@@ -595,13 +607,15 @@ Para la realizar el User Task Matrix se tomo a los dos sengmetos objetivos ya pr
 |-|-|-|
 | **Client** | Cliente | Persona que utiliza los servicios de cuidado y belleza ofrecidos por el salón. El cliente puede reservar citas, pedir servicios personalizados y proporcionar feedback. |
 | **Stylist** | Estilista | Profesional que ofrece servicios de cuidado y belleza dentro del salón. El estilista realiza las tareas según las citas agendadas y es responsable de la satisfacción del cliente. |
+| **Local** | Local | Centro de belleza o salón de belleza donde se atiende a las clientes y se realiza los servicios de belleza. |
 | **Appointment** | Cita | Reserva realizada por un cliente para recibir uno o más servicios en una fecha y hora específicas. Las citas pueden ser gestionadas y confirmadas a través del sistema. |
 | **Service** | Servicio | Actividad específica ofrecida por el salón, como un corte de cabello, manicura, pedicura, etc. Los servicios son solicitados y recibidos por los clientes durante una cita. |
 | **Reservation** | Reservación | Proceso de solicitar y asegurar una cita en el sistema del salón. Una reservación incluye la selección del servicio, estilista, y la fecha/hora preferida. |
-| **Feedback** | Retroalimentación | Opinión o evaluación proporcionada por un cliente después de recibir un servicio. El feedback se utiliza para mejorar la calidad del servicio y la satisfacción del cliente. |
+| **Feedback** | Retroalimentación | Opinión, comentario o evaluación proporcionada por un cliente después de recibir un servicio. El feedback se utiliza para mejorar la calidad del servicio y la satisfacción del cliente. |
 | **Promotion** | Promoción | Estrategias y acciones diseñadas para aumentar la visibilidad de los servicios del salón y atraer más clientes. Las promociones pueden incluir descuentos, paquetes especiales, y publicidad. |
 | **Availability** | Disponibilidad | El tiempo en que un estilista está libre para realizar servicios y el horario disponible para que un cliente haga una reservación. La disponibilidad se gestiona a través del sistema de citas. |
 
+<br>
 
 ## Capítulo 3: Requirements Specification
 ### 3.1. To-be scenario mapping
