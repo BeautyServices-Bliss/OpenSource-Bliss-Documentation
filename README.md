@@ -789,18 +789,28 @@ El sistema de navegación incluye menús y botones claros que guían a los usuar
 
 #### 4.6.2. Software Architecture Container Diagrams
 #### 4.6.3. Software Architecture Components Diagrams
+
 ### 4.7. Software Object-Oriented Design
 #### 4.7.1. Class Diagrams
+
+<br>
+
 #### 4.7.2. Class Dictionary
+
+<br>
+
 ### 4.8. Database Design
 #### 4.8.1. Database Diagram
+
+<br>
+
 ## Capítulo 5: Product Implementation, Validation & Deployment
 ### 5.1. Software Configuration Management
 #### 5.1.1.Software Development Environment Configuration
 
 **Project Management**
 
-Para la organizacion del proyecto necesitabamos una planificación en cuanto a tareas asignadas, un punto de reunión y un repositorio donde trabajaramos en conjunto cada avance del proyecto, es por esto que elegimos las siguientes herramientas:
+Para la organizacion del proyecto requerimos de un sistema de de asignación de tareas, palataformas y puntos de reunión y un repositorio dónde trabajaremos en conjunto cada avance del proyecto. A continuación se menciona los nombres de los productos y el propósito de uso en el proyecto:
 
 * Centro de organización de trabajo: Github
     
@@ -810,112 +820,137 @@ Para la organizacion del proyecto necesitabamos una planificación en cuanto a t
     
 **Requirements Management**
 
-Para realizar las actividades del proyecto necesitábamos designarlas a cada integrante del grupo en caso de revisión o cambios, esta lista de asignaciones fue realizada en Trello:
-
 <table>
     <tbody>
         <tr>
-            <td>Link de referencia: </td>
-            <td>https://www.trello.com/</td>
+            <td> Herramienta </td>
+            <td> Descripción </td>
+            <td> Link de referencia: </td>
+        </tr>
+        <tr>
+            <td> Trello </td>
+            <td> Para designar las tareas y actividades de cada integrante del grupo en caso de revisión o cambios. </td>
+            <td> https://www.trello.com/</td>
         </tr>
     </tbody>
 </table>
 
+<br>
+
 **Product UX/UI Design**
 
-Para el diseño de los wireframe y mockups, además de un prototipo de Web App se utilizó Figma:
+ se utilizó Figma:
 
 <table>
     <tbody>
         <tr>
-            <td>Link de referencia: </td>
+            <td> Herramienta </td>
+            <td> Descripción </td>
+            <td> Link de referencia: </td>
+        </tr>
+        <tr>
+            <td> Figma </td>
+            <td> Para el diseño de los wireframe y mockups, además de la realización del prototipo de Web App </td>
             <td>https://www.figma.com/</td>
         </tr>
     </tbody>
 </table>
 
+<br>
+
 **Software Development**
 
-La herramienta para la implementación del proyecto es IntelliJ de Jetbrains:
-
 <table>
     <tbody>
         <tr>
-            <td>Link de referencia: </td>
-            <td>https://www.jetbrains.com/idea/</td>
+            <td> Herramienta </td>
+            <td> Descripción </td>
+            <td> Link de referencia: </td>
         </tr>
-    </tbody>
-</table>
-
-HTML: El lenguaje base de etiquetado para aplicaciones web sera empleado en este proyecto.
-
-<table>
-    <tbody>
         <tr>
-            <td>Link de referencia: </td>
-            <td>https://www.w3schools.com/html/html5_syntax.asp</td>
+            <td> TypeScript </td>
+            <td> Lenguaje de programación usado para el desarrollo frontend del proyecto </td>
+            <td> https://www.typescriptlang.org/</td>
         </tr>
-    </tbody>
-</table>
-
-CSS: Viene de la mano con HTML, Cascade Styles Sheet maneja el diseño de las aplicaciones web.
-
-<table>
-    <tbody>
         <tr>
-            <td>Link de referencia: </td>
+            <td> CSS </td>
+            <td> Cascade Styles Sheet maneja el diseño de las aplicaciones web. </td>
             <td>https://www.w3schools.com/css/css_intro.asp</td>
         </tr>
-    </tbody>
-</table>
-
-Lenguaje empleado en la implementación del proyecto es TypeScript:
-
-<table>
-    <tbody>
         <tr>
-            <td>Link de referencia: </td>
-            <td>https://www.typescriptlang.org/</td>
+            <td> HTML </td>
+            <td> El lenguaje base de etiquetado para aplicaciones web sera empleado en este proyecto. </td>
+            <td>https://www.w3schools.com/html/html5_syntax.asp</td>
         </tr>
-    </tbody>
-</table>
-
-Framework de JavaScript Angular para el diseño (Frontend):
-
-<table>
-    <tbody>
         <tr>
-            <td>Link de referencia: </td>
-            <td>https://angular.io/</td>
+            <td> AngularJS </td>
+            <td> Para el desarrollo Frontend de nuestra aplicación. </td>
+            <td> https://angular.io/ </td>
+        </tr>
+        <tr>
+            <td> IntelliJ IDEA </td>
+            <td> Entorno de desarrollo integrado (IDE) para la codificación de nuestro proyecto </td>
+            <td>https://www.jetbrains.com/idea/</td>
         </tr>
     </tbody>
 </table>
 
 **Software Testing**
 
-Gherkin es un sistema de etiquetado utilizado para detallar como se comporta el software de manera legible.
-
 <table>
     <tbody>
         <tr>
-            <td>Link de referencia: </td>
-            <td>https://cucumber.io/docs/gherkin/</td>
+            <td> Herramienta </td>
+            <td> Descripción </td>
+            <td> Link de referencia: </td>
+        </tr>
+        <tr>
+            <td> Gherkin </td>
+            <td> Sistema de etiquetado utilizado para detallar como se comporta el software de manera legible. </td>
+            <td> https://cucumber.io/docs/gherkin/ </td>
         </tr>
     </tbody>
 </table>
 
-**Software Deployment**
+<br>
 
-Se ha utilizado Gitthub Pages para el despliegue de la landing page:
+**Software Deployment**
 
 <table>
     <tbody>
         <tr>
-            <td>Link de referencia: </td>
+            <td> Herramienta </td>
+            <td> Descripción </td>
+            <td> Link de referencia: </td>
+        </tr>
+        <tr>
+            <td> Github Pages </td>
+            <td> Para realizar el despliegue de nuestra landing page. </td>
             <td>https://pages.github.com/</td>
         </tr>
     </tbody>
 </table>
+
+<br>
+
+**Software Documentation**
+
+<table>
+    <tbody>
+        <tr>
+            <td> Herramienta </td>
+            <td> Descripción </td>
+            <td> Link de referencia: </td>
+        </tr>
+        <tr>
+            <td> GitHub </td>
+            <td> Para gestionar la documentación del proyecto </td>
+            <td> https://github.com/SI729-Bliss/Documentation </td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
 
 #### 5.1.2.Source Code Management
 
