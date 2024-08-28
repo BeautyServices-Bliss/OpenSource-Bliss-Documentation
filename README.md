@@ -6,7 +6,7 @@
 
 ###  <center>Ingeniería de Software</center>
 
-###  <center>Ciclo 2024-01</center>
+###  <center>Ciclo 2024-02</center>
 
 ## <center>Desarrollo de Aplicaciones Open Source WS53</center>
 
@@ -45,11 +45,11 @@ URL de la organización del proyecto: [https://github.com/upc-opensource-g-bliss
 **TB1**
 |Integrante|Tareas Asignadas|
 |-|-|
-|André Arturo Bernaola Pérez||
-|Diego Ivan Cabrera Buitron||
-|Elvia Marcela Rodriguez Villa||
-|David Alejandro Rivas Sarango||
-|Diego Martin Soriano Medrano||
+|André Arturo Bernaola Pérez|Elaboración de Diagramas de clase, Implementación de Landing Page y Domain-Driven Software Architecture|
+|Diego Ivan Cabrera Buitron|Entrevistas, Diseño del logo y Assumptions|
+|Elvia Marcela Rodriguez Villa|Elaboración de User Stories, Diseño de Landing Page|
+|David Alejandro Rivas Sarango|Elaboración de User Stories, Elaboración de Product Backlog, Elaboración de Capítulo 5|
+|Diego Martin Soriano Medrano|Elaboración de Diagrama de base de datos|
 
 **TB1 Github**
 
@@ -183,7 +183,7 @@ Para aprovechar al máximo la alta competitividad y el constante crecimiento de 
 
 |Integrante |Descripción|
 |-----------|-----------|
-||**André Arturo Bernaola Pérez**|
+|<img src="resources/andre2.JPG"/> |Mi nombre es **André Arturo Bernaola Pérez**, estoy cursando la carrera de Ingeniería de Software, me gusta jugar videojuegos y aprender en mis momentos libre. Aspiro a trabajar como desarrollador fullstack. |
 |<img src="resources/diego.png" alt="diego">|**Diego Ivan Cabrera Buitron** <br> Mi nombre es **Diego Cabrera**, estoy cursando la carrera de Ingeniería de Software, me considero una persona responsable y perseverante. Al culminar mi carrera quiero especializarme en el sector de la ciberseguridad|
 |<img src="resources/rivas-foto.jpg"/>|**David Alejandro Rivas Sarango** <br> Mi nombre es **David Rivas**, actualmente estoy cursando la carrera de Ingeniería de Software en la UPC. Soy una persona honesta y responsable. Me interesa el área de Data Science, por esto estoy siguiendo cursos de capacitacion en SQL y Python.|
 |<img src="resources/rodriguez.jpg"/>|**Elvia Marcela Rodríguez Villa** <br> Soy Elvia Rodríguez, actual estudiante universitaria y egresada de Laboratoria. Soy actual embajadora del programa de estudiantes de Microsoft y fui participante de diversos voluntariados y Hackathons cómo Ciencia en tu Comunidad y el Laboratorio de Emprendimientos de SENAJU. Asimismo, soy maestra de inglés y suelo incorporar mis conocimientos de programación de interfaces de usuario en mi labor educativa. |
