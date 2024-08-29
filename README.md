@@ -811,25 +811,25 @@ El sistema de navegación incluye menús y botones claros que guían a los usuar
 
 | Clase | Nombre de Atributos | Definición | Tipo de dato | Unidad de Medida | Valores Restringidos |
 |-------|---------------------|------------|--------------|------------------|----------------------|
-| Customer |
+| ***Customer*** |
 | 1 | firstName | Nombre del cliente | string | Cadena de caracteres | Permite solo caracteres o letras |
 | 2 | lastName | Apellido del cliente | string | Cadena de caracteres | Permite solo caracteres o letras |
 | 3 | numberDNI | Número de DNI del cliente | int | 2 bytes | Mayor a Cero |
-| User |
+| ***User*** |
 | 1 | id | Identificador del usuario | integer | 2 bytes | Mayor a Cero |
 | 2 | emailAddress | Correo del usuario | string | Cadena de caracteres | Permite solo caracteres o letras |
 | 3 | password | Contraseña del usuario | string | Cadena de caracteres | Permite solo caracteres o letras |
 | 4 | loginDate | Fecha de inicio de sesión | boolean | 2 bytes | uno o cero |
 | 5 | registerDate | Fecha de registro | date | Días | Permite solo fechas |
-| Stylist Account |
+| ***Stylist Account*** |
 | 1 | firstName | Nombre del cliente | string | Cadena de caracteres | Permite solo caracteres o letras |
 | 2 | lastName | Apellido del cliente | string | Cadena de caracteres | Permite solo caracteres o letras |
 | 3 | numberDNI | Número de DNI del cliente | int | 2 bytes | Mayor a Cero |
-| Subscription |
+| ***Subscription*** |
 | 1 | id | Identificador de la suscripción | int | 2 bytes | Mayor a Cero |
 | 2 | subscriptionType | Tipo de suscripción | string | Cadena de caracteres | Permite solo caracteres o letras |
 | 3 | subscriptionOwner | Dueño de la suscripción | string | Cadena de caracteres | Permite solo caracteres o letras |
-| Notification |
+| ***Notification*** |
 | 1 | notificationId | Identificador para cada notificación | int | 2 bytes | Mayor a Cero |
 | 2 | notificationType | Tipo de cada notificación | string | Cadena de caracteres | Permite solo caracteres o letras |
 | 3 | notificationContent | Contenido de la notificación | string | Cadena de caracteres | Permite solo caracteres o letras |
