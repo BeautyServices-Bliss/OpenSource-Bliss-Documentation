@@ -128,7 +128,7 @@ URL de la organización del proyecto: [https://github.com/upc-opensource-g-bliss
 5.1.3. [Source Code Style Guide & Conventions](#513-source-code-style-guide-&-conventions) <br>
 5.1.4. [Software Deployment Configuration](#514-software-deployment-configuration) <br>
 5.2. [***Landing Page, Services & Applications Implementation***](#52-landing-page-services-&-applications-implementation) <br>
-5.2.1. [Sprint 1](#sprint-1) <br>
+5.2.1. [Sprint 1](#521-sprint-1) <br>
 5.2.1.1. [Sprint Planning 1](#5211-sprint-planning-1) <br>
 5.2.1.2. [Sprint Backlog 1](#5212-sprint-backlog-1) <br>
 5.2.1.3. [Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review) <br>
