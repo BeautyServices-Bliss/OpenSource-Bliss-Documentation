@@ -1249,7 +1249,7 @@ En este primer sprint se desarrolló la Landing Page con Tailwind, siendo desple
 
 Para este primer sprint no fue contemplada la evidencia de documentación de los servicios.
 
-###### 5.2.1.7. Software Deployment Evidence for Sprint Review
+##### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
 Link de Landing Page: https://upc-opensource-g-bliss.github.io/Landing-Page/
 
