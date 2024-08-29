@@ -1151,9 +1151,9 @@ Usaremos buenas prácticas en cuanto al código de manera que sea coherente y so
 
 **Sprint resumen**
 
-Screenshot Trello
+<img src="resources/ssTrelloTB1.JPG"/>
 
-URL Trello
+URL Trello: https://trello.com/b/nl4FsaI0/si729-bliss-202402-grupo3
 
 <table>
     <thead>
@@ -1178,24 +1178,44 @@ URL Trello
             <td> Status (To-do / In-Process / To-Review / Done) </td>
         </tr>
         <tr>
-            <td>  </td>
-          	<td>  </td>
-          	<td>  </td>
-          	<td>  </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
+            <td>US014</td>
+          	<td> Navegacion por la landing page </td>
+          	<td> 01 </td>
+          	<td> Navegar por landing page de manera fluida. </td>
+            <td> El visitante debe poder navegar por la landing page sin problemas de fluidez. </td>
+            <td> 2 </td>
+            <td> Andre Bernaola </td>
+            <td>Done</td>
         </tr>
         <tr>
-            <td>  </td>
-          	<td>  </td>
-          	<td>  </td>
-          	<td>  </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
+            <td>US015</td>
+          	<td> Visualizar alianzas </td>
+          	<td> 02 </td>
+          	<td> Visualizar sección de alianzas </td>
+            <td>  Visitante debe pober visualizar las alianzas de manera clara. </td>
+            <td> 2 </td>
+            <td> Andre Bernaola </td>
+            <td> Done </td>
+        </tr>
+      <tr>
+            <td>US027</td>
+          	<td> Visualizar equipo de Bliss </td>
+          	<td> 03 </td>
+          	<td> Visualizar sección de equipo </td>
+            <td> Visitante debe pober visualizar a los miembros del equipo de manera clara. </td>
+            <td> 2 </td>
+            <td>Andre Bernaola  </td>
+            <td> Done </td>
+        </tr>
+      <tr>
+            <td>US028</td>
+          	<td> Visualizar visión </td>
+          	<td> 04 </td>
+          	<td> Visualizar sección de visión del proyecto </td>
+            <td> Visitante debe pober visualizar la visión del proyecto de manera clara.  </td>
+            <td> 2 </td>
+            <td> Andre Bernaola </td>
+            <td> Done </td>
         </tr>
     </tbody>
 </table>
