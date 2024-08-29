@@ -1226,14 +1226,14 @@ URL Trello: https://trello.com/b/nl4FsaI0/si729-bliss-202402-grupo3
 
 **Landing Page**
 
-<!-- Resumen de los principales avances en la implementación -->
-
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
-|------------|--------|-----------|----------------|---------------------|--------------------|
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-
-<br>
+|-|-|-|-|-|-|
+| https://github.com/SI729-Bliss/Landing-Page/commits/main/ | master | e7e5461 | Initial commit | Initial commit | 15/08/2024 |
+| https://github.com/SI729-Bliss/Landing-Page/commits/main/ | develop | 61e1e04 | Add files via upload | Add files via upload | 17/08/2024 |
+| https://github.com/SI729-Bliss/Landing-Page/commits/main/ | develop | d1f27b5 | . | . | 17/08/2024 |
+| https://github.com/SI729-Bliss/Landing-Page/commits/main/ | main | a230e21 | Merge branch 'develop' of https://github.com/upc-opensource-g-bliss/Landing-Page into develop | Merge branch 'develop' of https://github.com/upc-opensource-g-bliss/Landing-Page into develop | 17/08/2024 |
+| https://github.com/SI729-Bliss/Landing-Page/commits/main/ | main | 8101b46 | Update index.html | Update index.html | 18/08/2024 |
+| https://github.com/SI729-Bliss/Landing-Page/commits/main/ | main | 720fb82 | Update index.html | Update index.html | 18/08/2024 |
 
 ##### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
@@ -1259,30 +1259,23 @@ Link de Landing Page: https://upc-opensource-g-bliss.github.io/Landing-Page/
 
 #### 5.3.3. Evaluaciones según heurísticas
 
-<br>
 
 ### 5.3. Validation Interviews
 
-<br>
 
 #### 5.3.1. Diseño de Entrevistas
 
-<br>
 
 #### 5.3.2. Registro de Entrevistas
 
-<br>
 
 ### 5.4. Video About-the-Product
 
-<br>
 
 ## Conclusiones
 
-<br>
 
 ## Bibliografía
 
-<br>
 
 ## Anexos
