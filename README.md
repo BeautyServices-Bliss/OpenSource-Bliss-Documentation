@@ -1031,25 +1031,29 @@ Usaremos buenas prácticas en cuanto al código de manera que sea coherente y so
 
 #### 5.1.4.Software Deployment Configuration
 
-**Landing Page Deployment**
+**Landing Page**
 
-Se desplegó en Github Pages, para esto necesitamos:
+**Requerimientos para realizar del despliegue:**
 
-* Una cuenta personal
+* Repositorio en nuestra organización de GitHub
 * Permisos de Github
-* Repositorio existente
+* Código Fuente de nuestra Landing Page
 
-  Siguiendo los siguientes pasos:
+**Pasos realizados para desplegar nuestra Landing Page:**
   
-1) Ir a configuración de nuestro repositorio de Github.
-2) Seleccionar el apartado de Pages.
-3) Elegir la rama main y folder(/root).
-4) Una vez hecho el paso anterior se estaría contruyendo y poco tiempo después tendriamos que observar la landing desplegada.
+1) Subir el código fuente de nuestra Landig Page a nuestro repositorio destino en GitHub.
+2) Ir a la página de configuración de nuestro repositorio de GitHub.
+3) Seleccionar el apartado de Pages.
 
 <img src="resources/gthbpgsss1.JPG" />
 
+4) Elegir la rama main y folder(/root).
+5) Una vez hecho el paso anterior se estaría contruyendo y poco tiempo después tendriamos que observar la landing desplegada.
+
 <img src="resources/gthbpgsss2.JPG" />
-  
+
+<br>
+
 #### 5.2.Landing Page, Services & Applications Implementation
 #### 5.2.1.Sprint 1
 
@@ -1111,9 +1115,81 @@ Se desplegó en Github Pages, para esto necesitamos:
 </table>
 
 ##### 5.2.1.1.Sprint Planning 1
+
+<br>
+
 ##### 5.2.1.2.Sprint Backlog 1
+
+**Sprint resumen**
+
+Screenshot Trello
+
+URL Trello
+
+<table>
+    <thead>
+        <tr>
+            <td>Sprint #</td>
+            <td colspan="7" >Sprint 1</td>
+        </tr>
+        <tr>
+            <td colspan="2" > User Story</td>
+            <td colspan="6" > Work-Item / Task </td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td> Id </td>
+            <td> Title </td>
+            <td> Id </td>
+            <td> Title </td>
+            <td> Description </td>
+            <td> Estimation (Hours) </td>
+            <td> Assigned To </td>
+            <td> Status (To-do / In-Process / To-Review / Done) </td>
+        </tr>
+        <tr>
+            <td>  </td>
+          	<td>  </td>
+          	<td>  </td>
+          	<td>  </td>
+            <td>  </td>
+            <td>  </td>
+            <td>  </td>
+            <td>  </td>
+        </tr>
+        <tr>
+            <td>  </td>
+          	<td>  </td>
+          	<td>  </td>
+          	<td>  </td>
+            <td>  </td>
+            <td>  </td>
+            <td>  </td>
+            <td>  </td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+
 ##### 5.2.1.3.Development Evidence for Sprint Review
+
+**Landing Page**
+
+<!-- Resumen de los principales avances en la implementación -->
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+
+<br>
+
 ##### 5.2.1.4.Testing Suite Evidence for Sprint Review
+
+<br>
+
 ##### 5.2.1.5.Execution Evidence for Sprint Review
 
 En este primer sprint se desarrolló la Landing Page con Tailwind, siendo desplegada en GithubPages. En esta landing encontraremos los features principales con el primer diseño de acuerdo al mockup de este.
@@ -1129,11 +1205,35 @@ Para este primer sprint no fue contemplada la evidencia de documentación de los
 Link de Landing Page: https://upc-opensource-g-bliss.github.io/Landing-Page/
 
 ##### 5.2.1.8.Team Collaboration Insights during Sprint
+
+<br>
+
 #### 5.3.3.Evaluaciones según heurísticas
+
+<br>
+
 ### 5.3. Validation Interviews
+
+<br>
+
 #### 5.3.1.Diseño de Entrevistas
+
+<br>
+
 #### 5.3.2.Registro de Entrevistas
+
+<br>
+
 ### 5.4. Video About-the-Product
+
+<br>
+
 ## Conclusiones
+
+<br>
+
 ## Bibliografía
+
+<br>
+
 ## Anexos
