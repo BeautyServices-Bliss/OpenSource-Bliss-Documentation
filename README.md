@@ -985,7 +985,6 @@ Para la organizacion del proyecto requerimos de un sistema de de asignación de 
     </tbody>
 </table>
 
-<br>
 
 #### 5.1.2.Source Code Management
 
@@ -1014,7 +1013,6 @@ Para la organizacion del proyecto requerimos de un sistema de de asignación de 
     </tbody>
 </table>
 
-<br>
 
 **Flujo de trabajo GitFlow**
 
@@ -1042,7 +1040,6 @@ Teniendo en cuenta la información anterior nos inclinamos por este tipo de orga
 
 Con cada deployment de la aplicación debe establecerse como una nueva versión.
 
-<br>
 
 #### 5.1.3.Source Code Style Guide & Conventions
 
@@ -1064,7 +1061,6 @@ Usaremos buenas prácticas en cuanto al código de manera que sea coherente y so
 * Separación de palabras con un guion "-".
 * Margin y padding en "*" con valor de 0.
 
-<br>
 
 #### 5.1.4.Software Deployment Configuration
 
@@ -1089,7 +1085,6 @@ Usaremos buenas prácticas en cuanto al código de manera que sea coherente y so
 
 <img src="resources/gthbpgsss2.JPG" />
 
-<br>
 
 #### 5.2.Landing Page, Services & Applications Implementation
 #### 5.2.1.Sprint 1
