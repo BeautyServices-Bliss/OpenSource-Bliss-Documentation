@@ -839,8 +839,6 @@ Para la organizacion del proyecto requerimos de un sistema de de asignación de 
 
 **Product UX/UI Design**
 
- se utilizó Figma:
-
 <table>
     <tbody>
         <tr>
@@ -957,27 +955,37 @@ Para la organizacion del proyecto requerimos de un sistema de de asignación de 
 <table>
     <tbody>
         <tr>
+            <td> Producto </td>
+            <td> Repositorio </td>
+            <td> URL </td>
+        </tr>
+        <tr>
+            <td> Landing Page </td>
             <td> Bliss-landing-page </td>
-            <td> https://github.com/upc-opensource-g-bliss/Landing-Page </td>
+            <td> https://github.com/SI729-Bliss/Landing-Page </td>
         </tr>
         <tr>
-            <td>Link Bliss-web-services: </td>
-            <td>  </td>
+            <td> Web Services </td>
+            <td> Bliss-web-services: </td>
+            <td> https://github.com/SI729-Bliss/ </td>
         </tr>
         <tr>
-            <td>Link Front Web Applications: </td>
-            <td>  </td>
-        </tr>
-        <tr>
-            <td>Link "Testing": </td>
-            <td>  </td>
+            <td> Front Web Application </td>
+            <td> Bliss-Frontend </td>
+            <td> https://github.com/SI729-Bliss/ </td>
         </tr>
     </tbody>
 </table>
 
+<br>
+
 **Flujo de trabajo GitFlow**
 
-<img src="https://nvie.com/img/git-model@2x.png" width="60%" alt="Ejemplo flujo de Gitflow"/>
+<br>
+
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*X8WN29vxbiyc3XFFfWanTA.png" width="60%" alt="Ejemplo flujo de Gitflow"/>
+
+<br>
 
 Usaremos el flujo de trabajo planteado por Vincent Driessen en "A successful Git branching model" con los siguientes parámetros:
  * Una rama de producción.
@@ -997,8 +1005,9 @@ Teniendo en cuenta la información anterior nos inclinamos por este tipo de orga
 
 Con cada deployment de la aplicación debe establecerse como una nueva versión.
 
-#### 5.1.3.Source Code Style Guide & Conventions
+<br>
 
+#### 5.1.3.Source Code Style Guide & Conventions
 
 Usaremos buenas prácticas en cuanto al código de manera que sea coherente y sostenible.
 
@@ -1017,10 +1026,12 @@ Usaremos buenas prácticas en cuanto al código de manera que sea coherente y so
 * Cada etiqueta, nombre y clase será nombrada de acuerdo al propósito y clasificación del elemento.
 * Separación de palabras con un guion "-".
 * Margin y padding en "*" con valor de 0.
-  
-<div id='5.1.4.'><h4> 5.1.4.Software Deployment Configuration</h4></div>
 
-### Landing Page Deployment
+<br>
+
+#### 5.1.4.Software Deployment Configuration
+
+**Landing Page Deployment**
 
 Se desplegó en Github Pages, para esto necesitamos:
 
