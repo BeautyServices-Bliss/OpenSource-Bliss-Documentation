@@ -747,8 +747,8 @@ Para la realizar el User Task Matrix se tomo a los dos sengmetos objetivos ya pr
 
 
 ## Capítulo 4: Product Design
-<div id='4.1.'><h3> 4.1. Style Guidelines</h3></div>
-<div id='4.1.1.'><h4> 4.1.1. General Style Guidelines</h4></div>
+###  4.1. Style Guidelines
+#### 4.1.1. General Style Guidelines
 
 El enfoque del estilo del presente producto está enfocade en el uso de la estética glassmorphism ya que está acorde a las tendencias de uso de los últimos años en el sector de la belleza y el cuidad personal.
 
