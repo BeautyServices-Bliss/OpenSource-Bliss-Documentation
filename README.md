@@ -843,7 +843,7 @@ El sistema de navegación incluye menús y botones claros que guían a los usuar
 
 ## Capítulo 5: Product Implementation, Validation & Deployment
 ### 5.1. Software Configuration Management
-#### 5.1.1.Software Development Environment Configuration
+#### 5.1.1. Software Development Environment Configuration
 
 **Project Management**
 
@@ -986,7 +986,7 @@ Para la organizacion del proyecto requerimos de un sistema de de asignación de 
 </table>
 
 
-#### 5.1.2.Source Code Management
+#### 5.1.2. Source Code Management
 
 <table>
     <tbody>
@@ -1041,7 +1041,7 @@ Teniendo en cuenta la información anterior nos inclinamos por este tipo de orga
 Con cada deployment de la aplicación debe establecerse como una nueva versión.
 
 
-#### 5.1.3.Source Code Style Guide & Conventions
+#### 5.1.3. Source Code Style Guide & Conventions
 
 Usaremos buenas prácticas en cuanto al código de manera que sea coherente y sostenible.
 
@@ -1086,9 +1086,9 @@ Usaremos buenas prácticas en cuanto al código de manera que sea coherente y so
 <img src="resources/gthbpgsss2.JPG" />
 
 
-#### 5.2.Landing Page, Services & Applications Implementation
-#### 5.2.1.Sprint 1
-##### 5.2.1.1.Sprint Planning 1
+#### 5.2. Landing Page, Services & Applications Implementation
+#### 5.2.1. Sprint 1
+##### 5.2.1.1. Sprint Planning 1
 
 <table>
     <thead>
@@ -1147,7 +1147,7 @@ Usaremos buenas prácticas en cuanto al código de manera que sea coherente y so
     </tbody>
 </table>
 
-##### 5.2.1.2.Sprint Backlog 1
+##### 5.2.1.2. Sprint Backlog 1
 
 **Sprint resumen**
 
@@ -1202,7 +1202,7 @@ URL Trello
 
 <br>
 
-##### 5.2.1.3.Development Evidence for Sprint Review
+##### 5.2.1.3. Development Evidence for Sprint Review
 
 **Landing Page**
 
@@ -1215,29 +1215,29 @@ URL Trello
 
 <br>
 
-##### 5.2.1.4.Testing Suite Evidence for Sprint Review
+##### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
 <br>
 
-##### 5.2.1.5.Execution Evidence for Sprint Review
+##### 5.2.1.5. Execution Evidence for Sprint Review
 
 En este primer sprint se desarrolló la Landing Page con Tailwind, siendo desplegada en GithubPages. En esta landing encontraremos los features principales con el primer diseño de acuerdo al mockup de este.
 
 
 
-##### 5.2.1.6.Services Documentation Evidence for Sprint Review
+##### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
 Para este primer sprint no fue contemplada la evidencia de documentación de los servicios.
 
-###### 5.2.1.7.Software Deployment Evidence for Sprint Review
+###### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
 Link de Landing Page: https://upc-opensource-g-bliss.github.io/Landing-Page/
 
-##### 5.2.1.8.Team Collaboration Insights during Sprint
+##### 5.2.1.8. Team Collaboration Insights during Sprint
 
 <br>
 
-#### 5.3.3.Evaluaciones según heurísticas
+#### 5.3.3. Evaluaciones según heurísticas
 
 <br>
 
@@ -1245,11 +1245,11 @@ Link de Landing Page: https://upc-opensource-g-bliss.github.io/Landing-Page/
 
 <br>
 
-#### 5.3.1.Diseño de Entrevistas
+#### 5.3.1. Diseño de Entrevistas
 
 <br>
 
-#### 5.3.2.Registro de Entrevistas
+#### 5.3.2. Registro de Entrevistas
 
 <br>
 
