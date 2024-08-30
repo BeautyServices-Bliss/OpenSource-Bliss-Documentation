@@ -468,8 +468,8 @@ horarios y necesidades.
 ***Entrevistas a MYPES***
 
 |**Nombre entrevistado**|  **Matías Munives Santamaría**|
-|Edad|21 años|
 |:-|:-|
+|Edad|21 años|
 |Profesión |  Estilista – Estudiante de Ingeniería de Sistemas|
 |Departamento|Lima, Perú|
 |<img src="resources/entrevista2.1.png" />|Como primer entrevistado tenemos a Matías, él ofrece servicios básicos como cortes de cabello, manicura, pedicura, masajes y faciales. Comenta que los cortes de cabello y las manicuras son los servicios más solicitados por sus clientes. Actualmente, las citas se gestionan principalmente a través de llamadas y mensajes por WhatsApp, aunque a veces surgen problemas cuando los clientes cancelan a último minuto. Le interesó nuestra propuesta de una aplicación que simplifique la organización de las reservas y atraiga a más clientes, siempre que sea fácil de usar y no demasiado costosa. También mencionó que no ofrecen servicios a domicilio debido a la logística y el personal requerido, pero estarían abiertos a considerar esta opción si se simplificara el proceso. Finalmente, está dispuesto a pagar una comisión por cada servicio adquirido a través de la aplicación, pero con un límite de 50 soles.|
