@@ -38,6 +38,9 @@
 | 2         |18/08/2024|Cabrera Diego|Desarrollo del capítulo 1 y Entrevistas|
 | 3         |24/08/2024|Rivas David,  Rodriguez Elvia|Desarrollo de las US y Product Backlog|
 |4          |25/08/2024|Bernaola Andre|Implementación de la Landing Page|
+
+<br/>
+
 ## Project Report Collaboration Insights
 
 URL de la organización del proyecto: [https://github.com/upc-opensource-g-bliss]
@@ -53,6 +56,7 @@ URL de la organización del proyecto: [https://github.com/upc-opensource-g-bliss
 
 **TB1 Github**
 
+<br/>
 
 ***
 
@@ -124,7 +128,7 @@ URL de la organización del proyecto: [https://github.com/upc-opensource-g-bliss
 5.1.3. [Source Code Style Guide & Conventions](#513-source-code-style-guide-&-conventions) <br>
 5.1.4. [Software Deployment Configuration](#514-software-deployment-configuration) <br>
 5.2. [***Landing Page, Services & Applications Implementation***](#52-landing-page-services-&-applications-implementation) <br>
-5.2.1. [Sprint 1](#sprint-1) <br>
+5.2.1. [Sprint 1](#521-sprint-1) <br>
 5.2.1.1. [Sprint Planning 1](#5211-sprint-planning-1) <br>
 5.2.1.2. [Sprint Backlog 1](#5212-sprint-backlog-1) <br>
 5.2.1.3. [Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review) <br>
@@ -142,6 +146,8 @@ URL de la organización del proyecto: [https://github.com/upc-opensource-g-bliss
 7. [**Bibliografía**](#bibliografía) <br>
 8. [**Anexos**](#anexos)
 
+<br/>
+
 ## Students Outcomes
 
 | Criterio específico | Acciones realizadas | Conclusiones |
@@ -150,6 +156,8 @@ URL de la organización del proyecto: [https://github.com/upc-opensource-g-bliss
 |Comunica por escrito con efectividad a diferentes rangos de audiencia|**André Arturo Bernaola Pérez** <br> **TB1** <br> <br>**Diego Ivan Cabrera Buitron** <br> **TB1** <br> <br>**Elvia Marcela Rodriguez Villa** <br> **TB1** <br> <br>**David Alejandro Rivas Sarango** <br> **TB1** <br> <br>**Diego Martin Soriano Medrano** <br> **TB1** <br> | |
 
 ***
+
+<br/>
 
 ## Capítulo I: Introducción
 
@@ -523,27 +531,31 @@ Para la realizar el User Task Matrix se tomo a los dos sengmetos objetivos ya pr
 **Clientas**
 |Task Matrix|Importancia|
 |-|-|
-|Buscar servicios de belleza|Alta|
-|Elegir Servicio|Alta|
-|Seleccionar un centro|Media|
-|Reservar un servicio|Media|
-|Visualizar centros cercanos|Baja|
+|Requerir servicios de belleza|Alta|
+|Buscar locales de servicios de belleza cercanos|Alta|
+|Seleccionar un centro de belleza|Media|
+|Pedir atención o realizar una reserva en el local de servicios de belleza|Alta|
 |Recibir confirmación de reserva|Baja|
-|Proporcionar retroalimentación|Baja|
+|Elegir el servicio requerido|Alta|
+|En caso sea necesario pedir cambios en el servicio requerido|Alta|
+|Proporcionar retroalimentación sobre el servicio recibido|Baja|
 
-<br/>
+<br>
 
 **MYPES**
 |Task Matrix|Importancia|
 |-|-|
+|Publicitar el local de belleza en internet|Alta|
 |Mantener un catálogo de servicios actualizado|Alta|
+|Atencer, confirmar y gestionar reservas por distintos medios|Media|
+|Atender las reservas y a todos los clientes|Media|
+|Realizar cambios en el servicio realizado en caso el cliente lo requiera|Media|
 |Mantener constante comunicación con los clientes|Alta|
 |Gestionar y actualizar información del centro de belleza|Media|
-|Confirmar y gestionar reservas por distintos medios|Media|
+|Crear y administrar promociones del local|Baja|
 |Recibir y responder a la retroalimentación de los clientes|Media|
-|Crear y administrar promociones|Baja|
 
-<br/>
+<br>
 
 #### 2.3.3. User Journey Mapping
 
@@ -555,17 +567,17 @@ Para la realizar el User Task Matrix se tomo a los dos sengmetos objetivos ya pr
 |Experiencia|Siente curiosidad por explorar opciones.|Busca información detallada y reseñas para tomar decisiones informadas.|Necesita transparencia en los precios y opciones de personalización.|Desea un servicio de alta calidad que cumpla con sus expectativas.|Desea compartir su experiencia y ayudar a otros usuarios.|
 |Expectativa|Expectativas de encontrar una solución conveniente.|Desea un centro con buena reputación y servicios	de calidad.|Necesita una herramienta intuitiva para programar citas.|Desea una experiencia satisfactoria y sin contratiempos.|Desea sentirse valorado como cliente y motivado para volver.|
 
-
+<br>
 
 #### 2.3.4. Empathy Mapping
 
 <img src="resources/empathymap1.png">
 
-
+<br>
 
 <img src="resources/empathymap2.png">
 
-
+<br>
 
 #### 2.3.5. As-is Scenario Mapping
 
@@ -595,13 +607,15 @@ Para la realizar el User Task Matrix se tomo a los dos sengmetos objetivos ya pr
 |-|-|-|
 | **Client** | Cliente | Persona que utiliza los servicios de cuidado y belleza ofrecidos por el salón. El cliente puede reservar citas, pedir servicios personalizados y proporcionar feedback. |
 | **Stylist** | Estilista | Profesional que ofrece servicios de cuidado y belleza dentro del salón. El estilista realiza las tareas según las citas agendadas y es responsable de la satisfacción del cliente. |
+| **Local** | Local | Centro de belleza o salón de belleza donde se atiende a las clientes y se realiza los servicios de belleza. |
 | **Appointment** | Cita | Reserva realizada por un cliente para recibir uno o más servicios en una fecha y hora específicas. Las citas pueden ser gestionadas y confirmadas a través del sistema. |
 | **Service** | Servicio | Actividad específica ofrecida por el salón, como un corte de cabello, manicura, pedicura, etc. Los servicios son solicitados y recibidos por los clientes durante una cita. |
 | **Reservation** | Reservación | Proceso de solicitar y asegurar una cita en el sistema del salón. Una reservación incluye la selección del servicio, estilista, y la fecha/hora preferida. |
-| **Feedback** | Retroalimentación | Opinión o evaluación proporcionada por un cliente después de recibir un servicio. El feedback se utiliza para mejorar la calidad del servicio y la satisfacción del cliente. |
+| **Feedback** | Retroalimentación | Opinión, comentario o evaluación proporcionada por un cliente después de recibir un servicio. El feedback se utiliza para mejorar la calidad del servicio y la satisfacción del cliente. |
 | **Promotion** | Promoción | Estrategias y acciones diseñadas para aumentar la visibilidad de los servicios del salón y atraer más clientes. Las promociones pueden incluir descuentos, paquetes especiales, y publicidad. |
 | **Availability** | Disponibilidad | El tiempo en que un estilista está libre para realizar servicios y el horario disponible para que un cliente haga una reservación. La disponibilidad se gestiona a través del sistema de citas. |
 
+<br>
 
 ## Capítulo 3: Requirements Specification
 ### 3.1. To-be scenario mapping
@@ -668,10 +682,12 @@ Para la realizar el User Task Matrix se tomo a los dos sengmetos objetivos ya pr
 |US016|Editar mi perfil de cliente                      |Como cliente, Quiero editar mi perfil para mantener actualizada mi cuenta.|**Escenario 1: Correcta actualización del perfil del cliente** <br>Dado que el cliente modificar su informacion personal<br> Cuando realiza las modificaciones necesarias en el perfil de cliente<br> Entonces el sistema actualiza la información editada.<br> **Escenario 2: Error en la visualización del cliente**<br>Dado que el cliente modificar su información personal<br> Cuando realiza las modificaciones necesarias en el perfil de cliente<br> Entonces el sistema muestra un mensaje de error al actualizar.|EP001: Gestión de usuario|
 
 
+
+
 #### 3.2.2 User Stories-Empresa Especialista
 
-| **ID** | **Título**                         | **Descripción**                                                                                                                          | **Criterios de Aceptación**                                                                                                                                                                                                                                                                     | **EpicID** |
-| ------ | ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+|ID|Título|Descripción|Criterios de Aceptación|EpicID|
+|-|-|-|-|-|
 | US017  | Registro de perfil de empresa | Como empresa, quiero crear un perfil para mostrar información sobre mi negocio y los servicios que ofrezco.|**Escenario 1: Creación exitosa de perfil de empresa:** <br>Dado que la empresa quiere crearse su perfil <br>Cuando llena el formulario de creación de perfil <br>Entonces el sistema mostrará un mensaje de creación correcta de perfil de empresa. <br>**Escenario 2: Error al crear perfil de empresa** <br>Dado que la empresa quiere crear su perfil de empresa. <br>Cuando llena el formulario de creación de perfil<br> Entonces el sistema mostrará un mensaje de error al crear el perfil.| EP001:Gestión de usuario|
 | US018  | Edición de perfil de especialista  | Como empresa, quiero editar los perfiles de mis especialistas  para que el cliente pueda visualizar las características y disponibilidad de los especialistas.| **Escenario 1: Modificar el perfil de especialista**<br> Dado que la empresa quiere editar el perfil de su especialista.<br>  Cuando modifica la información en su formulario<br> Y quiere confirmar la edicion<br> Entonces el sistema muestra un mensaje de correcto guardado<br> Y puede ser visualizado por el cliente.<br>  **Escenario 2: Error al modificar el perfil del especialista**<br> Dado que la empresa quiere editar el perfil de su especialista<br> Cuando cambia la informacion en su formulario<br> Y quiere confirmar la edicion <br>Entonces el sistema muestra un mensaje incorrecto<br> Y se guarda en la base de datos.| EP001: Gestión de usuario|
 | US019  | Gestión de citas                   | Como empresa, quiero asignar disponibilidad y detalles de los servicios para que los clientes puedan agendarlos.| **Escenario 1: Visualización de Citas:** <br> Dado que la empresa quiere gestionar sus citas<br> Cuando accede a la lista de citas<br> Entonces puede ver detalles de cada cita y modificar los detalles de  las mismas.<br> **Escenario 2: Error de Citas:** <br> Dado que la empresa quiere gestionar sus citas<br> Cuando accede a la lista de citas<br> Entonces no aparecerá ninguna cita.| EP009: Reservas |
@@ -681,36 +697,78 @@ Para la realizar el User Task Matrix se tomo a los dos sengmetos objetivos ya pr
 | US023  | Suscripción al sistema de pagos    | Como empresa, quiero suscribirme al sistema de pagos en la aplicación para gestionar los pagos de las citas de manera segura.| **Escenario 1: Habilitación de Pagos Seguros:** <br> Dado que la empresa quiere recibir pagos por los servicios en la aplicación <br>Cuando sigue los pasos para completar la suscripción y confirma los reglamentos <br>Entonces está habilitado para recibir pagos de manera segura. <br>**Escenario 2: Error en la habilitación** <br>Dado que la empresa quiere recibir pagos por los servicios en la aplicación<br> Cuando sigue los pasos para completar la suscripción y confirma los reglamentos<br>  Entonces el sistema muestra un mensaje de error al habilitar los pagos.| EP010: Sistema de pagos	|
 |US024|Integración con calendario personal|Como empresa, quiero sincronizar mis citas y reservas con mi calendario personal (Google Calendar, Outlook) para mantenerme organizado.| **Escenario 1: Sincronización exitosa**<br> Dado que la empresa desea sincronizar su calendario. <br>Cuando la empresa importe el calendario de citas en su calendario personal.<br> Entonces las citas y reservas se reflejarán en el calendario personal del usuario. <br>**Escenario 2: Error en la sincronización** Dado que la empresa desea sincronizar su calendario.<br> Cuando la empresa importe el calendario de citas en su calendario personal <br>Entonces el sistema muestra un mensaje de error y no se visualizan las citas.|EP012:Gestión de Citas y Reservas|
 
-
 #### 3.2.2 User Stories- Landing Page
 
-| US ID | Título                       | Descripción                                                                                                                                                      | Acceptance Criteria                                                                                                                                                                                                                                                   | Epic ID                        |
-| ----- | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ |
+|ID|Título|Descripción|Criterios de Aceptación|EpicID|
+|-|-|-|-|-|
 | US025 | Solicitud de evaluación      | Como visitante del segmento empresa quiero solicitar información para convertirme en empresa asociada                                                            | **Escenario 1**<br>Dado que selecciono un elemento "call to action"<br>Cuando lleno el formulario de solicitud de información<br>Entonces Bliss podrá tener acceso a mis datos y evaluar la incorporación de la empresa como partner.                                 | EP012: Acceso a Información    |
-| US026 | Visualizar alianzas          | Como visitante de segmento cliente y empresa quiero visualizar las alianzas que tiene Bliss para conocer su posicionamiento dentro de la industria de la belleza | **Escenario 1: Visualización de alianzas**<br>Dado que el usuario quiere saber las alianzas estratégicas que posee el producto.<br>Cuando se encuentre en la sección de Alianzas.<br>Entonces el usuario podrá tomar una decisión informada de acuerdo a su criterio. | EP011: Experiencia del Usuario |
+| US026 | Visualizar alianzas          | Como visitante del segmento cliente y empresa quiero visualizar las alianzas que tiene Bliss para conocer su posicionamiento dentro de la industria de la belleza | **Escenario 1: Visualización de alianzas**<br>Dado que el usuario quiere saber las alianzas estratégicas que posee el producto.<br>Cuando se encuentre en la sección de Alianzas.<br>Entonces el usuario podrá tomar una decisión informada de acuerdo a su criterio. | EP011: Experiencia del Usuario |
 | US027 | Visualizar objetivo de Bliss | Como visitante del segmento empresa y cliente quiero conocer el objetivo y valores generales de la solución                                                      | **Escenario 1: Información Correcta**<br>Dado que el visitante está en la sección "Objetivos"<br>Cuando lea la sección a detalle<br>Entonces tendrá idea de los aspectos generales de la solución.                                                                    | EP012: Acceso a la Información |
-| US028 | Visualizar visión del equipo | Como visitante del segmento empresa o cliente quiero ver la visión de la empresa para entender los objetivos y valores fundamentales de la empresa.              | **Escenario 1: Visión Correcta**<br>Dado que el visitante está en la sección "Visión"<br>Cuando revisa la visión de la empresa<br>Entonces puede leer una declaración clara y bien presentada de la visión y objetivos de la empresa.                                 | EP012: Acceso a la Información |
-| US029 | Visualizar visión del equipo | Como visitante del cliente quiero dirigirme a la solución                                                                                                        | **Escenario 1: Visión Correcta**<br>Dado que el visitante selecciona un elemento "call to action" que le indica registrarse<br>Cuando realiza el registro correspondiente<br>Entonces modifica su condición a usuario y ya puede hacer uso de la solución             | EP011: Experiencia del Usuario |
+| US028 | Navegación por la landing page | Como visitante, quiero visualizar los datos más relevantes de Bliss para obtener más información sobre el producto.             | **Escenario 1: Navegación Correcta**<br>Dado que el visitante está en landing page <br>Cuando navegue por las secciones de la página estática<br>Entonces puede conocer sobre los detalles más relevantes de Bliss.                         | EP012: Acceso a la Información |
+|US029|Visualizar equipo de Bliss|Como visitante del segmento empresa y cliente , quiero ver la información sobre el equipo, para conocer al equipo a cargo de la solución.|**Escenario 1: Información Correcta**<br> Dado que el visitante está en la sección "Quiénes Somos" <br>Cuando revisa la información del equipo <br>Entonces puede ver perfiles detallados de los miembros del equipo, incluyendo sus nombres, roles y biografías|EP011: Experiencia del Usuario|
+|US030|Visualizar visión del equipo|Como visitante del segmento empresa y cliente de la landing page, quiero ver la visión de la empresa para conocer mejor a la empresa .|**Escenario 1: Visión Correcta** <br>Dado que el visitante está en la sección "Nuestra visión" <br>Cuando revisa la visión de la empresa <br>Entonces puede leer una declaración clara y bien presentada de la visión y objetivos de la empresa.|EP011: Experiencia del Usuario|
 
+#### 3.2.3. Technical Stories
 
-
-#### 3.2.3 Technical Stories 
-| US ID | Título                           | Descripción                                                                                                                                                                   | Acceptance Criteria                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Epic ID |
-| ----- | -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
-| US030 | Endpoint para registro           | Como Developer, quiero crear un endpoint para permitir a los usuarios registrarse en la aplicación y autenticar su identidad para acceder a sus cuentas.                      | **Escenario 1: Registro exitoso**<br>Dado que el Developer implementa el endpoint "/api/register"<br>Cuando un usuario envía una solicitud POST con datos de registro válidos<br>Entonces la respuesta debe ser 201 Created con el encabezado 'Location' que enlace a "/users/{id}"<br>Y el usuario debe estar registrado en el sistema.<br>**Escenario 2: Datos de registro faltantes o inválidos**<br>Dado que el Developer implementa el endpoint "/api/register"<br>Cuando un usuario envía una solicitud POST con datos de registro faltantes o inválidos<br>Entonces la respuesta debe ser 400 Bad Request con un mensaje que indique los campos requeridos o el formato incorrecto.<br>**Escenario 3: Usuario ya registrado**<br>Dado que el Developer implementa el endpoint "/api/register"<br>Cuando un usuario envía una solicitud POST con un correo electrónico que ya está registrado en el sistema<br>Entonces la respuesta debe ser 409 Conflict indicando que el recurso ya existe.| EP007   |
-| US031 | Endpoint para buscar servicios   | Como Developer, quiero implementar un endpoint que permita buscar servicios de belleza según filtros aplicados.                                                               | **Escenario 1: Búsqueda exitosa de servicios**<br>Dado que el Developer implementa el endpoint "/api/search"<br>Cuando un usuario envía una solicitud GET con parámetros de búsqueda válidos (tipo de servicio, ubicación, rango de precios)<br>Entonces la respuesta debe ser 200 OK con una lista de servicios que coinciden con los filtros aplicados.<br>**Escenario 2: Parámetros de búsqueda inválidos**<br>Dado que el Developer implementa el endpoint "/api/search"<br>Cuando un usuario envía una solicitud GET con parámetros de búsqueda en un formato incorrecto<br>Entonces la respuesta debe ser 400 Bad Request con un mensaje que indique el formato correcto de los parámetros.<br>**Escenario 3: Ningún servicio encontrado**<br>Dado que el Developer implementa el endpoint "/api/search"<br>Cuando un usuario envía una solicitud GET con parámetros de búsqueda válidos pero no se encuentran servicios que coincidan<br>Entonces la respuesta debe ser 200 OK con una lista vacía de servicios.| EP002   |
-| US032 | Endpoint para gestión de citas   | Como Developer, quiero crear un endpoint para permitir a los especialistas gestionar sus citas programadas, incluyendo la actualización, visualización y cancelación.         | **Escenario 1: Actualización exitosa de cita**<br>Dado el endpoint "/stylists/{id}/appointments/{appointmentId}"<br>Y la cita existe en el sistema<br>Cuando el estilista realiza una solicitud PUT con información válida para actualizar la cita<br>Entonces la respuesta debe ser 200 OK<br>Y la cita debe reflejar las actualizaciones realizadas.<br>**Escenario 2: Visualización exitosa de cita**<br>Dado el endpoint "/stylists/{id}/appointments/{appointmentId}"<br>Y la cita existe en el sistema<br>Cuando el estilista realiza una solicitud GET<br>Entonces la respuesta debe ser 200 OK con la información de la cita.<br>**Escenario 3: Cancelación exitosa de cita**<br>Dado el endpoint "/stylists/{id}/appointments/{appointmentId}"<br>Y la cita existe en el sistema<br>Cuando el estilista realiza una solicitud DELETE<br>Entonces la respuesta debe ser 204 No Content<br>Y la cita debe ser eliminada del sistema.<br>**Escenario 4: Cita no encontrada**<br>Dado el endpoint "/stylists/{id}/appointments/{appointmentId}"<br>Cuando el estilista realiza una solicitud GET, PUT o DELETE con un ID de cita que no existe<br>Entonces la respuesta debe ser 404 Not Found indicando que la cita no fue encontrada.| EP009   |
-| US033 | Endpoint para gestión de reseñas | Como Developer, quiero crear un endpoint para permitir a los usuarios dejar una reseña y valoración sobre el servicio recibido, así como consultar y gestionar estas reseñas. | **Escenario 1: Creación exitosa de reseña**<br>Dado que el Developer implementa el endpoint "/services/{serviceId}/reviews"<br>Cuando un usuario envía una solicitud POST con una reseña válida<br>Entonces la respuesta debe ser 201 Created con el encabezado 'Location' que enlace a "/services/{serviceId}/reviews/{reviewId}"<br>Y la reseña debe ser guardada en el sistema.<br>**Escenario 2: Datos de reseña faltantes o inválidos**<br>Dado que el Developer implementa el endpoint "/services/{serviceId}/reviews"<br>Cuando un usuario envía una solicitud POST con datos de reseña faltantes o inválidos<br>Entonces la respuesta debe ser 400 Bad Request con un mensaje que indique los campos requeridos o el formato incorrecto.<br>**Escenario 3: Consulta exitosa de reseñas**<br>Dado el endpoint "/services/{serviceId}/reviews"<br>Cuando un usuario envía una solicitud GET para obtener las reseñas de un servicio<br>Entonces la respuesta debe ser 200 OK con una lista de reseñas relacionadas con ese servicio.<br>**Escenario 4: Actualización exitosa de reseña**<br>Dado el endpoint "/services/{serviceId}/reviews/{reviewId}"<br>Y la reseña existe en el sistema<br>Cuando un usuario envía una solicitud PUT con información válida para actualizar la reseña<br>Entonces la respuesta debe ser 200 OK<br>Y la reseña debe reflejar las actualizaciones realizadas.<br>**Escenario 5: Eliminación exitosa de reseña**<br>Dado el endpoint "/services/{serviceId}/reviews/{reviewId}"<br>Y la reseña existe en el sistema<br>Cuando un usuario envía una solicitud DELETE<br>Entonces la respuesta debe ser 204 No Content<br>Y la reseña debe ser eliminada del sistema.<br>**Escenario 6: Reseña no encontrada**<br>Dado el endpoint "/services/{serviceId}/reviews/{reviewId}"<br>Cuando un usuario envía una solicitud GET, PUT o DELETE con un ID de reseña que no existe<br>Entonces la respuesta debe ser 404 Not Found indicando que la reseña no fue encontrada. | EP004   |
+|ID|Título|Descripción|Criterios de Aceptación|
+|-|-|-|-|
+|TS001|Implementación del diseño responsivo|Como desarrollador, quiero implementar un diseño responsivo en la landing page de Bliss para que se vea bien en dispositivos de diferentes tamaños.| **Escenario 1: Diseño Correcto** <br>Dado que el visitante accede a la landing page desde cualquier dispositivo <br>Cuando visualiza la página <br>Entonces el diseño se ajusta correctamente sin desplazamiento horizontal, y las imágenes y textos se redimensionan proporcionalmente. <br>**Escenario 2: Diseño Incorrecto**<br>Dado que el visitante accede a la landing page desde cualquier dispositivo <br>Cuando visualiza la página <br>Entonces hay problemas de desplazamiento horizontal o las imágenes/textos no se redimensionan adecuadamente.|
+|TS002| Implementación de la sección "Quiénes Somos" | Como desarrollador, quiero implementar la sección "Quiénes Somos" para mostrar al equipo de Bliss en la landing page. | **Escenario 1: Sección Correcta** <br>Dado que el visitante accede a la sección "Quiénes Somos" <br>Cuando revisa la página <br>Entonces puede ver las fotos del equipo, los nombres y cargos. <br>**Escenario 2: Sección Incorrecta** <br>Dado que el visitante accede a la sección "Quiénes Somos" <br>Cuando revisa la página <br>Entonces la sección no muestra correctamente las fotos, nombres o cargos del equipo. |
+|TS003| Implementación de la sección de alianzas | Como desarrollador, quiero implementar la sección de alianzas en la landing page para mostrar las colaboraciones de Bliss con Montalvo, Soho Color y Artemis. | **Escenario 1: Sección Correcta** <br>Dado que el visitante accede a la sección de alianzas <br>Cuando revisa la página <br>Entonces puede ver los logotipos de Montalvo, Soho Color y Artemis con una breve descripción de cada alianza. <br>**Escenario 2: Sección Incorrecta** <br>Dado que el visitante accede a la sección de alianzas <br>Cuando revisa la página <br>Entonces los logotipos o descripciones de Montalvo, Soho Color y Artemis no se muestran correctamente. |
+|TS004| Implementación de la sección "Nuestra Visión" | Como desarrollador, quiero implementar la sección "Nuestra Visión" para mostrar la visión de Bliss en la landing page. | **Escenario 1: Sección Correcta** <br>Dado que el visitante accede a la sección "Nuestra Visión" <br>Cuando revisa la página <br>Entonces puede leer un párrafo que describe claramente la visión de la empresa. <br>**Escenario 2: Sección Incorrecta** <br>Dado que el visitante accede a la sección "Nuestra Visión" <br>Cuando revisa la página <br>Entonces el párrafo que describe la visión de la empresa no se muestra correctamente. |
+| TS005 | Endpoint para registro           | Como Developer, quiero crear un endpoint para permitir a los usuarios registrarse en la aplicación y autenticar su identidad para acceder a sus cuentas.                      | **Escenario 1: Registro exitoso**<br>Dado que el Developer implementa el endpoint "/api/register"<br>Cuando un usuario envía una solicitud POST con datos de registro válidos<br>Entonces la respuesta debe ser 201 Created con el encabezado 'Location' que enlace a "/users/{id}"<br>Y el usuario debe estar registrado en el sistema.<br>**Escenario 2: Datos de registro faltantes o inválidos**<br>Dado que el Developer implementa el endpoint "/api/register"<br>Cuando un usuario envía una solicitud POST con datos de registro faltantes o inválidos<br>Entonces la respuesta debe ser 400 Bad Request con un mensaje que indique los campos requeridos o el formato incorrecto.<br>**Escenario 3: Usuario ya registrado**<br>Dado que el Developer implementa el endpoint "/api/register"<br>Cuando un usuario envía una solicitud POST con un correo electrónico que ya está registrado en el sistema<br>Entonces la respuesta debe ser 409 Conflict indicando que el recurso ya existe.| EP007   |
+| TS006 | Endpoint para buscar servicios   | Como Developer, quiero implementar un endpoint que permita buscar servicios de belleza según filtros aplicados.                                                               | **Escenario 1: Búsqueda exitosa de servicios**<br>Dado que el Developer implementa el endpoint "/api/search"<br>Cuando un usuario envía una solicitud GET con parámetros de búsqueda válidos (tipo de servicio, ubicación, rango de precios)<br>Entonces la respuesta debe ser 200 OK con una lista de servicios que coinciden con los filtros aplicados.<br>**Escenario 2: Parámetros de búsqueda inválidos**<br>Dado que el Developer implementa el endpoint "/api/search"<br>Cuando un usuario envía una solicitud GET con parámetros de búsqueda en un formato incorrecto<br>Entonces la respuesta debe ser 400 Bad Request con un mensaje que indique el formato correcto de los parámetros.<br>**Escenario 3: Ningún servicio encontrado**<br>Dado que el Developer implementa el endpoint "/api/search"<br>Cuando un usuario envía una solicitud GET con parámetros de búsqueda válidos pero no se encuentran servicios que coincidan<br>Entonces la respuesta debe ser 200 OK con una lista vacía de servicios.| EP002   |
+| TS007 | Endpoint para gestión de citas   | Como Developer, quiero crear un endpoint para permitir a los especialistas gestionar sus citas programadas, incluyendo la actualización, visualización y cancelación.         | **Escenario 1: Actualización exitosa de cita**<br>Dado el endpoint "/stylists/{id}/appointments/{appointmentId}"<br>Y la cita existe en el sistema<br>Cuando el estilista realiza una solicitud PUT con información válida para actualizar la cita<br>Entonces la respuesta debe ser 200 OK<br>Y la cita debe reflejar las actualizaciones realizadas.<br>**Escenario 2: Visualización exitosa de cita**<br>Dado el endpoint "/stylists/{id}/appointments/{appointmentId}"<br>Y la cita existe en el sistema<br>Cuando el estilista realiza una solicitud GET<br>Entonces la respuesta debe ser 200 OK con la información de la cita.<br>**Escenario 3: Cancelación exitosa de cita**<br>Dado el endpoint "/stylists/{id}/appointments/{appointmentId}"<br>Y la cita existe en el sistema<br>Cuando el estilista realiza una solicitud DELETE<br>Entonces la respuesta debe ser 204 No Content<br>Y la cita debe ser eliminada del sistema.<br>**Escenario 4: Cita no encontrada**<br>Dado el endpoint "/stylists/{id}/appointments/{appointmentId}"<br>Cuando el estilista realiza una solicitud GET, PUT o DELETE con un ID de cita que no existe<br>Entonces la respuesta debe ser 404 Not Found indicando que la cita no fue encontrada.| EP009   |
+| TS008 | Endpoint para gestión de reseñas | Como Developer, quiero crear un endpoint para permitir a los usuarios dejar una reseña y valoración sobre el servicio recibido, así como consultar y gestionar estas reseñas. | **Escenario 1: Creación exitosa de reseña**<br>Dado que el Developer implementa el endpoint "/services/{serviceId}/reviews"<br>Cuando un usuario envía una solicitud POST con una reseña válida<br>Entonces la respuesta debe ser 201 Created con el encabezado 'Location' que enlace a "/services/{serviceId}/reviews/{reviewId}"<br>Y la reseña debe ser guardada en el sistema.<br>**Escenario 2: Datos de reseña faltantes o inválidos**<br>Dado que el Developer implementa el endpoint "/services/{serviceId}/reviews"<br>Cuando un usuario envía una solicitud POST con datos de reseña faltantes o inválidos<br>Entonces la respuesta debe ser 400 Bad Request con un mensaje que indique los campos requeridos o el formato incorrecto.<br>**Escenario 3: Consulta exitosa de reseñas**<br>Dado el endpoint "/services/{serviceId}/reviews"<br>Cuando un usuario envía una solicitud GET para obtener las reseñas de un servicio<br>Entonces la respuesta debe ser 200 OK con una lista de reseñas relacionadas con ese servicio.<br>**Escenario 4: Actualización exitosa de reseña**<br>Dado el endpoint "/services/{serviceId}/reviews/{reviewId}"<br>Y la reseña existe en el sistema<br>Cuando un usuario envía una solicitud PUT con información válida para actualizar la reseña<br>Entonces la respuesta debe ser 200 OK<br>Y la reseña debe reflejar las actualizaciones realizadas.<br>**Escenario 5: Eliminación exitosa de reseña**<br>Dado el endpoint "/services/{serviceId}/reviews/{reviewId}"<br>Y la reseña existe en el sistema<br>Cuando un usuario envía una solicitud DELETE<br>Entonces la respuesta debe ser 204 No Content<br>Y la reseña debe ser eliminada del sistema.<br>**Escenario 6: Reseña no encontrada**<br>Dado el endpoint "/services/{serviceId}/reviews/{reviewId}"<br>Cuando un usuario envía una solicitud GET, PUT o DELETE con un ID de reseña que no existe<br>Entonces la respuesta debe ser 404 Not Found indicando que la reseña no fue encontrada. | EP004   |
 
 ### 3.3. Impact Mapping
 #### 3.4. Product Backlog
 
-
+| **Orden**| **User Story ID**| **Título**| **Descripción**| **Story Points**|
+| - | - | - | - | - |
+| 1         | US027             | Visualizar objetivo de Bliss                  | Como visitante de la landing page, quiero ver la información del equipo, para conocer a las personas detrás de la empresa y su experiencia.                                   | 1                |
+| 2         | US030             | Visualizar visión del equipo                  | Como visitante del segmento empresa y cliente de la landing page, quiero ver la visión de la empresa para conocer mejor a la empresa                                          | 1                |
+| **3**     | US029             | Visualizar equipo de Bliss                    | Como visitante de la landing page, quiero ver la visión de la empresa para entender los objetivos y valores fundamentales de la empresa.                                      | 2                |
+| 4         | US028             | Navegación por la landing page                | Como visitante, quiero visualizar los datos más relevantes de Bliss para obtener más información sobre el producto.                                                           | 1                |
+| 5         | US025             | Solicitud de alianza                          | Como visitante del segmento empresa quiero solicitar información para convertirme en empresa asociada                                                                         | 2                |
+| **6**     | TS001             | Implementación del diseño responsivo          | Como desarrollador, quiero implementar un diseño responsivo en la landing page de Bliss para que se vea bien en dispositivos de diferentes tamaños.                           | 1                |
+| **7**     | TS002             | Implementación de la sección "Quiénes Somos"  | Como desarrollador, quiero implementar la sección "Quiénes Somos" para mostrar al equipo de Bliss en la landing page.                                                         | 2                |
+| **8**     | TS003             | Implementación de la sección de alianzas      | Como desarrollador, quiero implementar la sección de alianzas en la landing page para mostrar las colaboraciones de Bliss.                                                    | 1                |
+|      9    | US001             | Creación de cuenta                            | Como visitante, quiero crear una cuenta proporcionando mi nombre, dirección de correo electrónico y contraseña.                                                               | 3                |
+| 10        | US002             | Verificación de correo electrónico            | Como visitante, quiero recibir un correo electrónico de verificación después de registrarme para confirmar mi dirección de correo electrónico.                                | 3                |
+| 11        | US003             | Inicio de sesión de usuario                   | Como usuario registrado, quiero iniciar sesión utilizando mi correo electrónico y contraseña.                                                                                 | 4                |
+| 12        | US004             | Recomendación por ubicación                   | Como cliente, quiero visualizar como recomendados los servicios de belleza o cuidado de establecimientos cercanos a mi ubicación actual.                                      | 3                |
+| 13        | US005             | Visualización de historial                    | Como cliente, quiero visualizar los servicios de belleza de establecimientos a los que ya he solicitado servicios anteriormente.                                              | 2                |
+| 14        | US006             | Visualización de disponibilidad de citas      | Como cliente, quiero poder ver la disponibilidad de citas de los centros de belleza y cuidado para elegir un horario conveniente para mí.                                     | 2                |
+| 15        | US007             | Notificación de confirmación de reserva       | Como cliente, quiero recibir una notificación de confirmación después de reservar una cita para tener la seguridad de que se ha realizado correctamente.                      | 2                |
+| 16        | US008             | Cancelación de cita por parte del cliente     | Como cliente, quiero cancelar una cita reservada en la aplicación en caso de necesidad.                                                                                       | 3                |
+| 17        | US009             | Dejar valoración y reseña después de la cita  | Como cliente, quiero dejar una valoración y reseña sobre el servicio recibido después de completar una cita para ayudar a otros clientes en su elección.                      | 3                |
+| 18        | US010             | Personalización del Servicio                  | Como cliente, quiero personalizar algunos detalles del servicio reservado.                                                                                                    | 3                |
+| 19        | US011             | Reserva de citas periódicas                   | Como cliente, quiero tener la opción de agendar servicios que requieran mantenimientos periódicos en una sola reserva.                                                        | 5                |
+| 20        | US012             | Pago a través de la App                       | Como usuario, quiero poder pagar el servicio de belleza directamente a la empresa a través de la aplicación.                                                                  | 5                |
+| 21        | US013             | Búsqueda de servicios                         | Como usuario, quiero buscar un servicio o establecimiento específico mediante un cuadro de texto de búsqueda.                                                                 | 3                |
+| 22        | US015             | Ver perfil de cliente                         | Como cliente, quiero poder ver mi perfil para acceder a mi información personal en mi cuenta.                                                                                 | 2                |
+| 23        | US016             | Editar mi perfil de cliente                   | Como cliente, quiero editar mi perfil para mantener actualizada mi cuenta.                                                                                                    | 3                |
+| 24        | US017             | Registro de perfil de empresa                 | Como empresa, quiero crear un perfil para mostrar información sobre mi negocio y los servicios que ofrezco.                                                                   | 2                |
+| 25        | US018             | Editar mi perfil de especialista              | Como empresa, quiero editar los perfiles de mis especialistas en la aplicación para actualizar la información sobre mi negocio y servicios.                                   | 3                |
+| 26        | US019             | Registro de perfil de empresa                 | Como empresa, quiero crear un perfil en la aplicación para mostrar información sobre mi negocio y los servicios que ofrezco.                                                  | 2                |
+| 27        | US020             | Edición de perfil de especialista             | Como empresa, quiero editar los perfiles de mis especialistas en la aplicación para actualizar la información sobre mi negocio y servicios.                                   | 3                |
+| 28        | US021             | Gestión de citas                              | Como empresa, quiero gestionar las citas realizadas a través de la aplicación.                                                                                                | 2                |
+| 29        | US022             | Creación de servicio                          | Como empresa, quiero crear un servicio a través de la aplicación para que los usuarios de la aplicación lo visualicen.                                                        | 2                |
+| 30        | US023             | Eliminación de servicio                       | Como empresa, quiero poder eliminar un servicio que yo creé para mantener los servicios relevantes y a mi criterio.                                                           | 2                |
+| 31        | US024             | Actualización de servicios ofrecidos          | Como empresa, quiero actualizar los servicios que ofrezco en la aplicación, incluyendo la actualización de disponibilidad.                                                    | 2                |
+| 32        | US025             | Suscripción al sistema de pagos               | Como empresa, quiero suscribirme al sistema de pagos en la aplicación para gestionar los pagos de las citas de manera segura.                                                 | 3                |
+| 33        | US026             | Integración con calendario personal           | Como usuario, quiero sincronizar mis citas y reservas con mi calendario personal (Google Calendar, Outlook) para mantenerme organizado.                                       | 2                |
+| 34        | TS004             | Implementación de la sección "Nuestra Visión" | Como desarrollador, quiero implementar la sección "Nuestra Visión" para mostrar la visión de Bliss en la landing page.                                                        | 3                |
+| 35        | TS005             | Endpoint para registro                        | Como desarrollador, quiero crear un endpoint para permitir a los usuarios registrarse en la aplicación y autenticar su identidad para acceder a sus cuentas.                  | 5                |
+| 36        | TS006             | Endpoint para buscar servicios                | Como desarrollador, quiero implementar un endpoint que permita buscar servicios de belleza según filtros aplicados.                                                           | 5                |
+| 37        | TS007             | Endpoint para gestión de citas                | Como Developer, quiero crear un endpoint para permitir a los especialistas gestionar sus citas programadas, incluyendo la actualización, visualización y cancelación.         | 5                |
+| 38        | TS008             | Endpoint para gestión de reseñas              | Como Developer, quiero crear un endpoint para permitir a los usuarios dejar una reseña y valoración sobre el servicio recibido, así como consultar y gestionar estas reseñas. | 5                |
 
 
 ## Capítulo 4: Product Design
-<div id='4.1.'><h3> 4.1. Style Guidelines</h3></div>
-<div id='4.1.1.'><h4> 4.1.1. General Style Guidelines</h4></div>
+###  4.1. Style Guidelines
+#### 4.1.1. General Style Guidelines
 
 El enfoque del estilo del presente producto está enfocade en el uso de la estética glassmorphism ya que está acorde a las tendencias de uso de los últimos años en el sector de la belleza y el cuidad personal.
 
@@ -763,18 +821,53 @@ El sistema de navegación incluye menús y botones claros que guían a los usuar
 
 #### 4.6.2. Software Architecture Container Diagrams
 #### 4.6.3. Software Architecture Components Diagrams
+
 ### 4.7. Software Object-Oriented Design
 #### 4.7.1. Class Diagrams
+
+<br>
+
 #### 4.7.2. Class Dictionary
+
+| Clase | Nombre de Atributos | Definición | Tipo de dato | Unidad de Medida | Valores Restringidos |
+|-------|---------------------|------------|--------------|------------------|----------------------|
+| ***Customer*** |
+| 1 | firstName | Nombre del cliente | string | Cadena de caracteres | Permite solo caracteres o letras |
+| 2 | lastName | Apellido del cliente | string | Cadena de caracteres | Permite solo caracteres o letras |
+| 3 | numberDNI | Número de DNI del cliente | int | 2 bytes | Mayor a Cero |
+| ***User*** |
+| 1 | id | Identificador del usuario | integer | 2 bytes | Mayor a Cero |
+| 2 | emailAddress | Correo del usuario | string | Cadena de caracteres | Permite solo caracteres o letras |
+| 3 | password | Contraseña del usuario | string | Cadena de caracteres | Permite solo caracteres o letras |
+| 4 | loginDate | Fecha de inicio de sesión | boolean | 2 bytes | uno o cero |
+| 5 | registerDate | Fecha de registro | date | Días | Permite solo fechas |
+| ***Stylist Account*** |
+| 1 | firstName | Nombre del cliente | string | Cadena de caracteres | Permite solo caracteres o letras |
+| 2 | lastName | Apellido del cliente | string | Cadena de caracteres | Permite solo caracteres o letras |
+| 3 | numberDNI | Número de DNI del cliente | int | 2 bytes | Mayor a Cero |
+| ***Subscription*** |
+| 1 | id | Identificador de la suscripción | int | 2 bytes | Mayor a Cero |
+| 2 | subscriptionType | Tipo de suscripción | string | Cadena de caracteres | Permite solo caracteres o letras |
+| 3 | subscriptionOwner | Dueño de la suscripción | string | Cadena de caracteres | Permite solo caracteres o letras |
+| ***Notification*** |
+| 1 | notificationId | Identificador para cada notificación | int | 2 bytes | Mayor a Cero |
+| 2 | notificationType | Tipo de cada notificación | string | Cadena de caracteres | Permite solo caracteres o letras |
+| 3 | notificationContent | Contenido de la notificación | string | Cadena de caracteres | Permite solo caracteres o letras |
+
+<br>
+
 ### 4.8. Database Design
 #### 4.8.1. Database Diagram
+
+<br>
+
 ## Capítulo 5: Product Implementation, Validation & Deployment
 ### 5.1. Software Configuration Management
-#### 5.1.1.Software Development Environment Configuration
+#### 5.1.1. Software Development Environment Configuration
 
 **Project Management**
 
-Para la organizacion del proyecto necesitabamos una planificación en cuanto a tareas asignadas, un punto de reunión y un repositorio donde trabajaramos en conjunto cada avance del proyecto, es por esto que elegimos las siguientes herramientas:
+Para la organizacion del proyecto requerimos de un sistema de de asignación de tareas, palataformas y puntos de reunión y un repositorio dónde trabajaremos en conjunto cada avance del proyecto. A continuación se menciona los nombres de los productos y el propósito de uso en el proyecto:
 
 * Centro de organización de trabajo: Github
     
@@ -784,139 +877,170 @@ Para la organizacion del proyecto necesitabamos una planificación en cuanto a t
     
 **Requirements Management**
 
-Para realizar las actividades del proyecto necesitábamos designarlas a cada integrante del grupo en caso de revisión o cambios, esta lista de asignaciones fue realizada en Trello:
-
 <table>
     <tbody>
         <tr>
-            <td>Link de referencia: </td>
-            <td>https://www.trello.com/</td>
+            <td> Herramienta </td>
+            <td> Descripción </td>
+            <td> Link de referencia: </td>
+        </tr>
+        <tr>
+            <td> Trello </td>
+            <td> Para designar las tareas y actividades de cada integrante del grupo en caso de revisión o cambios. </td>
+            <td> https://www.trello.com/</td>
         </tr>
     </tbody>
 </table>
 
-**Product UX/UI Design**
+<br>
 
-Para el diseño de los wireframe y mockups, además de un prototipo de Web App se utilizó Figma:
+**Product UX/UI Design**
 
 <table>
     <tbody>
         <tr>
-            <td>Link de referencia: </td>
+            <td> Herramienta </td>
+            <td> Descripción </td>
+            <td> Link de referencia: </td>
+        </tr>
+        <tr>
+            <td> Figma </td>
+            <td> Para el diseño de los wireframe y mockups, además de la realización del prototipo de Web App </td>
             <td>https://www.figma.com/</td>
         </tr>
     </tbody>
 </table>
 
+<br>
+
 **Software Development**
 
-La herramienta para la implementación del proyecto es IntelliJ de Jetbrains:
-
 <table>
     <tbody>
         <tr>
-            <td>Link de referencia: </td>
-            <td>https://www.jetbrains.com/idea/</td>
+            <td> Herramienta </td>
+            <td> Descripción </td>
+            <td> Link de referencia: </td>
         </tr>
-    </tbody>
-</table>
-
-HTML: El lenguaje base de etiquetado para aplicaciones web sera empleado en este proyecto.
-
-<table>
-    <tbody>
         <tr>
-            <td>Link de referencia: </td>
-            <td>https://www.w3schools.com/html/html5_syntax.asp</td>
+            <td> TypeScript </td>
+            <td> Lenguaje de programación usado para el desarrollo frontend del proyecto </td>
+            <td> https://www.typescriptlang.org/</td>
         </tr>
-    </tbody>
-</table>
-
-CSS: Viene de la mano con HTML, Cascade Styles Sheet maneja el diseño de las aplicaciones web.
-
-<table>
-    <tbody>
         <tr>
-            <td>Link de referencia: </td>
+            <td> CSS </td>
+            <td> Cascade Styles Sheet maneja el diseño de las aplicaciones web. </td>
             <td>https://www.w3schools.com/css/css_intro.asp</td>
         </tr>
-    </tbody>
-</table>
-
-Lenguaje empleado en la implementación del proyecto es TypeScript:
-
-<table>
-    <tbody>
         <tr>
-            <td>Link de referencia: </td>
-            <td>https://www.typescriptlang.org/</td>
+            <td> HTML </td>
+            <td> El lenguaje base de etiquetado para aplicaciones web sera empleado en este proyecto. </td>
+            <td>https://www.w3schools.com/html/html5_syntax.asp</td>
         </tr>
-    </tbody>
-</table>
-
-Framework de JavaScript Angular para el diseño (Frontend):
-
-<table>
-    <tbody>
         <tr>
-            <td>Link de referencia: </td>
-            <td>https://angular.io/</td>
+            <td> AngularJS </td>
+            <td> Para el desarrollo Frontend de nuestra aplicación. </td>
+            <td> https://angular.io/ </td>
+        </tr>
+        <tr>
+            <td> IntelliJ IDEA </td>
+            <td> Entorno de desarrollo integrado (IDE) para la codificación de nuestro proyecto </td>
+            <td>https://www.jetbrains.com/idea/</td>
         </tr>
     </tbody>
 </table>
 
 **Software Testing**
 
-Gherkin es un sistema de etiquetado utilizado para detallar como se comporta el software de manera legible.
-
 <table>
     <tbody>
         <tr>
-            <td>Link de referencia: </td>
-            <td>https://cucumber.io/docs/gherkin/</td>
+            <td> Herramienta </td>
+            <td> Descripción </td>
+            <td> Link de referencia: </td>
+        </tr>
+        <tr>
+            <td> Gherkin </td>
+            <td> Sistema de etiquetado utilizado para detallar como se comporta el software de manera legible. </td>
+            <td> https://cucumber.io/docs/gherkin/ </td>
         </tr>
     </tbody>
 </table>
 
-**Software Deployment**
+<br>
 
-Se ha utilizado Gitthub Pages para el despliegue de la landing page:
+**Software Deployment**
 
 <table>
     <tbody>
         <tr>
-            <td>Link de referencia: </td>
+            <td> Herramienta </td>
+            <td> Descripción </td>
+            <td> Link de referencia: </td>
+        </tr>
+        <tr>
+            <td> Github Pages </td>
+            <td> Para realizar el despliegue de nuestra landing page. </td>
             <td>https://pages.github.com/</td>
         </tr>
     </tbody>
 </table>
 
-#### 5.1.2.Source Code Management
+<br>
+
+**Software Documentation**
 
 <table>
     <tbody>
         <tr>
-            <td> Bliss-landing-page </td>
-            <td> https://github.com/upc-opensource-g-bliss/Landing-Page </td>
+            <td> Herramienta </td>
+            <td> Descripción </td>
+            <td> Link de referencia: </td>
         </tr>
         <tr>
-            <td>Link Bliss-web-services: </td>
-            <td>  </td>
-        </tr>
-        <tr>
-            <td>Link Front Web Applications: </td>
-            <td>  </td>
-        </tr>
-        <tr>
-            <td>Link "Testing": </td>
-            <td>  </td>
+            <td> GitHub </td>
+            <td> Para gestionar la documentación del proyecto </td>
+            <td> https://github.com/SI729-Bliss/Documentation </td>
         </tr>
     </tbody>
 </table>
 
+
+#### 5.1.2. Source Code Management
+
+<table>
+    <tbody>
+        <tr>
+            <td> Producto </td>
+            <td> Repositorio </td>
+            <td> URL </td>
+        </tr>
+        <tr>
+            <td> Landing Page </td>
+            <td> Bliss-landing-page </td>
+            <td> https://github.com/SI729-Bliss/Landing-Page </td>
+        </tr>
+        <tr>
+            <td> Web Services </td>
+            <td> Bliss-web-services: </td>
+            <td> https://github.com/SI729-Bliss/ </td>
+        </tr>
+        <tr>
+            <td> Front Web Application </td>
+            <td> Bliss-Frontend </td>
+            <td> https://github.com/SI729-Bliss/ </td>
+        </tr>
+    </tbody>
+</table>
+
+
 **Flujo de trabajo GitFlow**
 
-<img src="https://nvie.com/img/git-model@2x.png" width="60%" alt="Ejemplo flujo de Gitflow"/>
+<br>
+
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*X8WN29vxbiyc3XFFfWanTA.png" width="60%" alt="Ejemplo flujo de Gitflow"/>
+
+<br>
 
 Usaremos el flujo de trabajo planteado por Vincent Driessen en "A successful Git branching model" con los siguientes parámetros:
  * Una rama de producción.
@@ -936,8 +1060,8 @@ Teniendo en cuenta la información anterior nos inclinamos por este tipo de orga
 
 Con cada deployment de la aplicación debe establecerse como una nueva versión.
 
-#### 5.1.3.Source Code Style Guide & Conventions
 
+#### 5.1.3. Source Code Style Guide & Conventions
 
 Usaremos buenas prácticas en cuanto al código de manera que sea coherente y sostenible.
 
@@ -956,30 +1080,35 @@ Usaremos buenas prácticas en cuanto al código de manera que sea coherente y so
 * Cada etiqueta, nombre y clase será nombrada de acuerdo al propósito y clasificación del elemento.
 * Separación de palabras con un guion "-".
 * Margin y padding en "*" con valor de 0.
-  
-<div id='5.1.4.'><h4> 5.1.4.Software Deployment Configuration</h4></div>
 
-### Landing Page Deployment
 
-Se desplegó en Github Pages, para esto necesitamos:
+#### 5.1.4.Software Deployment Configuration
 
-* Una cuenta personal
+**Landing Page**
+
+**Requerimientos para realizar del despliegue:**
+
+* Repositorio en nuestra organización de GitHub
 * Permisos de Github
-* Repositorio existente
+* Código Fuente de nuestra Landing Page
 
-  Siguiendo los siguientes pasos:
+**Pasos realizados para desplegar nuestra Landing Page:**
   
-1) Ir a configuración de nuestro repositorio de Github.
-2) Seleccionar el apartado de Pages.
-3) Elegir la rama main y folder(/root).
-4) Una vez hecho el paso anterior se estaría contruyendo y poco tiempo después tendriamos que observar la landing desplegada.
+1) Subir el código fuente de nuestra Landig Page a nuestro repositorio destino en GitHub.
+2) Ir a la página de configuración de nuestro repositorio de GitHub.
+3) Seleccionar el apartado de Pages.
 
 <img src="resources/gthbpgsss1.JPG" />
 
+4) Elegir la rama main y folder(/root).
+5) Una vez hecho el paso anterior se estaría contruyendo y poco tiempo después tendriamos que observar la landing desplegada.
+
 <img src="resources/gthbpgsss2.JPG" />
-  
-#### 5.2.Landing Page, Services & Applications Implementation
-#### 5.2.1.Sprint 1
+
+
+#### 5.2. Landing Page, Services & Applications Implementation
+#### 5.2.1. Sprint 1
+##### 5.2.1.1. Sprint Planning 1
 
 <table>
     <thead>
@@ -1029,39 +1158,151 @@ Se desplegó en Github Pages, para esto necesitamos:
         </tr>
         <tr>
             <td>Sprint 1 Velocity</td>
-            <td></td>
+            <td>6</td>
         </tr>
         <tr>
             <td>Sum of Story Points</td>
-            <td></td>
+            <td>6</td>
         </tr>
     </tbody>
 </table>
 
-##### 5.2.1.1.Sprint Planning 1
-##### 5.2.1.2.Sprint Backlog 1
-##### 5.2.1.3.Development Evidence for Sprint Review
-##### 5.2.1.4.Testing Suite Evidence for Sprint Review
-##### 5.2.1.5.Execution Evidence for Sprint Review
+##### 5.2.1.2. Sprint Backlog 1
+
+**Sprint resumen**
+
+<img src="resources/ssTrelloTB1.JPG"/>
+
+URL Trello: https://trello.com/b/nl4FsaI0/si729-bliss-202402-grupo3
+
+<table>
+    <thead>
+        <tr>
+            <td>Sprint #</td>
+            <td colspan="7" >Sprint 1</td>
+        </tr>
+        <tr>
+            <td colspan="2" > User Story</td>
+            <td colspan="6" > Work-Item / Task </td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td> Id </td>
+            <td> Title </td>
+            <td> Id </td>
+            <td> Title </td>
+            <td> Description </td>
+            <td> Estimation (Hours) </td>
+            <td> Assigned To </td>
+            <td> Status (To-do / In-Process / To-Review / Done) </td>
+        </tr>
+        <tr>
+            <td>US014</td>
+          	<td> Navegacion por la landing page </td>
+          	<td> 01 </td>
+          	<td> Navegar por landing page de manera fluida. </td>
+            <td> El visitante debe poder navegar por la landing page sin problemas de fluidez. </td>
+            <td> 2 </td>
+            <td> Andre Bernaola </td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US015</td>
+          	<td> Visualizar alianzas </td>
+          	<td> 02 </td>
+          	<td> Visualizar sección de alianzas </td>
+            <td>  Visitante debe pober visualizar las alianzas de manera clara. </td>
+            <td> 2 </td>
+            <td> Andre Bernaola </td>
+            <td> Done </td>
+        </tr>
+      <tr>
+            <td>US027</td>
+          	<td> Visualizar equipo de Bliss </td>
+          	<td> 03 </td>
+          	<td> Visualizar sección de equipo </td>
+            <td> Visitante debe pober visualizar a los miembros del equipo de manera clara. </td>
+            <td> 2 </td>
+            <td>Andre Bernaola  </td>
+            <td> Done </td>
+        </tr>
+      <tr>
+            <td>US028</td>
+          	<td> Visualizar visión </td>
+          	<td> 04 </td>
+          	<td> Visualizar sección de visión del proyecto </td>
+            <td> Visitante debe pober visualizar la visión del proyecto de manera clara.  </td>
+            <td> 2 </td>
+            <td> Andre Bernaola </td>
+            <td> Done </td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+
+##### 5.2.1.3. Development Evidence for Sprint Review
+
+**Landing Page**
+
+<!-- Resumen de los principales avances en la implementación -->
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+
+<br>
+
+##### 5.2.1.4. Testing Suite Evidence for Sprint Review
+
+<br>
+
+##### 5.2.1.5. Execution Evidence for Sprint Review
 
 En este primer sprint se desarrolló la Landing Page con Tailwind, siendo desplegada en GithubPages. En esta landing encontraremos los features principales con el primer diseño de acuerdo al mockup de este.
 
 
 
-##### 5.2.1.6.Services Documentation Evidence for Sprint Review
+##### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
 Para este primer sprint no fue contemplada la evidencia de documentación de los servicios.
 
-###### 5.2.1.7.Software Deployment Evidence for Sprint Review
+##### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
 Link de Landing Page: https://upc-opensource-g-bliss.github.io/Landing-Page/
 
-##### 5.2.1.8.Team Collaboration Insights during Sprint
-#### 5.3.3.Evaluaciones según heurísticas
+##### 5.2.1.8. Team Collaboration Insights during Sprint
+
+<br>
+
+#### 5.3.3. Evaluaciones según heurísticas
+
+<br>
+
 ### 5.3. Validation Interviews
-#### 5.3.1.Diseño de Entrevistas
-#### 5.3.2.Registro de Entrevistas
+
+<br>
+
+#### 5.3.1. Diseño de Entrevistas
+
+<br>
+
+#### 5.3.2. Registro de Entrevistas
+
+<br>
+
 ### 5.4. Video About-the-Product
+
+<br>
+
 ## Conclusiones
+
+<br>
+
 ## Bibliografía
+
+<br>
+
 ## Anexos
