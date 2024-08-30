@@ -445,55 +445,45 @@ horarios y necesidades.
 
 ***Entrevistas a Clientes***
 
-|Nombre entrevistado| Paco Ramirez Serna|
-|:-|:-|
-|Edad|21 años|
-|Profesión | Estudiante de Economía|
-|Departamento|Lima, Perú|
-|<img src="resources/entrevista1.png" />|Paco, estudiante de economía, utiliza principalmente Instagram y Facebook para descubrir servicios de cuidado y belleza, valorando las fotos y opiniones en tiempo real. En un catálogo en línea, busca fotografías de alta calidad, testimonios de clientes, precios claros e información sobre la experiencia de los profesionales. Al obtener cotizaciones, prefiere detalles de los servicios, comparativas de precios, imágenes antes y después, y reseñas. Le atraen las imágenes de calidad y reseñas al descubrir nuevos servicios, y ya ha usado plataformas como StyleSeat, aunque cree que podrían ofrecer más detalles sobre los profesionales y su trabajo. Al comparar proveedores, prioriza las reseñas, ubicación, disponibilidad y precios.|
-|Duración entrevista: 2:32|URL: [ https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211b293_upc_edu_pe/Eb1SlaolL0hPgcxnmQAkrl8BAtm7CIc5veK7VOxQ5YVp8g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BfN0lJ]|
-
-|**Nombre entrevistado**|  **Valeria Fernanda Valle Martinez**|
-|:-|:-|
-|Edad|19 años|
-|Profesión | Estudiante de Psicología|
-|Departamento|Lima, Perú|
-|<img src="resources/entrevista1ss.JPG" />|Valeria nos menciona que usa anuncios en las redes sociales para buscar salones de belleza, el que más usa es Instagram. Sin embargo, nos cuenta que los anuncios no le permiten conocer la información completa del local como, por ejemplo: la calidad de los productos, precio, ubicación o servicio. Nos contó que no usa aplicaciones para gestionar las citas, pero reconoce el valor de estas, pues le permitirían ver la información de los salones de belleza y los compararlo con otros para buscar el mejor servicio. Mostro interés en nuestro proyecto, y afirmo que la característica más resaltante seria que la mantengan informada de las promociones y datos de los salones de belleza.|
-|Duración entrevista: 4:49|URL: [ https://drive.google.com/file/d/1S4OemuKdZ3HVOmgrfeUWXDjV7_4m7pIx/view?usp=sharing]|
-
 |**Nombre entrevistado**|  **Gabriela Suemy Ayllón García-Pacheco**|
 |:-|:-|
 |Edad|19 años|
 |Profesión | Estudiante de Psicología|
 |Departamento|Lima, Perú|
-|<img src="resources/entrevista1.1.png" />|Gabriela prefiere buscar servicios de belleza a través de recomendaciones de amigos y familiares, aunque también utiliza redes sociales y buscadores en línea. Valora las opiniones de otros clientes, descripciones detalladas de los servicios, fotos del trabajo previo, y la información sobre productos, estilistas, precios y duración de los servicios. Las imágenes de antes y después, la reputación basada en reseñas, y la calidad de los productos utilizados son aspectos clave para ella. Ha probado plataformas digitales para reservar servicios y aprecia la conveniencia de comparar proveedores, destacando la importancia de la calidad, experiencia, precios competitivos, y la facilidad para reservar citas.|
-|Duración entrevista: 2:40|URL: [ https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211b293_upc_edu_pe/EXVPmBeyC3NNrXrJxAJTREUBxxM7cyDQIthPcQAShXlw6g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=jkShwY]|
+|<img src="resources/entrevista1.1.png" />|Como primera entrevistada, tenemos a Gabriela que prefiere buscar servicios de belleza a través de recomendaciones de amigos y familiares, aunque también utiliza redes sociales y buscadores en línea. Valora las opiniones de otros clientes, descripciones detalladas de los servicios, fotos del trabajo previo, y la información sobre productos, estilistas, precios y duración de los servicios. Las imágenes de antes y después, la reputación basada en reseñas, y la calidad de los productos utilizados son aspectos clave para ella. Ha probado plataformas digitales para reservar servicios y aprecia la conveniencia de comparar proveedores, destacando la importancia de la calidad, experiencia, precios competitivos, y la facilidad para reservar citas.|
+|**Nombre entrevistado**| **Paco Ramirez Serna**|
+|Edad|21 años|
+|Profesión | Estudiante de Economía|
+|Departamento|Lima, Perú|
+|<img src="resources/entrevista1.png" />|Como segundo entrevistado, Paco, estudiante de economía, utiliza principalmente Instagram y Facebook para descubrir servicios de cuidado y belleza, valorando las fotos y opiniones en tiempo real. En un catálogo en línea, busca fotografías de alta calidad, testimonios de clientes, precios claros e información sobre la experiencia de los profesionales. Al obtener cotizaciones, prefiere detalles de los servicios, comparativas de precios, imágenes antes y después, y reseñas. Le atraen las imágenes de calidad y reseñas al descubrir nuevos servicios, y ya ha usado plataformas como StyleSeat, aunque cree que podrían ofrecer más detalles sobre los profesionales y su trabajo. Al comparar proveedores, prioriza las reseñas, ubicación, disponibilidad y precios.|
+|**Nombre entrevistado**|  **Valeria Fernanda Valle Martinez**|
+|Edad|19 años|
+|Profesión | Estudiante de Psicología|
+|Departamento|Lima, Perú|
+|<img src="resources/entrevista1ss.JPG" />|Como última entrevistada, Valeria nos menciona que usa anuncios en las redes sociales para buscar salones de belleza, el que más usa es Instagram. Sin embargo, nos cuenta que los anuncios no le permiten conocer la información completa del local como, por ejemplo: la calidad de los productos, precio, ubicación o servicio. Nos contó que no usa aplicaciones para gestionar las citas, pero reconoce el valor de estas, pues le permitirían ver la información de los salones de belleza y los compararlo con otros para buscar el mejor servicio. Mostro interés en nuestro proyecto, y afirmo que la característica más resaltante seria que la mantengan informada de las promociones y datos de los salones de belleza.|
+|Duración de todas las entrevistas: 10:01|URL: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211b293_upc_edu_pe/ETSuRSDyu71Fk7bCFMuzb8YBB6gs-mPMxVkgGed6zgOzBA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fDPef5]|
+
+
 
 ***Entrevistas a MYPES***
 
-|Nombre entrevistado|  María Margarita Rodríguez Ninaquispe de Cienfuegos|
+|**Nombre entrevistado**|  **Matías Munives Santamaría**|
 |:-|:-|
+|Edad|21 años|
+|Profesión |  Estilista – Estudiante de Ingeniería de Sistemas|
+|Departamento|Lima, Perú|
+|<img src="resources/entrevista2.1.png" />|Como primer entrevistado tenemos a Matías, él ofrece servicios básicos como cortes de cabello, manicura, pedicura, masajes y faciales. Comenta que los cortes de cabello y las manicuras son los servicios más solicitados por sus clientes. Actualmente, las citas se gestionan principalmente a través de llamadas y mensajes por WhatsApp, aunque a veces surgen problemas cuando los clientes cancelan a último minuto. Le interesó nuestra propuesta de una aplicación que simplifique la organización de las reservas y atraiga a más clientes, siempre que sea fácil de usar y no demasiado costosa. También mencionó que no ofrecen servicios a domicilio debido a la logística y el personal requerido, pero estarían abiertos a considerar esta opción si se simplificara el proceso. Finalmente, está dispuesto a pagar una comisión por cada servicio adquirido a través de la aplicación, pero con un límite de 50 soles.|
+|**Nombre entrevistado**|  **Yaritza Gutiérrez Córdova**|
+|Edad|21 años|
+|Profesión |  Estilista – Estudiante de Ingeniería Civil|
+|Departamento|Lima, Perú|
+|<img src="resources/entrevista3ss.JPG" />|Como segunda entrevistada tenemos a Yaritza, es una estudiante de la carrera de ingeniería Civil y actualmente tiene un emprendimiento de salón de belleza, ella nos cuenta que su hermana es la que hace sus reservas de las citas para sus clientes, pero tiene el miedo a que su hermana un día pueda confundirse y no pueda ella ir a la cita y que ella si va a hogares a hacer ofrecer sus servicios, pero siempre se demora al escoger los productos con los clientes. Le dimos la información sobre nuestro proyecto y le presentamos todas las funciones de nuestra plataforma con el sistema de reserva de citas, consultas y compra de productos de belleza, ella le sorprendió mucho nuestro proyecto también nos dio una recomendación para poder implementar a la aplicación y esta es que con ayuda de la IA los clientes puedan seleccionar los productos que van a querer que se le usen y puedan ver como un “resultado” con la ia con una foto de estos mismos.|
+|**Nombre entrevistado**|  **María Margarita Rodríguez Ninaquispe de Cienfuegos**|
 |Edad|55 años|
 |Profesión | Estilista|
 |Departamento|Lima, Perú|
-|<img src="resources/entrevista2ss.JPG" />|María, dueña de un salón de belleza con 30 años de historia, nos cuenta que sus clientes le pueden enviar un mensaje por WhatsApp para reservar una cita, esto beneficia a sus clientes pues no se molestan en esperar su turno mejorando la atención. Menciona que está interesada en promocionar su negocio por redes sociales u otras plataformas, pero teme exponerse a la delincuencia por estos medios. Esto no la detiene de llevar servicio a domicilio con sus clientes habituales. Le contamos de nuestro proyecto y como queremos presentarle una plataforma para que clientes puedan reservar citas, pero, aunque reconozca los beneficios teme que delincuentes creen perfiles falsos y lleguen a su local, por ello incluso usando WhatsApp como medio de comunicación con clientes reconoce que solo acepta cita a los clientes habituales o por recomendación, nunca a extraños. |
-|Duración entrevista: 8:54|URL:[https://drive.google.com/file/d/1dBjvYYgw0as8N2YYhyk_MVW3MaRZ0CLA/view?usp=sharing]|
-
-|**Nombre entrevistado**|  **Yaritza Gutiérrez Córdova**|
-|Edad|21 años|
-|:-|:-|
-|Profesión |  Estilista – Estudiante de Ingeniería Civil|
-|Departamento|Lima, Perú|
-|<img src="resources/entrevista3ss.JPG" />|Yaritza, es una estudiante de la carrera de ingeniería Civil y actualmente tiene un emprendimiento de salón de belleza, ella nos cuenta que su hermana es la que hace sus reservas de las citas para sus clientes, pero tiene el miedo a que su hermana un día pueda confundirse y no pueda ella ir a la cita y que ella si va a hogares a hacer ofrecer sus servicios, pero siempre se demora al escoger los productos con los clientes. Le dimos la información sobre nuestro proyecto y le presentamos todas las funciones de nuestra plataforma con el sistema de reserva de citas, consultas y compra de productos de belleza, ella le sorprendió mucho nuestro proyecto también nos dio una recomendación para poder implementar a la aplicación y esta es que con ayuda de la IA los clientes puedan seleccionar los productos que van a querer que se le usen y puedan ver como un “resultado” con la ia con una foto de estos mismos.|
-|Duración entrevista: 5:24|URL: [https://drive.google.com/file/d/1BaFeF2a1AaS3HgkfppCM8Afc9LAMu6gs/view?usp=sharing]|
-
-|**Nombre entrevistado**|  **Matías Munives Santamaría**|
-|Edad|21 años|
-|:-|:-|
-|Profesión |  Estilista – Estudiante de Ingeniería de Sistemas|
-|Departamento|Lima, Perú|
-|<img src="resources/entrevista2.1.png" />|Matías ofrece servicios básicos como cortes de cabello, manicura, pedicura, masajes y faciales. Comenta que los cortes de cabello y las manicuras son los servicios más solicitados por sus clientes. Actualmente, las citas se gestionan principalmente a través de llamadas y mensajes por WhatsApp, aunque a veces surgen problemas cuando los clientes cancelan a último minuto. Le interesó nuestra propuesta de una aplicación que simplifique la organización de las reservas y atraiga a más clientes, siempre que sea fácil de usar y no demasiado costosa. También mencionó que no ofrecen servicios a domicilio debido a la logística y el personal requerido, pero estarían abiertos a considerar esta opción si se simplificara el proceso. Finalmente, está dispuesto a pagar una comisión por cada servicio adquirido a través de la aplicación, pero con un límite de 50 soles.|
-|Duración entrevista: 3:35|URL: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211b293_upc_edu_pe/EQDX9KlxHgNNlGByMHxjrF8B_SyjJnRMACdmvK-LQCMOcQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=R8XT2A]|
+|<img src="resources/entrevista2ss.JPG" />|Como última entrevistada, María, dueña de un salón de belleza con 30 años de historia, nos cuenta que sus clientes le pueden enviar un mensaje por WhatsApp para reservar una cita, esto beneficia a sus clientes pues no se molestan en esperar su turno mejorando la atención. Menciona que está interesada en promocionar su negocio por redes sociales u otras plataformas, pero teme exponerse a la delincuencia por estos medios. Esto no la detiene de llevar servicio a domicilio con sus clientes habituales. Le contamos de nuestro proyecto y como queremos presentarle una plataforma para que clientes puedan reservar citas, pero, aunque reconozca los beneficios teme que delincuentes creen perfiles falsos y lleguen a su local, por ello incluso usando WhatsApp como medio de comunicación con clientes reconoce que solo acepta cita a los clientes habituales o por recomendación, nunca a extraños. |
+|Duración de todas las entrevistas: 17:53|URL: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211b293_upc_edu_pe/EbRAqowXhXxOk2oAw1bJc9QBacWJc91SVV_AIoctqCQ1-A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ood0YP]|
 
 #### 2.2.3. Análisis de entrevistas</h4></div>
 
@@ -1246,14 +1236,14 @@ URL Trello: https://trello.com/b/nl4FsaI0/si729-bliss-202402-grupo3
 
 **Landing Page**
 
-<!-- Resumen de los principales avances en la implementación -->
-
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
-|------------|--------|-----------|----------------|---------------------|--------------------|
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-
-<br>
+|-|-|-|-|-|-|
+| https://github.com/SI729-Bliss/Landing-Page/commits/main/ | master | e7e5461 | Initial commit | Initial commit | 15/08/2024 |
+| https://github.com/SI729-Bliss/Landing-Page/commits/main/ | develop | 61e1e04 | Add files via upload | Add files via upload | 17/08/2024 |
+| https://github.com/SI729-Bliss/Landing-Page/commits/main/ | develop | d1f27b5 | . | . | 17/08/2024 |
+| https://github.com/SI729-Bliss/Landing-Page/commits/main/ | main | a230e21 | Merge branch 'develop' of https://github.com/upc-opensource-g-bliss/Landing-Page into develop | Merge branch 'develop' of https://github.com/upc-opensource-g-bliss/Landing-Page into develop | 17/08/2024 |
+| https://github.com/SI729-Bliss/Landing-Page/commits/main/ | main | 8101b46 | Update index.html | Update index.html | 18/08/2024 |
+| https://github.com/SI729-Bliss/Landing-Page/commits/main/ | main | 720fb82 | Update index.html | Update index.html | 18/08/2024 |
 
 ##### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
@@ -1279,30 +1269,23 @@ Link de Landing Page: https://upc-opensource-g-bliss.github.io/Landing-Page/
 
 #### 5.3.3. Evaluaciones según heurísticas
 
-<br>
 
 ### 5.3. Validation Interviews
 
-<br>
 
 #### 5.3.1. Diseño de Entrevistas
 
-<br>
 
 #### 5.3.2. Registro de Entrevistas
 
-<br>
 
 ### 5.4. Video About-the-Product
 
-<br>
 
 ## Conclusiones
 
-<br>
 
 ## Bibliografía
 
-<br>
 
 ## Anexos
