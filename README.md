@@ -1247,7 +1247,15 @@ URL Trello: https://trello.com/b/nl4FsaI0/si729-bliss-202402-grupo3
 
 ##### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
-<br>
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|-|-|-|-|-|-|
+|https://github.com/SI729-Bliss/Testing|feature/tb1-Bernaola|d4bc6df|feat: added us14 gherkin|feat: added us14 gherkin|30/08/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tb1-Bernaola|a00bea9|feat: added us15 gherkin|feat: added us14 gherkin|30/08/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tb1-Bernaola|fb81027|feat: added us27 gherkin|feat: added us14 gherkin|30/08/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tb1-Bernaola|2cd174a|feat: added us28 gherkin|feat: added us14 gherkin|30/08/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tb1-Bernaola|3400227|fix: renamed file name|fix: renamed file name|30/08/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tb1-Bernaola|e197a2c|fix: renamed file name|fix: renamed file name|30/08/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tb1-Bernaola|2455ef5|fix: renamed file name|fix: renamed file name|30/08/2024|
 
 ##### 5.2.1.5. Execution Evidence for Sprint Review
 
