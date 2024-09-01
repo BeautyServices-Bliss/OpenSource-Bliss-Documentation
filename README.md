@@ -1129,7 +1129,7 @@ Usaremos buenas prácticas en cuanto al código de manera que sea coherente y so
         </tr>
         <tr>
             <td>Attendees (to planning meeting)</td>
-            <td>Sorano Medriano, Diego Martin/Rodriguez Villa, Elvia Marcela/Cabrera Buitron, Diego Ivan/ Rivas Sarango, David Alejandro / Bernaola Pérez, André Arturo</td>
+            <td>Soriano Medrano, Diego Martin/Rodriguez Villa, Elvia Marcela/Cabrera Buitron, Diego Ivan/ Rivas Sarango, David Alejandro / Bernaola Pérez, André Arturo</td>
         </tr>
         <tr>
             <td>Sprint n – 1 Review Summary</td>
@@ -1245,6 +1245,8 @@ URL Trello: https://trello.com/b/nl4FsaI0/si729-bliss-202402-grupo3
 | https://github.com/SI729-Bliss/Landing-Page/commits/main/ | main | 8101b46 | Update index.html | Update index.html | 18/08/2024 |
 | https://github.com/SI729-Bliss/Landing-Page/commits/main/ | main | 720fb82 | Update index.html | Update index.html | 18/08/2024 |
 
+<br/>
+
 ##### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
@@ -1275,19 +1277,19 @@ Link de Landing Page: https://upc-opensource-g-bliss.github.io/Landing-Page/
 
 <br>
 
-#### 5.3.3. Evaluaciones según heurísticas
 
 
-### 5.3. Validation Interviews
+<!-- ### 5.3. Validation Interviews -->
 
 
-#### 5.3.1. Diseño de Entrevistas
+<!-- #### 5.3.1. Diseño de Entrevistas -->
 
 
-#### 5.3.2. Registro de Entrevistas
+<!-- #### 5.3.2. Registro de Entrevistas -->
 
+<!-- #### 5.3.3. Evaluaciones según heurísticas -->
 
-### 5.4. Video About-the-Product
+<!-- ### 5.4. Video About-the-Product -->
 
 
 ## Conclusiones
