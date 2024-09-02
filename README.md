@@ -813,10 +813,40 @@ El sistema de navegación incluye menús y botones claros que guían a los usuar
 ### 4.6. Domain-Driven Software Architecture
 #### 4.6.1. Software Architecture Context Diagram
 
-<img src="resources/c4-model/bliss-context-diagram.png" />
+En el diagrama de contexto se consideraron tres actores clave para el negocio: los visitantes, que pueden convertirse en usuarios potenciales al visitar la página de inicio; los dueños del negocio, que incluyen tanto a estilistas como a empresas con salones de belleza; y los consumidores, que utilizan el producto final.
+
+<img src="resources/C4-Model/bliss-context-diagram.png" />
 
 #### 4.6.2. Software Architecture Container Diagrams
+
+En el diagrama de contenedores, se ha propuesto una arquitectura monolítica en la cual los usuarios pueden conectarse a través de sus dispositivos móviles o navegadores a la aplicación. Esta aplicación interactúa con una API REST, la cual gestiona los cinco bounded contexts identificados. Todos estos contextos están integrados a una única base de datos.
+
+<img src="resources/C4-Model/container-diagram.png" />
+
 #### 4.6.3. Software Architecture Components Diagrams
+
+Los componentes del sistema siguen el patrón CQRS, organizados en cinco áreas clave: Service Management, User Management, Booking Management, Notifications, y Payments.
+
+##### Service Management Component
+
+<img src="resources/C4-Model/services-component.png" />
+
+##### User Management Component
+
+<img src="resources/C4-Model/user-component.png" />
+
+##### Booking Management Component
+
+<img src="resources/C4-Model/booking-component.png" />
+
+##### Notification Component
+
+<img src="resources/C4-Model/notification-component.png" />
+
+##### Payments Component
+
+<img src="resources/C4-Model/payments-component.png" />
+
 
 ### 4.7. Software Object-Oriented Design
 #### 4.7.1. Class Diagrams
