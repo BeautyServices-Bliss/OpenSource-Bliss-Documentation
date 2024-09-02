@@ -489,11 +489,11 @@ horarios y necesidades.
 
 **Segmento 1: Clientes de la industria de belleza y bienestar.**
 
-Basado en las entrevistas concluimos que los clientes buscan en los anuncios de las redes sociales salones de belleza o servicios, por ello les cuesta tener información actualizada e información relevante como marca de sus productos, servicio, entre otros. Por ello una plataforma como la nuestra que le ayude a acceder a esta información actualizada y gestione las visitas les sería muy útil.
+Las entrevistas revelan patrones claros en las preferencias de los clientes. La mayoría prefiere buscar servicios a través de redes sociales, especialmente Instagram, donde las imágenes de alta calidad sobre el trabajo de belleza y las reseñas de otros usuarios juegan un papel importante en su toma de decisiones. Sin embargo, muchos encuentran que la información proporcionada en estas plataformas es insuficiente. Como destacó Gabriela: “Las fotos del trabajo de belleza y las reseñas son clave, pero muchas veces no encuentro toda la información que necesito en un solo lugar”. Esto indica una clara necesidad de una plataforma como Bliss que ofrezca información visual, precios, disponibilidad y testimonios, permitiendo a los usuarios tomar decisiones informadas sin tener que buscar en múltiples fuentes.
 
 **Segmento 2: Empresas pequeñas**
 
-Con respecto a las entrevistas de trabajadores en el sector belleza y bienestar, notamos que sienten que se exponen al peligro cuando atienden a un cliente, siempre está la probabilidad que busquen hacerles daño y robarles. Aun con eso, reconocen que una plataforma que permita la comunicación con clientes para ofrecer un mejor servicio sería de gran ayuda. La característica más importante para estos trabajadores es la seguridad que ofrece la plataforma al agendar una cita.
+Los propietarios de MYPES, como Matías, señalan que gestionar las reservas es un desafío constante debido a las cancelaciones de último momento y la dificultad de coordinar las citas a través de múltiples canales. Además, las preocupaciones de seguridad de María resaltaron la necesidad de que nuestra empresa incluya un sistema de autenticación para proteger a la empresa y a los clientes. "Gestionar todo a través de WhatsApp es difícil y siempre existe el riesgo de atender a personas que no conocemos", comentó María, resaltando la importancia de brindar soluciones integradas que aumenten la eficiencia operativa y la seguridad.
 
 ### 2.3. Needfinding
 #### 2.3.1. User Personas
@@ -518,7 +518,7 @@ Para la realizar el User Task Matrix se tomo a los dos sengmetos objetivos ya pr
 
 2. MYPES
 
-**Clientas**
+**Clientes**
 |Task Matrix|Importancia|
 |-|-|
 |Requerir servicios de belleza|Alta|
@@ -529,6 +529,7 @@ Para la realizar el User Task Matrix se tomo a los dos sengmetos objetivos ya pr
 |Elegir el servicio requerido|Alta|
 |En caso sea necesario pedir cambios en el servicio requerido|Alta|
 |Proporcionar retroalimentación sobre el servicio recibido|Baja|
+|Preferencias de comunicación|Media|
 
 <br>
 
@@ -544,6 +545,7 @@ Para la realizar el User Task Matrix se tomo a los dos sengmetos objetivos ya pr
 |Gestionar y actualizar información del centro de belleza|Media|
 |Crear y administrar promociones del local|Baja|
 |Recibir y responder a la retroalimentación de los clientes|Media|
+|Optimizar tiempos de respuesta para reservas y consultas|Alta|
 
 <br>
 
@@ -573,21 +575,25 @@ Para la realizar el User Task Matrix se tomo a los dos sengmetos objetivos ya pr
 
 **User Persona 1**
 
-|Phases|Búsqueda y Descubrimiento de Servicios|Selección y Reserva de Citas|Experiencia del Servicio|Post-Servicio y Retorno|
-|-|-|-|-|-|
-|Doing| - Los usuarios buscan servicios de cuidado y belleza. <br> - Solicitud de recomendaciones a amigos, familiares o buscando en directorios en línea. | - Los usuarios llaman por teléfono al salón de belleza seleccionado. <br> - Se consulta por la disponibilidad de citas y se reserva una si es que hay.|-	Los usuarios asisten a su cita programada. <br> - Se recibe el servicio	de cuidado y belleza acordado.|Después del servicio, los usuarios pueden proporcionar comentarios verbales al estilista o al salón de belleza.|
-|Thinking|“Me siento limitado por las opciones disponibles  y  me preocupa no poder encontrar un lugar que se ajuste a lo que necesito. No estoy seguro de si podré encontrar un servicio de calidad cerca de mí”.|“Estoy	frustrado porque	tengo	que comunicarme	por teléfono en lugar de reservar  de  manera más sencilla. Además, me preocupa que no haya disponibilidad de citas cuando llame”.|“Me pregunto si el	estilista cumplirá	con mis expectativas. Me	preocupa también que el ambiente	del salón  no  sea cómodo y que el servicio no sea de	buena calidad”.|“El servicio no está mal, pero no cumplió del todo con mis expectativas”.|
-|Feeling|Pueden sentirse limitados por las pocas opciones disponibles. Preocupación por la calidad del servicio que recibirán.|Ansiedad al tratar de encontrar un horario conveniente	para confirmar una cita.|Satisfacción si la experiencia fue positiva, pero también decepción si el servicio	no cumplió con sus expectativas.|Desánimo si la experiencia no fue satisfactoria y no se tiene un medio claro de proporcionar comentarios.|
+| Fase                       | Doing                                                                  | Thinking                                   | Feeling                       |
+|----------------------------|------------------------------------------------------------------------------------------|----------------------------------------------------------|---------------------------------------------|
+| **Publicidad en Internet**  | Andrea crea contenido para redes sociales y responde a comentarios de clientes potenciales. |  ¿Cómo puedo atraer más clientes y aumentar la visibilidad? | Energía y entusiasmo por atraer nuevos clientes | 
+| **Gestión de Reservas**     | Andrea recibe llamadas y mensajes para gestionar reservas manualmente.                     |  ¿Cómo puedo manejar todas estas reservas de manera eficiente? | Estrés debido a la alta demanda y falta de tiempo |
+| **Atención al Cliente**     | Andrea y su equipo atienden a los clientes que llegan al salón, proporcionando servicios personalizados. | ¿Cómo podemos garantizar que cada cliente reciba un servicio excelente? | Orgullo al ofrecer un buen servicio, pero también fatiga | 
+| **Feedback y Ajustes**      | Andrea solicita feedback a clientes sobre los servicios para mejorar continuamente.         |  ¿Cómo puedo utilizar este feedback para mejorar mis servicios? | Compromiso con la mejora continua             |
+| **Gestión de Operaciones**  | Andrea se encarga de actualizar el catálogo de servicios y precios regularmente.            |  ¿Estoy ofreciendo los servicios correctos al precio adecuado? | Inseguridad debido a la competencia y cambios del mercado |
 
 <br>
 
 **User Persona 2**
 
-|Phases|Promoción	y visibilidad|Gestión de citas y comunicación|Experiencia	del Servicio|Retroalimentación y fidelización|
-|-|-|-|-|-|
-|Doing|-	Publicación anuncios   en   redes sociales  locales  y directorios en línea para promocionar los servicios de belleza.|-	Los clientes se contactan por teléfono con los estilistas para preguntar	sobre	los servicios	y	para programar citas.|-	El estilista realiza los servicios de belleza acordados con los clientes en el salón| - Al  final  del servicio, el estilista solicita retroalimentación verbalmente a los clientes.|
-|Thinking|“Me siento frustrado porque	la competencia es alta y es difícil destacar entre otros estilistas o salones. Me preocupa no poder llegar a suficientes clientes potenciales”.|“Me siento estresado porque responder a llamadas telefónicas y mensajes	consume mucho tiempo y a menudo interrumpe mi trabajo. Me preocupa que algunos clientes se vayan a otra parte si no puedo responder	de inmediato".|“Me pregunto si el cliente está satisfecho con el resultado. La verdad es que no entendí bien lo que me explicó”.|“Ojalá este cliente vuelva. Me ha dicho que el servicio estuvo bien, pero no se veía muy convencido”.|
-|Feeling|Los estilistas se desmotivan por la falta de visibilidad y se lucha constantemente para atraer nuevos clientes.|Los estilistas abruman por la constante interrupción de las llamadas telefónicas y los mensajes, y se preocupan	por mantener la lealtad de los clientes.|Se siente tensión por cumplir con las expectativas del cliente y mantener una reputación positiva.|Sensación	de inseguridad		y preocupación por la retroalimentación del cliente. <br> Ansiedad	por mantener la lealtad del cliente y su reputación profesional.|
+| Fase                          | Doing                                                             | Thinking                                      | Feeling                      |
+|-------------------------------|-------------------------------------------------------------------------------------|-------------------------------------------------------------|--------------------------------------------|
+| **Búsqueda de Servicios**     | María busca salones de belleza cercanos a través de búsquedas en línea o recomendaciones. |  ¿Dónde puedo encontrar un salón de belleza de buena reputación cerca de mi casa? | Ansiedad por encontrar una buena opción    |
+| **Selección de Salón**        | María compara diferentes salones y servicios basándose en reseñas y precios.           |  ¿Este salón tendrá buenos servicios a un precio razonable?  | Inseguridad sobre la elección correcta     | 
+| **Reserva de Cita**           | María llama o utiliza aplicaciones para hacer una reserva en el salón elegido.         |  ¿Podré conseguir una cita que se ajuste a mi horario?        | Frustración si no hay disponibilidad       | 
+| **Recepción del Servicio**    | María acude al salón y recibe el servicio de belleza seleccionado.                     |  ¿El servicio será tan bueno como se describe?               | Expectativa (positiva o negativa)          | 
+| **Evaluación y Feedback**     | María evalúa su experiencia y decide si deja una reseña o recomienda el salón a otros.  | ¿Debería recomendar este lugar a mis amigas o colegas?      | Satisfacción o decepción                   | 
 
 <br>
 
