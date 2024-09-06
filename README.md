@@ -502,50 +502,48 @@ Los propietarios de MYPES, como Matías, señalan que gestionar las reservas es 
 
 <img src="resources/userpersona1.png" alt="userpersona1"/>
 
-
+<br>
 
 **User Persona 2**
 
 <img src="resources/userpersona2.png" alt="userpersona2"/>
 
-
+<br>
 
 ####  2.3.2. User Task Matrix
 
 Para la realizar el User Task Matrix se tomo a los dos sengmetos objetivos ya presenteados que son:
 
-1. Clientas
+**1. Clientas**
 
-2. MYPES
-
-**Clientes**
-|Task Matrix|Importancia|
-|-|-|
-|Requerir servicios de belleza|Alta|
-|Buscar locales de servicios de belleza cercanos|Alta|
-|Seleccionar un centro de belleza|Media|
-|Pedir atención o realizar una reserva en el local de servicios de belleza|Alta|
-|Recibir confirmación de reserva|Baja|
-|Elegir el servicio requerido|Alta|
-|En caso sea necesario pedir cambios en el servicio requerido|Alta|
-|Proporcionar retroalimentación sobre el servicio recibido|Baja|
-|Preferencias de comunicación|Media|
+| Task Matrix | Frecuencia | Importancia |
+|-------------|------------|-------------|
+| 1. Requerir servicios de belleza | Alta | Alta |
+| 2. Buscar locales de servicios de belleza cercanos | Alta | Alta |
+| 3. Seleccionar un centro de belleza | Alta | Media |
+| 4. Pedir atención o realizar una reserva en el local de servicios de belleza | Media | Alta |
+| 5. Recibir confirmación de reserva | Media | Media |
+| 6. Elegir el servicio requerido | Media | Alta |
+| 7. Pedir cambios en el servicio requerido en caso lo requiera | Media | Alta |
+| 8. Proporcionar retroalimentación sobre el servicio recibido | Baja | Media |
+| 9. Preferencias de comunicación | Media | Media |
 
 <br>
 
-**MYPES**
-|Task Matrix|Importancia|
-|-|-|
-|Publicitar el local de belleza en internet|Alta|
-|Mantener un catálogo de servicios actualizado|Alta|
-|Atencer, confirmar y gestionar reservas por distintos medios|Media|
-|Atender las reservas y a todos los clientes|Media|
-|Realizar cambios en el servicio realizado en caso el cliente lo requiera|Media|
-|Mantener constante comunicación con los clientes|Alta|
-|Gestionar y actualizar información del centro de belleza|Media|
-|Crear y administrar promociones del local|Baja|
-|Recibir y responder a la retroalimentación de los clientes|Media|
-|Optimizar tiempos de respuesta para reservas y consultas|Alta|
+**2. MYPES**
+
+| Task Matrix | Frecuencia | Importancia |
+|-------------|------------|-------------|
+| 1. Publicitar el local de belleza en internet | Alta | Alta |
+| 2. Mantener un catálogo de servicios actualizado | Alta | Alta |
+| 3. Atender, confirmar y gestionar reservas por distintos medios | Alta | Alta |
+| 4. Atender las reservas y a todos los clientes| Alta | Alta |
+| 5. Realizar cambios en el servicio a ser realizado en caso el cliente lo requiera | Media | Alta |
+| 6. Mantener constante comunicación con los clientes | Alta | Alta |
+| 7. Gestionar y actualizar información del centro de belleza | Media | Media |
+| 8. Crear y administrar promociones del local | Baja | Media |
+| 9. Recibir y responder a la retroalimentación de los clientes | Baja | Media |
+| 10. Optimizar tiempos de respuesta para reservas y consultas | Media | Alta |
 
 <br>
 
