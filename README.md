@@ -777,7 +777,16 @@ El sistema de búsqueda está diseñado para facilitar el acceso rápido a la in
 
 El sistema de navegación incluye menús y botones claros que guían a los usuarios a través del contenido de manera efectiva. Los usuarios pueden navegar fácilmente entre las diferentes secciones, como "Servicios", "Comentarios", y "Promociones". La navegación está diseñada para ser intuitiva, permitiendo a los usuarios cumplir sus metas e interactuar de manera satisfactoria con el producto.
 
+### 4.3. Landing Page UX/UI Design
+
+#### 4.3.1 Landing Page Wireframe
+
+<img src="resources/landing-wireframe.png"/>
+
 #### 4.3.2. Landing Page Mock-up
+
+<img src="resources/landing-mockup.png"/>
+
 ### 4.4. Web Applications UX/UI Design
 
 
