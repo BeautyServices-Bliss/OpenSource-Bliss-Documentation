@@ -152,8 +152,8 @@ URL de la organización del proyecto: [https://github.com/upc-opensource-g-bliss
 
 | Criterio específico | Acciones realizadas | Conclusiones |
 |---------------------|---------------------|--------------|
-|Comunica oralmente con efectividad a diferentes rangos de audiencia.| **André Arturo Bernaola Pérez** <br> **TB1** <br> <br>**Diego Ivan Cabrera Buitron** <br> **TB1** <br> <br>**Elvia Marcela Rodriguez Villa** <br> **TB1** <br> <br>**David Alejandro Rivas Sarango** <br> **TB1** <br> <br>**Diego Martin Soriano Medrano** <br> **TB1** | |
-|Comunica por escrito con efectividad a diferentes rangos de audiencia|**André Arturo Bernaola Pérez** <br> **TB1** <br> <br>**Diego Ivan Cabrera Buitron** <br> **TB1** <br> <br>**Elvia Marcela Rodriguez Villa** <br> **TB1** <br> <br>**David Alejandro Rivas Sarango** <br> **TB1** <br> <br>**Diego Martin Soriano Medrano** <br> **TB1** <br> | |
+|Comunica oralmente con efectividad a diferentes rangos de audiencia.| **André Arturo Bernaola Pérez** <br> **TB1** <br> <br>**Diego Ivan Cabrera Buitron** <br> **TB1** <br> Para esta entrega identifiqué el problema a solucionar y así pude realizar los assumptions y las entrevistas de manera concreta. <br>**Elvia Marcela Rodriguez Villa** <br> **TB1** <br> <br>**David Alejandro Rivas Sarango** <br> **TB1** <br> <br>**Diego Martin Soriano Medrano** <br> **TB1** | |
+|Comunica por escrito con efectividad a diferentes rangos de audiencia|**André Arturo Bernaola Pérez** <br> **TB1** <br> <br>**Diego Ivan Cabrera Buitron** <br> **TB1** <br> Al identificar el problema, en la realización de las entrevistas, tomé muy en cuenta las necesidades de nuestro público objetico para poder analizarlas. <br>**Elvia Marcela Rodriguez Villa** <br> **TB1** <br> <br>**David Alejandro Rivas Sarango** <br> **TB1** <br> <br>**Diego Martin Soriano Medrano** <br> **TB1** <br> | |
 
 ***
 
@@ -573,25 +573,13 @@ Para la realizar el User Task Matrix se tomo a los dos sengmetos objetivos ya pr
 
 **User Persona 1**
 
-| Fase                       | Doing                                                                  | Thinking                                   | Feeling                       |
-|----------------------------|------------------------------------------------------------------------------------------|----------------------------------------------------------|---------------------------------------------|
-| **Publicidad en Internet**  | Andrea crea contenido para redes sociales y responde a comentarios de clientes potenciales. |  ¿Cómo puedo atraer más clientes y aumentar la visibilidad? | Energía y entusiasmo por atraer nuevos clientes | 
-| **Gestión de Reservas**     | Andrea recibe llamadas y mensajes para gestionar reservas manualmente.                     |  ¿Cómo puedo manejar todas estas reservas de manera eficiente? | Estrés debido a la alta demanda y falta de tiempo |
-| **Atención al Cliente**     | Andrea y su equipo atienden a los clientes que llegan al salón, proporcionando servicios personalizados. | ¿Cómo podemos garantizar que cada cliente reciba un servicio excelente? | Orgullo al ofrecer un buen servicio, pero también fatiga | 
-| **Feedback y Ajustes**      | Andrea solicita feedback a clientes sobre los servicios para mejorar continuamente.         |  ¿Cómo puedo utilizar este feedback para mejorar mis servicios? | Compromiso con la mejora continua             |
-| **Gestión de Operaciones**  | Andrea se encarga de actualizar el catálogo de servicios y precios regularmente.            |  ¿Estoy ofreciendo los servicios correctos al precio adecuado? | Inseguridad debido a la competencia y cambios del mercado |
+<img src="resources/asmapp1.png">
 
 <br>
 
 **User Persona 2**
 
-| Fase                          | Doing                                                             | Thinking                                      | Feeling                      |
-|-------------------------------|-------------------------------------------------------------------------------------|-------------------------------------------------------------|--------------------------------------------|
-| **Búsqueda de Servicios**     | María busca salones de belleza cercanos a través de búsquedas en línea o recomendaciones. |  ¿Dónde puedo encontrar un salón de belleza de buena reputación cerca de mi casa? | Ansiedad por encontrar una buena opción    |
-| **Selección de Salón**        | María compara diferentes salones y servicios basándose en reseñas y precios.           |  ¿Este salón tendrá buenos servicios a un precio razonable?  | Inseguridad sobre la elección correcta     | 
-| **Reserva de Cita**           | María llama o utiliza aplicaciones para hacer una reserva en el salón elegido.         |  ¿Podré conseguir una cita que se ajuste a mi horario?        | Frustración si no hay disponibilidad       | 
-| **Recepción del Servicio**    | María acude al salón y recibe el servicio de belleza seleccionado.                     |  ¿El servicio será tan bueno como se describe?               | Expectativa (positiva o negativa)          | 
-| **Evaluación y Feedback**     | María evalúa su experiencia y decide si deja una reseña o recomienda el salón a otros.  | ¿Debería recomendar este lugar a mis amigas o colegas?      | Satisfacción o decepción                   | 
+ <img src="resources/asmapp2.png">
 
 <br>
 
@@ -616,23 +604,13 @@ Para la realizar el User Task Matrix se tomo a los dos sengmetos objetivos ya pr
 
 **User Persona 1**
 
-| Phases | Doing | Thinking | Feeling |
-|-|-|-|-|
-| **Búsqueda y Descubrimiento de Servicios** | Los usuarios utilizan una plataforma en línea con filtros avanzados para encontrar servicios de cuidado y belleza.<br>La plataforma ofrece recomendaciones personalizadas basadas en preferencias previas y reseñas de otros usuarios. | "Tengo una variedad de opciones de alta calidad y es fácil encontrar el servicio adecuado para mí."| Confianza en que encontrarán un servicio que cumpla con sus expectativas.|
-| **Selección y Reserva de Citas** | Los usuarios reservan citas a través de una aplicación o sitio web, con disponibilidad de horarios en tiempo real.<br>Reciben confirmaciones automáticas y recordatorios antes de la cita. | "Es conveniente y rápido reservar una cita en línea, y tengo la seguridad de que mi horario está confirmado." | Tranquilidad al saber que la cita está confirmada y sin preocupaciones de disponibilidad.|
-| **Experiencia del Servicio** | Los usuarios asisten a la cita con expectativas claras de lo que recibirán.<br>El servicio se personaliza según las preferencias del cliente previamente indicadas en la plataforma. | "Estoy emocionado por recibir el servicio, ya que sé que se han considerado mis preferencias."| Satisfacción y anticipación positiva por la experiencia.|
-| **Post-Servicio y Retorno** | Los usuarios pueden dejar comentarios y reseñas a través de la plataforma, con incentivos para hacerlo.<br>Reciben recomendaciones de seguimiento para mantener el cuidado recibido. | "Me encanta cómo puedo dar mi opinión fácilmente y obtener recomendaciones personalizadas."| Empoderamiento y satisfacción continua con el servicio.|
+<img src ="resources/tomapp1.png">
 
 <br>
 
 **User Persona 2**
 
-| Phases | Doing | Thinking | Feeling |
-|-|-|-|-|
-| **Promoción y Visibilidad** | Los estilistas utilizan la plataforma para destacar sus servicios con perfiles detallados, incluyendo portafolios y testimonios.<br>Reciben apoyo en marketing digital a través de la plataforma para llegar a más clientes potenciales. | "Tengo herramientas para destacar entre la competencia y atraer a los clientes correctos."| Motivación al ver cómo la visibilidad mejora y los clientes interesados aumentan.|
-| **Gestión de Citas y Comunicación** | Las empresas gestionan sus citas través de la plataforma, liberando tiempo para que estos se concentren en su trabajo sin interrupciones.<br>Un sistema de mensajería dentro de la plataforma permite la comunicación directa y eficiente con los clientes. | "Puedo gestionar mi agenda de manera eficiente y dedicar más tiempo a los servicios."| Alivio al no tener que lidiar con interrupciones constantes y satisfacción con una gestión de citas organizada. |
-| **Experiencia del Servicio** | Los estilistas proporcionan servicios personalizados basados en la información y preferencias del cliente disponibles en la plataforma.<br>Reciben retroalimentación en tiempo real a través de la aplicación. | "Estoy seguro de que el cliente recibirá exactamente lo que desea."| Confianza en su capacidad para cumplir y superar las expectativas del cliente.|
-| **Retroalimentación y Fidelización** | La empresa recibe mediante la plataforma automáticamente una retroalimentación al cliente y comparte los resultados.<br>La plataforma ofrece herramientas para la fidelización de clientes, como descuentos personalizados o recomendaciones de productos. | "Tengo un sistema que me ayuda a mejorar continuamente y a mantener la lealtad de mis clientes."| Seguridad y confianza en la calidad del servicio que ofrecen y en la relación a largo plazo con sus clientes. |
+<img src="resources/tomapp2.png">
 
 <br>
 
