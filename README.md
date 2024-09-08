@@ -781,7 +781,7 @@ El sistema de navegación incluye menús y botones claros que guían a los usuar
 
 #### 4.3.1 Landing Page Wireframe
 
-<img src="resources/landing-wireframe.png"/>
+<img src="resources/landing-wifreframe.png"/>
 
 #### 4.3.2. Landing Page Mock-up
 
