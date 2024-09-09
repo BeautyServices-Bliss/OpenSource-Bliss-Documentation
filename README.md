@@ -1076,7 +1076,29 @@ El sistema de navegación incluye menús y botones claros que guían a los usuar
 
 #### 4.4.2. Web Applications Wireflow Diagrams
 
-<img src="resources\Prototype-flow (1).png"/>
+**User Goal: Creación de cuenta**
+
+User Persona: Cliente
+
+En este diagrama se observan los pasos para ingresar a Bliss, iniciando con un registro de usuario, si es que no se encuentra registrado puede realizarlo yendo a la pestaña de Sign In, de esta manera se accedera a la pantalla principal donde podra ver todos los servicios.
+
+<img src="resources/wireflow1.JPG"/>
+
+**User Goal: Ver perfil de cliente**
+
+User Persona: Cliente
+
+Dado que el usuario quiere observar su perfil y manerar su información personal, podra entrar en su perfil haciendo click en el avatar localizado en el navbar.
+
+<img src="resources/wireflow2.JPG"/>
+
+**User Goal: Crear reserva de citas**
+
+User Persona: Cliente
+
+En este diagrama se observa el registro de citas, primero nos encontramos en la pantalla de Servicios o Home, luego entramos a un detalle del servicio y el costo con más información sobre este. Prosigue con la posibilidad de  colocar personalización a tu servicio, hora, lugar y costos para finalmente mostrar un dialog de éxito en la reserva.
+
+<img src="resources/wireflow3.JPG"/>
 
 #### 4.4.3. Web Applications Mock-ups
 
@@ -1172,7 +1194,7 @@ El control y libertad del usuario se evidencian en la capacidad de modificar o e
 
 #### 4.4.2. Web Applications User Flow Diagrams
 
-
+<img src="resources\Prototype-flow (1).png"/>
 
 ### 4.5. Web Applications Prototyping
 
