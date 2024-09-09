@@ -1158,6 +1158,11 @@ El control y libertad del usuario se evidencian en la capacidad de modificar o e
 
 ### 4.5. Web Applications Prototyping
 
+Para visualizar cómo se han aplicado las decisiones de diseño en la plataforma BLISS, hemos creado un prototipo interactivo. Este prototipo muestra la disposición de los elementos, los colores, tipografías y el espaciado en acción.
+
+Puedes explorar el prototipo en el siguiente enlace:
+
+[Ver Prototipo de BLISS](https://www.figma.com/proto/5gl2eOszEgsfeYKtZEmrQZ/BLISS-UX%2FUI-OPEN-SOURCE?node-id=1-2&t=72esfpcMUIWFgKgc-1)
 
 
 ### 4.6. Domain-Driven Software Architecture
