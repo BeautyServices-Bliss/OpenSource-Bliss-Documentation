@@ -1022,6 +1022,8 @@ El sistema de navegación incluye menús y botones claros que guían a los usuar
 
 #### 4.3.1 Landing Page Wireframe
 
+Para esta entrega realizamos una landing orientada a brindar una plataforma de servicios personalizados de belleza.
+
 <img src="resources/landing-wifreframe.png"/>
 
 #### 4.3.2. Landing Page Mock-up
@@ -1090,6 +1092,8 @@ El sistema de navegación incluye menús y botones claros que guían a los usuar
 
 
 #### 4.4.2. Web Applications Wireflow Diagrams
+
+<img src="resources\Prototype-flow (1).png"/>
 
 **User Goal: Creación de cuenta**
 
@@ -1211,7 +1215,7 @@ El control y libertad del usuario se evidencian en la capacidad de modificar o e
 
 #### 4.4.2. Web Applications User Flow Diagrams
 
-<img src="resources\Prototype-flow (1).png"/>
+
 
 ### 4.5. Web Applications Prototyping
 
@@ -1799,3 +1803,4 @@ TB1: En esta primera entrega, nos adecuamos al proyecto con la ayuda de herramie
 * **Impact Mapping-Miro:** https://miro.com/welcomeonboard/SjRSYUFMUThqcHdEZ2JnV3ZJVkxhendnbzJUeHpxREozMUhBdlhKM2JSVml2TFFudTZ4dlQ2RDNNRjk5NllrUXwzMDc0NDU3MzY0MTkwNzY3NzU4fDI=?share_link_id=407431920605
 * **Trello:** https://trello.com/b/nl4FsaI0/si729-bliss-202402-grupo3
 * **Wireflows-Lucidchart:** https://lucid.app/lucidchart/7d2c78f1-74e6-4e06-bac7-fa7053cb3a4d/edit?beaconFlowId=85F79CDA3ED67A01&invitationId=inv_d318f86c-78f2-4c1c-80b0-0c5715a137bd&page=0_0#
+* **Figma:** https://www.figma.com/design/5gl2eOszEgsfeYKtZEmrQZ/BLISS-UX%2FUI-OPEN-SOURCE?node-id=0-1&t=Ykry5fgskkOCcXpg-1
