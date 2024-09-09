@@ -833,9 +833,18 @@ El sistema de navegación incluye menús y botones claros que guían a los usuar
 
 #### 4.4.2. Web Applications Wireflow Diagrams
 
-
+<img src="resources\Prototype-flow (1).png"/>
 
 #### 4.4.3. Web Applications Mock-ups
+
+
+En esta sección se presentan y explican los Mock-ups de las aplicaciones Bliss, mostrando cómo los principios de diseño y arquitectura de información se han integrado en cada una de las interfaces. A través de los mock-ups, se evidencia claramente la implementación de los principios de diseño, como la consistencia, simplicidad y jerarquía visual, asegurando una experiencia de usuario clara y fluida.
+
+Además, hemos aplicado los elementos de diseño, como el uso estratégico de colores de la temporada y una tipografía legible y moderna, siguiendo los lineamientos establecidos en el Design System. Esto garantiza que la identidad visual del producto sea coherente en todas las plataformas, reflejando los valores de la marca Bliss y asegurando un atractivo visual alineado con los servicios de belleza que ofrecemos.
+
+También se destacan las decisiones tomadas en torno al diseño inclusivo, proporcionando accesibilidad para todos los usuarios, independientemente de sus capacidades. Se ha prestado especial atención a aspectos como el contraste de colores, la adaptación del contenido a diferentes tamaños de pantalla, y la inclusión de textos alternativos para imágenes y elementos interactivos.
+
+Finalmente, la arquitectura de la información está diseñada para facilitar la navegación del usuario. Los mock-ups muestran una estructura clara y organizada, permitiendo que el usuario acceda fácilmente a las secciones más relevantes (servicios, agendar citas, contacto, etc.) mediante una jerarquía visual clara y una organización lógica de los menús y categorías.
 
 **Service client Login**
 
