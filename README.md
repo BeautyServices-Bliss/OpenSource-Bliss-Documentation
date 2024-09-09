@@ -873,18 +873,21 @@ Retroalimentación e interacción clara: Las interacciones están bien definidas
 El sistema de organización en BLISS está diseñado para estructurar la información y los servicios de manera clara y accesible. Aquí se detalla cómo se organiza el contenido y las funcionalidades en la aplicación:
 
 1. Estructura Principal de la Interfaz
+
 Home (Página Principal):
 
 Objetivo: Proporcionar una visión general de las ofertas y servicios disponibles.
-Contenido: Muestra salones cercanos, servicios recomendados, y especialistas populares. Esta sección sirve como punto de partida para explorar otras funcionalidades.
+Contenido: Muestra salones cercanos, servicios recomendados, y especialistas populares. Esta sección sirve como punto de partida para explorar otras funcionalidades ya que se puede realizar una exploración por filtrado. 
+
 My Services (Mis Servicios):
 
 Objetivo: Permitir a los usuarios gestionar sus servicios reservados o favoritos.
-Contenido: Lista de servicios y reservas actuales, con opciones para editar o cancelar.
+Contenido: Lista de servicios y reservas pasadas.
+
 Schedule (Agenda):
 
 Objetivo: Facilitar la gestión de citas y horarios.
-Contenido: Calendario o lista de citas programadas con opciones para agregar, modificar o cancelar citas.
+Contenido:  Lista de citas programadas con información de servicio, fecha y hora. 
 
 
 
@@ -897,7 +900,7 @@ Descripción: Una funcionalidad que muestra los salones cercanos al usuario, con
 Elementos:
 Vera's Salon y My Lucky: Ejemplos de salones que aparecen en la sección, cada uno con un resumen de su enfoque y características.
 
-2. Filtro
+2. Filter
 Funcionalidad: El usuario puede filtrar los resultados para refinar la búsqueda según criterios como tipo de servicio (Hair, Nails, Makeup) o categoría de salón.
 Popular Tags: Etiquetas populares que permiten a los usuarios encontrar rápidamente temas o servicios relevantes, como Agata (9) o Jelly Nails (15).
 Filter By Price: Un deslizador para ajustar el rango de precios, lo que permite encontrar servicios en un rango de $0 a $1000.
