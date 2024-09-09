@@ -791,6 +791,19 @@ El sistema de navegación incluye menús y botones claros que guían a los usuar
 
 
 #### 4.4.1. Web Applications Wireframes
+
+<img src="resources/Wireframe - Client Reservation.png"/>
+
+<img src="resources/Wireframe - Panel principal Client Catálogo de Servicios.png"/>
+
+<img src="resources/Wireframe - Panel principal Historial de Servicios.png"/>
+
+<img src="resources/Wireframe - Panel principal Mis Reservas.png"/>
+
+<img src="resources/Wireframe - Reservacion Appointment detail.png"/>
+
+<img src="resources/Wireframe - Reservacion success.png"/>
+
 #### 4.4.2. Web Applications Wireflow Diagrams
 #### 4.4.3. Web Applications Mock-ups
 #### 4.4.2. Web Applications User Flow Diagrams
