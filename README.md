@@ -1759,6 +1759,7 @@ URL Trello: https://trello.com/b/nl4FsaI0/si729-bliss-202402-grupo3
 
 <br/>
 
+
 ##### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
@@ -1799,7 +1800,9 @@ Link de Landing Page: https://si729-bliss.github.io/Landing-Page/
 
 <img src="resources/ssSprint1Evidenc1.JPG"/>
 
+
 <img src="resources/ssSprint1Evidence2.JPG"/>
+
 
 <!-- ### 5.3. Validation Interviews -->
 
@@ -1809,14 +1812,18 @@ Link de Landing Page: https://si729-bliss.github.io/Landing-Page/
 
 <!-- #### 5.3.2. Registro de Entrevistas -->
 
+
 <!-- #### 5.3.3. Evaluaciones según heurísticas -->
+
 
 <!-- ### 5.4. Video About-the-Product -->
 
 
 ## Conclusiones
 
+
 TB1: En esta primera entrega, nos adecuamos al proyecto con la ayuda de herramientas utilizadas como Figma o Miro. De esta manera, hemos trabajado de manera adecuada con ansias por desplegar y codear este proyecto con toda la retroalimentación posible.
+
 
 ## Bibliografía
 
