@@ -833,7 +833,7 @@ El sistema de navegación incluye menús y botones claros que guían a los usuar
 
 #### 4.4.2. Web Applications Wireflow Diagrams
 
-<img src="resources\Prototype-flow (1).png"/>
+
 
 #### 4.4.3. Web Applications Mock-ups
 
