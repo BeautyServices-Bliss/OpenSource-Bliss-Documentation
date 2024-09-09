@@ -774,7 +774,8 @@ Los SEO Tags y Meta Tags son fundamentales para mejorar la visibilidad en motore
 
 Landing Page: 
 
-```html <title>Servicios Personalizados de Belleza - Encuentra a los Mejores Especialistas</title>
+```html
+<title>Servicios Personalizados de Belleza - Encuentra a los Mejores Especialistas</title>
 ```
 
 Web Application: 
