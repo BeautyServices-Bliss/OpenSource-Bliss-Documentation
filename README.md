@@ -742,24 +742,85 @@ Para la realizar el User Task Matrix se tomo a los dos sengmetos objetivos ya pr
 ###  4.1. Style Guidelines
 #### 4.1.1. General Style Guidelines
 
+##### Justificación del Diseño de BLISS
+
+###### 1. Elección de Colores
+
+- **Paleta de Colores de la Temporada 2016:** La selección de colores en BLISS está inspirada en la paleta de colores de la temporada 2016. Estos colores aportan una apariencia moderna y atractiva, alineada con las tendencias de diseño contemporáneas.
+- **Coherencia con Identidad y Valores:** Los colores elegidos no solo siguen las tendencias de la temporada, sino que también reflejan la identidad y los valores de BLISS. Se busca transmitir profesionalismo, elegancia y un enfoque en el cuidado personal, sin dejar de lado la usabilidad. La combinación de estos colores crea un ambiente visualmente agradable y coherente con la marca.
 
 <img src="resources/Main Colors.png"/>
 <img src="resources/Secondary Colors.png"/>
 <img src="resources/Neutral Colors.png"/>
 <img src="resources/Alert Colors.png"/>
+
 <img src="resources/logo.png"/>
+
+###### 2. Tipografías Utilizadas
+
+- **Montserrat y Tajawal:** La elección de las tipografías Montserrat y Tajawal contribuye a una experiencia de usuario óptima. Montserrat aporta una sensación de modernidad y claridad, ideal para títulos y encabezados, mientras que Tajawal proporciona una legibilidad excepcional para textos en árabe y en otros idiomas, asegurando que el contenido sea accesible para todos los usuarios.
+
+<img src="resources\Typography.png"/>
+
+###### 3. Uso de la Librería Simple Design System
+
+- **Componentes de Diseño:** BLISS emplea componentes de la librería Simple Design System para garantizar un diseño coherente y una interfaz de usuario intuitiva. Esta librería facilita la creación de una plataforma estética y funcional, proporcionando una base sólida para el diseño de la interfaz y la experiencia de usuario.
+
+###### 4. Selección de Iconos Relacionados con Belleza
+
+- **Iconos Específicos:** En BLISS, se han seleccionado iconos que representan elementos clave de servicios de belleza, como uñas, cabello, planchas y otros aspectos relacionados. Estos iconos incluyen:
+  - **Uñas:** Representan servicios de manicura y pedicura.
+  - **Cabello:** Reflejan servicios de corte, peinado y coloración.
+  - **Plancha:** Indica tratamientos de alisado y estilizado del cabello.
+  - **Otros Servicios de Belleza:** Incluyen iconos para tratamientos faciales, depilación, etc.
+
 <img src="resources/Icons-Regular.png"/>
 
 #### 4.1.2. Web Style Guidelines
 
+
 <img src="resources\spacing.png"/>
-<img src="resources\Typography.png"/>
+
+
 <img src="resources\Desktop components.png">
 
 
 #### 4.1.3. Mobile Style Guidelines
 
+Para asegurar la legibilidad en dispositivos móviles, la tipografía se adapta a diferentes tamaños de pantalla mediante el uso de unidades relativas. Los tamaños de fuente se ajustan en función del ancho de la pantalla, permitiendo que el texto sea claramente legible sin importar el dispositivo.
+
+1.2 Jerarquía Visual
+
+La jerarquía visual se mantiene mediante el uso de tamaños de fuente diferenciados para encabezados, subtítulos, y texto de cuerpo. Los encabezados son más grandes y prominentes para captar la atención, mientras que el texto de cuerpo es más pequeño pero aún legible, asegurando una experiencia de lectura cómoda.
+
+1.3 Espaciado
+
+El espaciado entre líneas (interlineado) y el espaciado entre párrafos se ajusta para evitar el desbordamiento del texto y asegurar una presentación limpia y ordenada en pantallas más pequeñas.
+
+2. Componentes Responsivos Verticales
+
+2.1 Filtros
+
+Los filtros se presentan en una estructura vertical en dispositivos móviles para facilitar la navegación. Los filtros se agrupan en secciones desplegables que permiten a los usuarios ajustar sus búsquedas sin ocupar demasiado espacio en pantalla. Esta disposición vertical permite a los usuarios aplicar filtros rápidamente y ver los resultados sin necesidad de desplazarse horizontalmente.
+
+2.2 Tarjetas (Cards)
+
+Las tarjetas son un componente clave en la interfaz de BLISS, y se presentan en un diseño vertical para dispositivos móviles. Cada tarjeta contiene información esencial sobre servicios, especialistas, y promociones. El diseño vertical asegura que el contenido de las tarjetas sea fácil de leer y navegar, con un tamaño adecuado para tocar y seleccionar.
+
+2.3 Botones
+
+Los botones están diseñados para ser fácilmente accesibles y usables en dispositivos móviles. Se colocan en ubicaciones prominentes y tienen un tamaño adecuado para facilitar la interacción táctil. El diseño vertical de los botones permite un flujo natural de la navegación y asegura que las acciones principales estén siempre al alcance del usuario.
+
+2.4 Otros Elementos
+
+- Espaciado y Márgenes: Los márgenes y el espaciado entre componentes se ajustan para evitar la superposición y garantizar una experiencia de usuario fluida. En dispositivos móviles, el espaciado adicional entre elementos interactivos ayuda a prevenir toques accidentales.
+
+- Imágenes y Medios: Las imágenes se redimensionan y ajustan para adaptarse al tamaño de la pantalla, manteniendo la calidad visual sin comprometer la velocidad de carga. El contenido multimedia se presenta de manera vertical para facilitar la visualización en pantallas más pequeñas.
+
+- Navegación y Menús: Los menús de navegación se presentan en formato de menú desplegable o de tipo "hamburguesa" para maximizar el espacio en pantalla. La navegación vertical permite a los usuarios acceder a diferentes secciones sin desordenar la interfaz.
+
 <img src="resources\Mobile Style gideline typography.png"/>
+
 <img src="resources\Mobile Style gideline components.png"/>
 
 ### 4.2. Information Architecture
