@@ -695,7 +695,7 @@ Para la realizar el User Task Matrix se tomo a los dos sengmetos objetivos ya pr
 
 ### 3.3. Impact Mapping
 
-
+<img src="resources/Impact map - Frame 1.jpg"/>
 
 #### 3.4. Product Backlog
 
