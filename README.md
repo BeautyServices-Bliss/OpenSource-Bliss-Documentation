@@ -1788,9 +1788,14 @@ Link de Landing Page: https://si729-bliss.github.io/Landing-Page/
 
 ## Conclusiones
 
-TB1:
+TB1: En esta primera entrega, nos adecuamos al proyecto con la ayuda de herramientas utilizadas como Figma o Miro. De esta manera, hemos trabajado de manera adecuada con ansias por desplegar y codear este proyecto con toda la retroalimentación posible.
 
 ## Bibliografía
 
 
 ## Anexos
+
+* **Landing Page:** https://si729-bliss.github.io/Landing-Page/
+* **Impact Mapping-Miro:** https://miro.com/welcomeonboard/SjRSYUFMUThqcHdEZ2JnV3ZJVkxhendnbzJUeHpxREozMUhBdlhKM2JSVml2TFFudTZ4dlQ2RDNNRjk5NllrUXwzMDc0NDU3MzY0MTkwNzY3NzU4fDI=?share_link_id=407431920605
+* **Trello:** https://trello.com/b/nl4FsaI0/si729-bliss-202402-grupo3
+* **Wireflows-Lucidchart:** https://lucid.app/lucidchart/7d2c78f1-74e6-4e06-bac7-fa7053cb3a4d/edit?beaconFlowId=85F79CDA3ED67A01&invitationId=inv_d318f86c-78f2-4c1c-80b0-0c5715a137bd&page=0_0#
