@@ -774,36 +774,36 @@ Los SEO Tags y Meta Tags son fundamentales para mejorar la visibilidad en motore
 
 Landing Page: 
 
-<title>Servicios Personalizados de Belleza - Encuentra a los Mejores Especialistas</title>
+```html <title>Servicios Personalizados de Belleza - Encuentra a los Mejores Especialistas</title> ```
 
 Web Application: 
 
-<title>Plataforma de Gestión de Citas de Belleza - Tu Centro, Tus Servicios</title>
+```html <title>Plataforma de Gestión de Citas de Belleza - Tu Centro, Tus Servicios</title> ```
 
 **Meta Description**
 
 Landing Page: 
 
-<meta name="description" content="Explora nuestra plataforma de servicios de belleza personalizados, donde puedes elegir entre una amplia gama de especialistas y tratamientos para el cuidado personal.">
+```html <meta name="description" content="Explora nuestra plataforma de servicios de belleza personalizados, donde puedes elegir entre una amplia gama de especialistas y tratamientos para el cuidado personal."> ```
 
 Web Application: 
-<meta name="description" content="Gestiona fácilmente tus citas y servicios de belleza. Plataforma diseñada para clientes y negocios del sector de la estética.">
+```html <meta name="description" content="Gestiona fácilmente tus citas y servicios de belleza. Plataforma diseñada para clientes y negocios del sector de la estética."> ```
 
 **Meta Keywords**
 
 Landing Page: 
-<meta name="keywords" content="servicios de belleza, especialistas en estética, tratamientos personalizados, belleza profesional, reservas de belleza">
+```html <meta name="keywords" content="servicios de belleza, especialistas en estética, tratamientos personalizados, belleza profesional, reservas de belleza"> ```
 
 Web Application:
-<meta name="keywords" content="gestión de citas, servicios de belleza, reservas online, centro de estética, negocios de belleza">
+```html <meta name="keywords" content="gestión de citas, servicios de belleza, reservas online, centro de estética, negocios de belleza"> ```
 
 **Meta Author**
 
 Landing Page:
-<meta name="author" content="Equipo de Desarrollo - Servicios de Belleza Personalizados">
+```html <meta name="author" content="Equipo de Desarrollo - Servicios de Belleza Personalizados">  ```
 
 Web Application: 
-<meta name="author" content="Equipo de Desarrollo - Plataforma de Gestión de Belleza">
+```html <meta name="author" content="Equipo de Desarrollo - Plataforma de Gestión de Belleza"> ```
 
 
 #### 4.2.4. Searching Systems
