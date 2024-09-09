@@ -38,6 +38,15 @@
 | 2         |18/08/2024|Cabrera Diego|Desarrollo del capítulo 1 y Entrevistas|
 | 3         |24/08/2024|Rivas David,  Rodriguez Elvia|Desarrollo de las US y Product Backlog|
 |4          |25/08/2024|Bernaola Andre|Implementación de la Landing Page|
+|5          |25/08/2024|Soriano Diego|Elaboracion de Diagrama de Clases|
+|6          |28/08/2024|Soriano Diego|Elaboración de diegrama de base de datos|
+|7          |28/08/2024|Rivas David|Capítulo 5|
+|8          |30/08/2024|Cabrera Diego|Arreglo de entrevistas|
+|9          |01/09/2024|Bernaola Andre|Elaboración de modelos C4|
+|10          |04/09/2024|Rivas David|SEO and Meta tags|
+|11          |07/09/2024| Rivas David|Puntos 4.7 y 4.8|
+|12          |09/09/2024|Rodriguez Elvia, Rivas David|Implementación de Wireframes, Mockups y Prototipo|
+
 
 <br/>
 
@@ -56,7 +65,9 @@ URL de la organización del proyecto: [https://github.com/upc-opensource-g-bliss
 
 **TB1 Github**
 
-<br/>
+<img src="resources/ssSprint1Evidence.JPG"/>
+
+<img src="resources/ssSprint1Evidence1.JPG"/>
 
 ***
 
@@ -152,8 +163,8 @@ URL de la organización del proyecto: [https://github.com/upc-opensource-g-bliss
 
 | Criterio específico | Acciones realizadas | Conclusiones |
 |---------------------|---------------------|--------------|
-|Comunica oralmente con efectividad a diferentes rangos de audiencia.| **André Arturo Bernaola Pérez** <br> **TB1** <br> <br>**Diego Ivan Cabrera Buitron** <br> **TB1** <br> <br>**Elvia Marcela Rodriguez Villa** <br> **TB1** <br> <br>**David Alejandro Rivas Sarango** <br> **TB1** <br> <br>**Diego Martin Soriano Medrano** <br> **TB1** | |
-|Comunica por escrito con efectividad a diferentes rangos de audiencia|**André Arturo Bernaola Pérez** <br> **TB1** <br> <br>**Diego Ivan Cabrera Buitron** <br> **TB1** <br> <br>**Elvia Marcela Rodriguez Villa** <br> **TB1** <br> <br>**David Alejandro Rivas Sarango** <br> **TB1** <br> <br>**Diego Martin Soriano Medrano** <br> **TB1** <br> | |
+|Comunica oralmente con efectividad a diferentes rangos de audiencia.| **André Arturo Bernaola Pérez** <br> **TB1** <br> En esta entrega, expliqué a mi equipo las decisiones arquitectónicas del modelo C4, lo que facilitó la comprensión del enfoque adoptado. Además, implementé retroalimentación activa para mejorar tanto las User Stories como el diagrama de base de datos, integrando de manera efectiva las sugerencias del equipo para optimizar la calidad del proyecto. <br> <br>  **Diego Ivan Cabrera Buitron** <br> **TB1** <br> Para esta entrega identifiqué el problema a solucionar y así pude realizar los assumptions y las entrevistas de manera concreta. <br> <br>**Elvia Marcela Rodriguez Villa** <br> **TB1** En la presente actividad he colaborado con el diseño y elaboración de productos como mockups y prototipos, por ello ha sido necesaria una comunicación constante con mis compañeros de trabajo para acordar decisiones e incorporar opiniones a fin de elaborar un producto de acuerdo a las necesidads de un usuario final. <br> <br>**David Alejandro Rivas Sarango** <br> **TB1** En esta entrega diseñe la aplicación web de acuerdo a los sectores entrevistados, nuestros ahora clientes deben sentirse cómodos con el servicio que les proporcionamos y estamos al tanto de la retroalimentación que se nos brinda para una mejora continua. <br> <br>**Diego Martin Soriano Medrano** <br> **TB1** <br> Para la primera entrega del trabajo, realicé diversas actividades, entre las cuales destaco la habilidad para comunicar efectivamente mis ideas y consideraciones sobre el desarrollo del proyecto a mis compañeros de grupo. <br> | Se ha demostrado una clara comprensión y aplicación de las técnicas y herramientas necesarias, lo que ha permitido una integración coherente de los distintos componentes del proyecto. La capacidad para adaptar y mejorar las User Stories y el diagrama de base de datos ha optimizado la calidad y precisión del trabajo realizado. En general, el equipo ha establecido una base sólida para las siguientes etapas del proyecto, evidenciando un trabajo colaborativo y bien documentado que facilita la continuación del desarrollo con una visión clara y alineada. |
+|Comunica por escrito con efectividad a diferentes rangos de audiencia|**André Arturo Bernaola Pérez** <br> **TB1** <br> Al realizar los diagramas del modelo C4 para el trabajo, justifiqué la arquitectura y los patrones empleados de manera detallada para asegurar una comprensión clara de las decisiones técnicas. <br> <br>  **Diego Ivan Cabrera Buitron** <br> **TB1** <br> Al identificar el problema, en la realización de las entrevistas, tomé muy en cuenta las necesidades de nuestro público objetico para poder analizarlas. <br> <br>**Elvia Marcela Rodriguez Villa** <br> **TB1** <br> Las decisiones respecto al diseño visual e interactivo de los mockups y prototipos fueron debidamente justificados de acuerdo a los parámetros y heurísticas de diseño UX, por lo mencionado, he incluido información escrita que especifica la razón detras del diseño visual y estructura de los productos mencionados. <br> <br>**David Alejandro Rivas Sarango** <br> **TB1** Para esta entrega planteamos grupalmente las pautas que nos permitirán trabajar ordenadamente durante los sprints, siendo la documentación lo primero que realizamos, en mi caso realize las historias de usuario, que son vitales para los requisitos que debe cumplir el proyecto.<br> <br>**Diego Martin Soriano Medrano** <br> **TB1** <br> Para llevar a cabo el trabajo de manera organizada, se emplearon diversos canales de comunicación, a través de los cuales fue necesario transmitir por escrito nuestras consideraciones sobre partes específicas del proyecto. <br> | El equipo ha establecido una sólida base en comunicación escrita, logrando documentar claramente los diagramas del modelo C4, las historias de usuario y el diseño UX. Esta documentación ha facilitado la coordinación y comprensión entre los miembros del equipo, sentando una base efectiva para el desarrollo continuo del proyecto.|
 
 ***
 
@@ -195,7 +206,7 @@ Para aprovechar al máximo la alta competitividad y el constante crecimiento de 
 |<img src="resources/diego.png" alt="diego">|**Diego Ivan Cabrera Buitron** <br> Mi nombre es **Diego Cabrera**, estoy cursando la carrera de Ingeniería de Software, me considero una persona responsable y perseverante. Al culminar mi carrera quiero especializarme en el sector de la ciberseguridad|
 |<img src="resources/rivas-foto.jpg"/>|**David Alejandro Rivas Sarango** <br> Mi nombre es **David Rivas**, actualmente estoy cursando la carrera de Ingeniería de Software en la UPC. Soy una persona honesta y responsable. Me interesa el área de Data Science, por esto estoy siguiendo cursos de capacitacion en SQL y Python.|
 |<img src="resources/rodriguez.jpg"/>|**Elvia Marcela Rodríguez Villa** <br> Soy Elvia Rodríguez, actual estudiante universitaria y egresada de Laboratoria. Soy actual embajadora del programa de estudiantes de Microsoft y fui participante de diversos voluntariados y Hackathons cómo Ciencia en tu Comunidad y el Laboratorio de Emprendimientos de SENAJU. Asimismo, soy maestra de inglés y suelo incorporar mis conocimientos de programación de interfaces de usuario en mi labor educativa. |
-|<img src="resources/foto.jpg"/>|**Diego Martin Soriano Medrano** <br/> Estudio la carrera de ingeniería de software. Me considero una persona creativa y paciente. Tengo conocimiento en el uso de diferentes herramientas informáticas y lenguajes de programación. que ayudan a realizar distintos tipos de trabajo y a resolver problemas. Parte de mis habilidades blandas es siempre tomar en cuenta la opinión de mis compañeros, lo cual me facilita el poder trabajar en equipo, para agilizar diferentes actividades.|
+|<img src="https://intranet.upc.edu.pe/programas/Imagen/Fotos/Upc/0540202114793.jpg"/>|**Diego Martin Soriano Medrano** <br/> Estudio la carrera de ingeniería de software. Me considero una persona creativa y paciente. Tengo conocimiento en el uso de diferentes herramientas informáticas y lenguajes de programación. que ayudan a realizar distintos tipos de trabajo y a resolver problemas. Parte de mis habilidades blandas es siempre tomar en cuenta la opinión de mis compañeros, lo cual me facilita el poder trabajar en equipo, para agilizar diferentes actividades.|
 
 ### 1.2. Solution Profile
 #### 1.2.1. Antecedentes y Problemática
@@ -445,65 +456,55 @@ horarios y necesidades.
 
 ***Entrevistas a Clientes***
 
-|Nombre entrevistado| Paco Ramirez Serna|
-|:-|:-|
-|Edad|21 años|
-|Profesión | Estudiante de Economía|
-|Departamento|Lima, Perú|
-|<img src="resources/entrevista1.png" />|Paco, estudiante de economía, utiliza principalmente Instagram y Facebook para descubrir servicios de cuidado y belleza, valorando las fotos y opiniones en tiempo real. En un catálogo en línea, busca fotografías de alta calidad, testimonios de clientes, precios claros e información sobre la experiencia de los profesionales. Al obtener cotizaciones, prefiere detalles de los servicios, comparativas de precios, imágenes antes y después, y reseñas. Le atraen las imágenes de calidad y reseñas al descubrir nuevos servicios, y ya ha usado plataformas como StyleSeat, aunque cree que podrían ofrecer más detalles sobre los profesionales y su trabajo. Al comparar proveedores, prioriza las reseñas, ubicación, disponibilidad y precios.|
-|Duración entrevista: 2:32|URL: [ https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211b293_upc_edu_pe/Eb1SlaolL0hPgcxnmQAkrl8BAtm7CIc5veK7VOxQ5YVp8g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BfN0lJ]|
-
-|**Nombre entrevistado**|  **Valeria Fernanda Valle Martinez**|
-|:-|:-|
-|Edad|19 años|
-|Profesión | Estudiante de Psicología|
-|Departamento|Lima, Perú|
-|<img src="resources/entrevista1ss.JPG" />|Valeria nos menciona que usa anuncios en las redes sociales para buscar salones de belleza, el que más usa es Instagram. Sin embargo, nos cuenta que los anuncios no le permiten conocer la información completa del local como, por ejemplo: la calidad de los productos, precio, ubicación o servicio. Nos contó que no usa aplicaciones para gestionar las citas, pero reconoce el valor de estas, pues le permitirían ver la información de los salones de belleza y los compararlo con otros para buscar el mejor servicio. Mostro interés en nuestro proyecto, y afirmo que la característica más resaltante seria que la mantengan informada de las promociones y datos de los salones de belleza.|
-|Duración entrevista: 4:49|URL: [ https://drive.google.com/file/d/1S4OemuKdZ3HVOmgrfeUWXDjV7_4m7pIx/view?usp=sharing]|
-
 |**Nombre entrevistado**|  **Gabriela Suemy Ayllón García-Pacheco**|
 |:-|:-|
 |Edad|19 años|
 |Profesión | Estudiante de Psicología|
 |Departamento|Lima, Perú|
-|<img src="resources/entrevista1.1.png" />|Gabriela prefiere buscar servicios de belleza a través de recomendaciones de amigos y familiares, aunque también utiliza redes sociales y buscadores en línea. Valora las opiniones de otros clientes, descripciones detalladas de los servicios, fotos del trabajo previo, y la información sobre productos, estilistas, precios y duración de los servicios. Las imágenes de antes y después, la reputación basada en reseñas, y la calidad de los productos utilizados son aspectos clave para ella. Ha probado plataformas digitales para reservar servicios y aprecia la conveniencia de comparar proveedores, destacando la importancia de la calidad, experiencia, precios competitivos, y la facilidad para reservar citas.|
-|Duración entrevista: 2:40|URL: [ https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211b293_upc_edu_pe/EXVPmBeyC3NNrXrJxAJTREUBxxM7cyDQIthPcQAShXlw6g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=jkShwY]|
+|<img src="resources/entrevista1.1.png" />|Como primera entrevistada, tenemos a Gabriela que prefiere buscar servicios de belleza a través de recomendaciones de amigos y familiares, aunque también utiliza redes sociales y buscadores en línea. Valora las opiniones de otros clientes, descripciones detalladas de los servicios, fotos del trabajo previo, y la información sobre productos, estilistas, precios y duración de los servicios. Las imágenes de antes y después, la reputación basada en reseñas, y la calidad de los productos utilizados son aspectos clave para ella. Ha probado plataformas digitales para reservar servicios y aprecia la conveniencia de comparar proveedores, destacando la importancia de la calidad, experiencia, precios competitivos, y la facilidad para reservar citas.|
+|**Nombre entrevistado**| **Paco Ramirez Serna**|
+|Edad|21 años|
+|Profesión | Estudiante de Economía|
+|Departamento|Lima, Perú|
+|<img src="resources/entrevista1.png" />|Como segundo entrevistado, Paco, estudiante de economía, utiliza principalmente Instagram y Facebook para descubrir servicios de cuidado y belleza, valorando las fotos y opiniones en tiempo real. En un catálogo en línea, busca fotografías de alta calidad, testimonios de clientes, precios claros e información sobre la experiencia de los profesionales. Al obtener cotizaciones, prefiere detalles de los servicios, comparativas de precios, imágenes antes y después, y reseñas. Le atraen las imágenes de calidad y reseñas al descubrir nuevos servicios, y ya ha usado plataformas como StyleSeat, aunque cree que podrían ofrecer más detalles sobre los profesionales y su trabajo. Al comparar proveedores, prioriza las reseñas, ubicación, disponibilidad y precios.|
+|**Nombre entrevistado**|  **Valeria Fernanda Valle Martinez**|
+|Edad|19 años|
+|Profesión | Estudiante de Psicología|
+|Departamento|Lima, Perú|
+|<img src="resources/entrevista1ss.JPG" />|Como última entrevistada, Valeria nos menciona que usa anuncios en las redes sociales para buscar salones de belleza, el que más usa es Instagram. Sin embargo, nos cuenta que los anuncios no le permiten conocer la información completa del local como, por ejemplo: la calidad de los productos, precio, ubicación o servicio. Nos contó que no usa aplicaciones para gestionar las citas, pero reconoce el valor de estas, pues le permitirían ver la información de los salones de belleza y los compararlo con otros para buscar el mejor servicio. Mostro interés en nuestro proyecto, y afirmo que la característica más resaltante seria que la mantengan informada de las promociones y datos de los salones de belleza.|
+|Duración de todas las entrevistas: 10:01|URL: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211b293_upc_edu_pe/ETSuRSDyu71Fk7bCFMuzb8YBB6gs-mPMxVkgGed6zgOzBA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fDPef5]|
+
+
 
 ***Entrevistas a MYPES***
 
-|Nombre entrevistado|  María Margarita Rodríguez Ninaquispe de Cienfuegos|
+|**Nombre entrevistado**|  **Matías Munives Santamaría**|
 |:-|:-|
+|Edad|21 años|
+|Profesión |  Estilista – Estudiante de Ingeniería de Sistemas|
+|Departamento|Lima, Perú|
+|<img src="resources/entrevista2.1.png" />|Como primer entrevistado tenemos a Matías, él ofrece servicios básicos como cortes de cabello, manicura, pedicura, masajes y faciales. Comenta que los cortes de cabello y las manicuras son los servicios más solicitados por sus clientes. Actualmente, las citas se gestionan principalmente a través de llamadas y mensajes por WhatsApp, aunque a veces surgen problemas cuando los clientes cancelan a último minuto. Le interesó nuestra propuesta de una aplicación que simplifique la organización de las reservas y atraiga a más clientes, siempre que sea fácil de usar y no demasiado costosa. También mencionó que no ofrecen servicios a domicilio debido a la logística y el personal requerido, pero estarían abiertos a considerar esta opción si se simplificara el proceso. Finalmente, está dispuesto a pagar una comisión por cada servicio adquirido a través de la aplicación, pero con un límite de 50 soles.|
+|**Nombre entrevistado**|  **Yaritza Gutiérrez Córdova**|
+|Edad|21 años|
+|Profesión |  Estilista – Estudiante de Ingeniería Civil|
+|Departamento|Lima, Perú|
+|<img src="resources/entrevista3ss.JPG" />|Como segunda entrevistada tenemos a Yaritza, es una estudiante de la carrera de ingeniería Civil y actualmente tiene un emprendimiento de salón de belleza, ella nos cuenta que su hermana es la que hace sus reservas de las citas para sus clientes, pero tiene el miedo a que su hermana un día pueda confundirse y no pueda ella ir a la cita y que ella si va a hogares a hacer ofrecer sus servicios, pero siempre se demora al escoger los productos con los clientes. Le dimos la información sobre nuestro proyecto y le presentamos todas las funciones de nuestra plataforma con el sistema de reserva de citas, consultas y compra de productos de belleza, ella le sorprendió mucho nuestro proyecto también nos dio una recomendación para poder implementar a la aplicación y esta es que con ayuda de la IA los clientes puedan seleccionar los productos que van a querer que se le usen y puedan ver como un “resultado” con la ia con una foto de estos mismos.|
+|**Nombre entrevistado**|  **María Margarita Rodríguez Ninaquispe de Cienfuegos**|
 |Edad|55 años|
 |Profesión | Estilista|
 |Departamento|Lima, Perú|
-|<img src="resources/entrevista2ss.JPG" />|María, dueña de un salón de belleza con 30 años de historia, nos cuenta que sus clientes le pueden enviar un mensaje por WhatsApp para reservar una cita, esto beneficia a sus clientes pues no se molestan en esperar su turno mejorando la atención. Menciona que está interesada en promocionar su negocio por redes sociales u otras plataformas, pero teme exponerse a la delincuencia por estos medios. Esto no la detiene de llevar servicio a domicilio con sus clientes habituales. Le contamos de nuestro proyecto y como queremos presentarle una plataforma para que clientes puedan reservar citas, pero, aunque reconozca los beneficios teme que delincuentes creen perfiles falsos y lleguen a su local, por ello incluso usando WhatsApp como medio de comunicación con clientes reconoce que solo acepta cita a los clientes habituales o por recomendación, nunca a extraños. |
-|Duración entrevista: 8:54|URL:[https://drive.google.com/file/d/1dBjvYYgw0as8N2YYhyk_MVW3MaRZ0CLA/view?usp=sharing]|
-
-|**Nombre entrevistado**|  **Yaritza Gutiérrez Córdova**|
-|Edad|21 años|
-|:-|:-|
-|Profesión |  Estilista – Estudiante de Ingeniería Civil|
-|Departamento|Lima, Perú|
-|<img src="resources/entrevista3ss.JPG" />|Yaritza, es una estudiante de la carrera de ingeniería Civil y actualmente tiene un emprendimiento de salón de belleza, ella nos cuenta que su hermana es la que hace sus reservas de las citas para sus clientes, pero tiene el miedo a que su hermana un día pueda confundirse y no pueda ella ir a la cita y que ella si va a hogares a hacer ofrecer sus servicios, pero siempre se demora al escoger los productos con los clientes. Le dimos la información sobre nuestro proyecto y le presentamos todas las funciones de nuestra plataforma con el sistema de reserva de citas, consultas y compra de productos de belleza, ella le sorprendió mucho nuestro proyecto también nos dio una recomendación para poder implementar a la aplicación y esta es que con ayuda de la IA los clientes puedan seleccionar los productos que van a querer que se le usen y puedan ver como un “resultado” con la ia con una foto de estos mismos.|
-|Duración entrevista: 5:24|URL: [https://drive.google.com/file/d/1BaFeF2a1AaS3HgkfppCM8Afc9LAMu6gs/view?usp=sharing]|
-
-|**Nombre entrevistado**|  **Matías Munives Santamaría**|
-|Edad|21 años|
-|:-|:-|
-|Profesión |  Estilista – Estudiante de Ingeniería de Sistemas|
-|Departamento|Lima, Perú|
-|<img src="resources/entrevista2.1.png" />|Matías ofrece servicios básicos como cortes de cabello, manicura, pedicura, masajes y faciales. Comenta que los cortes de cabello y las manicuras son los servicios más solicitados por sus clientes. Actualmente, las citas se gestionan principalmente a través de llamadas y mensajes por WhatsApp, aunque a veces surgen problemas cuando los clientes cancelan a último minuto. Le interesó nuestra propuesta de una aplicación que simplifique la organización de las reservas y atraiga a más clientes, siempre que sea fácil de usar y no demasiado costosa. También mencionó que no ofrecen servicios a domicilio debido a la logística y el personal requerido, pero estarían abiertos a considerar esta opción si se simplificara el proceso. Finalmente, está dispuesto a pagar una comisión por cada servicio adquirido a través de la aplicación, pero con un límite de 50 soles.|
-|Duración entrevista: 3:35|URL: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211b293_upc_edu_pe/EQDX9KlxHgNNlGByMHxjrF8B_SyjJnRMACdmvK-LQCMOcQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=R8XT2A]|
+|<img src="resources/entrevista2ss.JPG" />|Como última entrevistada, María, dueña de un salón de belleza con 30 años de historia, nos cuenta que sus clientes le pueden enviar un mensaje por WhatsApp para reservar una cita, esto beneficia a sus clientes pues no se molestan en esperar su turno mejorando la atención. Menciona que está interesada en promocionar su negocio por redes sociales u otras plataformas, pero teme exponerse a la delincuencia por estos medios. Esto no la detiene de llevar servicio a domicilio con sus clientes habituales. Le contamos de nuestro proyecto y como queremos presentarle una plataforma para que clientes puedan reservar citas, pero, aunque reconozca los beneficios teme que delincuentes creen perfiles falsos y lleguen a su local, por ello incluso usando WhatsApp como medio de comunicación con clientes reconoce que solo acepta cita a los clientes habituales o por recomendación, nunca a extraños. |
+|Duración de todas las entrevistas: 17:53|URL: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211b293_upc_edu_pe/EbRAqowXhXxOk2oAw1bJc9QBacWJc91SVV_AIoctqCQ1-A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ood0YP]|
 
 #### 2.2.3. Análisis de entrevistas</h4></div>
 
 **Segmento 1: Clientes de la industria de belleza y bienestar.**
 
-Basado en las entrevistas concluimos que los clientes buscan en los anuncios de las redes sociales salones de belleza o servicios, por ello les cuesta tener información actualizada e información relevante como marca de sus productos, servicio, entre otros. Por ello una plataforma como la nuestra que le ayude a acceder a esta información actualizada y gestione las visitas les sería muy útil.
+Las entrevistas revelan patrones claros en las preferencias de los clientes. La mayoría prefiere buscar servicios a través de redes sociales, especialmente Instagram, donde las imágenes de alta calidad sobre el trabajo de belleza y las reseñas de otros usuarios juegan un papel importante en su toma de decisiones. Sin embargo, muchos encuentran que la información proporcionada en estas plataformas es insuficiente. Como destacó Gabriela: “Las fotos del trabajo de belleza y las reseñas son clave, pero muchas veces no encuentro toda la información que necesito en un solo lugar”. Esto indica una clara necesidad de una plataforma como Bliss que ofrezca información visual, precios, disponibilidad y testimonios, permitiendo a los usuarios tomar decisiones informadas sin tener que buscar en múltiples fuentes.
 
 **Segmento 2: Empresas pequeñas**
 
-Con respecto a las entrevistas de trabajadores en el sector belleza y bienestar, notamos que sienten que se exponen al peligro cuando atienden a un cliente, siempre está la probabilidad que busquen hacerles daño y robarles. Aun con eso, reconocen que una plataforma que permita la comunicación con clientes para ofrecer un mejor servicio sería de gran ayuda. La característica más importante para estos trabajadores es la seguridad que ofrece la plataforma al agendar una cita.
+Los propietarios de MYPES, como Matías, señalan que gestionar las reservas es un desafío constante debido a las cancelaciones de último momento y la dificultad de coordinar las citas a través de múltiples canales. Además, las preocupaciones de seguridad de María resaltaron la necesidad de que nuestra empresa incluya un sistema de autenticación para proteger a la empresa y a los clientes. "Gestionar todo a través de WhatsApp es difícil y siempre existe el riesgo de atender a personas que no conocemos", comentó María, resaltando la importancia de brindar soluciones integradas que aumenten la eficiencia operativa y la seguridad.
 
 ### 2.3. Needfinding
 #### 2.3.1. User Personas
@@ -512,48 +513,48 @@ Con respecto a las entrevistas de trabajadores en el sector belleza y bienestar,
 
 <img src="resources/userpersona1.png" alt="userpersona1"/>
 
-
+<br>
 
 **User Persona 2**
 
 <img src="resources/userpersona2.png" alt="userpersona2"/>
 
-
+<br>
 
 ####  2.3.2. User Task Matrix
 
 Para la realizar el User Task Matrix se tomo a los dos sengmetos objetivos ya presenteados que son:
 
-1. Clientas
+**1. Clientas**
 
-2. MYPES
-
-**Clientas**
-|Task Matrix|Importancia|
-|-|-|
-|Requerir servicios de belleza|Alta|
-|Buscar locales de servicios de belleza cercanos|Alta|
-|Seleccionar un centro de belleza|Media|
-|Pedir atención o realizar una reserva en el local de servicios de belleza|Alta|
-|Recibir confirmación de reserva|Baja|
-|Elegir el servicio requerido|Alta|
-|En caso sea necesario pedir cambios en el servicio requerido|Alta|
-|Proporcionar retroalimentación sobre el servicio recibido|Baja|
+| Task Matrix | Frecuencia | Importancia |
+|-------------|------------|-------------|
+| 1. Requerir servicios de belleza | Alta | Alta |
+| 2. Buscar locales de servicios de belleza cercanos | Alta | Alta |
+| 3. Seleccionar un centro de belleza | Alta | Media |
+| 4. Pedir atención o realizar una reserva en el local de servicios de belleza | Media | Alta |
+| 5. Recibir confirmación de reserva | Media | Media |
+| 6. Elegir el servicio requerido | Media | Alta |
+| 7. Pedir cambios en el servicio requerido en caso lo requiera | Media | Alta |
+| 8. Proporcionar retroalimentación sobre el servicio recibido | Baja | Media |
+| 9. Preferencias de comunicación | Media | Media |
 
 <br>
 
-**MYPES**
-|Task Matrix|Importancia|
-|-|-|
-|Publicitar el local de belleza en internet|Alta|
-|Mantener un catálogo de servicios actualizado|Alta|
-|Atencer, confirmar y gestionar reservas por distintos medios|Media|
-|Atender las reservas y a todos los clientes|Media|
-|Realizar cambios en el servicio realizado en caso el cliente lo requiera|Media|
-|Mantener constante comunicación con los clientes|Alta|
-|Gestionar y actualizar información del centro de belleza|Media|
-|Crear y administrar promociones del local|Baja|
-|Recibir y responder a la retroalimentación de los clientes|Media|
+**2. MYPES**
+
+| Task Matrix | Frecuencia | Importancia |
+|-------------|------------|-------------|
+| 1. Publicitar el local de belleza en internet | Alta | Alta |
+| 2. Mantener un catálogo de servicios actualizado | Alta | Alta |
+| 3. Atender, confirmar y gestionar reservas por distintos medios | Alta | Alta |
+| 4. Atender las reservas y a todos los clientes| Alta | Alta |
+| 5. Realizar cambios en el servicio a ser realizado en caso el cliente lo requiera | Media | Alta |
+| 6. Mantener constante comunicación con los clientes | Alta | Alta |
+| 7. Gestionar y actualizar información del centro de belleza | Media | Media |
+| 8. Crear y administrar promociones del local | Baja | Media |
+| 9. Recibir y responder a la retroalimentación de los clientes | Baja | Media |
+| 10. Optimizar tiempos de respuesta para reservas y consultas | Media | Alta |
 
 <br>
 
@@ -583,21 +584,13 @@ Para la realizar el User Task Matrix se tomo a los dos sengmetos objetivos ya pr
 
 **User Persona 1**
 
-|Phases|Búsqueda y Descubrimiento de Servicios|Selección y Reserva de Citas|Experiencia del Servicio|Post-Servicio y Retorno|
-|-|-|-|-|-|
-|Doing| - Los usuarios buscan servicios de cuidado y belleza. <br> - Solicitud de recomendaciones a amigos, familiares o buscando en directorios en línea. | - Los usuarios llaman por teléfono al salón de belleza seleccionado. <br> - Se consulta por la disponibilidad de citas y se reserva una si es que hay.|-	Los usuarios asisten a su cita programada. <br> - Se recibe el servicio	de cuidado y belleza acordado.|Después del servicio, los usuarios pueden proporcionar comentarios verbales al estilista o al salón de belleza.|
-|Thinking|“Me siento limitado por las opciones disponibles  y  me preocupa no poder encontrar un lugar que se ajuste a lo que necesito. No estoy seguro de si podré encontrar un servicio de calidad cerca de mí”.|“Estoy	frustrado porque	tengo	que comunicarme	por teléfono en lugar de reservar  de  manera más sencilla. Además, me preocupa que no haya disponibilidad de citas cuando llame”.|“Me pregunto si el	estilista cumplirá	con mis expectativas. Me	preocupa también que el ambiente	del salón  no  sea cómodo y que el servicio no sea de	buena calidad”.|“El servicio no está mal, pero no cumplió del todo con mis expectativas”.|
-|Feeling|Pueden sentirse limitados por las pocas opciones disponibles. Preocupación por la calidad del servicio que recibirán.|Ansiedad al tratar de encontrar un horario conveniente	para confirmar una cita.|Satisfacción si la experiencia fue positiva, pero también decepción si el servicio	no cumplió con sus expectativas.|Desánimo si la experiencia no fue satisfactoria y no se tiene un medio claro de proporcionar comentarios.|
+<img src="resources/asmapp1.png">
 
 <br>
 
 **User Persona 2**
 
-|Phases|Promoción	y visibilidad|Gestión de citas y comunicación|Experiencia	del Servicio|Retroalimentación y fidelización|
-|-|-|-|-|-|
-|Doing|-	Publicación anuncios   en   redes sociales  locales  y directorios en línea para promocionar los servicios de belleza.|-	Los clientes se contactan por teléfono con los estilistas para preguntar	sobre	los servicios	y	para programar citas.|-	El estilista realiza los servicios de belleza acordados con los clientes en el salón| - Al  final  del servicio, el estilista solicita retroalimentación verbalmente a los clientes.|
-|Thinking|“Me siento frustrado porque	la competencia es alta y es difícil destacar entre otros estilistas o salones. Me preocupa no poder llegar a suficientes clientes potenciales”.|“Me siento estresado porque responder a llamadas telefónicas y mensajes	consume mucho tiempo y a menudo interrumpe mi trabajo. Me preocupa que algunos clientes se vayan a otra parte si no puedo responder	de inmediato".|“Me pregunto si el cliente está satisfecho con el resultado. La verdad es que no entendí bien lo que me explicó”.|“Ojalá este cliente vuelva. Me ha dicho que el servicio estuvo bien, pero no se veía muy convencido”.|
-|Feeling|Los estilistas se desmotivan por la falta de visibilidad y se lucha constantemente para atraer nuevos clientes.|Los estilistas abruman por la constante interrupción de las llamadas telefónicas y los mensajes, y se preocupan	por mantener la lealtad de los clientes.|Se siente tensión por cumplir con las expectativas del cliente y mantener una reputación positiva.|Sensación	de inseguridad		y preocupación por la retroalimentación del cliente. <br> Ansiedad	por mantener la lealtad del cliente y su reputación profesional.|
+ <img src="resources/asmapp2.png">
 
 <br>
 
@@ -622,23 +615,13 @@ Para la realizar el User Task Matrix se tomo a los dos sengmetos objetivos ya pr
 
 **User Persona 1**
 
-| Phases | Doing | Thinking | Feeling |
-|-|-|-|-|
-| **Búsqueda y Descubrimiento de Servicios** | Los usuarios utilizan una plataforma en línea con filtros avanzados para encontrar servicios de cuidado y belleza.<br>La plataforma ofrece recomendaciones personalizadas basadas en preferencias previas y reseñas de otros usuarios. | "Tengo una variedad de opciones de alta calidad y es fácil encontrar el servicio adecuado para mí."| Confianza en que encontrarán un servicio que cumpla con sus expectativas.|
-| **Selección y Reserva de Citas** | Los usuarios reservan citas a través de una aplicación o sitio web, con disponibilidad de horarios en tiempo real.<br>Reciben confirmaciones automáticas y recordatorios antes de la cita. | "Es conveniente y rápido reservar una cita en línea, y tengo la seguridad de que mi horario está confirmado." | Tranquilidad al saber que la cita está confirmada y sin preocupaciones de disponibilidad.|
-| **Experiencia del Servicio** | Los usuarios asisten a la cita con expectativas claras de lo que recibirán.<br>El servicio se personaliza según las preferencias del cliente previamente indicadas en la plataforma. | "Estoy emocionado por recibir el servicio, ya que sé que se han considerado mis preferencias."| Satisfacción y anticipación positiva por la experiencia.|
-| **Post-Servicio y Retorno** | Los usuarios pueden dejar comentarios y reseñas a través de la plataforma, con incentivos para hacerlo.<br>Reciben recomendaciones de seguimiento para mantener el cuidado recibido. | "Me encanta cómo puedo dar mi opinión fácilmente y obtener recomendaciones personalizadas."| Empoderamiento y satisfacción continua con el servicio.|
+<img src ="resources/tomapp1.png">
 
 <br>
 
 **User Persona 2**
 
-| Phases | Doing | Thinking | Feeling |
-|-|-|-|-|
-| **Promoción y Visibilidad** | Los estilistas utilizan la plataforma para destacar sus servicios con perfiles detallados, incluyendo portafolios y testimonios.<br>Reciben apoyo en marketing digital a través de la plataforma para llegar a más clientes potenciales. | "Tengo herramientas para destacar entre la competencia y atraer a los clientes correctos."| Motivación al ver cómo la visibilidad mejora y los clientes interesados aumentan.|
-| **Gestión de Citas y Comunicación** | Las empresas gestionan sus citas través de la plataforma, liberando tiempo para que estos se concentren en su trabajo sin interrupciones.<br>Un sistema de mensajería dentro de la plataforma permite la comunicación directa y eficiente con los clientes. | "Puedo gestionar mi agenda de manera eficiente y dedicar más tiempo a los servicios."| Alivio al no tener que lidiar con interrupciones constantes y satisfacción con una gestión de citas organizada. |
-| **Experiencia del Servicio** | Los estilistas proporcionan servicios personalizados basados en la información y preferencias del cliente disponibles en la plataforma.<br>Reciben retroalimentación en tiempo real a través de la aplicación. | "Estoy seguro de que el cliente recibirá exactamente lo que desea."| Confianza en su capacidad para cumplir y superar las expectativas del cliente.|
-| **Retroalimentación y Fidelización** | La empresa recibe mediante la plataforma automáticamente una retroalimentación al cliente y comparte los resultados.<br>La plataforma ofrece herramientas para la fidelización de clientes, como descuentos personalizados o recomendaciones de productos. | "Tengo un sistema que me ayuda a mejorar continuamente y a mantener la lealtad de mis clientes."| Seguridad y confianza en la calidad del servicio que ofrecen y en la relación a largo plazo con sus clientes. |
+<img src="resources/tomapp2.png">
 
 <br>
 
@@ -646,57 +629,67 @@ Para la realizar el User Task Matrix se tomo a los dos sengmetos objetivos ya pr
 
 |Epic ID|Título|Descripción|
 |-|-|-|
-|EP001|Gestión de usuario|Como usuario de la aplicación (cliente o empresa), quiero poder gestionar mi perfil personal o de empresa para mantener la información actualizada.|
-|EP002|Busqueda y selección de servicios|Como cliente, quiero poder buscar y seleccionar servicios de belleza con facilidad, para encontrar la opción que mejor se adapte a mis necesidades.|
-|EP003|Reserva y confirmacion de servicios|Como cliente, quiero poder reservar un servicio y recibir una confirmación clara y rápida, para asegurarme de que mi cita esté programada.|
-|EP004|Retroalimentación y valoración|Como cliente, quiero poder proporcionar retroalimentación y valoraciones sobre los servicios recibidos, para ayudar a otros clientes y mejorar la calidad de los servicios ofrecidos.|
-|EP005|Gestión del catálogo de servicios|Como empresa, deseo poder gestionar mis servicios ofrecidos.|
-|EP006|Personalización del servicio|Como cliente, quiero poder adaptar mi solicitud de servicios de belleza y/o cuidado de acuerdo a mis preferencias y a la disposición de la empresa que ofrece el servicio.|
+|EP001|Gestión de usuario|Como usuario de la aplicación (cliente o empresa), quiero gestionar mi perfil personal o de empresa para mantener la información actualizada.|
+|EP002|Busqueda y selección de servicios|Como cliente, quiero buscar y seleccionar servicios de belleza con facilidad, para encontrar la opción que mejor se adapte a mis necesidades.|
+|EP003|Reserva y confirmacion de servicios|Como cliente, quiero reservar un servicio y recibir una confirmación clara y rápida, para asegurarme de que mi cita esté programada.|
+|EP004|Retroalimentación y valoración|Como cliente, quiero proporcionar retroalimentación y valoraciones sobre los servicios recibidos, para ayudar a otros clientes y mejorar la calidad de los servicios ofrecidos.|
+|EP005|Gestión del catálogo de servicios|Como empresa, deseo gestionar mis servicios ofrecidos.|
+|EP006|Personalización del servicio|Como cliente, quiero adaptar mi solicitud de servicios de belleza y/o cuidado de acuerdo a mis preferencias y a la disposición de la empresa que ofrece el servicio.|
 |EP007|Seguridad y Verificación|Como usuario de la aplicación (cliente o empresa), quiero asegurarme de que mi identidad y la de otros usuarios estén verificadas, para garantizar un entorno seguro y confiable dentro de la plataforma. |
 |EP008|Comunicación|Como empresa, quiero comunicarme eficientemente con mis clientes.|
 |EP009|Reservas|Como empresa, quiero gestionar sus reservas para garantizar una experiencia de servicio mas fluida y satisfactoria.|
 |EP010|Sistema de pagos| Como usuario de la aplicación (cliente o empresa), quiero gestionar los pagos de manera segura y eficiente, para asegurar transacciones confiables y sin inconvenientes.|
-|EP011|Experiencia del Usuario|Como visitante de la landing page de Bliss, quiero interactuar de manera fluida y obtener toda la información relevante sobre el producto y sus alianzas estratégicas, para tomar una decisión informada.|
-|EP012|Gestión de Citas y Reservas|Como usuario de la aplicación (cliente o empresa), quiero visualizar mis citas y reservas.|
+|EP011|Gestión Reservas|Como usuario de la aplicación (cliente o empresa), quiero visualizar mis  reservas.|
+|EP012|Acceso a información relevante |Como visitante quiero conocer la información más relevantes de Bliss|
+
 
 ####  3.2.1 User Stories-Usuario
 
 |ID|Título|Descripción|Criterios de Aceptación|EpicID|
 |-|-|-|-|-|
-| US001 | Creación de cuenta                            | Como  visitante de la aplicación web, quiero poder crear una cuenta en la aplicación proporcionando mi nombre, dirección de correo electrónico y contraseña.|**Escenario 1: Registro completado :** <br>Dado que un nuevo visitante quiere registrarse  <br> Cuando ingresa su nombre, dirección de correo electrónico y contraseña <br>Y presiona el botón de Crear Cuenta  <br> Entonces se envía un correo de verificación a la dirección enviada  <br> **Escenario 2:Error al registrar los datos**  <br> Dado que un nuevo visitante quiere registrarse  <br> Cuando ingresa un nombre, contraseña o un correo electrónico que no cumpla los requisitos establecidos  <br>  Y presiona el botón de Crear Cuenta  <br> Entonces aparece en pantalla un mensaje de error, indicando donde se encuentra el error y pidiendo que se ingrese de nuevo.| EP001: Gestión de usuario |
-| US002  | Verificación de correo electrónico           | Como visitante de la aplicación web, quiero recibir un correo electrónico de verificación después de registrarme para confirmar mi dirección de correo electrónico| **Escenario 1: Verificación exitosa** <br>Dado que un visitante quiere crear una nueva cuenta  <br> Cuando encuentra el correo que le mandamos donde está el enlace con el código para crear su cuenta  <br> Y ingresa correctamente su código al enlace  <br> Entonces la cuenta nueva esta creada y se le redirige a la página principal de la aplicación.<br>**Escenario 2: Error en la verificación** Dado que un visitante quiere crear una nueva cuenta  <br> Cuando no encuentra el correo que mandamos a la dirección registrada  <br> presiono el botón mandar de nuevo  <br> Y ya pasaron 15 minutos  <br> Entonces aparecerá un mensaje de error indicando que el correo no se pudo verificar y que pedirá ingresar de nuevo el correo electrónico.| EP007: Seguridad y Verificación|
-| US003  |Inicio de sesión de usuario| Como usuario registrado, quiero poder iniciar sesión en la aplicación utilizando mi correo electrónico y contraseña.| **Escenario 1: Inicio sesión exitoso** <br> Dado que un usuario quiere ingresar a su cuenta <br> Cuando el usuario proporciona su dirección de correo electrónico y contraseña <br> Y presiona el botón Iniciar Sesión <br> Entonces el usuario es redirigido a la página principal de la aplicación <br> **Escenario 2: Error al iniciar sesión** <br> Dado que un usuario quiere ingresar a su cuenta <br> Cuando el usuario proporciona un correo electrónico o contraseña invalido <br> Y presiona el botón Iniciar Sesión <br> Entonces aparece en pantalla un mensaje de error, indicando donde se encuentra el error y pidiendo que se ingrese de nuevo | EP001: Gestión de usuario|
-| US004  | Recomendación por ubicación                  | Como cliente, quiero visualizar como recomendados los servicios de belleza de establecimientos cercanos a mi ubicación actual.| **Escenario 1: Recomendaciones encontradas**<br> Dado que el cliente quiere buscar servicios cercanos<br> Cuando ingrese un filtro por ubicación <br> Entonces aparece en pantalla una lista de servicios ofrecidos por establecimientos cercanos a la ubicación del cliente<br> **Escenario 2: No se encuentran recomendaciones** <br> Dado que el cliente quiere buscar servicios cercanos<br> Cuando ingrese un filtro por ubicación <br> Entonces el sistema muestra un mensaje indicando que no se pudieron obtener recomendaciones basadas en la ubicación y sugiere intentar más tarde o ingresar la ubicación manualmente.| EP002: Busqueda y selección de servicios|
-| US005  | Visualización de historial                  | Como cliente, quiero visualizar los servicios de belleza de establecimientos a los que ya he solicitado servicios anteriormente. | **Escenario 1:Recomendaciones encontradas**<br> Dado que el cliente quiere buscar servicios ya solicitados <br> Cuando ingrese a su historial <br>Entonces aparece en pantalla una lista de servicios ofrecidos por establecimientos a los que el usuario ya ha solicitado servicios<br> **Escenario2:No se encuentran recomendaciones**<br> Dado que el cliente quiere buscar servicios ya solicitados <br> Cuando ingrese a su historial <br> Entonces el sistema muestra un mensaje indicando que no se pudieron obtener servicios anteriores y sugiere intentar más tarde manualmente. | EP002: Busqueda y selección de servicios|
-| US006  | Visualización de disponibilidad de citas     | Como cliente, quiero poder ver la disponibilidad de citas de los centros de belleza y cuidado para elegir un horario conveniente para mí.| **Escenario 1: Exploración de Calendario** <br>Cuando selecciona un servicio  específico <br> Y selecciono el especialista <br>  Y detallo los requerimientos personalizados del servicio <br> Entonces el sistema muestra un calendario con horarios disponibles y puede seleccionar una fecha y hora conveniente.<br>**Escenario 2: Actualización de Disponibilidad**<br> Cuando un especialista actualiza su horario, el sistema muestra los horarios actualizados por servicio.| EP003: Reserva y Confirmación de Servicios|
-| US007  | Notificación de confirmación de reserva      | Como cliente, quiero recibir una notificación de confirmación después de reservar una cita en la aplicación para tener la seguridad de que se ha realizado correctamente.| **Escenario 1: Notificación Automática**<br> Dado que el cliente reserva una cita <br>Cuando pasa 1 minuto <br>Entonces recibe la notificación con detalles de la cita en su dispositivo móvil o correo electrónico.<br> **Escenario 2: Notificación no enviada**<br> Dado que el cliente reserva una cita <br>Cuando pasa 1 minuto <br>Entonces no llega una notificación en ningún dispositivo vinculado. | EP003: Reserva y confirmacion de servicios|
-| US008  | Cancelación de cita por parte del cliente    | Como cliente, quiero tener la opción de cancelar una cita reservada en la aplicación en caso de necesidad.| **Escenario 1: Cancelación Confirmada**<br> Dado que el cliente quiere cancelar una cita<br> Cuando selecciona la opción de cancelar la cita<br> Entonces se presenta un mensaje de confirmación para asegurar la cancelación.<br>**Escenario 2: Error de Cancelación** Dado que el cliente quiere cancelar una cita<br> Cuando selecciona la opción de cancelar la cita <br>Entonces el sistema muestra mensaje de erorr al cancelar la cita.| EP003:	Reserva y confirmacion de servicios|
-| US009  | Dejar valoración y reseña después de la cita | Como cliente, quiero poder dejar una valoración y reseña sobre el servicio recibido después de completar una cita para ayudar a otros cliente en su elección.| **Escenario 1: Publicación de Reseña Postcita confirmada** <br> Dado que el usuario ya recibio el servicio <br>Cuando pasan 5 minutos<br> Entonces en la aplicación donde puede escribir una reseña y seleccionar una calificación, confirmando la publicación de la reseña. <br>**Escenario 2: Error en la reseña**  <br> Dado que el cliente ya recibió el servicio <br>Cuando pasan 5 minutos<br> Entonces en la aplicación no puede escribir una reseña.| EP004: Retroalimentación y valoración|
-| US010  | Personalización del Servicio                 | Como cliente, quiero poder personalizar el servicio reservado, incluyendo peticiones extras y el tipo de producto.| **Escenario 1: Correcta personalización del Servicio** <br>Dado que el cliente quiere personalizar el servicio<br> Cuando realiza una reserva, puede modificar o incluir algo respecto al servicio (ej. técnicas específicas, productos deseados) y tiene la intencion de confirmar estas opciones.<br> Entonces se establecen los nuevos requisitos de servicio.<br>**Escenario 2: Error en la personalización del servicio**<br>Dado que el cliente quiere personalizar el servicio<br> Cuando realiza una reserva, puede modificar o incluir algo respecto al servicio (ej. técnicas específicas, productos deseados) y tiene la intención de confirmar estas opciones.<br> Entonces el sistema muestra un mensaje de error. | EP006: Personalización del servicio|
-| US011  | Reserva de citas periódicas                 | Como cliente, quiero tener la opcion de reservar citas en conjunto, de tratamientos de cuidado y belleza que requieren de más de 2 citas periódicas.| **Escenario 1: Confirmación Reserva de citas periódicas**<br> Dado que el cliente confirmó un servicio con cuidados que requieren más de 2 citas.<br> Cuando el cliente acepte agendar todo el paquete de citas<br> Entonces las reservas se harán válidas y podrán ser visualizadas en el calendario del cliente.<br>**Escenario 2: Error de reservas periódicas**<br> Dado que el cliente confirmó un servicio con cuidados que requieren más de 2 citas.<br> Cuando el cliente acepte agendar todo el paquete de citas<br> Entonces el sistema mostrará un mensaje de error indicando que no se han podido agendar las citas.| EP003: Reserva y confirmacion de servicios|
-| US012  | Pago a través de la App                      | Como cliente, quiero poder pagar el servicio de belleza directamente a la empresa a través de la aplicación.| **Escenario 1: Pago Directo** <br>Dado que el cliente ha reservado correctamente <br> Cuando aparece el siguiente paso del proceso del servicio<br> Entonces puede pagar el servicio a través de la aplicación usando métodos de pago seguros.<br>**Escenario 2: Confirmación de Pago** Cuando realiza el pago, recibe una confirmación de la transacción en su dispositivo móvil o correo electrónico.| EP010: Sistema de pagos|
-| US013  | Búsqueda de servicios                        | Como cliente, quiero  buscar un servicio o establecimiento específico mediante un cuadro de texto de busqueda. | **Escenario 1: Busqueda por nombre** <br>Cuando el cliente escribe el nombre del establecimiento o servicio Entonces visualiza resultados coincidentes con su búsqueda.<br>**Escenario 2: Filtro de servicios** Cuando el cliente selecciona los filtros de búsqueda sea por tipo de servicio o por rango de precios Entonces visualiza los servicios coincidentes con el  filtrado.| EP002: Busqueda y selección de servicios|
-|US014|Navegacion por la landing page                   | Como visitante de la landing page, quiero navegar por la landing page de Bliss para obtener mas informacion sobre el producto.|**Escenario 1:Navegación correcta**<br> Dado que soy un visitante en la pagina de inicio de la landing page de Bliss.<br> Cuando hago bajo para obtener mas informacion sobre el producto.<br> Entonces puedo ver las características y ventajas que tiene este.<br> **Escenario 2:Fallo al navegar por la landing** <br>Dado que siendo visitante<br> Cuando quiero bajar a la ultima sección de la landing page.<br> Entonces no me permite bajar a más secciones.|EP011: Experiencia del Usuario|
-|US015|Visualizar alianzas                              |Como visitante de la landing page, quiero visualizar las alianzas que tiene Bliss para poder confiar en la experiencia que brinda el producto.|**Escenario 1:Visualización de alianzas**<br> Dado que el usuario quiere saber las alianzas estrategicas que posee elproducto.<br> Cuando observe la sección de Alianzas. <br>Entonces el usuario puede confiar más en la excelencia del producto.<br> **Escenario 2: Incorrecta visualización de alianzas**<br> Dado que el usuario quiere saber las alianzas estrategicas que posee elproducto.<br> Cuando observe la sección de Alianzas. <br>Entonces no podra informare bien sobre la confiabilidad del producto. |EP011: Experiencia del Usuario|
-|US016|Crear reserva de citas                           | Como cliente, quiero poder registrar una nueva reserva Para poder acceder a mi servicio deseado.|**Escenario 1:Correcta reserva de cita**<br>Dado que el cliente quiere reservar una cita <br>Cuando quiere confirmar su intención <br>Entonces el sistema se almacena en la base de datos y el cliente recibe una confirmación de reserva.<br> **Escenario 2:Error de reserva de cita**<br>Dado que el cliente quiere reservar una cita <br>Cuando quiere confirmar su intención <br>Entonces el sistema muestra un mensaje de error indicando que la reserva no pudo ser completada y sugerir intentar nuevamente.|EP003: Reserva y confirmacion de servicios|
-|US017|Ver perfil de cliente                            |Como cliente, Quiero poder ver mi perfil Para acceder a mi informacion personal en mi cuenta.|**Escenario 1: Correcta visualización del perfil del cliente** <br>Dado que el cliente quiere ver su perfil<br> Cuando ingrese a su perfil de cliente<br>  Entonces se muestra la información del cliente<br>**Escenario 2:Error en la visualización del cliente**<br>Dado que el cliente quiere ver su perfil<br> Cuando ingrese a su perfil de cliente<br>  Entonces la información no se carga.|EP001: Gestión de usuario|
-|US018|Editar mi perfil de cliente                      |Como cliente, Quiero poder editar mi perfil para mantener actualizada mi cuenta.|**Escenario 1: Correcta actualización del perfil del cliente** <br>Dado que el cliente modificar su informacion personal<br> Cuando realiza las modificaciones necesarias en el perfil de cliente<br> Entonces el sistema actualiza la información editada.<br> **Escenario 2: Error en la visualización del cliente**<br>Dado que el cliente modificar su información personal<br> Cuando realiza las modificaciones necesarias en el perfil de cliente<br> Entonces el sistema muestra un mensaje de error al actualizar.|EP001: Gestión de usuario|
+| US001 | Creación de cuenta                            | Como  visitante quiero crear una cuenta proporcionando mi nombre, dirección de correo electrónico y contraseña.|**Escenario 1: Registro completado :** <br>Dado que un nuevo visitante quiere registrarse  <br> Cuando ingresa su nombre, dirección de correo electrónico y contraseña <br>Y presiona el botón de Crear Cuenta  <br> Entonces se envía un correo de verificación a la dirección enviada  <br> **Escenario 2:Error al registrar los datos**  <br> Dado que un nuevo visitante quiere registrarse  <br> Cuando ingresa un nombre, contraseña o un correo electrónico que no cumpla los requisitos establecidos  <br>  Y presiona el botón de Crear Cuenta  <br> Entonces aparece en pantalla un mensaje de error, indicando donde se encuentra el error y pidiendo que se ingrese de nuevo.| EP001: Gestión de usuario |
+| US002  | Verificación de correo electrónico           | Como visitante quiero recibir un correo electrónico de verificación después de registrarme para confirmar mi dirección de correo electrónico| **Escenario 1: Verificación exitosa** <br>Dado que un visitante quiere crear una nueva cuenta  <br> Cuando encuentra el correo que le mandamos donde está el enlace con el código para crear su cuenta  <br> Y ingresa correctamente su código al enlace  <br> Entonces la cuenta nueva esta creada y se le redirige a la página principal de la aplicación.<br>**Escenario 2: Error en la verificación** Dado que un visitante quiere crear una nueva cuenta  <br> Cuando no encuentra el correo que mandamos a la dirección registrada  <br> presiono el botón mandar de nuevo  <br> Y ya pasaron 15 minutos  <br> Entonces aparecerá un mensaje de error indicando que el correo no se pudo verificar y que pedirá ingresar de nuevo el correo electrónico.| EP007: Seguridad y Verificación|
+| US003  |Inicio de sesión de usuario| Como usuario registrado, quiero iniciar sesión  utilizando mi correo electrónico y contraseña.| **Escenario 1: Inicio sesión exitoso** <br> Dado que un usuario quiere ingresar a su cuenta <br> Cuando el usuario proporciona su dirección de correo electrónico y contraseña <br> Y presiona el botón Iniciar Sesión <br> Entonces el usuario es redirigido a la página principal <br> **Escenario 2: Error al iniciar sesión** <br> Dado que un usuario quiere ingresar a su cuenta <br> Cuando el usuario proporciona un correo electrónico o contraseña invalido <br> Y presiona el botón Iniciar Sesión <br> Entonces se muestra un mensaje de error y se solicita ingrese de nuevo | EP001: Gestión de usuario|
+| US004  | Recomendación por ubicación                  | Como cliente, quiero visualizar como recomendados los servicios de belleza o cuidado de establecimientos cercanos a mi ubicación actual.| **Escenario 1: Recomendaciones encontradas**<br> Dado que el cliente se encuentra en home <br> Cuando se reconoce su ubicación por localización satélital <br> Entonces se muestra una lista de servicios ofrecidos por establecimientos cercanos a la ubicación del cliente<br> **Escenario 2: No se encuentran recomendaciones** <br> Dado que el cliente se encuentra en home<br> Cuando no se reconozca su ubicación por localización satélital <br> Entonces solo se visualizan servicios basados en su historial de servicios| EP002: Busqueda y selección de servicios|
+| US005  | Visualización de historial                  | Como cliente, quiero visualizar los servicios de belleza de establecimientos a los que ya he solicitado servicios anteriormente. | **Escenario 1:Recomendaciones encontradas**<br> Dado que el cliente quiere buscar servicios ya solicitados <br> Cuando ingrese a su historial <br>Entonces se muestra una lista de servicios que el usuario ya ha solicitado <br> **Escenario2:Historial sin serivicios almacenadoa **<br> Dado que el cliente quiere buscar servicios ya solicitados <br> Cuando ingrese a su historial <br> Entonces el sistema muestra un mensaje indicando que no se tiene guardado ningún servicio en el historial | EP002: Busqueda y selección de servicios|
+| US006  | Visualización de disponibilidad de citas     | Como cliente, quiero poder ver la disponibilidad de citas de los centros de belleza y cuidado para elegir un horario conveniente para mí.| **Visualización detalles del servicio** <br>Cuando el cliente selecciona un servicio  específico <br> Y selecciona el especialista <br>  Y detalla los requerimientos personalizados del servicio <br> Entonces el sistema muestra un calendario con horarios disponibles y puede seleccionar una fecha y hora conveniente.<br>**Escenario 2: Error al acceder a los detalles del servicio**<br>Cuando el cliente selecciona un servicio  específico <br> Y selecciona el especialista pero los detalles del servicio no están completos <br> Entonces se muestra un mensaje de advertencia sobre la falta de información del servicio| EP003: Reserva y Confirmación de Servicios|
+| US007  | Notificación de confirmación de reserva      | Como cliente, quiero recibir una notificación de confirmación después de reservar una cita para tener la seguridad de que se ha realizado correctamente.| **Escenario 1: Notificación Automática**<br> Dado que el cliente reserva una cita <br>Cuando pasa 1 minuto <br>Entonces recibe la notificación con detalles de la cita en su correo electrónico.<br> **Escenario 2: Notificación no enviada**<br> Dado que el cliente reserva una cita <br>Cuando pasa 1 minuto y  no recibe una notificación en ningún dispositivo vinculado Entonces puede seleccionar la opción de reenviar confirmación. | EP003: Reserva y confirmacion de servicios|
+| US008  | Cancelación de cita por parte del cliente    | Como cliente, quiero cancelar una cita reservada en la aplicación en caso de necesidad.| **Escenario 1: Cancelación Confirmada**<br> Dado que el cliente quiere cancelar una cita<br> Cuando selecciona la opción de cancelar la cita<br> Entonces se presenta un mensaje de confirmación para asegurar la cancelación Y se elimina de su agenda personal .<br>**Escenario 2: Error de Cancelación** Dado que el cliente quiere cancelar una cita<br> Cuando selecciona la opción de cancelar la cita <br>Entonces el sistema muestra mensaje de erorr al cancelar la cita.| EP003:	Reserva y confirmacion de servicios|
+| US009  | Dejar valoración y reseña después de la cita | Como cliente, quiero dejar una valoración y reseña sobre el servicio recibido después de completar una cita para ayudar a otros cliente en su elección.| **Escenario 1: Publicación de Reseña Postcita confirmada** <br> Dado que el usuario ya recibio el servicio <br>Cuando selecciona la opción de dejar reseña en el perfil de la empresa Y  escriba respecto a su experiencia Y asigne un puntaje con un indicador de 5 estrellas Y publique su reseña  <br>Entonces su reseña se visualiza en el perfil de la empresa <br>**Escenario 2: Error en la reseña**<br> Dado que el usuario ya recibio el servicio <br>Cuando selecciona la opción de dejar reseña en el perfil de la empresa Y  escriba respecto a su experiencia Y asigne un puntaje con un indicador de 5 estrellas Y no pueda publicar su reseña  <br>Entonces se le muestra al usuario un mensaje de error al publicar la reseña| EP004: Retroalimentación y valoración|
+| US010  | Personalización del Servicio                 | Como cliente, quiero personalizar algunos detalles de el servicio reservado, | **Escenario 1: Correcta personalización del Servicio** <br>Dado que el cliente quiere personalizar el servicio<br> Cuando realiza una reserva, puede modificar o incluir detalles respecto al servicio (ej. técnicas específicas, productos deseados) y tiene la intencion de confirmar estas opciones.<br> Entonces se establecen los nuevos requisitos de servicio.<br>**Escenario 2: Error en la personalización del servicio**<br>Dado que el cliente quiere personalizar el servicio<br> Cuando realiza una reserva E intente modificar aspectos que no fueron aceptados por la empresa que ofrece el servicio.<br> Entonces se muestra una ventana emergente con un mensaje que menciona que no se puede modificar este aspecto del servicio | EP006: Personalización del servicio|
+| US011  | Reserva de citas periódicas                 | Como cliente, quiero tener la opcion de agendar  servicios que requieran mantenimientos periódicos en una sola reserva | **Escenario 1: Confirmación Reserva de citas periódicas**<br> Dado que el cliente confirmó un servicio con cuidados que requieren más de 2 citas.<br> Cuando el cliente acepte agendar todo el paquete de citas<br> Entonces las reservas se harán válidas y podrán ser visualizadas en el calendario del cliente.<br>**Escenario 2: Error de reservas periódicas**<br> Dado que el cliente confirmó un servicio con cuidados que requieren más de 2 citas.<br> Cuando el cliente acepte agendar todo el paquete de citas<br> Entonces el sistema mostrará un mensaje de error indicando que no se han podido agendar las citas.| EP003: Reserva y confirmacion de servicios|
+| US012  | Pago a través de la App                      | Como cliente, quiero pagar el servicio de belleza o cuidado en una plataforma| **Escenario 1: Pago Directo** <br>Dado que el cliente tiene su tarjeta bancaria asociada <br> Cuando selecciona un servicio para reservar una cita Y se reciba la confirmación del banco asociado <br> Entonces se reserva el servicio solicitado.<br>**Escenario 2: Error de Pago** <br>Dado que el cliente tiene su tarjeta bancaria asociada <br> Cuando selecciona un servicio para reservar una cita Y no se recibe la confirmación del banco asociado <br> Entonces no se reserva el servicio solicitado y se muestra un mensaje de error de realización de pago <br>| EP010: Sistema de pagos|
+| US013  | Búsqueda de servicios                        | Como cliente, quiero  buscar un servicio o establecimiento específico mediante un cuadro de texto de busqueda. | **Escenario 1: Busqueda por nombre** <br>Cuando el cliente escribe el nombre del establecimiento o servicio <br> Entonces visualiza resultados coincidentes con su búsqueda.<br>**Escenario 2: Filtro de servicios** Cuando el cliente selecciona los filtros de búsqueda sea por tipo de servicio o por rango de precios Entonces visualiza los servicios coincidentes con el  filtrado.| EP002: Busqueda y selección de servicios|
+|US014|Crear reserva de citas                           | Como cliente, quiero poder registrar una nueva reserva Para poder acceder a mi servicio deseado.|**Escenario 1:Correcta reserva de cita**<br>Dado que el cliente quiere reservar una cita <br>Cuando quiere confirmar su intención Y realiza el pago <br>Entonces el sistema se almacena en la base de datos y el cliente recibe una confirmación de reserva.<br> **Escenario 2:Error de reserva de cita**<br>Dado que el cliente quiere reservar una cita <br>Cuando quiere confirmar su intención Y no se recibe el pago <br>Entonces el sistema muestra un mensaje de error indicando que la reserva no pudo ser completada y sugerir intentar nuevamente.|EP003: Reserva y confirmacion de servicios|
+|US015|Ver perfil de cliente                            |Como cliente, Quiero poder ver mi perfil Para acceder a mi informacion personal en mi cuenta.|**Escenario 1: Correcta visualización del perfil del cliente** <br>Dado que el cliente quiere ver su perfil<br> Cuando ingrese a su perfil de cliente<br>  Entonces se muestra la información del cliente<br>**Escenario 2:Error en la visualización del cliente**<br>Dado que el cliente quiere ver su perfil<br> Cuando ingrese a su perfil de cliente<br>  Entonces la información no se carga.|EP001: Gestión de usuario|
+|US016|Editar mi perfil de cliente                      |Como cliente, Quiero editar mi perfil para mantener actualizada mi cuenta.|**Escenario 1: Correcta actualización del perfil del cliente** <br>Dado que el cliente modificar su informacion personal<br> Cuando realiza las modificaciones necesarias en el perfil de cliente<br> Entonces el sistema actualiza la información editada.<br> **Escenario 2: Error en la visualización del cliente**<br>Dado que el cliente modificar su información personal<br> Cuando realiza las modificaciones necesarias en el perfil de cliente<br> Entonces el sistema muestra un mensaje de error al actualizar.|EP001: Gestión de usuario|
+
+
 
 
 #### 3.2.2 User Stories-Empresa Especialista
 
 |ID|Título|Descripción|Criterios de Aceptación|EpicID|
 |-|-|-|-|-|
-| US019  | Registro de perfil de empresa | Como empresa, quiero crear un perfil en la aplicación para mostrar información sobre mi negocio y los servicios que ofrezco.|**Escenario 1: Creación exitosa de perfil de empresa:** <br>Dado que la empresa quiere crearse su perfil <br>Cuando llena el formulario de creación de perfil <br>Entonces el sistema mostrará un mensaje de creación correcta de perfil de empresa. <br>**Escenario 2: Error al crear perfil de empresa** <br>Dado que la empresa quiere crear su perfil de empresa. <br>Cuando llena el formulario de creación de perfil<br> Entonces el sistema mostrará un mensaje de error al crear el perfil.| EP001:Gestión de usuario|
-| US020  | Edición de perfil de especialista  | Como empresa, quiero editar los perfiles de mis espicialistas  en la aplicación para actualizar la información sobre mi negocio y servicios.| **Escenario 1: Modificar el perfil de empresa satisfactoriamente**<br> Dado que la empresa quiere editar su informacion.<br>  Cuando cambia la información en su formulario<br> Y quiere confirmar la edicion<br> Entonces el sistema muestra un mensaje de correcto guardado<br> Y se guarda en la base de datos.<br>  **Escenario 2: Error al modificar el perfil de empresa**<br> Dado que la empresa quiere editar su informacion<br> Cuando cambia la informacion en su formulario<br> Y quiere confirmar la edicion <br>Entonces el sistema muestra un mensaje incorrecto<br> Y se guarda en la base de datos.| EP001: Gestión de usuario|
-| US021  | Gestión de citas                   | Como empresa, quiero gestionar las citas realizadas a través de la aplicación.| **Escenario 1: Visualización de Citas:** <br> Dado que la empresa quiere gestionar las citas<br> Cuando accede a la lista de citas<br> Entonces puede ver detalles de cada cita y gestionar las reservas.<br> **Escenario 2: Error de Citas:** <br> Dado que la empresa quiere gestionar las citas<br> Cuando accede a la lista de citas<br> Entonces no aparecerá ninguna cita.| EP009: Reservas |
-|US022|Creacion de servicio                   | Como empresa, quiero crear un servicio a traves de la aplicacion para que los usuarios de la aplicación lo visualizen.|**Escenario 1:Creacion correcta de servicio** <br> Dado que la empresa quiere crear un servicio<br> Cuando quiera confirmar la eliminacion<br> Entonces el sistema muestra que el servicio ha sido correctamente eliminado.<br> **Escenario 2: Error al crear servicio** <br> Dado que la empresa quiere crear un servicio <br>Cuando quiera confirmar la eliminacion<br> Entonces el sistema mostrará un mensaje de error.| EP005: Gestión del catálogo de servicios|
-|US023|Eliminación de servicio| Como empresa, quiero poder eliminar un servicio que yo cree para mantener los servicio relevantes y a mi criterio.|**Escenario 1:Modificacion correcta de servicio** <br> Dado que la empresa quiere crear un servicio <br>Cuando quiera confirmar la eliminacion<br> Entonces el sistema muestra que el servicio ha sido correctamente eliminado.<br> **Escenario 2: Modificacion incorrecta de servicio** <br> Dado que la empresa quiere crear un servicio<br> Cuando quiera confirmar la eliminacion<br> Entonces el sistema muestra un mensaje de error o no guardado de modificaciones.| EP005: Gestión del catálogo de servicios|
-| US024  | Actualización de servicios ofrecidos     | Como empresa, quiero actualizar los servicios que ofrezco en la aplicación, incluyendo la actualización de disponibilidad.| **Escenario 1: Actualización de Servicios:** <br>Dado que la empresa quiere modificar un servicio <br>Cuando modifica e intenta guardar los cambios uno de los servicios ofrecidos <br>Entonces los cambios se reflejan en la aplicación.<br>**Escenario 2: Error de Disponibilidad de Servicios** <br> Dado que la empresa quiere modificar un servicio<br> Cuando modifica e intenta guardar los cambios uno de los servicios ofrecidos <br>Entonces los cambios no se han sido guardados en la aplicación ni en la base de datos. | EP005: Gestión del catálogo de servicios|
-| US025  | Suscripción al sistema de pagos    | Como empresa, quiero suscribirme al sistema de pagos en la aplicación para gestionar los pagos de las citas de manera segura.| **Escenario 1: Habilitación de Pagos Seguros:** <br> Dado que la empresa quiere recibir pagos por los servicios en la aplicación <br>Cuando sigue los pasos para completar la suscripción y confirma los reglamentos <br>Entonces está habilitado para recibir pagos de manera segura. <br>**Escenario 2: Error en la habilitación** <br>Dado que la empresa quiere recibir pagos por los servicios en la aplicación<br> Cuando sigue los pasos para completar la suscripción y confirma los reglamentos<br>  Entonces el sistema muestra un mensaje de error al habilitar los pagos.| EP010: Sistema de pagos	|
-|US026|Integración con calendario personal|Como usuario, quiero sincronizar mis citas y reservas con mi calendario personal (Google Calendar, Outlook) para mantenerme organizado.| **Escenario 1: Sincronización exitosa**<br> Dado que el usuario desea sincronizar su calendario. <br>Cuando el usuario conecta su cuenta de calendario personal a la aplicación.<br> Entonces las citas y reservas se sincronizan correctamente y se reflejan en el calendario personal del usuario. <br>**Escenario 2: Error en la sincronización** Dado que el usuario desea sincronizar su calendario.<br> Cuando el usuario intenta conectar su cuenta de calendario pero hay un error de conexión o de API. <br>Entonces el sistema muestra un mensaje de error y no se sincronizan las citas.|EP012:Gestión de Citas y Reservas|
-|US027|Visualizar equipo de Bliss|Como visitante de la landing page, quiero ver la información sobre el equipo, para conocer a las personas detrás de la empresa y su experiencia.|**Escenario 1: Información Correcta**<br> Dado que el visitante está en la sección "Quiénes Somos" <br>Cuando revisa la información del equipo <br>Entonces puede ver perfiles detallados de los miembros del equipo, incluyendo sus nombres, roles y biografías.<br> **Escenario 2: Información Incorrecta**<br> Dado que el visitante está en la sección "Quiénes Somos" <br>Cuando revisa la información del equipo<br> Entonces la información de los perfiles está incompleta o desactualizada.|EP011: Experiencia del Usuario|
-|US028|Visualizar visión del equipo|Como visitante de la landing page, quiero ver la visión de la empresa para entender los objetivos y valores fundamentales de la empresa.|**Escenario 1: Visión Correcta** <br>Dado que el visitante está en la sección "Nuestra visión" <br>Cuando revisa la visión de la empresa <br>Entonces puede leer una declaración clara y bien presentada de la visión y objetivos de la empresa.<br> **Escenario 2: Visión Incorrecta**<br> Dado que el visitante está en la sección "Nuestra visión" <br>Cuando revisa la visión de la empresa<br> Entonces la declaración de la visión está desactualizada o mal redactada.|EP011: Experiencia del Usuario|
+| US017  | Registro de perfil de empresa | Como empresa, quiero crear un perfil para mostrar información sobre mi negocio y los servicios que ofrezco.|**Escenario 1: Creación exitosa de perfil de empresa:** <br>Dado que la empresa quiere crearse su perfil <br>Cuando llena el formulario de creación de perfil <br>Entonces el sistema mostrará un mensaje de creación correcta de perfil de empresa. <br>**Escenario 2: Error al crear perfil de empresa** <br>Dado que la empresa quiere crear su perfil de empresa. <br>Cuando llena el formulario de creación de perfil<br> Entonces el sistema mostrará un mensaje de error al crear el perfil.| EP001:Gestión de usuario|
+| US018  | Edición de perfil de especialista  | Como empresa, quiero editar los perfiles de mis especialistas  para que el cliente pueda visualizar las características y disponibilidad de los especialistas.| **Escenario 1: Modificar el perfil de especialista**<br> Dado que la empresa quiere editar el perfil de su especialista.<br>  Cuando modifica la información en su formulario<br> Y quiere confirmar la edicion<br> Entonces el sistema muestra un mensaje de correcto guardado<br> Y puede ser visualizado por el cliente.<br>  **Escenario 2: Error al modificar el perfil del especialista**<br> Dado que la empresa quiere editar el perfil de su especialista<br> Cuando cambia la informacion en su formulario<br> Y quiere confirmar la edicion <br>Entonces el sistema muestra un mensaje incorrecto<br> Y se guarda en la base de datos.| EP001: Gestión de usuario|
+| US019  | Gestión de citas                   | Como empresa, quiero asignar disponibilidad y detalles de los servicios para que los clientes puedan agendarlos.| **Escenario 1: Visualización de Citas:** <br> Dado que la empresa quiere gestionar sus citas<br> Cuando accede a la lista de citas<br> Entonces puede ver detalles de cada cita y modificar los detalles de  las mismas.<br> **Escenario 2: Error de Citas:** <br> Dado que la empresa quiere gestionar sus citas<br> Cuando accede a la lista de citas<br> Entonces no aparecerá ninguna cita.| EP009: Reservas |
+|US020|Creacion de servicio                   | Como empresa, quiero crear y especificar los detalles de un servicio  para que los usuarios  lo soliciten.|**Escenario 1:Creacion correcta de servicio** <br> Dado que la empresa quiere crear un servicio<br> Cuando cree Y modifique los datos del servicio <br> Entonces el servició será publicado en el catálogo de servicios de la empresa.<br> **Escenario 2: Error al crear servicio** <br> Dado que la empresa quiere crear un servicio <br>Cuando cree Y modifique los datos del servicio<br> Entonces el sistema mostrará un mensaje de error.| EP005: Gestión del catálogo de servicios|
+|US021|Eliminación de servicio| Como empresa, quiero poder eliminar un servicio que yo creé para mantener los servicio relevantes y a mi criterio.|**Escenario 1:Modificacion correcta de servicio** <br> Dado que la empresa quiera eliminar un servicio <br>Cuando quiera confirmar la eliminacion<br> Entonces el sistema muestra que el servicio ha sido correctamente eliminado.<br> **Escenario 2: Modificacion incorrecta de servicio** <br> Dado que la empresa quiere crear un servicio<br> Cuando quiera confirmar la eliminacion<br> Entonces el sistema muestra un mensaje de error en la eliminación.| EP005: Gestión del catálogo de servicios|
+| US022  | Actualización de servicios ofrecidos     | Como empresa, quiero actualizar los detalles de los servicios que ofrezco en la aplicación| **Escenario 1: Actualización de Servicios:** <br>Dado que la empresa quiere modificar un servicio <br>Cuando modifica e intenta guardar los cambios uno de los servicios ofrecidos <br>Entonces los cambios se visualizarán en la sección detalles del servicio.<br>**Escenario 2: Error de Disponibilidad de Servicios** <br> Dado que la empresa quiere modificar un servicio<br> Cuando modifica e intenta guardar los cambios uno de los servicios ofrecidos <br>Entonces recibe un mensaje de error al guardar el cambio. | EP005: Gestión del catálogo de servicios|
+| US023  | Suscripción al sistema de pagos    | Como empresa, quiero suscribirme al sistema de pagos en la aplicación para gestionar los pagos de las citas de manera segura.| **Escenario 1: Habilitación de Pagos Seguros:** <br> Dado que la empresa quiere recibir pagos por los servicios en la aplicación <br>Cuando sigue los pasos para completar la suscripción y confirma los reglamentos <br>Entonces está habilitado para recibir pagos de manera segura. <br>**Escenario 2: Error en la habilitación** <br>Dado que la empresa quiere recibir pagos por los servicios en la aplicación<br> Cuando sigue los pasos para completar la suscripción y confirma los reglamentos<br>  Entonces el sistema muestra un mensaje de error al habilitar los pagos.| EP010: Sistema de pagos	|
+|US024|Integración con calendario personal|Como empresa, quiero sincronizar mis citas y reservas con mi calendario personal (Google Calendar, Outlook) para mantenerme organizado.| **Escenario 1: Sincronización exitosa**<br> Dado que la empresa desea sincronizar su calendario. <br>Cuando la empresa importe el calendario de citas en su calendario personal.<br> Entonces las citas y reservas se reflejarán en el calendario personal del usuario. <br>**Escenario 2: Error en la sincronización** Dado que la empresa desea sincronizar su calendario.<br> Cuando la empresa importe el calendario de citas en su calendario personal <br>Entonces el sistema muestra un mensaje de error y no se visualizan las citas.|EP012:Gestión de Citas y Reservas|
+
+#### 3.2.2 User Stories- Landing Page
+
+|ID|Título|Descripción|Criterios de Aceptación|EpicID|
+|-|-|-|-|-|
+| US025 | Solicitud de evaluación      | Como visitante del segmento empresa quiero solicitar información para convertirme en empresa asociada                                                            | **Escenario 1**<br>Dado que selecciono un elemento "call to action"<br>Cuando lleno el formulario de solicitud de información<br>Entonces Bliss podrá tener acceso a mis datos y evaluar la incorporación de la empresa como partner.                                 | EP012: Acceso a Información    |
+| US026 | Visualizar alianzas          | Como visitante del segmento cliente y empresa quiero visualizar las alianzas que tiene Bliss para conocer su posicionamiento dentro de la industria de la belleza | **Escenario 1: Visualización de alianzas**<br>Dado que el usuario quiere saber las alianzas estratégicas que posee el producto.<br>Cuando se encuentre en la sección de Alianzas.<br>Entonces el usuario podrá tomar una decisión informada de acuerdo a su criterio. | EP011: Experiencia del Usuario |
+| US027 | Visualizar objetivo de Bliss | Como visitante del segmento empresa y cliente quiero conocer el objetivo y valores generales de la solución                                                      | **Escenario 1: Información Correcta**<br>Dado que el visitante está en la sección "Objetivos"<br>Cuando lea la sección a detalle<br>Entonces tendrá idea de los aspectos generales de la solución.                                                                    | EP012: Acceso a la Información |
+| US028 | Navegación por la landing page | Como visitante, quiero visualizar los datos más relevantes de Bliss para obtener más información sobre el producto.             | **Escenario 1: Navegación Correcta**<br>Dado que el visitante está en landing page <br>Cuando navegue por las secciones de la página estática<br>Entonces puede conocer sobre los detalles más relevantes de Bliss.                         | EP012: Acceso a la Información |
+|US029|Visualizar equipo de Bliss|Como visitante del segmento empresa y cliente , quiero ver la información sobre el equipo, para conocer al equipo a cargo de la solución.|**Escenario 1: Información Correcta**<br> Dado que el visitante está en la sección "Quiénes Somos" <br>Cuando revisa la información del equipo <br>Entonces puede ver perfiles detallados de los miembros del equipo, incluyendo sus nombres, roles y biografías|EP011: Experiencia del Usuario|
+|US030|Visualizar visión del equipo|Como visitante del segmento empresa y cliente de la landing page, quiero ver la visión de la empresa para conocer mejor a la empresa .|**Escenario 1: Visión Correcta** <br>Dado que el visitante está en la sección "Nuestra visión" <br>Cuando revisa la visión de la empresa <br>Entonces puede leer una declaración clara y bien presentada de la visión y objetivos de la empresa.|EP011: Experiencia del Usuario|
 
 #### 3.2.3. Technical Stories
 
@@ -706,75 +699,315 @@ Para la realizar el User Task Matrix se tomo a los dos sengmetos objetivos ya pr
 |TS002| Implementación de la sección "Quiénes Somos" | Como desarrollador, quiero implementar la sección "Quiénes Somos" para mostrar al equipo de Bliss en la landing page. | **Escenario 1: Sección Correcta** <br>Dado que el visitante accede a la sección "Quiénes Somos" <br>Cuando revisa la página <br>Entonces puede ver las fotos del equipo, los nombres y cargos. <br>**Escenario 2: Sección Incorrecta** <br>Dado que el visitante accede a la sección "Quiénes Somos" <br>Cuando revisa la página <br>Entonces la sección no muestra correctamente las fotos, nombres o cargos del equipo. |
 |TS003| Implementación de la sección de alianzas | Como desarrollador, quiero implementar la sección de alianzas en la landing page para mostrar las colaboraciones de Bliss con Montalvo, Soho Color y Artemis. | **Escenario 1: Sección Correcta** <br>Dado que el visitante accede a la sección de alianzas <br>Cuando revisa la página <br>Entonces puede ver los logotipos de Montalvo, Soho Color y Artemis con una breve descripción de cada alianza. <br>**Escenario 2: Sección Incorrecta** <br>Dado que el visitante accede a la sección de alianzas <br>Cuando revisa la página <br>Entonces los logotipos o descripciones de Montalvo, Soho Color y Artemis no se muestran correctamente. |
 |TS004| Implementación de la sección "Nuestra Visión" | Como desarrollador, quiero implementar la sección "Nuestra Visión" para mostrar la visión de Bliss en la landing page. | **Escenario 1: Sección Correcta** <br>Dado que el visitante accede a la sección "Nuestra Visión" <br>Cuando revisa la página <br>Entonces puede leer un párrafo que describe claramente la visión de la empresa. <br>**Escenario 2: Sección Incorrecta** <br>Dado que el visitante accede a la sección "Nuestra Visión" <br>Cuando revisa la página <br>Entonces el párrafo que describe la visión de la empresa no se muestra correctamente. |
+| TS005 | Endpoint para registro           | Como Developer, quiero crear un endpoint para permitir a los usuarios registrarse en la aplicación y autenticar su identidad para acceder a sus cuentas.                      | **Escenario 1: Registro exitoso**<br>Dado que el Developer implementa el endpoint "/api/register"<br>Cuando un usuario envía una solicitud POST con datos de registro válidos<br>Entonces la respuesta debe ser 201 Created con el encabezado 'Location' que enlace a "/users/{id}"<br>Y el usuario debe estar registrado en el sistema.<br>**Escenario 2: Datos de registro faltantes o inválidos**<br>Dado que el Developer implementa el endpoint "/api/register"<br>Cuando un usuario envía una solicitud POST con datos de registro faltantes o inválidos<br>Entonces la respuesta debe ser 400 Bad Request con un mensaje que indique los campos requeridos o el formato incorrecto.<br>**Escenario 3: Usuario ya registrado**<br>Dado que el Developer implementa el endpoint "/api/register"<br>Cuando un usuario envía una solicitud POST con un correo electrónico que ya está registrado en el sistema<br>Entonces la respuesta debe ser 409 Conflict indicando que el recurso ya existe.| EP007   |
+| TS006 | Endpoint para buscar servicios   | Como Developer, quiero implementar un endpoint que permita buscar servicios de belleza según filtros aplicados.                                                               | **Escenario 1: Búsqueda exitosa de servicios**<br>Dado que el Developer implementa el endpoint "/api/search"<br>Cuando un usuario envía una solicitud GET con parámetros de búsqueda válidos (tipo de servicio, ubicación, rango de precios)<br>Entonces la respuesta debe ser 200 OK con una lista de servicios que coinciden con los filtros aplicados.<br>**Escenario 2: Parámetros de búsqueda inválidos**<br>Dado que el Developer implementa el endpoint "/api/search"<br>Cuando un usuario envía una solicitud GET con parámetros de búsqueda en un formato incorrecto<br>Entonces la respuesta debe ser 400 Bad Request con un mensaje que indique el formato correcto de los parámetros.<br>**Escenario 3: Ningún servicio encontrado**<br>Dado que el Developer implementa el endpoint "/api/search"<br>Cuando un usuario envía una solicitud GET con parámetros de búsqueda válidos pero no se encuentran servicios que coincidan<br>Entonces la respuesta debe ser 200 OK con una lista vacía de servicios.| EP002   |
+| TS007 | Endpoint para gestión de citas   | Como Developer, quiero crear un endpoint para permitir a los especialistas gestionar sus citas programadas, incluyendo la actualización, visualización y cancelación.         | **Escenario 1: Actualización exitosa de cita**<br>Dado el endpoint "/stylists/{id}/appointments/{appointmentId}"<br>Y la cita existe en el sistema<br>Cuando el estilista realiza una solicitud PUT con información válida para actualizar la cita<br>Entonces la respuesta debe ser 200 OK<br>Y la cita debe reflejar las actualizaciones realizadas.<br>**Escenario 2: Visualización exitosa de cita**<br>Dado el endpoint "/stylists/{id}/appointments/{appointmentId}"<br>Y la cita existe en el sistema<br>Cuando el estilista realiza una solicitud GET<br>Entonces la respuesta debe ser 200 OK con la información de la cita.<br>**Escenario 3: Cancelación exitosa de cita**<br>Dado el endpoint "/stylists/{id}/appointments/{appointmentId}"<br>Y la cita existe en el sistema<br>Cuando el estilista realiza una solicitud DELETE<br>Entonces la respuesta debe ser 204 No Content<br>Y la cita debe ser eliminada del sistema.<br>**Escenario 4: Cita no encontrada**<br>Dado el endpoint "/stylists/{id}/appointments/{appointmentId}"<br>Cuando el estilista realiza una solicitud GET, PUT o DELETE con un ID de cita que no existe<br>Entonces la respuesta debe ser 404 Not Found indicando que la cita no fue encontrada.| EP009   |
+| TS008 | Endpoint para gestión de reseñas | Como Developer, quiero crear un endpoint para permitir a los usuarios dejar una reseña y valoración sobre el servicio recibido, así como consultar y gestionar estas reseñas. | **Escenario 1: Creación exitosa de reseña**<br>Dado que el Developer implementa el endpoint "/services/{serviceId}/reviews"<br>Cuando un usuario envía una solicitud POST con una reseña válida<br>Entonces la respuesta debe ser 201 Created con el encabezado 'Location' que enlace a "/services/{serviceId}/reviews/{reviewId}"<br>Y la reseña debe ser guardada en el sistema.<br>**Escenario 2: Datos de reseña faltantes o inválidos**<br>Dado que el Developer implementa el endpoint "/services/{serviceId}/reviews"<br>Cuando un usuario envía una solicitud POST con datos de reseña faltantes o inválidos<br>Entonces la respuesta debe ser 400 Bad Request con un mensaje que indique los campos requeridos o el formato incorrecto.<br>**Escenario 3: Consulta exitosa de reseñas**<br>Dado el endpoint "/services/{serviceId}/reviews"<br>Cuando un usuario envía una solicitud GET para obtener las reseñas de un servicio<br>Entonces la respuesta debe ser 200 OK con una lista de reseñas relacionadas con ese servicio.<br>**Escenario 4: Actualización exitosa de reseña**<br>Dado el endpoint "/services/{serviceId}/reviews/{reviewId}"<br>Y la reseña existe en el sistema<br>Cuando un usuario envía una solicitud PUT con información válida para actualizar la reseña<br>Entonces la respuesta debe ser 200 OK<br>Y la reseña debe reflejar las actualizaciones realizadas.<br>**Escenario 5: Eliminación exitosa de reseña**<br>Dado el endpoint "/services/{serviceId}/reviews/{reviewId}"<br>Y la reseña existe en el sistema<br>Cuando un usuario envía una solicitud DELETE<br>Entonces la respuesta debe ser 204 No Content<br>Y la reseña debe ser eliminada del sistema.<br>**Escenario 6: Reseña no encontrada**<br>Dado el endpoint "/services/{serviceId}/reviews/{reviewId}"<br>Cuando un usuario envía una solicitud GET, PUT o DELETE con un ID de reseña que no existe<br>Entonces la respuesta debe ser 404 Not Found indicando que la reseña no fue encontrada. | EP004   |
 
 ### 3.3. Impact Mapping
+
+El Impact Mapping es una técnica estratégica utilizada para alinear los objetivos del negocio con los entregables de producto, ayudando a visualizar cómo diferentes actores pueden contribuir a alcanzar las metas establecidas. En el proyecto Bliss, esta técnica nos ha permitido identificar los actores clave, definir los cambios esperados en su comportamiento, y establecer las acciones que el equipo debe llevar a cabo para provocar esos cambios, logrando así cumplir con los Business Goals (objetivos de negocio).
+
+<img src="resources/Impact map - Frame 1.jpg"/>
+
+Link de Miro: https://miro.com/welcomeonboard/SjRSYUFMUThqcHdEZ2JnV3ZJVkxhendnbzJUeHpxREozMUhBdlhKM2JSVml2TFFudTZ4dlQ2RDNNRjk5NllrUXwzMDc0NDU3MzY0MTkwNzY3NzU4fDI=?share_link_id=407431920605
+
 #### 3.4. Product Backlog
 
 | **Orden**| **User Story ID**| **Título**| **Descripción**| **Story Points**|
 | - | - | - | - | - |
-|1|US014|Navegacion por la landing page|Como visitante, quiero navegar por la landing page de Bliss para obtener mas informacion sobre el producto.|1|
-|2|TS001|Implementación del diseño responsivo|Como desarrollador, quiero implementar un diseño responsivo en la landing page de Bliss para que se vea bien en dispositivos de diferentes tamaños.|1|
-|3|US015|Visualizar alianzas	|Como visitante, quiero visualizar las alianzas que tiene Bliss para poder confiar en la experiencia que brinda el producto.|1|
-|4|TS003| Implementación de la sección de alianzas | Como desarrollador, quiero implementar la sección de alianzas en la landing page para mostrar las colaboraciones de Bliss con Montalvo, Soho Color y Artemis. |1|
-|5|US027|Visualizar objetivo de Bliss	|Como visitante de la landing page, quiero ver la información del equipo, para conocer a las personas detrás de la empresa y su experiencia.|1|
-|6|TS004| Implementación de la sección "Nuestra Visión" | Como desarrollador, quiero implementar la sección "Nuestra Visión" para mostrar la visión de Bliss en la landing page. |2| 
-|7|US028|Visualizar equipo de Bliss|Como visitante de la landing page, quiero ver la visión de la empresa  para entender los objetivos y valores fundamentales de la empresa.|2|
-|8|TS002| Implementación de la sección "Quiénes Somos" | Como desarrollador, quiero implementar la sección "Quiénes Somos" para mostrar al equipo de Bliss en la landing page. | 
-|9|US004|Recomendación por ubicación	|Como usuario, quiero visualizar como recomendados los servicios de belleza de establecimientos cercanos a mi ubicación actual.|3|
-|10|US005|Visualización de historial|Como usuario, quiero visualizar los servicios de belleza de establecimientos a los que ya he solicitado servicios anteriormente.|2|
-|11|US010|Personalización del Servicio	|Como usuario, quiero poder personalizar el servicio reservado, incluyendo peticiones extras y el tipo de producto.|2|
-|12|US013|Búsqueda de servicios|Como usuario, quiero buscar un servicio o establecimiento específico mediante un cuadro de texto de busqueda.|2|
-|13|US016|Crear reserva de citas|Como usuario de la aplicacion, quiero poder registrar una nueva reserva Para poder acceder a mi servicio deseado.|2|
-|14|US022|Creacion de servicio|Como empresa, quiero crear un servicio a traves de la aplicacion para que los usuarios de la aplicación lo visualizen.|2|
-|15|US023|Eliminación de servicio|Como empresa, quiero poder eliminar un servicio que yo cree para mantener los servicio relevantes y a mi criterio.|2|
-|16|US024|Actualización de servicios ofrecidos|Como empresa, quiero actualizar los servicios que ofrezco en la aplicación, incluyendo la actualización de disponibilidad.|2|
-|17|US006|Visualización de disponibilidad de citas|Como usuario, quiero poder ver la disponibilidad de citas de los centros de belleza y cuidado para elegir un horario conveniente para mí.|2|
-|18|US011|Reserva de citas periódicas	|Como usuario, quiero tener la opcion de reservar citas en conjunto, de tratamientos de cuidado y belleza que requieren de más de 2 citas periódicas.|2|
-|19|US021|Gestión de citas	|Como empresa, quiero gestionar las citas realizadas a través de la aplicación.|2|
-|20|US007|Notificación de confirmación de reserva|Como usuario, quiero recibir una notificación de confirmación después de reservar una cita en la aplicación para tener la seguridad de que se ha realizado correctamente.|1|
-|21|US008|Cancelación de cita por parte del cliente|Como usuario, quiero tener la opción de cancelar una cita reservada en la aplicación en caso de necesidad.|2|
-|22|US009|Dejar valoración y reseña después de la cita|Como usuario, quiero poder dejar una valoración y reseña sobre el servicio recibido después de completar una cita para ayudar a otros usuarios en su elección.|2|
-|23|US017|Ver perfil de cliente|Como ususario de la aplicacion, Quiero poder ver mi perfil Para acceder a mi informacion personal en mi cuenta.|1|
-|24|US018|Editar mi perfil de cliente|Como usuario de la palicacion, Quiero poder editar mi perfil para mantener actualizada mi cuenta.|3|
-|25|US019|Registro de perfil de empresa|Como empresa, quiero crear un perfil en la aplicación para mostrar información sobre mi negocio y los servicios que ofrezco.|1|
-|26|US020|Edición de perfil de especialista|Como empresa, quiero editar los perfiles de mis espicialistas en la aplicación para actualizar la información sobre mi negocio y servicios.|3|
-|27|US001|	Creación de cuenta|Como visitante de la aplicación web, quiero poder crear una cuenta en la aplicación proporcionando mi nombre, dirección de correo electrónico y contraseña.|3|
-|28|US003|Inicio de sesión de usuario|Como usuario registrado, quiero poder iniciar sesión en la aplicación utilizando mi correo electrónico y contraseña.|4|
-|29|US025|Suscripción al sistema de pagos|Como empresa, quiero suscribirme al sistema de pagos en la aplicación para gestionar los pagos de las citas de manera segura.|3|
-|30|US012|Pago a través de la App|Como usuario, quiero poder pagar el servicio de belleza directamente a la empresa a través de la aplicación.|4|
-|31|US026|Integración con calendario personal|Como usuario, quiero sincronizar mis citas y reservas con mi calendario personal (Google Calendar, Outlook) para mantenerme organizado.|2|
-|32|US002|Verificación de correo electrónico	|Como visitante, quiero recibir un correo electrónico de verificación después de registrarme para confirmar mi dirección de correo electrónico|3|
+| 1         | US027             | Visualizar objetivo de Bliss                  | Como visitante de la landing page, quiero ver la información del equipo, para conocer a las personas detrás de la empresa y su experiencia.                                   | 1                |
+| 2         | US030             | Visualizar visión del equipo                  | Como visitante del segmento empresa y cliente de la landing page, quiero ver la visión de la empresa para conocer mejor a la empresa                                          | 1                |
+| **3**     | US029             | Visualizar equipo de Bliss                    | Como visitante de la landing page, quiero ver la visión de la empresa para entender los objetivos y valores fundamentales de la empresa.                                      | 2                |
+| 4         | US028             | Navegación por la landing page                | Como visitante, quiero visualizar los datos más relevantes de Bliss para obtener más información sobre el producto.                                                           | 1                |
+| 5         | US025             | Solicitud de alianza                          | Como visitante del segmento empresa quiero solicitar información para convertirme en empresa asociada                                                                         | 2                |
+| **6**     | TS001             | Implementación del diseño responsivo          | Como desarrollador, quiero implementar un diseño responsivo en la landing page de Bliss para que se vea bien en dispositivos de diferentes tamaños.                           | 1                |
+| **7**     | TS002             | Implementación de la sección "Quiénes Somos"  | Como desarrollador, quiero implementar la sección "Quiénes Somos" para mostrar al equipo de Bliss en la landing page.                                                         | 2                |
+| **8**     | TS003             | Implementación de la sección de alianzas      | Como desarrollador, quiero implementar la sección de alianzas en la landing page para mostrar las colaboraciones de Bliss.                                                    | 1                |
+|      9    | US001             | Creación de cuenta                            | Como visitante, quiero crear una cuenta proporcionando mi nombre, dirección de correo electrónico y contraseña.                                                               | 3                |
+| 10        | US002             | Verificación de correo electrónico            | Como visitante, quiero recibir un correo electrónico de verificación después de registrarme para confirmar mi dirección de correo electrónico.                                | 3                |
+| 11        | US003             | Inicio de sesión de usuario                   | Como usuario registrado, quiero iniciar sesión utilizando mi correo electrónico y contraseña.                                                                                 | 4                |
+| 12        | US004             | Recomendación por ubicación                   | Como cliente, quiero visualizar como recomendados los servicios de belleza o cuidado de establecimientos cercanos a mi ubicación actual.                                      | 3                |
+| 13        | US005             | Visualización de historial                    | Como cliente, quiero visualizar los servicios de belleza de establecimientos a los que ya he solicitado servicios anteriormente.                                              | 2                |
+| 14        | US006             | Visualización de disponibilidad de citas      | Como cliente, quiero poder ver la disponibilidad de citas de los centros de belleza y cuidado para elegir un horario conveniente para mí.                                     | 2                |
+| 15        | US007             | Notificación de confirmación de reserva       | Como cliente, quiero recibir una notificación de confirmación después de reservar una cita para tener la seguridad de que se ha realizado correctamente.                      | 2                |
+| 16        | US008             | Cancelación de cita por parte del cliente     | Como cliente, quiero cancelar una cita reservada en la aplicación en caso de necesidad.                                                                                       | 3                |
+| 17        | US009             | Dejar valoración y reseña después de la cita  | Como cliente, quiero dejar una valoración y reseña sobre el servicio recibido después de completar una cita para ayudar a otros clientes en su elección.                      | 3                |
+| 18        | US010             | Personalización del Servicio                  | Como cliente, quiero personalizar algunos detalles del servicio reservado.                                                                                                    | 3                |
+| 19        | US011             | Reserva de citas periódicas                   | Como cliente, quiero tener la opción de agendar servicios que requieran mantenimientos periódicos en una sola reserva.                                                        | 5                |
+| 20        | US012             | Pago a través de la App                       | Como usuario, quiero poder pagar el servicio de belleza directamente a la empresa a través de la aplicación.                                                                  | 5                |
+| 21        | US013             | Búsqueda de servicios                         | Como usuario, quiero buscar un servicio o establecimiento específico mediante un cuadro de texto de búsqueda.                                                                 | 3                |
+| 22        | US015             | Ver perfil de cliente                         | Como cliente, quiero poder ver mi perfil para acceder a mi información personal en mi cuenta.                                                                                 | 2                |
+| 23        | US016             | Editar mi perfil de cliente                   | Como cliente, quiero editar mi perfil para mantener actualizada mi cuenta.                                                                                                    | 3                |
+| 24        | US017             | Registro de perfil de empresa                 | Como empresa, quiero crear un perfil para mostrar información sobre mi negocio y los servicios que ofrezco.                                                                   | 2                |
+| 25        | US018             | Editar mi perfil de especialista              | Como empresa, quiero editar los perfiles de mis especialistas en la aplicación para actualizar la información sobre mi negocio y servicios.                                   | 3                |
+| 26        | US019             | Registro de perfil de empresa                 | Como empresa, quiero crear un perfil en la aplicación para mostrar información sobre mi negocio y los servicios que ofrezco.                                                  | 2                |
+| 27        | US020             | Edición de perfil de especialista             | Como empresa, quiero editar los perfiles de mis especialistas en la aplicación para actualizar la información sobre mi negocio y servicios.                                   | 3                |
+| 28        | US021             | Gestión de citas                              | Como empresa, quiero gestionar las citas realizadas a través de la aplicación.                                                                                                | 2                |
+| 29        | US022             | Creación de servicio                          | Como empresa, quiero crear un servicio a través de la aplicación para que los usuarios de la aplicación lo visualicen.                                                        | 2                |
+| 30        | US023             | Eliminación de servicio                       | Como empresa, quiero poder eliminar un servicio que yo creé para mantener los servicios relevantes y a mi criterio.                                                           | 2                |
+| 31        | US024             | Actualización de servicios ofrecidos          | Como empresa, quiero actualizar los servicios que ofrezco en la aplicación, incluyendo la actualización de disponibilidad.                                                    | 2                |
+| 32        | US025             | Suscripción al sistema de pagos               | Como empresa, quiero suscribirme al sistema de pagos en la aplicación para gestionar los pagos de las citas de manera segura.                                                 | 3                |
+| 33        | US026             | Integración con calendario personal           | Como usuario, quiero sincronizar mis citas y reservas con mi calendario personal (Google Calendar, Outlook) para mantenerme organizado.                                       | 2                |
+| 34        | TS004             | Implementación de la sección "Nuestra Visión" | Como desarrollador, quiero implementar la sección "Nuestra Visión" para mostrar la visión de Bliss en la landing page.                                                        | 3                |
+| 35        | TS005             | Endpoint para registro                        | Como desarrollador, quiero crear un endpoint para permitir a los usuarios registrarse en la aplicación y autenticar su identidad para acceder a sus cuentas.                  | 5                |
+| 36        | TS006             | Endpoint para buscar servicios                | Como desarrollador, quiero implementar un endpoint que permita buscar servicios de belleza según filtros aplicados.                                                           | 5                |
+| 37        | TS007             | Endpoint para gestión de citas                | Como Developer, quiero crear un endpoint para permitir a los especialistas gestionar sus citas programadas, incluyendo la actualización, visualización y cancelación.         | 5                |
+| 38        | TS008             | Endpoint para gestión de reseñas              | Como Developer, quiero crear un endpoint para permitir a los usuarios dejar una reseña y valoración sobre el servicio recibido, así como consultar y gestionar estas reseñas. | 5                |
 
 
 ## Capítulo 4: Product Design
 ###  4.1. Style Guidelines
 #### 4.1.1. General Style Guidelines
 
-El enfoque del estilo del presente producto está enfocade en el uso de la estética glassmorphism ya que está acorde a las tendencias de uso de los últimos años en el sector de la belleza y el cuidad personal.
+##### Justificación del Diseño de BLISS
 
-A continuación mostraremos algunas imágenes de referencia del Style Guidelines document.
+###### 1. Elección de Colores
 
-<img src="resources/styleg1.png" width="300"><br>
-<img src="resources/styleg2.png" width="300"><br>
-<img src="resources/styleg3.png" width="300"><br>
-<img src="resources/styleg4.png" width="300"><br>
-<img src="resources/styleg5.png" width="300"><br>
+- **Paleta de Colores de la Temporada 2016:** La selección de colores en BLISS está inspirada en la paleta de colores de la temporada 2016. Estos colores aportan una apariencia moderna y atractiva, alineada con las tendencias de diseño contemporáneas.
+- **Coherencia con Identidad y Valores:** Los colores elegidos no solo siguen las tendencias de la temporada, sino que también reflejan la identidad y los valores de BLISS. Se busca transmitir profesionalismo, elegancia y un enfoque en el cuidado personal, sin dejar de lado la usabilidad. La combinación de estos colores crea un ambiente visualmente agradable y coherente con la marca.
 
-<br>
+<img src="resources/Main Colors.png"/>
+<img src="resources/Secondary Colors.png"/>
+<img src="resources/Neutral Colors.png"/>
+<img src="resources/Alert Colors.png"/>
+
+<img src="resources/logo.png"/>
+
+###### 2. Tipografías Utilizadas
+
+- **Montserrat y Tajawal:** La elección de las tipografías Montserrat y Tajawal contribuye a una experiencia de usuario óptima. Montserrat aporta una sensación de modernidad y claridad, ideal para títulos y encabezados, mientras que Tajawal proporciona una legibilidad excepcional para textos en árabe y en otros idiomas, asegurando que el contenido sea accesible para todos los usuarios.
+
+<img src="resources\Typography.png"/>
+
+###### 3. Uso de la Librería Simple Design System
+
+- **Componentes de Diseño:** BLISS emplea componentes de la librería Simple Design System para garantizar un diseño coherente y una interfaz de usuario intuitiva. Esta librería facilita la creación de una plataforma estética y funcional, proporcionando una base sólida para el diseño de la interfaz y la experiencia de usuario.
+
+###### 4. Selección de Iconos Relacionados con Belleza
+
+- **Iconos Específicos:** En BLISS, se han seleccionado iconos que representan elementos clave de servicios de belleza, como uñas, cabello, planchas y otros aspectos relacionados. Estos iconos incluyen:
+  - **Uñas:** Representan servicios de manicura y pedicura.
+  - **Cabello:** Reflejan servicios de corte, peinado y coloración.
+  - **Plancha:** Indica tratamientos de alisado y estilizado del cabello.
+  - **Otros Servicios de Belleza:** Incluyen iconos para tratamientos faciales, depilación, etc.
+
+<img src="resources/Icons-Regular.png"/>
 
 #### 4.1.2. Web Style Guidelines
+Tipografía Adaptativa en Web
+
+Para garantizar una lectura cómoda y accesible en diversos dispositivos, la tipografía en BLISS utiliza unidades relativas que permiten que los tamaños de fuente se ajusten automáticamente según el ancho de la pantalla. Este enfoque asegura que el texto sea claramente legible en cualquier dispositivo, desde teléfonos móviles hasta pantallas de escritorio, sin necesidad de hacer zoom o ajustes adicionales por parte del usuario.
+
+Jerarquía Visual en Pantallas Anchas
+
+La jerarquía visual en BLISS se mantiene utilizando una combinación efectiva de tamaños de fuente diferenciados para encabezados, subtítulos y texto de cuerpo. Los encabezados se destacan con tamaños de fuente mayores y estilos prominentes, lo que atrae la atención del usuario y facilita la navegación. El texto de cuerpo, aunque más pequeño, sigue siendo legible y está cuidadosamente espaciado para asegurar una lectura fluida y cómoda en pantallas más amplias.
+
+Espaciado y Distribución
+
+En el diseño web, el espaciado juega un papel crucial para evitar la congestión y mejorar la usabilidad. El espaciado entre líneas (interlineado) y entre párrafos está diseñado para mantener una presentación ordenada y clara. En pantallas más grandes, este espaciado se ajusta para evitar el desbordamiento del texto y asegurar una apariencia limpia y atractiva, mientras que en dispositivos móviles, se adapta para proporcionar una experiencia de lectura igualmente cómoda.
+
+Componentes Responsivos en Diseño Horizontal
+
+Filtros y Menús
+
+Los filtros y menús en BLISS se estructuran horizontalmente para maximizar el uso del espacio en pantallas anchas. Los filtros se presentan en una barra lateral o en un menú desplegable horizontal, lo que permite a los usuarios ajustar sus búsquedas de manera eficiente sin que el contenido principal se vea comprometido. Este diseño facilita una navegación intuitiva y accesible, manteniendo el flujo de la interfaz sin necesidad de desplazamiento vertical innecesario.
+
+Tarjetas (Cards)
+
+Las tarjetas en BLISS se organizan en una disposición horizontal para aprovechar el espacio disponible y mejorar la visualización de información. Cada tarjeta presenta detalles clave sobre servicios, especialistas y promociones, con un diseño que facilita la lectura y la interacción. El diseño horizontal de las tarjetas permite una vista más amplia del contenido y una navegación fluida entre diferentes secciones.
+
+Botones y Acciones
+
+Los botones en BLISS están estratégicamente ubicados y diseñados para ser fácilmente accesibles en pantallas anchas. Se colocan en ubicaciones visibles y se dimensionan adecuadamente para facilitar la interacción sin esfuerzo. El diseño horizontal de los botones permite un flujo natural en la navegación y asegura que las acciones principales estén siempre al alcance del usuario, promoviendo una experiencia de usuario eficiente.
+
+<img src="resources\spacing.png"/>
+
+
+<img src="resources\Desktop components.png">
+
+
 #### 4.1.3. Mobile Style Guidelines
+
+**Imágenes**
+
+Dentro de la página web se encontrarán imágenes relacionadas a los servicios usuales que permitan a los usuarios una comprensión de cada sección de la aplicación web.
+
+**Botones**
+
+Utilizaremos botones cuando necesitemos una acción del usuario para confirmar o cancelar los cambios ya sea de pestaña o personales.
+
+**Pop-Ups**
+
+Se utilizarán ventanas emergentes cuando se desee agregar un elemento ya sea un servicio o reseña para este.
+
+
+Para asegurar la legibilidad en dispositivos móviles, la tipografía se adapta a diferentes tamaños de pantalla mediante el uso de unidades relativas. Los tamaños de fuente se ajustan en función del ancho de la pantalla, permitiendo que el texto sea claramente legible sin importar el dispositivo.
+
+1.2 Jerarquía Visual
+
+La jerarquía visual se mantiene mediante el uso de tamaños de fuente diferenciados para encabezados, subtítulos, y texto de cuerpo. Los encabezados son más grandes y prominentes para captar la atención, mientras que el texto de cuerpo es más pequeño pero aún legible, asegurando una experiencia de lectura cómoda.
+
+1.3 Espaciado
+
+El espaciado entre líneas (interlineado) y el espaciado entre párrafos se ajusta para evitar el desbordamiento del texto y asegurar una presentación limpia y ordenada en pantallas más pequeñas.
+
+2. Componentes Responsivos Verticales
+
+2.1 Filtros
+
+Los filtros se presentan en una estructura vertical en dispositivos móviles para facilitar la navegación. Los filtros se agrupan en secciones desplegables que permiten a los usuarios ajustar sus búsquedas sin ocupar demasiado espacio en pantalla. Esta disposición vertical permite a los usuarios aplicar filtros rápidamente y ver los resultados sin necesidad de desplazarse horizontalmente.
+
+2.2 Tarjetas (Cards)
+
+Las tarjetas son un componente clave en la interfaz de BLISS, y se presentan en un diseño vertical para dispositivos móviles. Cada tarjeta contiene información esencial sobre servicios, especialistas, y promociones. El diseño vertical asegura que el contenido de las tarjetas sea fácil de leer y navegar, con un tamaño adecuado para tocar y seleccionar.
+
+
+
+2.3 Otros Elementos
+
+- Espaciado y Márgenes: Los márgenes y el espaciado entre componentes se ajustan para evitar la superposición y garantizar una experiencia de usuario fluida. En dispositivos móviles, el espaciado adicional entre elementos interactivos ayuda a prevenir toques accidentales.
+
+- Imágenes y Medios: Las imágenes se redimensionan y ajustan para adaptarse al tamaño de la pantalla, manteniendo la calidad visual sin comprometer la velocidad de carga. El contenido multimedia se presenta de manera vertical para facilitar la visualización en pantallas más pequeñas.
+
+- Navegación y Menús: Los menús de navegación se presentan en formato de menú desplegable o de tipo "hamburguesa" para maximizar el espacio en pantalla. La navegación vertical permite a los usuarios acceder a diferentes secciones sin desordenar la interfaz.
+
+<img src="resources\Mobile Style gideline typography.png"/>
+
+<img src="resources\Mobile Style gideline components.png"/>
+
 ### 4.2. Information Architecture
+
+La arquitectura de la información (AI) en el diseño presentado tiene como objetivo organizar el contenido y las funciones de manera que los usuarios puedan navegar fácilmente, encontrar lo que necesitan, y realizar acciones con mínima fricción. A continuación, se presentan algunos alcances clave sobre la AI en base a los pantallazos compartidos:
+
+Estructura jerárquica clara: La estructura de navegación es lineal y bien organizada. Las principales secciones como "Home", "Servicios", "Agenda" y "Perfil" están claramente definidas en la parte superior, lo que da a los usuarios acceso rápido a las áreas más importantes. Esto refleja una arquitectura jerárquica tradicional, donde las páginas y subpáginas están bien categorizadas.
+
+Facilitación de tareas: El diseño facilita que los usuarios completen tareas clave, como buscar y reservar servicios. El sistema de búsqueda y filtrado (ubicado a la izquierda) permite reducir resultados en base a etiquetas, precio, o categorías, lo que agiliza la experiencia de navegación y búsqueda, un componente clave en aplicaciones centradas en servicios.
+
+Flujo de usuario: El flujo desde la pantalla de inicio hasta el registro y la selección de servicios es lineal, asegurando que los usuarios puedan completar el proceso de manera intuitiva sin pasos confusos. La AI sigue un flujo orientado a tareas, que guía al usuario de manera secuencial hacia los resultados que busca (ej. selección de servicios, reservar citas).
+
+Diseño de grilla y consistencia visual: Los elementos de cada página están organizados en una grilla uniforme, con una consistencia visual que facilita la exploración. Esto ayuda a los usuarios a familiarizarse rápidamente con el diseño, ya que las mismas ubicaciones y estilos de elementos interactivos (botones, tarjetas de servicio) se repiten en varias páginas.
+
+Enfoque en accesibilidad y usabilidad: Las opciones como las categorías, los especialistas populares y las reseñas están claramente accesibles y estructuradas de manera que los usuarios puedan explorar y tomar decisiones sin esfuerzo. Esto garantiza que las opciones sean visibles y accesibles, sin necesidad de que los usuarios recuerden o busquen contenido previamente visitado.
+
+Personalización y control del usuario: El diseño ofrece personalización a través de funciones como la selección de horarios y la gestión de citas. Esto es un ejemplo de flexibilidad, donde los usuarios tienen el control sobre sus decisiones de reservas y pueden acceder fácilmente a sus calendarios para gestionar sus citas, mostrando una arquitectura adaptable a las necesidades individuales.
+
+Sistemas de recomendación: Los servicios recomendados y especialistas populares se presentan de manera prominente, lo cual demuestra que se han implementado sistemas de sugerencias basados en la interacción o preferencias del usuario. Estos bloques de información están bien ubicados para mejorar la relevancia y captar la atención sin ser intrusivos.
+
+Retroalimentación e interacción clara: Las interacciones están bien definidas. Por ejemplo, los botones de "reservar" o "más información" están colocados estratégicamente para proporcionar retroalimentación instantánea cuando el usuario interactúa con ellos, asegurando una navegación fluida y sin ambigüedades.
+
 #### 4.2.1. Organization Systems
 
-El sistema de organización del contenido está basado en categorías específicas como servicios, especialistas, y comentarios. Además, se incluyen promociones y ofertas especiales, lo cual sugiere un esquema de categorización por tópicos y audiencia. La organización visual se presenta en formato jerárquico, mostrando primero los servicios disponibles y luego los detalles específicos de cada uno, como los comentarios de los usuarios.
+El sistema de organización en BLISS está diseñado para estructurar la información y los servicios de manera clara y accesible. Aquí se detalla cómo se organiza el contenido y las funcionalidades en la aplicación:
+
+1. Estructura Principal de la Interfaz
+
+Home (Página Principal):
+
+Objetivo: Proporcionar una visión general de las ofertas y servicios disponibles.
+Contenido: Muestra salones cercanos, servicios recomendados, y especialistas populares. Esta sección sirve como punto de partida para explorar otras funcionalidades ya que se puede realizar una exploración por filtrado. 
+
+My Services (Mis Servicios):
+
+Objetivo: Permitir a los usuarios gestionar sus servicios reservados o favoritos.
+Contenido: Lista de servicios y reservas pasadas.
+
+Schedule (Agenda):
+
+Objetivo: Facilitar la gestión de citas y horarios.
+Contenido:  Lista de citas programadas con información de servicio, fecha y hora. 
+
+
 
 #### 4.2.2. Labeling Systems
 
-Las etiquetas utilizadas para representar la información son claras y concisas, buscando evitar la confusión. Por ejemplo, se utilizan etiquetas como "Servicios", "Especialistas", "Comentarios" y "Buscar" para guiar a los usuarios. Además, se emplean etiquetas específicas para describir los servicios, como "Limpieza y tratamiento de uñas" y "Diseño en Gel".
+A continuación los labels más importantes de la organización: 
+
+1. Salons Near to Me
+Descripción: Una funcionalidad que muestra los salones cercanos al usuario, con detalles básicos como nombre, ubicación, y tipo de servicios ofrecidos.
+Elementos:
+Vera's Salon y My Lucky: Ejemplos de salones que aparecen en la sección, cada uno con un resumen de su enfoque y características.
+
+2. Filter
+Funcionalidad: El usuario puede filtrar los resultados para refinar la búsqueda según criterios como tipo de servicio (Hair, Nails, Makeup) o categoría de salón.
+Popular Tags: Etiquetas populares que permiten a los usuarios encontrar rápidamente temas o servicios relevantes, como Agata (9) o Jelly Nails (15).
+Filter By Price: Un deslizador para ajustar el rango de precios, lo que permite encontrar servicios en un rango de $0 a $1000.
+3. Recommended Services
+Descripción: Una sección que muestra servicios destacados o recomendados, donde se pueden ver promociones y descuentos.
+
+4. Popular Specialist
+Descripción: Esta sección destaca a especialistas conocidos en la industria de la belleza, como Julian Jameson, con varias fotos del mismo especialista.
+
+Opciones de Visualización:
+Showing All 12 Results: Esta funcionalidad indica la cantidad de resultados mostrados y permite cambiar la visualización según las preferencias del usuario (por ejemplo, lista o cuadrícula).
+Views: ::: Opción para cambiar entre diferentes estilos de visualización como popularidad, precio, o productos destacados.
 
 #### 4.2.3. SEO Tags and Meta Tags
 
+##### 1. Meta Tags
+
+- **Meta Title**: `BLISS: Encuentra los Mejores Servicios de Belleza Cerca de Ti`
+- **Meta Description**: `Descubre los mejores salones de belleza y servicios personalizados con BLISS. Encuentra cortes de cabello, manicuras, pedicuras, maquillaje, y más cerca de ti. ¡Reserva ahora!`
+**Meta Keywords**: `servicios de belleza, salones cerca de mí, cortes de cabello, manicura, pedicura, maquillaje, BLISS`
+- **Meta Robots**: `index, follow`
+- **Meta Charset**: `UTF-8`
+
+##### 2. SEO Tags
+
+- **Open Graph Tags**:
+  - `og:title`: `BLISS: Encuentra los Mejores Servicios de Belleza Cerca de Ti`
+  - `og:description`: `Descubre los mejores salones de belleza y servicios personalizados con BLISS. Encuentra cortes de cabello, manicuras, pedicuras, maquillaje, y más cerca de ti. ¡Reserva ahora!`Los SEO Tags y Meta Tags son fundamentales para mejorar la visibilidad en motores de búsqueda y optimizar la experiencia del usuario. A continuación, se detallan los tags que se implementarán tanto en la Landing Page estática como en la Web Application del sistema de servicios personalizados:
+
+**Título:**
+
+Landing Page: 
+
+```html
+<title>Servicios Personalizados de Belleza - Encuentra a los Mejores Especialistas</title>
+```
+
+Web Application: 
+
+```html
+<title>Plataforma de Gestión de Citas de Belleza - Tu Centro, Tus Servicios</title>
+```
+
+**Meta Description**
+
+Landing Page: 
+
+```html 
+<meta name="description" content="Explora nuestra plataforma de servicios de belleza personalizados, donde puedes elegir entre una amplia gama de especialistas y tratamientos para el cuidado personal.">
+```
+
+Web Application: 
+```html
+<meta name="description" content="Gestiona fácilmente tus citas y servicios de belleza. Plataforma diseñada para clientes y negocios del sector de la estética.">
+```
+
+**Meta Keywords**
+
+Landing Page: 
+```html
+ <meta name="keywords" content="servicios de belleza, especialistas en estética, tratamientos personalizados, belleza profesional, reservas de belleza">
+```
+
+Web Application:
+```html
+<meta name="keywords" content="gestión de citas, servicios de belleza, reservas online, centro de estética, negocios de belleza">
+```
+
+**Meta Author**
+
+Landing Page:
+```html
+ <meta name="author" content="Equipo de Desarrollo - Servicios de Belleza Personalizados">
+```
+
+Web Application: 
+```html
+<meta name="author" content="Equipo de Desarrollo - Plataforma de Gestión de Belleza">
+```
 
 
 #### 4.2.4. Searching Systems
@@ -785,59 +1018,348 @@ El sistema de búsqueda está diseñado para facilitar el acceso rápido a la in
 
 El sistema de navegación incluye menús y botones claros que guían a los usuarios a través del contenido de manera efectiva. Los usuarios pueden navegar fácilmente entre las diferentes secciones, como "Servicios", "Comentarios", y "Promociones". La navegación está diseñada para ser intuitiva, permitiendo a los usuarios cumplir sus metas e interactuar de manera satisfactoria con el producto.
 
+### 4.3. Landing Page UX/UI Design
+
+#### 4.3.1 Landing Page Wireframe
+
+Para esta entrega realizamos una landing orientada a brindar una plataforma de servicios personalizados de belleza.
+
+<img src="resources/landing-wifreframe.png"/>
+
 #### 4.3.2. Landing Page Mock-up
+
+<img src="resources/landing-mockup.png"/>
+
 ### 4.4. Web Applications UX/UI Design
 
 
 #### 4.4.1. Web Applications Wireframes
+
+##### Client Section
+
+**Log In**
+
+<img src="resources/Wireframe - Login.png"/>
+
+**Sign In**
+
+<img src="resources/Wireframe - Register Client.png"/>
+
+**Home**
+
+<img src="resources/Wireframe - Panel principal Client Catálogo de Servicios.png"/>
+
+**Client Service history**
+
+<img src="resources/Wireframe - Panel principal Historial de Servicios.png"/>
+
+**Client Reservation**
+
+<img src="resources/Wireframe - Client Reservation.png"/>
+
+**Client My Reservations**
+
+<img src="resources/Wireframe - Panel principal Mis Reservas.png"/>
+
+**Client Appointment Detail**
+
+<img src="resources/Wireframe - Reservacion Appointment detail.png"/>
+
+**Client Success Reservation Dialog**
+
+<img src="resources/Wireframe - Reservacion success.png"/>
+
+
+##### Enterprise Section
+
+**Log In**
+<img src="resources/Wireframe-enterprise-login-version.png"/>
+
+**Enterprise profile**
+<img src="resources/Wireframe-enterprise-company Detail-version.png"/>
+
+**Enterprise profile form**
+<img src="resources/Wireframe-enterprise-formCompanyProfile.png"/>
+
+**Schedule**
+<img src="resources/Wireframe-enterprise-Schedule.png"/>
+
+**Enterprise detailed**
+<img src="resources/Wireframe-enterprise-detail-version.png"/>
+
+**Creating new service**
+<img src="resources/Wireframe-enterprise-formCompanyService.png"/>
+
+
 #### 4.4.2. Web Applications Wireflow Diagrams
+
+**User Goal: Creación de cuenta**
+
+User Persona: Cliente
+
+En este diagrama se observan los pasos para ingresar a Bliss, iniciando con un registro de usuario, si es que no se encuentra registrado puede realizarlo yendo a la pestaña de Sign In, de esta manera se accedera a la pantalla principal donde podra ver todos los servicios.
+
+<img src="resources/wireflow1.JPG"/>
+
+**User Goal: Ver perfil de cliente**
+
+User Persona: Cliente
+
+Dado que el usuario quiere observar su perfil y manerar su información personal, podra entrar en su perfil haciendo click en el avatar localizado en el navbar.
+
+<img src="resources/wireflow2.JPG"/>
+
+**User Goal: Crear reserva de citas**
+
+User Persona: Cliente
+
+En este diagrama se observa el registro de citas, primero nos encontramos en la pantalla de Servicios o Home, luego entramos a un detalle del servicio y el costo con más información sobre este. Prosigue con la posibilidad de  colocar personalización a tu servicio, hora, lugar y costos para finalmente mostrar un dialog de éxito en la reserva.
+
+<img src="resources/wireflow3.JPG"/>
+
+Link de LucidChart: https://lucid.app/lucidchart/7d2c78f1-74e6-4e06-bac7-fa7053cb3a4d/edit?viewport_loc=48%2C2306%2C2501%2C1217%2C0_0&invitationId=inv_d318f86c-78f2-4c1c-80b0-0c5715a137bd
+
 #### 4.4.3. Web Applications Mock-ups
+
+
+En esta sección se presentan y explican los Mock-ups de las aplicaciones Bliss, mostrando cómo los principios de diseño y arquitectura de información se han integrado en cada una de las interfaces. A través de los mock-ups, se evidencia claramente la implementación de los principios de diseño, como la consistencia, simplicidad y jerarquía visual, asegurando una experiencia de usuario clara y fluida.
+
+Además, hemos aplicado los elementos de diseño, como el uso estratégico de colores de la temporada y una tipografía legible y moderna, siguiendo los lineamientos establecidos en el Design System. Esto garantiza que la identidad visual del producto sea coherente en todas las plataformas, reflejando los valores de la marca Bliss y asegurando un atractivo visual alineado con los servicios de belleza que ofrecemos.
+
+También se destacan las decisiones tomadas en torno al diseño inclusivo, proporcionando accesibilidad para todos los usuarios, independientemente de sus capacidades. Se ha prestado especial atención a aspectos como el contraste de colores, la adaptación del contenido a diferentes tamaños de pantalla, y la inclusión de textos alternativos para imágenes y elementos interactivos.
+
+Finalmente, la arquitectura de la información está diseñada para facilitar la navegación del usuario. Los mock-ups muestran una estructura clara y organizada, permitiendo que el usuario acceda fácilmente a las secciones más relevantes (servicios, agendar citas, contacto, etc.) mediante una jerarquía visual clara y una organización lógica de los menús y categorías.
+
+**Service client Login**
+
+<img src="resources\desktop-login-version.png"/>
+
+**Service client Register**
+
+<img src="resources\desktop-register-version.png"/>
+
+**Service client or visitor main page**
+
+<img src="resources\desktop-home.png"/>
+
+**Enterprise information**
+
+<img src="resources\desktop-Company.png"/>
+
+**Service detail**
+
+<img src="resources\desktop-Service Detail.png"/>
+
+**Book an appointment form**
+
+<img src="resources\desktop-Book Appointment.png"/>
+
+**Appointment saved notification**
+
+<img src="resources\container.png"/>
+
+**Service Client profile**
+
+<img src="resources\desktop-user profile-version.png"/>
+
+**Service Client Confirmed future appointments**
+
+<img src= "resources\desktop-Schedule-1.png"/>
+
+**Service Client service history**
+
+<img src= "resources\desktop-Myservices.png"/>
+
+**Enterprise login**
+
+<img src="resources\desktop-login-version-1.png"/>
+
+**Enterprise registration**
+
+<img src="resources\desktop-formCompanyProfile.png"/>
+
+**Enterprise Profile**
+
+<img src="resources\desktop-company Detail-version.png"/>
+
+**Enterprise list of services**
+
+<img src="resources\desktop-company-Services.png"/>
+
+**Enterprise schedule**
+<img src="resources\desktop-Company-Schedule.png"/>
+
+**Enterprise add Service**
+
+<img src="resources\desktop-formCompanyService.png"/>
+
+En el diseño del mock-up presentado, se han implementado diversos principios y heurísticas de UX/UI para optimizar la experiencia del usuario.
+
+Consistencia es evidente en el uso uniforme de colores y tipografías en todos los elementos del diseño. Por ejemplo, el botón de "Buscar" mantiene un diseño y color consistente, lo que facilita su identificación y uso en toda la aplicación. Este enfoque asegura que los usuarios puedan interactuar de manera intuitiva con la interfaz, sin confusión sobre la función de los elementos.
+
+Simplicidad se refleja en la estructura limpia y ordenada del mock-up. El diseño evita la sobrecarga de información, presentando solo los elementos necesarios de manera clara. Las opciones principales, como los filtros de búsqueda y categorías de servicios, están destacadas y organizadas para facilitar una navegación sin esfuerzo.
+
+La jerarquía visual se utiliza para guiar a los usuarios hacia los elementos más importantes. Los botones de acción y las ofertas destacadas están ubicados en lugares prominentes y utilizan un tamaño y color que los hace resaltar, permitiendo a los usuarios encontrar y acceder rápidamente a las funcionalidades clave.
+
+El feedback es proporcionado a través de mensajes claros de confirmación y notificación de errores. Después de realizar una búsqueda, los usuarios ven mensajes que indican que los resultados se han actualizado o que hubo un problema, ayudando a clarificar el estado de sus acciones.
+
+Se asegura la visibilidad del estado del sistema al mostrar claramente qué filtros están activos y qué resultados se están mostrando. Esto mantiene a los usuarios informados sobre el estado actual de sus acciones y facilita el seguimiento de sus búsquedas.
+
+La concordancia entre el sistema y el mundo real se logra mediante el uso de un lenguaje familiar y sencillo. Los términos empleados, como "Corte de cabello" y "Manicura", son comunes en el ámbito de los servicios de belleza, lo que facilita la comprensión y navegación.
+
+El control y libertad del usuario se evidencian en la capacidad de modificar o eliminar filtros de búsqueda y regresar fácilmente a la página principal. Esto proporciona flexibilidad y permite a los usuarios ajustar sus búsquedas según sus necesidades.
+
+
+
 #### 4.4.2. Web Applications User Flow Diagrams
+
+<img src="resources\Prototype-flow (1).png"/>
+
+**User Goal: Creación de cuenta**
+
+User Persona: Cliente
+
+En este diagrama se observan los pasos para ingresar a Bliss, iniciando con un registro de usuario, si es que no se encuentra registrado puede realizarlo yendo a la pestaña de Sign In, de esta manera se accedera a la pantalla principal donde podra ver todos los servicios.
+
+<img src="resources/userflow1.JPG"/>
+
+**User Goal: Ver perfil de cliente**
+
+User Persona: Cliente
+
+Dado que el usuario quiere observar su perfil y manerar su información personal, podra entrar en su perfil haciendo click en el avatar localizado en el navbar.
+
+<img src="resources/userflow2.JPG"/>
+
+**User Goal: Crear reserva de citas**
+
+User Persona: Cliente
+
+En este diagrama se observa el registro de citas, primero nos encontramos en la pantalla de Servicios o Home, luego entramos a un detalle del servicio y el costo con más información sobre este. Prosigue con la posibilidad de  colocar personalización a tu servicio, hora, lugar y costos para finalmente mostrar un dialog de éxito en la reserva.
+
+<img src="resources/userflow3.JPG"/>
+
+Link de LucidChart: https://lucid.app/lucidchart/7d2c78f1-74e6-4e06-bac7-fa7053cb3a4d/edit?viewport_loc=48%2C2306%2C2501%2C1217%2C0_0&invitationId=inv_d318f86c-78f2-4c1c-80b0-0c5715a137bd
+
 ### 4.5. Web Applications Prototyping
+
+Para visualizar cómo se han aplicado las decisiones de diseño en la plataforma BLISS, hemos creado un prototipo interactivo. Este prototipo muestra la disposición de los elementos, los colores, tipografías y el espaciado en acción.
+
+Puedes explorar el prototipo en el siguiente enlace:
+
+[Ver Prototipo de BLISS](https://www.figma.com/proto/5gl2eOszEgsfeYKtZEmrQZ/BLISS-UX%2FUI-OPEN-SOURCE?node-id=1-2&t=72esfpcMUIWFgKgc-1)
+
+
 ### 4.6. Domain-Driven Software Architecture
 #### 4.6.1. Software Architecture Context Diagram
 
-<img src="resources/c4-model/bliss-context-diagram.png" />
+En el diagrama de contexto se consideraron tres actores clave para el negocio: los visitantes, que pueden convertirse en usuarios potenciales al visitar la página de inicio; los dueños del negocio, que incluyen tanto a estilistas como a empresas con salones de belleza; y los consumidores, que utilizan el producto final. 
+
+<img src="resources/C4-Model/bliss-context-diagram.png" />
 
 #### 4.6.2. Software Architecture Container Diagrams
+
+En el diagrama de contenedores, se ha propuesto una arquitectura monolítica modular en la cual los usuarios pueden conectarse a través de sus dispositivos móviles o navegadores a la aplicación. Esta aplicación interactúa con una API GATEWAY, la cual gestiona los cinco bounded contexts o módulos identificados. Todos estos contextos están integrados a una única base de datos.
+
+<img src="resources/C4-Model/container-diagram.png" />
+
 #### 4.6.3. Software Architecture Components Diagrams
+
+Los componentes del sistema siguen el patrón de arquitectura en capas, organizados en cinco áreas funcionales principales: Gestión de Servicios (Service Management), Gestión de Usuarios (User Management), Gestión de Reservas (Booking Management), Notificaciones (Notifications), y Gestión de Pagos (Payments). Cada área está estructurada en capas que separan claramente las responsabilidades de la lógica de presentación, la lógica de negocio, y el acceso a datos, lo que permite un diseño modular y fácil de mantener dentro del sistema monolítico. Esta organización en capas facilita la escalabilidad, el desarrollo independiente, y la reutilización de código, garantizando que cada área del sistema maneje sus propias reglas de negocio y operaciones de manera eficiente y coherente.
+
+##### Service Management Component
+
+<img src="resources/C4-Model/services-component.png" />
+
+##### User Management Component
+
+<img src="resources/C4-Model/user-component.png" />
+
+##### Booking Management Component
+
+<img src="resources/C4-Model/booking-component.png" />
+
+##### Notification Component
+
+<img src="resources/C4-Model/notification-component.png" />
+
+##### Payments Component
+
+<img src="resources/C4-Model/payments-component.png" />
+
 
 ### 4.7. Software Object-Oriented Design
 #### 4.7.1. Class Diagrams
 
 <br>
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/diego5m/labtest/main/opensource-images/DAOS-Class-Diagram.png" />
+</p>
+
+<br>
+
 #### 4.7.2. Class Dictionary
 
-| Clase | Nombre de Atributos | Definición | Tipo de dato | Unidad de Medida | Valores Restringidos |
-|-------|---------------------|------------|--------------|------------------|----------------------|
-| ***Customer*** |
-| 1 | firstName | Nombre del cliente | string | Cadena de caracteres | Permite solo caracteres o letras |
-| 2 | lastName | Apellido del cliente | string | Cadena de caracteres | Permite solo caracteres o letras |
-| 3 | numberDNI | Número de DNI del cliente | int | 2 bytes | Mayor a Cero |
-| ***User*** |
-| 1 | id | Identificador del usuario | integer | 2 bytes | Mayor a Cero |
-| 2 | emailAddress | Correo del usuario | string | Cadena de caracteres | Permite solo caracteres o letras |
-| 3 | password | Contraseña del usuario | string | Cadena de caracteres | Permite solo caracteres o letras |
-| 4 | loginDate | Fecha de inicio de sesión | boolean | 2 bytes | uno o cero |
-| 5 | registerDate | Fecha de registro | date | Días | Permite solo fechas |
-| ***Stylist Account*** |
-| 1 | firstName | Nombre del cliente | string | Cadena de caracteres | Permite solo caracteres o letras |
-| 2 | lastName | Apellido del cliente | string | Cadena de caracteres | Permite solo caracteres o letras |
-| 3 | numberDNI | Número de DNI del cliente | int | 2 bytes | Mayor a Cero |
-| ***Subscription*** |
-| 1 | id | Identificador de la suscripción | int | 2 bytes | Mayor a Cero |
-| 2 | subscriptionType | Tipo de suscripción | string | Cadena de caracteres | Permite solo caracteres o letras |
-| 3 | subscriptionOwner | Dueño de la suscripción | string | Cadena de caracteres | Permite solo caracteres o letras |
-| ***Notification*** |
-| 1 | notificationId | Identificador para cada notificación | int | 2 bytes | Mayor a Cero |
-| 2 | notificationType | Tipo de cada notificación | string | Cadena de caracteres | Permite solo caracteres o letras |
-| 3 | notificationContent | Contenido de la notificación | string | Cadena de caracteres | Permite solo caracteres o letras |
+| Clase | Nombre de Atributos | Definición | Tipo de dato |    Restricciones     |
+|-------|---------------------|------------|--------------|----------------------|
+| ***Beauty Salon*** |
+| 1 | ruc number | Número de RUC (Registro Único de Contribuyentes) | string | Se considera once dígitos numéricos para empresas en Perú |
+| 2 | email | Dirección de correo electrónico del Salón de Belleza | string | Permite solo el formato estándar de correo electrónico |
+| 3 | salonName | Nombre del Salón de Belleza | string | Permite solo caracteres o letras |
+| 4 | salonDescription | Descripción del Salón de Belleza | string | Permite solo caracteres o letras |
+| 5 | phone | Número telefónico del Salón de Belleza | string | Permite nueve caracteres por el formato nacional |
+| 6 | address | Información que indica la ubicación física del Salón de Belleza | string | Longitud máxima de 500 caracteres |
+| 7 | password | Cadena de caracteres para autenticar el acceso al sistema | string | Permite solo caracteres o letras almacenados usando hash |
+| ***Especialist*** |
+| 1 | firstName | Nombre del Especilista de Belleza | string | Permite solo caracteres o letras |
+| 2 | lastName | Apellido del Especilista | string | Permite solo caracteres o letras |
+| 3 | email | Dirección de correo electrónico del Especialista de Belleza | string | Permite solo el formato estándar de correo electrónico |
+| 4 | phone | Número telefónico del Especilista | string | Permite nueve caracteres por el formato nacional |
+| 5 | certificationNumber | Documento que acredita el nivel educativo del Especilista  | string | Cumplir con los formatos y normativas nacionales |
+| ***Services*** |
+| 1 | serviceName | Nombre del servicio a realizarse | string | Permite solo caracteres o letras |
+| 2 | serviceDetail | Detalles del servicio | string | Permite solo caracteres o letras |
+| ***Category*** |
+| 1 | name | Nombre de la categoria de servicio | string | Permite solo caracteres o letras |
+| 2 | description | Descripción de la categoria de servicio | string | Permite solo caracteres o letras |
+| ***Feedbacks*** |
+| 1 | punctuation | Puntuación del servicio realizado | string | Permite solo caracteres o letras |
+| 2 | comment | Comentario del servicio realizado | string | Permite solo caracteres o letras |
+| ***Custom Services*** |
+| 1 | customDetails | Detalles del la personalización del servicio a realizarse | string | Permite solo caracteres o letras |
+| 2 | description | Descripción del servicio a realizarse | string | Permite solo caracteres o letras |
+| 3 | price | Precio del servicio personalizado a realizarse | int | Valores numéricos con una o más cifras decimales, no se admite negativos |
+| ***Reservations*** |
+| 1 | reservationDate | Fecha de reservación del servicio a realizarse | string | Permite solo caracteres o letras en formato de fecha |
+| 2 | reservationHour | Hora de reservación del servicio a realizarse | int | Valores numéricos con una o más cifras decimales, no se admite negativos |
+| ***Customers*** |
+| 1 | firstName | Nombre del cliente | string | Permite solo caracteres o letras |
+| 2 | lastName | Apellido del cliente | string | Permite solo caracteres o letras |
+| 3 | email | Dirección de correo electrónico del cliente | string | Permite solo el formato estándar de correo electrónico |
+| 4 | phone | Número telefónico del cliente | string | Permite nueve caracteres por el formato nacional |
+| 5 | password | Cadena de caracteres para autenticar el acceso al sistema | string | Permite solo caracteres o letras almacenados usando hash |
+| ***Payments*** |
+| 1 | payDate | Fecha de pago del servicio realizado | string | Permite solo caracteres o letras en formato de fecha |
+| 2 | payStatus | Situación actual del pago asociado al servicio, incluido por seguridad | string | Permite solo un conjunto de caracteres o letras |
+| 3 | payMethod | Forma en que se realizó el pago por del servicio | string | Permite solo un conjunto de caracteres o letras |
+| ***Reservation Status*** |
+| 1 | status | Estado de la reservación realizada | string | Permite solo un conjunto de caracteres o letras |
+| 2 | details | Detalles del estado de la reservación realizada | string | Permite solo caracteres o letras |
+| ***Notifications*** |
+| 1 | notifiContent | Contenido de la notificación asociado al servicio reservado | string | Permite caracteres o letras |
+| 2 | notifiStatus | Indica el estado actual de la notificación asociado al servicio reservado | string | Permite solo un conjunto de caracteres o letras |
 
 <br>
 
 ### 4.8. Database Design
 #### 4.8.1. Database Diagram
+
+<br>
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/diego5m/labtest/main/opensource-images/DAOS-DB-Diagram.png" />
+</p>
 
 <br>
 
@@ -1119,7 +1641,7 @@ Usaremos buenas prácticas en cuanto al código de manera que sea coherente y so
         </tr>
         <tr>
             <td>Attendees (to planning meeting)</td>
-            <td>Sorano Medriano, Diego Martin/Rodriguez Villa, Elvia Marcela/Cabrera Buitron, Diego Ivan/ Rivas Sarango, David Alejandro / Bernaola Pérez, André Arturo</td>
+            <td>Soriano Medrano, Diego Martin/Rodriguez Villa, Elvia Marcela/Cabrera Buitron, Diego Ivan/ Rivas Sarango, David Alejandro / Bernaola Pérez, André Arturo</td>
         </tr>
         <tr>
             <td>Sprint n – 1 Review Summary</td>
@@ -1235,15 +1757,26 @@ URL Trello: https://trello.com/b/nl4FsaI0/si729-bliss-202402-grupo3
 | https://github.com/SI729-Bliss/Landing-Page/commits/main/ | main | 8101b46 | Update index.html | Update index.html | 18/08/2024 |
 | https://github.com/SI729-Bliss/Landing-Page/commits/main/ | main | 720fb82 | Update index.html | Update index.html | 18/08/2024 |
 
+<br/>
+
+
 ##### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
-<br>
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|-|-|-|-|-|-|
+|https://github.com/SI729-Bliss/Testing|feature/tb1-Bernaola|d4bc6df|feat: added us14 gherkin|feat: added us14 gherkin|30/08/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tb1-Bernaola|a00bea9|feat: added us15 gherkin|feat: added us14 gherkin|30/08/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tb1-Bernaola|fb81027|feat: added us27 gherkin|feat: added us14 gherkin|30/08/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tb1-Bernaola|2cd174a|feat: added us28 gherkin|feat: added us14 gherkin|30/08/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tb1-Bernaola|3400227|fix: renamed file name|fix: renamed file name|30/08/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tb1-Bernaola|e197a2c|fix: renamed file name|fix: renamed file name|30/08/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tb1-Bernaola|2455ef5|fix: renamed file name|fix: renamed file name|30/08/2024|
 
 ##### 5.2.1.5. Execution Evidence for Sprint Review
 
 En este primer sprint se desarrolló la Landing Page con Tailwind, siendo desplegada en GithubPages. En esta landing encontraremos los features principales con el primer diseño de acuerdo al mockup de este.
 
-
+<img src="resources/ssLanding1.JPG"/>
 
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
@@ -1251,31 +1784,54 @@ Para este primer sprint no fue contemplada la evidencia de documentación de los
 
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
-Link de Landing Page: https://upc-opensource-g-bliss.github.io/Landing-Page/
+<img src="resources/ssLanding1.JPG"/>
+<img src="resources/ssLanding2.JPG"/>
+<img src="resources/ssLanding3.JPG"/>
+<img src="resources/ssLanding4.JPG"/>
+<img src="resources/ssLanding5.JPG"/>
+<img src="resources/ssLanding6.JPG"/>
+<img src="resources/ssLanding7.JPG"/>
+
+Link de Landing Page: https://si729-bliss.github.io/Landing-Page/
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
 
-<br>
+<img src="resources/ssSprint1Evidence.JPG"/>
 
-#### 5.3.3. Evaluaciones según heurísticas
-
-
-### 5.3. Validation Interviews
+<img src="resources/ssSprint1Evidenc1.JPG"/>
 
 
-#### 5.3.1. Diseño de Entrevistas
+<img src="resources/ssSprint1Evidence2.JPG"/>
 
 
-#### 5.3.2. Registro de Entrevistas
+<!-- ### 5.3. Validation Interviews -->
 
 
-### 5.4. Video About-the-Product
+<!-- #### 5.3.1. Diseño de Entrevistas -->
+
+
+<!-- #### 5.3.2. Registro de Entrevistas -->
+
+
+<!-- #### 5.3.3. Evaluaciones según heurísticas -->
+
+
+<!-- ### 5.4. Video About-the-Product -->
 
 
 ## Conclusiones
+
+
+TB1: En esta primera entrega, nos adecuamos al proyecto con la ayuda de herramientas utilizadas como Figma o Miro. De esta manera, hemos trabajado de manera adecuada con ansias por desplegar y codear este proyecto con toda la retroalimentación posible.
 
 
 ## Bibliografía
 
 
 ## Anexos
+
+* **Landing Page:** https://si729-bliss.github.io/Landing-Page/
+* **Impact Mapping-Miro:** https://miro.com/welcomeonboard/SjRSYUFMUThqcHdEZ2JnV3ZJVkxhendnbzJUeHpxREozMUhBdlhKM2JSVml2TFFudTZ4dlQ2RDNNRjk5NllrUXwzMDc0NDU3MzY0MTkwNzY3NzU4fDI=?share_link_id=407431920605
+* **Trello:** https://trello.com/b/nl4FsaI0/si729-bliss-202402-grupo3
+* **Wireflows-Lucidchart:** https://lucid.app/lucidchart/7d2c78f1-74e6-4e06-bac7-fa7053cb3a4d/edit?beaconFlowId=85F79CDA3ED67A01&invitationId=inv_d318f86c-78f2-4c1c-80b0-0c5715a137bd&page=0_0#
+* **Figma:** https://www.figma.com/design/5gl2eOszEgsfeYKtZEmrQZ/BLISS-UX%2FUI-OPEN-SOURCE?node-id=0-1&t=Ykry5fgskkOCcXpg-1
