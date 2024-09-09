@@ -1055,6 +1055,24 @@ El sistema de navegación incluye menús y botones claros que guían a los usuar
 
 ##### Enterprise Section
 
+**Log In**
+<img src="resources/Wireframe-enterprise-login-version.png"/>
+
+**Enterprise profile**
+<img src="resourcesWireframe-enterprise-company Detail-version.png"/>
+
+**Enterprise profile form**
+<img src="resources/Wireframe-enterprise-formCompanyProfile.png"/>
+
+**Schedule**
+<img src="resources/Wireframe-enterprise-Schedule.png"/>
+
+**Enterprise detailed**
+<img src="resources/Wireframe-enterprise-detail-version.png"/>
+
+**Creating new service**
+<img src="resources/Wireframe-enterprise-formCompanyService.png"/>
+
 
 #### 4.4.2. Web Applications Wireflow Diagrams
 
