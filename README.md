@@ -742,9 +742,6 @@ Para la realizar el User Task Matrix se tomo a los dos sengmetos objetivos ya pr
 ###  4.1. Style Guidelines
 #### 4.1.1. General Style Guidelines
 
-El enfoque del estilo del presente producto está enfocade en el uso de la estética glassmorphism ya que está acorde a las tendencias de uso de los últimos años en el sector de la belleza y el cuidad personal.
-
-A continuación mostraremos algunas imágenes de referencia del Style Guidelines document.
 
 <img src="resources/Main Colors.png"/>
 <img src="resources/Secondary Colors.png"/>
@@ -767,18 +764,82 @@ A continuación mostraremos algunas imágenes de referencia del Style Guidelines
 
 ### 4.2. Information Architecture
 
+La arquitectura de la información (AI) en el diseño presentado tiene como objetivo organizar el contenido y las funciones de manera que los usuarios puedan navegar fácilmente, encontrar lo que necesitan, y realizar acciones con mínima fricción. A continuación, se presentan algunos alcances clave sobre la AI en base a los pantallazos compartidos:
+
+Estructura jerárquica clara: La estructura de navegación es lineal y bien organizada. Las principales secciones como "Home", "Servicios", "Agenda" y "Perfil" están claramente definidas en la parte superior, lo que da a los usuarios acceso rápido a las áreas más importantes. Esto refleja una arquitectura jerárquica tradicional, donde las páginas y subpáginas están bien categorizadas.
+
+Facilitación de tareas: El diseño facilita que los usuarios completen tareas clave, como buscar y reservar servicios. El sistema de búsqueda y filtrado (ubicado a la izquierda) permite reducir resultados en base a etiquetas, precio, o categorías, lo que agiliza la experiencia de navegación y búsqueda, un componente clave en aplicaciones centradas en servicios.
+
+Flujo de usuario: El flujo desde la pantalla de inicio hasta el registro y la selección de servicios es lineal, asegurando que los usuarios puedan completar el proceso de manera intuitiva sin pasos confusos. La AI sigue un flujo orientado a tareas, que guía al usuario de manera secuencial hacia los resultados que busca (ej. selección de servicios, reservar citas).
+
+Diseño de grilla y consistencia visual: Los elementos de cada página están organizados en una grilla uniforme, con una consistencia visual que facilita la exploración. Esto ayuda a los usuarios a familiarizarse rápidamente con el diseño, ya que las mismas ubicaciones y estilos de elementos interactivos (botones, tarjetas de servicio) se repiten en varias páginas.
+
+Enfoque en accesibilidad y usabilidad: Las opciones como las categorías, los especialistas populares y las reseñas están claramente accesibles y estructuradas de manera que los usuarios puedan explorar y tomar decisiones sin esfuerzo. Esto garantiza que las opciones sean visibles y accesibles, sin necesidad de que los usuarios recuerden o busquen contenido previamente visitado.
+
+Personalización y control del usuario: El diseño ofrece personalización a través de funciones como la selección de horarios y la gestión de citas. Esto es un ejemplo de flexibilidad, donde los usuarios tienen el control sobre sus decisiones de reservas y pueden acceder fácilmente a sus calendarios para gestionar sus citas, mostrando una arquitectura adaptable a las necesidades individuales.
+
+Sistemas de recomendación: Los servicios recomendados y especialistas populares se presentan de manera prominente, lo cual demuestra que se han implementado sistemas de sugerencias basados en la interacción o preferencias del usuario. Estos bloques de información están bien ubicados para mejorar la relevancia y captar la atención sin ser intrusivos.
+
+Retroalimentación e interacción clara: Las interacciones están bien definidas. Por ejemplo, los botones de "reservar" o "más información" están colocados estratégicamente para proporcionar retroalimentación instantánea cuando el usuario interactúa con ellos, asegurando una navegación fluida y sin ambigüedades.
 
 #### 4.2.1. Organization Systems
 
-El sistema de organización del contenido está basado en categorías específicas como servicios, especialistas, y comentarios. Además, se incluyen promociones y ofertas especiales, lo cual sugiere un esquema de categorización por tópicos y audiencia. La organización visual se presenta en formato jerárquico, mostrando primero los servicios disponibles y luego los detalles específicos de cada uno, como los comentarios de los usuarios.
+El sistema de organización en BLISS está diseñado para estructurar la información y los servicios de manera clara y accesible. Aquí se detalla cómo se organiza el contenido y las funcionalidades en la aplicación:
+
+1. Estructura Principal de la Interfaz
+Home (Página Principal):
+
+Objetivo: Proporcionar una visión general de las ofertas y servicios disponibles.
+Contenido: Muestra salones cercanos, servicios recomendados, y especialistas populares. Esta sección sirve como punto de partida para explorar otras funcionalidades.
+My Services (Mis Servicios):
+
+Objetivo: Permitir a los usuarios gestionar sus servicios reservados o favoritos.
+Contenido: Lista de servicios y reservas actuales, con opciones para editar o cancelar.
+Schedule (Agenda):
+
+Objetivo: Facilitar la gestión de citas y horarios.
+Contenido: Calendario o lista de citas programadas con opciones para agregar, modificar o cancelar citas.
+
+
 
 #### 4.2.2. Labeling Systems
 
-Las etiquetas utilizadas para representar la información son claras y concisas, buscando evitar la confusión. Por ejemplo, se utilizan etiquetas como "Servicios", "Especialistas", "Comentarios" y "Buscar" para guiar a los usuarios. Además, se emplean etiquetas específicas para describir los servicios, como "Limpieza y tratamiento de uñas" y "Diseño en Gel".
+A continuación los labels más importantes de la organización: 
+
+1. Salons Near to Me
+Descripción: Una funcionalidad que muestra los salones cercanos al usuario, con detalles básicos como nombre, ubicación, y tipo de servicios ofrecidos.
+Elementos:
+Vera's Salon y My Lucky: Ejemplos de salones que aparecen en la sección, cada uno con un resumen de su enfoque y características.
+
+2. Filtro
+Funcionalidad: El usuario puede filtrar los resultados para refinar la búsqueda según criterios como tipo de servicio (Hair, Nails, Makeup) o categoría de salón.
+Popular Tags: Etiquetas populares que permiten a los usuarios encontrar rápidamente temas o servicios relevantes, como Agata (9) o Jelly Nails (15).
+Filter By Price: Un deslizador para ajustar el rango de precios, lo que permite encontrar servicios en un rango de $0 a $1000.
+3. Recommended Services
+Descripción: Una sección que muestra servicios destacados o recomendados, donde se pueden ver promociones y descuentos.
+
+4. Popular Specialist
+Descripción: Esta sección destaca a especialistas conocidos en la industria de la belleza, como Julian Jameson, con varias fotos del mismo especialista.
+
+Opciones de Visualización:
+Showing All 12 Results: Esta funcionalidad indica la cantidad de resultados mostrados y permite cambiar la visualización según las preferencias del usuario (por ejemplo, lista o cuadrícula).
+Views: ::: Opción para cambiar entre diferentes estilos de visualización como popularidad, precio, o productos destacados.
 
 #### 4.2.3. SEO Tags and Meta Tags
 
+##### 1. Meta Tags
 
+- **Meta Title**: `BLISS: Encuentra los Mejores Servicios de Belleza Cerca de Ti`
+- **Meta Description**: `Descubre los mejores salones de belleza y servicios personalizados con BLISS. Encuentra cortes de cabello, manicuras, pedicuras, maquillaje, y más cerca de ti. ¡Reserva ahora!`
+**Meta Keywords**: `servicios de belleza, salones cerca de mí, cortes de cabello, manicura, pedicura, maquillaje, BLISS`
+- **Meta Robots**: `index, follow`
+- **Meta Charset**: `UTF-8`
+
+##### 2. SEO Tags
+
+- **Open Graph Tags**:
+  - `og:title`: `BLISS: Encuentra los Mejores Servicios de Belleza Cerca de Ti`
+  - `og:description`: `Descubre los mejores salones de belleza y servicios personalizados con BLISS. Encuentra cortes de cabello, manicuras, pedicuras, maquillaje, y más cerca de ti. ¡Reserva ahora!`
 
 #### 4.2.4. Searching Systems
 
