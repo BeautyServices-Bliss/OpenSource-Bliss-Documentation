@@ -953,7 +953,7 @@ Los componentes del sistema siguen el patrón CQRS, organizados en cinco áreas 
 <br>
 
 <p align="center">
-    <img src=" https://raw.githubusercontent.com/diego5m/labtest/main/opensource-images/DAOS-Class-Diagram.png "/>
+    <img src="https://raw.githubusercontent.com/diego5m/labtest/main/opensource-images/DAOS-Class-Diagram.png" />
 </p>
 
 <br>
@@ -1017,7 +1017,7 @@ Los componentes del sistema siguen el patrón CQRS, organizados en cinco áreas 
 <br>
 
 <p align="center">
-    <img src=" https://raw.githubusercontent.com/diego5m/labtest/main/opensource-images/DAOS-DB-Diagram.png "/>
+    <img src="https://raw.githubusercontent.com/diego5m/labtest/main/opensource-images/DAOS-DB-Diagram.png" />
 </p>
 
 <br>
