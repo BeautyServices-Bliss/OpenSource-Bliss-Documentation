@@ -778,6 +778,31 @@ Para la realizar el User Task Matrix se tomo a los dos sengmetos objetivos ya pr
 
 #### 4.1.2. Web Style Guidelines
 
+Tipografía Adaptativa en Web
+
+Para garantizar una lectura cómoda y accesible en diversos dispositivos, la tipografía en BLISS utiliza unidades relativas que permiten que los tamaños de fuente se ajusten automáticamente según el ancho de la pantalla. Este enfoque asegura que el texto sea claramente legible en cualquier dispositivo, desde teléfonos móviles hasta pantallas de escritorio, sin necesidad de hacer zoom o ajustes adicionales por parte del usuario.
+
+Jerarquía Visual en Pantallas Anchas
+
+La jerarquía visual en BLISS se mantiene utilizando una combinación efectiva de tamaños de fuente diferenciados para encabezados, subtítulos y texto de cuerpo. Los encabezados se destacan con tamaños de fuente mayores y estilos prominentes, lo que atrae la atención del usuario y facilita la navegación. El texto de cuerpo, aunque más pequeño, sigue siendo legible y está cuidadosamente espaciado para asegurar una lectura fluida y cómoda en pantallas más amplias.
+
+Espaciado y Distribución
+
+En el diseño web, el espaciado juega un papel crucial para evitar la congestión y mejorar la usabilidad. El espaciado entre líneas (interlineado) y entre párrafos está diseñado para mantener una presentación ordenada y clara. En pantallas más grandes, este espaciado se ajusta para evitar el desbordamiento del texto y asegurar una apariencia limpia y atractiva, mientras que en dispositivos móviles, se adapta para proporcionar una experiencia de lectura igualmente cómoda.
+
+Componentes Responsivos en Diseño Horizontal
+
+Filtros y Menús
+
+Los filtros y menús en BLISS se estructuran horizontalmente para maximizar el uso del espacio en pantallas anchas. Los filtros se presentan en una barra lateral o en un menú desplegable horizontal, lo que permite a los usuarios ajustar sus búsquedas de manera eficiente sin que el contenido principal se vea comprometido. Este diseño facilita una navegación intuitiva y accesible, manteniendo el flujo de la interfaz sin necesidad de desplazamiento vertical innecesario.
+
+Tarjetas (Cards)
+
+Las tarjetas en BLISS se organizan en una disposición horizontal para aprovechar el espacio disponible y mejorar la visualización de información. Cada tarjeta presenta detalles clave sobre servicios, especialistas y promociones, con un diseño que facilita la lectura y la interacción. El diseño horizontal de las tarjetas permite una vista más amplia del contenido y una navegación fluida entre diferentes secciones.
+
+Botones y Acciones
+
+Los botones en BLISS están estratégicamente ubicados y diseñados para ser fácilmente accesibles en pantallas anchas. Se colocan en ubicaciones visibles y se dimensionan adecuadamente para facilitar la interacción sin esfuerzo. El diseño horizontal de los botones permite un flujo natural en la navegación y asegura que las acciones principales estén siempre al alcance del usuario, promoviendo una experiencia de usuario eficiente.
 
 <img src="resources\spacing.png"/>
 
