@@ -960,30 +960,54 @@ Los componentes del sistema siguen el patrón CQRS, organizados en cinco áreas 
 
 #### 4.7.2. Class Dictionary
 
-| Clase | Nombre de Atributos | Definición | Tipo de dato | Unidad de Medida | Valores Restringidos |
-|-------|---------------------|------------|--------------|------------------|----------------------|
-| ***Customer*** |
-| 1 | firstName | Nombre del cliente | string | Cadena de caracteres | Permite solo caracteres o letras |
-| 2 | lastName | Apellido del cliente | string | Cadena de caracteres | Permite solo caracteres o letras |
-| 3 | numberDNI | Número de DNI del cliente | int | 2 bytes | Mayor a Cero |
-| ***User*** |
-| 1 | id | Identificador del usuario | integer | 2 bytes | Mayor a Cero |
-| 2 | emailAddress | Correo del usuario | string | Cadena de caracteres | Permite solo caracteres o letras |
-| 3 | password | Contraseña del usuario | string | Cadena de caracteres | Permite solo caracteres o letras |
-| 4 | loginDate | Fecha de inicio de sesión | boolean | 2 bytes | uno o cero |
-| 5 | registerDate | Fecha de registro | date | Días | Permite solo fechas |
-| ***Stylist Account*** |
-| 1 | firstName | Nombre del cliente | string | Cadena de caracteres | Permite solo caracteres o letras |
-| 2 | lastName | Apellido del cliente | string | Cadena de caracteres | Permite solo caracteres o letras |
-| 3 | numberDNI | Número de DNI del cliente | int | 2 bytes | Mayor a Cero |
-| ***Subscription*** |
-| 1 | id | Identificador de la suscripción | int | 2 bytes | Mayor a Cero |
-| 2 | subscriptionType | Tipo de suscripción | string | Cadena de caracteres | Permite solo caracteres o letras |
-| 3 | subscriptionOwner | Dueño de la suscripción | string | Cadena de caracteres | Permite solo caracteres o letras |
-| ***Notification*** |
-| 1 | notificationId | Identificador para cada notificación | int | 2 bytes | Mayor a Cero |
-| 2 | notificationType | Tipo de cada notificación | string | Cadena de caracteres | Permite solo caracteres o letras |
-| 3 | notificationContent | Contenido de la notificación | string | Cadena de caracteres | Permite solo caracteres o letras |
+| Clase | Nombre de Atributos | Definición | Tipo de dato |    Restricciones     |
+|-------|---------------------|------------|--------------|----------------------|
+| ***Beauty Salon*** |
+| 1 | ruc number | Número de RUC (Registro Único de Contribuyentes) | string | Se considera once dígitos numéricos para empresas en Perú |
+| 2 | email | Dirección de correo electrónico del Salón de Belleza | string | Permite solo el formato estándar de correo electrónico |
+| 3 | salonName | Nombre del Salón de Belleza | string | Permite solo caracteres o letras |
+| 4 | salonDescription | Descripción del Salón de Belleza | string | Permite solo caracteres o letras |
+| 5 | phone | Número telefónico del Salón de Belleza | string | Permite nueve caracteres por el formato nacional |
+| 6 | address | Información que indica la ubicación física del Salón de Belleza | string | Longitud máxima de 500 caracteres |
+| 7 | password | Cadena de caracteres para autenticar el acceso al sistema | string | Permite solo caracteres o letras almacenados usando hash |
+| ***Especialist*** |
+| 1 | firstName | Nombre del Especilista de Belleza | string | Permite solo caracteres o letras |
+| 2 | lastName | Apellido del Especilista | string | Permite solo caracteres o letras |
+| 3 | email | Dirección de correo electrónico del Especialista de Belleza | string | Permite solo el formato estándar de correo electrónico |
+| 4 | phone | Número telefónico del Especilista | string | Permite nueve caracteres por el formato nacional |
+| 5 | certificationNumber | Documento que acredita el nivel educativo del Especilista  | string | Cumplir con los formatos y normativas nacionales |
+| ***Services*** |
+| 1 | serviceName | Nombre del servicio a realizarse | string | Permite solo caracteres o letras |
+| 2 | serviceDetail | Detalles del servicio | string | Permite solo caracteres o letras |
+| ***Category*** |
+| 1 | name | Nombre de la categoria de servicio | string | Permite solo caracteres o letras |
+| 2 | description | Descripción de la categoria de servicio | string | Permite solo caracteres o letras |
+| ***Feedbacks*** |
+| 1 | punctuation | Puntuación del servicio realizado | string | Permite solo caracteres o letras |
+| 2 | comment | Comentario del servicio realizado | string | Permite solo caracteres o letras |
+| ***Custom Services*** |
+| 1 | customDetails | Detalles del la personalización del servicio a realizarse | string | Permite solo caracteres o letras |
+| 2 | description | Descripción del servicio a realizarse | string | Permite solo caracteres o letras |
+| 3 | price | Precio del servicio personalizado a realizarse | int | Valores numéricos con una o más cifras decimales, no se admite negativos |
+| ***Reservations*** |
+| 1 | reservationDate | Fecha de reservación del servicio a realizarse | string | Permite solo caracteres o letras en formato de fecha |
+| 2 | reservationHour | Hora de reservación del servicio a realizarse | int | Valores numéricos con una o más cifras decimales, no se admite negativos |
+| ***Customers*** |
+| 1 | firstName | Nombre del cliente | string | Permite solo caracteres o letras |
+| 2 | lastName | Apellido del cliente | string | Permite solo caracteres o letras |
+| 3 | email | Dirección de correo electrónico del cliente | string | Permite solo el formato estándar de correo electrónico |
+| 4 | phone | Número telefónico del cliente | string | Permite nueve caracteres por el formato nacional |
+| 5 | password | Cadena de caracteres para autenticar el acceso al sistema | string | Permite solo caracteres o letras almacenados usando hash |
+| ***Payments*** |
+| 1 | payDate | Fecha de pago del servicio realizado | string | Permite solo caracteres o letras en formato de fecha |
+| 2 | payStatus | Situación actual del pago asociado al servicio, incluido por seguridad | string | Permite solo un conjunto de caracteres o letras |
+| 3 | payMethod | Forma en que se realizó el pago por del servicio | string | Permite solo un conjunto de caracteres o letras |
+| ***Reservation Status*** |
+| 1 | status | Estado de la reservación realizada | string | Permite solo un conjunto de caracteres o letras |
+| 2 | details | Detalles del estado de la reservación realizada | string | Permite solo caracteres o letras |
+| ***Notifications*** |
+| 1 | notifiContent | Contenido de la notificación asociado al servicio reservado | string | Permite caracteres o letras |
+| 2 | notifiStatus | Indica el estado actual de la notificación asociado al servicio reservado | string | Permite solo un conjunto de caracteres o letras |
 
 <br>
 
