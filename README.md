@@ -1719,7 +1719,7 @@ Para este primer sprint no fue contemplada la evidencia de documentación de los
 <img src="resources/ssLanding6.JPG"/>
 <img src="resources/ssLanding7.JPG"/>
 
-Link de Landing Page: https://upc-opensource-g-bliss.github.io/Landing-Page/
+Link de Landing Page: https://si729-bliss.github.io/Landing-Page/
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
 
