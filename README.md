@@ -746,18 +746,28 @@ El enfoque del estilo del presente producto está enfocade en el uso de la esté
 
 A continuación mostraremos algunas imágenes de referencia del Style Guidelines document.
 
-<img src="resources/styleg1.png" width="300"><br>
-<img src="resources/styleg2.png" width="300"><br>
-<img src="resources/styleg3.png" width="300"><br>
-<img src="resources/styleg4.png" width="300"><br>
-<img src="resources/styleg5.png" width="300"><br>
-
-<br>
+<img src="resources/Main Colors.png"/>
+<img src="resources/Secondary Colors.png"/>
+<img src="resources/Neutral Colors.png"/>
+<img src="resources/Alert Colors.png"/>
+<img src="resources/logo.png"/>
+<img src="resources/Icons-Regular.png"/>
 
 #### 4.1.2. Web Style Guidelines
 
+<img src="resources\spacing.png"/>
+<img src="resources\Typography.png"/>
+<img src="resources\Desktop components.png">
+
+
 #### 4.1.3. Mobile Style Guidelines
+
+<img src="resources\Mobile Style gideline typography.png"/>
+<img src="resources\Mobile Style gideline components.png"/>
+
 ### 4.2. Information Architecture
+
+
 #### 4.2.1. Organization Systems
 
 El sistema de organización del contenido está basado en categorías específicas como servicios, especialistas, y comentarios. Además, se incluyen promociones y ofertas especiales, lo cual sugiere un esquema de categorización por tópicos y audiencia. La organización visual se presenta en formato jerárquico, mostrando primero los servicios disponibles y luego los detalles específicos de cada uno, como los comentarios de los usuarios.
@@ -917,8 +927,6 @@ Simplicidad se refleja en la estructura limpia y ordenada del mock-up. El diseñ
 
 La jerarquía visual se utiliza para guiar a los usuarios hacia los elementos más importantes. Los botones de acción y las ofertas destacadas están ubicados en lugares prominentes y utilizan un tamaño y color que los hace resaltar, permitiendo a los usuarios encontrar y acceder rápidamente a las funcionalidades clave.
 
-Accesibilidad se ha priorizado mediante el uso de alto contraste entre texto y fondo, y la inclusión de textos alternativos para imágenes. Esto asegura que el contenido sea legible para todos los usuarios, incluyendo aquellos con discapacidades visuales.
-
 El feedback es proporcionado a través de mensajes claros de confirmación y notificación de errores. Después de realizar una búsqueda, los usuarios ven mensajes que indican que los resultados se han actualizado o que hubo un problema, ayudando a clarificar el estado de sus acciones.
 
 Se asegura la visibilidad del estado del sistema al mostrar claramente qué filtros están activos y qué resultados se están mostrando. Esto mantiene a los usuarios informados sobre el estado actual de sus acciones y facilita el seguimiento de sus búsquedas.
@@ -927,7 +935,7 @@ La concordancia entre el sistema y el mundo real se logra mediante el uso de un 
 
 El control y libertad del usuario se evidencian en la capacidad de modificar o eliminar filtros de búsqueda y regresar fácilmente a la página principal. Esto proporciona flexibilidad y permite a los usuarios ajustar sus búsquedas según sus necesidades.
 
-La consistencia y estándares en el diseño siguen principios reconocidos, asegurando que los elementos interactivos como botones y enlaces funcionen como se espera y que la interfaz sea coherente en todas las páginas.
+
 
 #### 4.4.2. Web Applications User Flow Diagrams
 
