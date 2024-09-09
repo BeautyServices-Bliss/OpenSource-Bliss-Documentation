@@ -1253,19 +1253,19 @@ Puedes explorar el prototipo en el siguiente enlace:
 ### 4.6. Domain-Driven Software Architecture
 #### 4.6.1. Software Architecture Context Diagram
 
-En el diagrama de contexto se consideraron tres actores clave para el negocio: los visitantes, que pueden convertirse en usuarios potenciales al visitar la página de inicio; los dueños del negocio, que incluyen tanto a estilistas como a empresas con salones de belleza; y los consumidores, que utilizan el producto final.
+En el diagrama de contexto se consideraron tres actores clave para el negocio: los visitantes, que pueden convertirse en usuarios potenciales al visitar la página de inicio; los dueños del negocio, que incluyen tanto a estilistas como a empresas con salones de belleza; y los consumidores, que utilizan el producto final. 
 
 <img src="resources/C4-Model/bliss-context-diagram.png" />
 
 #### 4.6.2. Software Architecture Container Diagrams
 
-En el diagrama de contenedores, se ha propuesto una arquitectura monolítica en la cual los usuarios pueden conectarse a través de sus dispositivos móviles o navegadores a la aplicación. Esta aplicación interactúa con una API REST, la cual gestiona los cinco bounded contexts identificados. Todos estos contextos están integrados a una única base de datos.
+En el diagrama de contenedores, se ha propuesto una arquitectura monolítica modular en la cual los usuarios pueden conectarse a través de sus dispositivos móviles o navegadores a la aplicación. Esta aplicación interactúa con una API GATEWAY, la cual gestiona los cinco bounded contexts o módulos identificados. Todos estos contextos están integrados a una única base de datos.
 
 <img src="resources/C4-Model/container-diagram.png" />
 
 #### 4.6.3. Software Architecture Components Diagrams
 
-Los componentes del sistema siguen el patrón CQRS, organizados en cinco áreas clave: Service Management, User Management, Booking Management, Notifications, y Payments.
+Los componentes del sistema siguen el patrón de arquitectura en capas, organizados en cinco áreas funcionales principales: Gestión de Servicios (Service Management), Gestión de Usuarios (User Management), Gestión de Reservas (Booking Management), Notificaciones (Notifications), y Gestión de Pagos (Payments). Cada área está estructurada en capas que separan claramente las responsabilidades de la lógica de presentación, la lógica de negocio, y el acceso a datos, lo que permite un diseño modular y fácil de mantener dentro del sistema monolítico. Esta organización en capas facilita la escalabilidad, el desarrollo independiente, y la reutilización de código, garantizando que cada área del sistema maneje sus propias reglas de negocio y operaciones de manera eficiente y coherente.
 
 ##### Service Management Component
 
