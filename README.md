@@ -1703,13 +1703,21 @@ URL Trello: https://trello.com/b/nl4FsaI0/si729-bliss-202402-grupo3
 
 En este primer sprint se desarrolló la Landing Page con Tailwind, siendo desplegada en GithubPages. En esta landing encontraremos los features principales con el primer diseño de acuerdo al mockup de este.
 
-
+<img src="resources/ssLanding1.JPG"/>
 
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
 Para este primer sprint no fue contemplada la evidencia de documentación de los servicios.
 
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+<img src="resources/ssLanding1.JPG"/>
+<img src="resources/ssLanding2.JPG"/>
+<img src="resources/ssLanding3.JPG"/>
+<img src="resources/ssLanding4.JPG"/>
+<img src="resources/ssLanding5.JPG"/>
+<img src="resources/ssLanding6.JPG"/>
+<img src="resources/ssLanding7.JPG"/>
 
 Link de Landing Page: https://upc-opensource-g-bliss.github.io/Landing-Page/
 
