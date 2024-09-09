@@ -909,6 +909,25 @@ Finalmente, la arquitectura de la información está diseñada para facilitar la
 
 <img src="resources\desktop-formCompanyService.png"/>
 
+En el diseño del mock-up presentado, se han implementado diversos principios y heurísticas de UX/UI para optimizar la experiencia del usuario.
+
+Consistencia es evidente en el uso uniforme de colores y tipografías en todos los elementos del diseño. Por ejemplo, el botón de "Buscar" mantiene un diseño y color consistente, lo que facilita su identificación y uso en toda la aplicación. Este enfoque asegura que los usuarios puedan interactuar de manera intuitiva con la interfaz, sin confusión sobre la función de los elementos.
+
+Simplicidad se refleja en la estructura limpia y ordenada del mock-up. El diseño evita la sobrecarga de información, presentando solo los elementos necesarios de manera clara. Las opciones principales, como los filtros de búsqueda y categorías de servicios, están destacadas y organizadas para facilitar una navegación sin esfuerzo.
+
+La jerarquía visual se utiliza para guiar a los usuarios hacia los elementos más importantes. Los botones de acción y las ofertas destacadas están ubicados en lugares prominentes y utilizan un tamaño y color que los hace resaltar, permitiendo a los usuarios encontrar y acceder rápidamente a las funcionalidades clave.
+
+Accesibilidad se ha priorizado mediante el uso de alto contraste entre texto y fondo, y la inclusión de textos alternativos para imágenes. Esto asegura que el contenido sea legible para todos los usuarios, incluyendo aquellos con discapacidades visuales.
+
+El feedback es proporcionado a través de mensajes claros de confirmación y notificación de errores. Después de realizar una búsqueda, los usuarios ven mensajes que indican que los resultados se han actualizado o que hubo un problema, ayudando a clarificar el estado de sus acciones.
+
+Se asegura la visibilidad del estado del sistema al mostrar claramente qué filtros están activos y qué resultados se están mostrando. Esto mantiene a los usuarios informados sobre el estado actual de sus acciones y facilita el seguimiento de sus búsquedas.
+
+La concordancia entre el sistema y el mundo real se logra mediante el uso de un lenguaje familiar y sencillo. Los términos empleados, como "Corte de cabello" y "Manicura", son comunes en el ámbito de los servicios de belleza, lo que facilita la comprensión y navegación.
+
+El control y libertad del usuario se evidencian en la capacidad de modificar o eliminar filtros de búsqueda y regresar fácilmente a la página principal. Esto proporciona flexibilidad y permite a los usuarios ajustar sus búsquedas según sus necesidades.
+
+La consistencia y estándares en el diseño siguen principios reconocidos, asegurando que los elementos interactivos como botones y enlaces funcionen como se espera y que la interfaz sea coherente en todas las páginas.
 
 #### 4.4.2. Web Applications User Flow Diagrams
 
