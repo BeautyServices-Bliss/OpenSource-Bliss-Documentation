@@ -152,8 +152,8 @@ URL de la organización del proyecto: [https://github.com/upc-opensource-g-bliss
 
 | Criterio específico | Acciones realizadas | Conclusiones |
 |---------------------|---------------------|--------------|
-|Comunica oralmente con efectividad a diferentes rangos de audiencia.| **André Arturo Bernaola Pérez** <br> **TB1** <br> <br>**Diego Ivan Cabrera Buitron** <br> **TB1** <br> Para esta entrega identifiqué el problema a solucionar y así pude realizar los assumptions y las entrevistas de manera concreta. <br>**Elvia Marcela Rodriguez Villa** <br> **TB1** <br> <br>**David Alejandro Rivas Sarango** <br> **TB1** <br> <br>**Diego Martin Soriano Medrano** <br> **TB1** | |
-|Comunica por escrito con efectividad a diferentes rangos de audiencia|**André Arturo Bernaola Pérez** <br> **TB1** <br> <br>**Diego Ivan Cabrera Buitron** <br> **TB1** <br> Al identificar el problema, en la realización de las entrevistas, tomé muy en cuenta las necesidades de nuestro público objetico para poder analizarlas. <br>**Elvia Marcela Rodriguez Villa** <br> **TB1** <br> <br>**David Alejandro Rivas Sarango** <br> **TB1** <br> <br>**Diego Martin Soriano Medrano** <br> **TB1** <br> | |
+|Comunica oralmente con efectividad a diferentes rangos de audiencia.| **André Arturo Bernaola Pérez** <br> **TB1** <br> <br>**Diego Ivan Cabrera Buitron** <br> **TB1** <br> Para esta entrega identifiqué el problema a solucionar y así pude realizar los assumptions y las entrevistas de manera concreta. <br>**Elvia Marcela Rodriguez Villa** <br> **TB1** <br> <br>**David Alejandro Rivas Sarango** <br> **TB1** En esta entrega diseñe la aplicación web de acuerdo a los sectores entrevistados, nuestros ahora clientes deben sentirse cómodos con el servicio que les proporcionamos y estamos al tanto de la retroalimentación que se nos brinda para una mejora continua. <br> <br>**Diego Martin Soriano Medrano** <br> **TB1** <br> Para la primera entrega del trabajo, realicé diversas actividades, entre las cuales destaco la habilidad para comunicar efectivamente mis ideas y consideraciones sobre el desarrollo del proyecto a mis compañeros de grupo. <br> | |
+|Comunica por escrito con efectividad a diferentes rangos de audiencia|**André Arturo Bernaola Pérez** <br> **TB1** <br> <br>**Diego Ivan Cabrera Buitron** <br> **TB1** <br> Al identificar el problema, en la realización de las entrevistas, tomé muy en cuenta las necesidades de nuestro público objetico para poder analizarlas. <br>**Elvia Marcela Rodriguez Villa** <br> **TB1** <br> <br>**David Alejandro Rivas Sarango** <br> **TB1** Para esta entrega planteamos grupalmente las pautas que nos permitirán trabajar ordenadamente durante los sprints, siendo la documentación lo primero que realizamos, en mi caso realize las historias de usuario, que son vitales para los requisitos que debe cumplir el proyecto.<br> <br>**Diego Martin Soriano Medrano** <br> **TB1** <br> Para llevar a cabo el trabajo de manera organizada, se emplearon diversos canales de comunicación, a través de los cuales fue necesario transmitir por escrito nuestras consideraciones sobre partes específicas del proyecto. <br> | |
 
 ***
 
@@ -195,7 +195,7 @@ Para aprovechar al máximo la alta competitividad y el constante crecimiento de 
 |<img src="resources/diego.png" alt="diego">|**Diego Ivan Cabrera Buitron** <br> Mi nombre es **Diego Cabrera**, estoy cursando la carrera de Ingeniería de Software, me considero una persona responsable y perseverante. Al culminar mi carrera quiero especializarme en el sector de la ciberseguridad|
 |<img src="resources/rivas-foto.jpg"/>|**David Alejandro Rivas Sarango** <br> Mi nombre es **David Rivas**, actualmente estoy cursando la carrera de Ingeniería de Software en la UPC. Soy una persona honesta y responsable. Me interesa el área de Data Science, por esto estoy siguiendo cursos de capacitacion en SQL y Python.|
 |<img src="resources/rodriguez.jpg"/>|**Elvia Marcela Rodríguez Villa** <br> Soy Elvia Rodríguez, actual estudiante universitaria y egresada de Laboratoria. Soy actual embajadora del programa de estudiantes de Microsoft y fui participante de diversos voluntariados y Hackathons cómo Ciencia en tu Comunidad y el Laboratorio de Emprendimientos de SENAJU. Asimismo, soy maestra de inglés y suelo incorporar mis conocimientos de programación de interfaces de usuario en mi labor educativa. |
-|<img src="resources/foto.jpg"/>|**Diego Martin Soriano Medrano** <br/> Estudio la carrera de ingeniería de software. Me considero una persona creativa y paciente. Tengo conocimiento en el uso de diferentes herramientas informáticas y lenguajes de programación. que ayudan a realizar distintos tipos de trabajo y a resolver problemas. Parte de mis habilidades blandas es siempre tomar en cuenta la opinión de mis compañeros, lo cual me facilita el poder trabajar en equipo, para agilizar diferentes actividades.|
+|<img src="https://intranet.upc.edu.pe/programas/Imagen/Fotos/Upc/0540202114793.jpg"/>|**Diego Martin Soriano Medrano** <br/> Estudio la carrera de ingeniería de software. Me considero una persona creativa y paciente. Tengo conocimiento en el uso de diferentes herramientas informáticas y lenguajes de programación. que ayudan a realizar distintos tipos de trabajo y a resolver problemas. Parte de mis habilidades blandas es siempre tomar en cuenta la opinión de mis compañeros, lo cual me facilita el poder trabajar en equipo, para agilizar diferentes actividades.|
 
 ### 1.2. Solution Profile
 #### 1.2.1. Antecedentes y Problemática
@@ -694,6 +694,9 @@ Para la realizar el User Task Matrix se tomo a los dos sengmetos objetivos ya pr
 | TS008 | Endpoint para gestión de reseñas | Como Developer, quiero crear un endpoint para permitir a los usuarios dejar una reseña y valoración sobre el servicio recibido, así como consultar y gestionar estas reseñas. | **Escenario 1: Creación exitosa de reseña**<br>Dado que el Developer implementa el endpoint "/services/{serviceId}/reviews"<br>Cuando un usuario envía una solicitud POST con una reseña válida<br>Entonces la respuesta debe ser 201 Created con el encabezado 'Location' que enlace a "/services/{serviceId}/reviews/{reviewId}"<br>Y la reseña debe ser guardada en el sistema.<br>**Escenario 2: Datos de reseña faltantes o inválidos**<br>Dado que el Developer implementa el endpoint "/services/{serviceId}/reviews"<br>Cuando un usuario envía una solicitud POST con datos de reseña faltantes o inválidos<br>Entonces la respuesta debe ser 400 Bad Request con un mensaje que indique los campos requeridos o el formato incorrecto.<br>**Escenario 3: Consulta exitosa de reseñas**<br>Dado el endpoint "/services/{serviceId}/reviews"<br>Cuando un usuario envía una solicitud GET para obtener las reseñas de un servicio<br>Entonces la respuesta debe ser 200 OK con una lista de reseñas relacionadas con ese servicio.<br>**Escenario 4: Actualización exitosa de reseña**<br>Dado el endpoint "/services/{serviceId}/reviews/{reviewId}"<br>Y la reseña existe en el sistema<br>Cuando un usuario envía una solicitud PUT con información válida para actualizar la reseña<br>Entonces la respuesta debe ser 200 OK<br>Y la reseña debe reflejar las actualizaciones realizadas.<br>**Escenario 5: Eliminación exitosa de reseña**<br>Dado el endpoint "/services/{serviceId}/reviews/{reviewId}"<br>Y la reseña existe en el sistema<br>Cuando un usuario envía una solicitud DELETE<br>Entonces la respuesta debe ser 204 No Content<br>Y la reseña debe ser eliminada del sistema.<br>**Escenario 6: Reseña no encontrada**<br>Dado el endpoint "/services/{serviceId}/reviews/{reviewId}"<br>Cuando un usuario envía una solicitud GET, PUT o DELETE con un ID de reseña que no existe<br>Entonces la respuesta debe ser 404 Not Found indicando que la reseña no fue encontrada. | EP004   |
 
 ### 3.3. Impact Mapping
+
+<img src="resources/Impact map - Frame 1.jpg"/>
+
 #### 3.4. Product Backlog
 
 | **Orden**| **User Story ID**| **Título**| **Descripción**| **Story Points**|
@@ -777,7 +780,6 @@ Para la realizar el User Task Matrix se tomo a los dos sengmetos objetivos ya pr
 <img src="resources/Icons-Regular.png"/>
 
 #### 4.1.2. Web Style Guidelines
-
 Tipografía Adaptativa en Web
 
 Para garantizar una lectura cómoda y accesible en diversos dispositivos, la tipografía en BLISS utiliza unidades relativas que permiten que los tamaños de fuente se ajusten automáticamente según el ancho de la pantalla. Este enfoque asegura que el texto sea claramente legible en cualquier dispositivo, desde teléfonos móviles hasta pantallas de escritorio, sin necesidad de hacer zoom o ajustes adicionales por parte del usuario.
@@ -812,6 +814,19 @@ Los botones en BLISS están estratégicamente ubicados y diseñados para ser fá
 
 #### 4.1.3. Mobile Style Guidelines
 
+**Imágenes**
+
+Dentro de la página web se encontrarán imágenes relacionadas a los servicios usuales que permitan a los usuarios una comprensión de cada sección de la aplicación web.
+
+**Botones**
+
+Utilizaremos botones cuando necesitemos una acción del usuario para confirmar o cancelar los cambios ya sea de pestaña o personales.
+
+**Pop-Ups**
+
+Se utilizarán ventanas emergentes cuando se desee agregar un elemento ya sea un servicio o reseña para este.
+
+
 Para asegurar la legibilidad en dispositivos móviles, la tipografía se adapta a diferentes tamaños de pantalla mediante el uso de unidades relativas. Los tamaños de fuente se ajustan en función del ancho de la pantalla, permitiendo que el texto sea claramente legible sin importar el dispositivo.
 
 1.2 Jerarquía Visual
@@ -832,11 +847,9 @@ Los filtros se presentan en una estructura vertical en dispositivos móviles par
 
 Las tarjetas son un componente clave en la interfaz de BLISS, y se presentan en un diseño vertical para dispositivos móviles. Cada tarjeta contiene información esencial sobre servicios, especialistas, y promociones. El diseño vertical asegura que el contenido de las tarjetas sea fácil de leer y navegar, con un tamaño adecuado para tocar y seleccionar.
 
-2.3 Botones
 
-Los botones están diseñados para ser fácilmente accesibles y usables en dispositivos móviles. Se colocan en ubicaciones prominentes y tienen un tamaño adecuado para facilitar la interacción táctil. El diseño vertical de los botones permite un flujo natural de la navegación y asegura que las acciones principales estén siempre al alcance del usuario.
 
-2.4 Otros Elementos
+2.3 Otros Elementos
 
 - Espaciado y Márgenes: Los márgenes y el espaciado entre componentes se ajustan para evitar la superposición y garantizar una experiencia de usuario fluida. En dispositivos móviles, el espaciado adicional entre elementos interactivos ayuda a prevenir toques accidentales.
 
@@ -928,7 +941,59 @@ Views: ::: Opción para cambiar entre diferentes estilos de visualización como 
 
 - **Open Graph Tags**:
   - `og:title`: `BLISS: Encuentra los Mejores Servicios de Belleza Cerca de Ti`
-  - `og:description`: `Descubre los mejores salones de belleza y servicios personalizados con BLISS. Encuentra cortes de cabello, manicuras, pedicuras, maquillaje, y más cerca de ti. ¡Reserva ahora!`
+  - `og:description`: `Descubre los mejores salones de belleza y servicios personalizados con BLISS. Encuentra cortes de cabello, manicuras, pedicuras, maquillaje, y más cerca de ti. ¡Reserva ahora!`Los SEO Tags y Meta Tags son fundamentales para mejorar la visibilidad en motores de búsqueda y optimizar la experiencia del usuario. A continuación, se detallan los tags que se implementarán tanto en la Landing Page estática como en la Web Application del sistema de servicios personalizados:
+
+**Título:**
+
+Landing Page: 
+
+```html
+<title>Servicios Personalizados de Belleza - Encuentra a los Mejores Especialistas</title>
+```
+
+Web Application: 
+
+```html
+<title>Plataforma de Gestión de Citas de Belleza - Tu Centro, Tus Servicios</title>
+```
+
+**Meta Description**
+
+Landing Page: 
+
+```html 
+<meta name="description" content="Explora nuestra plataforma de servicios de belleza personalizados, donde puedes elegir entre una amplia gama de especialistas y tratamientos para el cuidado personal.">
+```
+
+Web Application: 
+```html
+<meta name="description" content="Gestiona fácilmente tus citas y servicios de belleza. Plataforma diseñada para clientes y negocios del sector de la estética.">
+```
+
+**Meta Keywords**
+
+Landing Page: 
+```html
+ <meta name="keywords" content="servicios de belleza, especialistas en estética, tratamientos personalizados, belleza profesional, reservas de belleza">
+```
+
+Web Application:
+```html
+<meta name="keywords" content="gestión de citas, servicios de belleza, reservas online, centro de estética, negocios de belleza">
+```
+
+**Meta Author**
+
+Landing Page:
+```html
+ <meta name="author" content="Equipo de Desarrollo - Servicios de Belleza Personalizados">
+```
+
+Web Application: 
+```html
+<meta name="author" content="Equipo de Desarrollo - Plataforma de Gestión de Belleza">
+```
+
 
 #### 4.2.4. Searching Systems
 
@@ -1139,37 +1204,61 @@ Los componentes del sistema siguen el patrón CQRS, organizados en cinco áreas 
 <br>
 
 <p align="center">
-    <img src=" https://raw.githubusercontent.com/diego5m/labtest/main/opensource-images/DAOS-Class-Diagram.png "/>
+    <img src="https://raw.githubusercontent.com/diego5m/labtest/main/opensource-images/DAOS-Class-Diagram.png" />
 </p>
 
 <br>
 
 #### 4.7.2. Class Dictionary
 
-| Clase | Nombre de Atributos | Definición | Tipo de dato | Unidad de Medida | Valores Restringidos |
-|-------|---------------------|------------|--------------|------------------|----------------------|
-| ***Customer*** |
-| 1 | firstName | Nombre del cliente | string | Cadena de caracteres | Permite solo caracteres o letras |
-| 2 | lastName | Apellido del cliente | string | Cadena de caracteres | Permite solo caracteres o letras |
-| 3 | numberDNI | Número de DNI del cliente | int | 2 bytes | Mayor a Cero |
-| ***User*** |
-| 1 | id | Identificador del usuario | integer | 2 bytes | Mayor a Cero |
-| 2 | emailAddress | Correo del usuario | string | Cadena de caracteres | Permite solo caracteres o letras |
-| 3 | password | Contraseña del usuario | string | Cadena de caracteres | Permite solo caracteres o letras |
-| 4 | loginDate | Fecha de inicio de sesión | boolean | 2 bytes | uno o cero |
-| 5 | registerDate | Fecha de registro | date | Días | Permite solo fechas |
-| ***Stylist Account*** |
-| 1 | firstName | Nombre del cliente | string | Cadena de caracteres | Permite solo caracteres o letras |
-| 2 | lastName | Apellido del cliente | string | Cadena de caracteres | Permite solo caracteres o letras |
-| 3 | numberDNI | Número de DNI del cliente | int | 2 bytes | Mayor a Cero |
-| ***Subscription*** |
-| 1 | id | Identificador de la suscripción | int | 2 bytes | Mayor a Cero |
-| 2 | subscriptionType | Tipo de suscripción | string | Cadena de caracteres | Permite solo caracteres o letras |
-| 3 | subscriptionOwner | Dueño de la suscripción | string | Cadena de caracteres | Permite solo caracteres o letras |
-| ***Notification*** |
-| 1 | notificationId | Identificador para cada notificación | int | 2 bytes | Mayor a Cero |
-| 2 | notificationType | Tipo de cada notificación | string | Cadena de caracteres | Permite solo caracteres o letras |
-| 3 | notificationContent | Contenido de la notificación | string | Cadena de caracteres | Permite solo caracteres o letras |
+| Clase | Nombre de Atributos | Definición | Tipo de dato |    Restricciones     |
+|-------|---------------------|------------|--------------|----------------------|
+| ***Beauty Salon*** |
+| 1 | ruc number | Número de RUC (Registro Único de Contribuyentes) | string | Se considera once dígitos numéricos para empresas en Perú |
+| 2 | email | Dirección de correo electrónico del Salón de Belleza | string | Permite solo el formato estándar de correo electrónico |
+| 3 | salonName | Nombre del Salón de Belleza | string | Permite solo caracteres o letras |
+| 4 | salonDescription | Descripción del Salón de Belleza | string | Permite solo caracteres o letras |
+| 5 | phone | Número telefónico del Salón de Belleza | string | Permite nueve caracteres por el formato nacional |
+| 6 | address | Información que indica la ubicación física del Salón de Belleza | string | Longitud máxima de 500 caracteres |
+| 7 | password | Cadena de caracteres para autenticar el acceso al sistema | string | Permite solo caracteres o letras almacenados usando hash |
+| ***Especialist*** |
+| 1 | firstName | Nombre del Especilista de Belleza | string | Permite solo caracteres o letras |
+| 2 | lastName | Apellido del Especilista | string | Permite solo caracteres o letras |
+| 3 | email | Dirección de correo electrónico del Especialista de Belleza | string | Permite solo el formato estándar de correo electrónico |
+| 4 | phone | Número telefónico del Especilista | string | Permite nueve caracteres por el formato nacional |
+| 5 | certificationNumber | Documento que acredita el nivel educativo del Especilista  | string | Cumplir con los formatos y normativas nacionales |
+| ***Services*** |
+| 1 | serviceName | Nombre del servicio a realizarse | string | Permite solo caracteres o letras |
+| 2 | serviceDetail | Detalles del servicio | string | Permite solo caracteres o letras |
+| ***Category*** |
+| 1 | name | Nombre de la categoria de servicio | string | Permite solo caracteres o letras |
+| 2 | description | Descripción de la categoria de servicio | string | Permite solo caracteres o letras |
+| ***Feedbacks*** |
+| 1 | punctuation | Puntuación del servicio realizado | string | Permite solo caracteres o letras |
+| 2 | comment | Comentario del servicio realizado | string | Permite solo caracteres o letras |
+| ***Custom Services*** |
+| 1 | customDetails | Detalles del la personalización del servicio a realizarse | string | Permite solo caracteres o letras |
+| 2 | description | Descripción del servicio a realizarse | string | Permite solo caracteres o letras |
+| 3 | price | Precio del servicio personalizado a realizarse | int | Valores numéricos con una o más cifras decimales, no se admite negativos |
+| ***Reservations*** |
+| 1 | reservationDate | Fecha de reservación del servicio a realizarse | string | Permite solo caracteres o letras en formato de fecha |
+| 2 | reservationHour | Hora de reservación del servicio a realizarse | int | Valores numéricos con una o más cifras decimales, no se admite negativos |
+| ***Customers*** |
+| 1 | firstName | Nombre del cliente | string | Permite solo caracteres o letras |
+| 2 | lastName | Apellido del cliente | string | Permite solo caracteres o letras |
+| 3 | email | Dirección de correo electrónico del cliente | string | Permite solo el formato estándar de correo electrónico |
+| 4 | phone | Número telefónico del cliente | string | Permite nueve caracteres por el formato nacional |
+| 5 | password | Cadena de caracteres para autenticar el acceso al sistema | string | Permite solo caracteres o letras almacenados usando hash |
+| ***Payments*** |
+| 1 | payDate | Fecha de pago del servicio realizado | string | Permite solo caracteres o letras en formato de fecha |
+| 2 | payStatus | Situación actual del pago asociado al servicio, incluido por seguridad | string | Permite solo un conjunto de caracteres o letras |
+| 3 | payMethod | Forma en que se realizó el pago por del servicio | string | Permite solo un conjunto de caracteres o letras |
+| ***Reservation Status*** |
+| 1 | status | Estado de la reservación realizada | string | Permite solo un conjunto de caracteres o letras |
+| 2 | details | Detalles del estado de la reservación realizada | string | Permite solo caracteres o letras |
+| ***Notifications*** |
+| 1 | notifiContent | Contenido de la notificación asociado al servicio reservado | string | Permite caracteres o letras |
+| 2 | notifiStatus | Indica el estado actual de la notificación asociado al servicio reservado | string | Permite solo un conjunto de caracteres o letras |
 
 <br>
 
@@ -1179,7 +1268,7 @@ Los componentes del sistema siguen el patrón CQRS, organizados en cinco áreas 
 <br>
 
 <p align="center">
-    <img src=" https://raw.githubusercontent.com/diego5m/labtest/main/opensource-images/DAOS-DB-Diagram.png "/>
+    <img src="https://raw.githubusercontent.com/diego5m/labtest/main/opensource-images/DAOS-DB-Diagram.png" />
 </p>
 
 <br>
