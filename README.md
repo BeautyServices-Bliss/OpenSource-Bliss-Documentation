@@ -755,6 +755,7 @@ A continuación mostraremos algunas imágenes de referencia del Style Guidelines
 <br>
 
 #### 4.1.2. Web Style Guidelines
+
 #### 4.1.3. Mobile Style Guidelines
 ### 4.2. Information Architecture
 #### 4.2.1. Organization Systems
@@ -829,10 +830,85 @@ El sistema de navegación incluye menús y botones claros que guían a los usuar
 
 ##### Enterprise Section
 
+
 #### 4.4.2. Web Applications Wireflow Diagrams
+
+<img src="resources\Prototype-flow (1).png"/>
+
 #### 4.4.3. Web Applications Mock-ups
+
+**Service client Login**
+
+<img src="resources\desktop-login-version.png"/>
+
+**Service client Register**
+
+<img src="resources\desktop-register-version.png"/>
+
+**Service client or visitor main page**
+
+<img src="resources\desktop-home.png"/>
+
+**Enterprise information**
+
+<img src="resources\desktop-Company.png"/>
+
+**Service detail**
+
+<img src="resources\desktop-Service Detail.png"/>
+
+**Book an appointment form**
+
+<img src="resources\desktop-Book Appointment.png"/>
+
+**Appointment saved notification**
+
+<img src="resources\container.png"/>
+
+**Service Client profile**
+
+<img src="resources\desktop-user profile-version.png"/>
+
+**Service Client Confirmed future appointments**
+
+<img src= "resources\desktop-Schedule-1.png"/>
+
+**Service Client service history**
+
+<img src= "resources\desktop-Myservices.png"/>
+
+**Enterprise login**
+
+<img src="resources\desktop-login-version-1.png"/>
+
+**Enterprise registration**
+
+<img src="resources\desktop-formCompanyProfile.png"/>
+
+**Enterprise Profile**
+
+<img src="resources\desktop-company Detail-version.png"/>
+
+**Enterprise list of services**
+
+<img src="resources\desktop-company-Services.png"/>
+
+**Enterprise schedule**
+<img src="resources\desktop-Company-Schedule.png"/>
+
+**Enterprise add Service**
+
+<img src="resources\desktop-formCompanyService.png"/>
+
+
 #### 4.4.2. Web Applications User Flow Diagrams
+
+
+
 ### 4.5. Web Applications Prototyping
+
+
+
 ### 4.6. Domain-Driven Software Architecture
 #### 4.6.1. Software Architecture Context Diagram
 
