@@ -38,6 +38,15 @@
 | 2         |18/08/2024|Cabrera Diego|Desarrollo del capítulo 1 y Entrevistas|
 | 3         |24/08/2024|Rivas David,  Rodriguez Elvia|Desarrollo de las US y Product Backlog|
 |4          |25/08/2024|Bernaola Andre|Implementación de la Landing Page|
+|5          |25/08/2024|Soriano Diego|Elaboracion de Diagrama de Clases|
+|6          |28/08/2024|Soriano Diego|Elaboración de diegrama de base de datos|
+|7          |28/08/2024|Rivas David|Capítulo 5|
+|8          |30/08/2024|Cabrera Diego|Arreglo de entrevistas|
+|9          |01/09/2024|Bernaola Andre|Elaboración de modelos C4|
+|10          |04/09/2024|Rivas David|SEO and Meta tags|
+|11          |07/09/2024| Rivas David|Puntos 4.7 y 4.8|
+|12          |09/09/2024|Rodriguez Elvia, Rivas David|Implementación de Wireframes, Mockups y Prototipo|
+
 
 <br/>
 
@@ -56,7 +65,9 @@ URL de la organización del proyecto: [https://github.com/upc-opensource-g-bliss
 
 **TB1 Github**
 
-<br/>
+<img src="resources/ssSprint1Evidence.JPG"/>
+
+<img src="resources/ssSprint1Evidence1.JPG"/>
 
 ***
 
@@ -695,7 +706,11 @@ Para la realizar el User Task Matrix se tomo a los dos sengmetos objetivos ya pr
 
 ### 3.3. Impact Mapping
 
+El Impact Mapping es una técnica estratégica utilizada para alinear los objetivos del negocio con los entregables de producto, ayudando a visualizar cómo diferentes actores pueden contribuir a alcanzar las metas establecidas. En el proyecto Bliss, esta técnica nos ha permitido identificar los actores clave, definir los cambios esperados en su comportamiento, y establecer las acciones que el equipo debe llevar a cabo para provocar esos cambios, logrando así cumplir con los Business Goals (objetivos de negocio).
+
 <img src="resources/Impact map - Frame 1.jpg"/>
+
+Link de Miro: https://miro.com/welcomeonboard/SjRSYUFMUThqcHdEZ2JnV3ZJVkxhendnbzJUeHpxREozMUhBdlhKM2JSVml2TFFudTZ4dlQ2RDNNRjk5NllrUXwzMDc0NDU3MzY0MTkwNzY3NzU4fDI=?share_link_id=407431920605
 
 #### 3.4. Product Backlog
 
@@ -1099,6 +1114,8 @@ User Persona: Cliente
 En este diagrama se observa el registro de citas, primero nos encontramos en la pantalla de Servicios o Home, luego entramos a un detalle del servicio y el costo con más información sobre este. Prosigue con la posibilidad de  colocar personalización a tu servicio, hora, lugar y costos para finalmente mostrar un dialog de éxito en la reserva.
 
 <img src="resources/wireflow3.JPG"/>
+
+Link de LucidChart: https://lucid.app/lucidchart/7d2c78f1-74e6-4e06-bac7-fa7053cb3a4d/edit?viewport_loc=48%2C2306%2C2501%2C1217%2C0_0&invitationId=inv_d318f86c-78f2-4c1c-80b0-0c5715a137bd
 
 #### 4.4.3. Web Applications Mock-ups
 
@@ -1750,9 +1767,11 @@ Link de Landing Page: https://si729-bliss.github.io/Landing-Page/
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
 
-<br>
+<img src="resources/ssSprint1Evidence.JPG"/>
 
+<img src="resources/ssSprint1Evidenc1.JPG"/>
 
+<img src="resources/ssSprint1Evidence2.JPG"/>
 
 <!-- ### 5.3. Validation Interviews -->
 
@@ -1769,6 +1788,7 @@ Link de Landing Page: https://si729-bliss.github.io/Landing-Page/
 
 ## Conclusiones
 
+TB1:
 
 ## Bibliografía
 
