@@ -694,6 +694,9 @@ Para la realizar el User Task Matrix se tomo a los dos sengmetos objetivos ya pr
 | TS008 | Endpoint para gestión de reseñas | Como Developer, quiero crear un endpoint para permitir a los usuarios dejar una reseña y valoración sobre el servicio recibido, así como consultar y gestionar estas reseñas. | **Escenario 1: Creación exitosa de reseña**<br>Dado que el Developer implementa el endpoint "/services/{serviceId}/reviews"<br>Cuando un usuario envía una solicitud POST con una reseña válida<br>Entonces la respuesta debe ser 201 Created con el encabezado 'Location' que enlace a "/services/{serviceId}/reviews/{reviewId}"<br>Y la reseña debe ser guardada en el sistema.<br>**Escenario 2: Datos de reseña faltantes o inválidos**<br>Dado que el Developer implementa el endpoint "/services/{serviceId}/reviews"<br>Cuando un usuario envía una solicitud POST con datos de reseña faltantes o inválidos<br>Entonces la respuesta debe ser 400 Bad Request con un mensaje que indique los campos requeridos o el formato incorrecto.<br>**Escenario 3: Consulta exitosa de reseñas**<br>Dado el endpoint "/services/{serviceId}/reviews"<br>Cuando un usuario envía una solicitud GET para obtener las reseñas de un servicio<br>Entonces la respuesta debe ser 200 OK con una lista de reseñas relacionadas con ese servicio.<br>**Escenario 4: Actualización exitosa de reseña**<br>Dado el endpoint "/services/{serviceId}/reviews/{reviewId}"<br>Y la reseña existe en el sistema<br>Cuando un usuario envía una solicitud PUT con información válida para actualizar la reseña<br>Entonces la respuesta debe ser 200 OK<br>Y la reseña debe reflejar las actualizaciones realizadas.<br>**Escenario 5: Eliminación exitosa de reseña**<br>Dado el endpoint "/services/{serviceId}/reviews/{reviewId}"<br>Y la reseña existe en el sistema<br>Cuando un usuario envía una solicitud DELETE<br>Entonces la respuesta debe ser 204 No Content<br>Y la reseña debe ser eliminada del sistema.<br>**Escenario 6: Reseña no encontrada**<br>Dado el endpoint "/services/{serviceId}/reviews/{reviewId}"<br>Cuando un usuario envía una solicitud GET, PUT o DELETE con un ID de reseña que no existe<br>Entonces la respuesta debe ser 404 Not Found indicando que la reseña no fue encontrada. | EP004   |
 
 ### 3.3. Impact Mapping
+
+
+
 #### 3.4. Product Backlog
 
 | **Orden**| **User Story ID**| **Título**| **Descripción**| **Story Points**|
@@ -752,11 +755,36 @@ A continuación mostraremos algunas imágenes de referencia del Style Guidelines
 <img src="resources/styleg4.png" width="300"><br>
 <img src="resources/styleg5.png" width="300"><br>
 
-<br>
-
 #### 4.1.2. Web Style Guidelines
 
+La aplicación web se enfoca en una estética moderna y sencilla con colores pasteles que indican una experiencia de usuario serena.
+
+**Imágenes**
+
+Dentro de la página web se encontrarán imágenes relacionadas a los servicios usuales que permitan a los usuarios una comprensión de cada sección de la aplicación web.
+
+**Botones**
+
+Utilizaremos botones cuando necesitemos una acción del usuario para confirmar o cancelar los cambios ya sea de pestaña o personales.
+
+**Pop-Ups**
+
+Se utilizarán ventanas emergentes cuando se desee agregar un elemento ya sea un servicio o reseña para este.
+
 #### 4.1.3. Mobile Style Guidelines
+
+**Imágenes**
+
+Dentro de la página web se encontrarán imágenes relacionadas a los servicios usuales que permitan a los usuarios una comprensión de cada sección de la aplicación web.
+
+**Botones**
+
+Utilizaremos botones cuando necesitemos una acción del usuario para confirmar o cancelar los cambios ya sea de pestaña o personales.
+
+**Pop-Ups**
+
+Se utilizarán ventanas emergentes cuando se desee agregar un elemento ya sea un servicio o reseña para este.
+
 ### 4.2. Information Architecture
 #### 4.2.1. Organization Systems
 
