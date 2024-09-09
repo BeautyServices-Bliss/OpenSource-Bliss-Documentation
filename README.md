@@ -1059,7 +1059,7 @@ El sistema de navegación incluye menús y botones claros que guían a los usuar
 <img src="resources/Wireframe-enterprise-login-version.png"/>
 
 **Enterprise profile**
-<img src="resourcesWireframe-enterprise-company Detail-version.png"/>
+<img src="resources/Wireframe-enterprise-company Detail-version.png"/>
 
 **Enterprise profile form**
 <img src="resources/Wireframe-enterprise-formCompanyProfile.png"/>
