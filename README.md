@@ -1513,12 +1513,12 @@ Para la organizacion del proyecto requerimos de un sistema de de asignación de 
         <tr>
             <td> Web Services </td>
             <td> Bliss-web-services: </td>
-            <td> https://github.com/SI729-Bliss/ </td>
+            <td> https://github.com/SI729-Bliss/Bliss-web-services </td>
         </tr>
         <tr>
             <td> Front Web Application </td>
             <td> Bliss-Frontend </td>
-            <td> https://github.com/SI729-Bliss/ </td>
+            <td> https://github.com/SI729-Bliss/Bliss-Frontend-Web-Applications </td>
         </tr>
     </tbody>
 </table>
@@ -1542,18 +1542,61 @@ Usaremos el flujo de trabajo planteado por Vincent Driessen en "A successful Git
    
 Teniendo en cuenta la información anterior nos inclinamos por este tipo de organización en los branches:
 
-* **Main branch:** Esta rama esta destinada a la producción de la aplicación, cada cambio deberá tener autorización de un compañero de equipo para evitar cambios sin verificar.
+* **Main branch:** Esta rama estará destinada a la producción de la aplicación, cada cambio deberá tener autorización de un compañero de equipo para evitar cambios sin verificar.
 * **Hotfix branch:** En esta rama se incluirán todas las versiones que poseen errores identificados y que con cada arreglo de este se despliegue otra vez a Main Branch además de implementarla en lo que será Develop Branch.
+  
+  <table>
+    <body>
+      <tr>
+        <td>Hotfix Convention</td>
+        <td>Example</td>
+      </tr>
+      <tr>
+        <td>hotfix/{what-is-fixed}</td>
+        <td>hotfix/security-patch</td>
+      </tr>
+    </body>
+  </table>
+  
 * **Release branch:** Esta rama se utilizará para una previa a lo que será el Main Branch, aquí se seguirá de cerca a la aplicación en otros ambientes en busca de bugs.
-* **Develop branch:** Esta rama está destinada a las constantes implementaciones en caliente de los features, 
-* **Features branch:** Cada feature poseerá su respectiva rama, una vez que se encuentre correctamente implementada será fusionada con Develop branch.
+  
+  <table>
+    <body>
+      <tr>
+        <td>Release Convention</td>
+        <td>Example</td>
+      </tr>
+      <tr>
+        <td>release/{version}</td>
+        <td>release/1.0.0</td>
+      </tr>
+    </body>
+  </table>
+  
+* **Develop branch:** Esta rama está destinada a las constantes implementaciones en caliente de los features.
+* **Features branch:** Cada feature poseerá su respectiva rama, una vez que se encuentre correctamente implementada será fusionada con Develop branch. Cada una de las ramas feature serán llamadas con el bounded-context correspondiente:
+  
+  <table>
+    <body>
+      <tr>
+        <td>Feature Convention</td>
+        <td>Example</td>
+      </tr>
+      <tr>
+        <td>feature/{bounded-context}</td>
+        <td>feature/feedback</td>
+      </tr>
+    </body>
+  </table>
 
-Con cada deployment de la aplicación debe establecerse como una nueva versión.
+Convenciones de Commits: Se adoptará la especificación Conventional Commits, basada en las directrices de Angular Commit Guidelines.
+
+Con cada deployment de la aplicación debe establecerse como una nueva versión del producto.
 
 
 #### 5.1.3. Source Code Style Guide & Conventions
 
-Usaremos buenas prácticas en cuanto al código de manera que sea coherente y sostenible.
+Usaremos buenas prácticas en cuanto al código de manera que sea coherente y sostenible, asegurándonos de seguir principios de desarrollo y la escritura de código limpio y fácilmente legible. Con esto, buscamos crear una base sólida que facilite la escalabilidad, el mantenimiento a largo plazo, y la colaboración eficiente entre los miembros del equipo.
 
 **HTML:**
 
@@ -1569,8 +1612,30 @@ Usaremos buenas prácticas en cuanto al código de manera que sea coherente y so
 * En cuanto a las imágenes, especificar el ancho (Width) de acuerdo a la etiqueta padre.
 * Cada etiqueta, nombre y clase será nombrada de acuerdo al propósito y clasificación del elemento.
 * Separación de palabras con un guion "-".
-* Margin y padding en "*" con valor de 0.
+* Los valores de margin y padding en * serán inicializados en 0 para evitar inconsistencias.
 
+**Typescript:**
+
+* Se usan nombres muy descriptivos para las funciones, variables y archivos.
+* Evitar el uso de var, optando por let y const según sea apropiado.
+
+**Angular:**
+
+* Se trabaja de acuerdo a los bounded context y cada uno de estos tendra su component, servicios y clases que son carpetas separadas.
+* Los componentes seguirán la convención de nombres en PascalCase (por ejemplo, UserProfileComponent).
+  
+**Java:**
+
+* Se adoptarán las convenciones de la Google Java Style Guide, lo que incluye nombres de clases en PascalCase y variables/metodos en camelCase.
+* El uso de Javadoc será obligatorio para documentar clases públicas y sus métodos.
+* Las líneas de código no superarán los 100 caracteres para asegurar la legibilidad.
+* Se evitará el uso de sentencias null y se preferirá el uso de clases como Optional cuando sea necesario.
+
+**Gherkin:**
+
+* Se utilizan las palabras ("Given","When","Then","And") para la estrucura de cada feature.
+* Cada scenario será claro y descriptivo, reflejando el comportamiento esperado desde la perspectiva del usuario.
+* Los archivos .feature serán mantenidos en inglés, asegurando consistencia con el código.
 
 #### 5.1.4.Software Deployment Configuration
 
