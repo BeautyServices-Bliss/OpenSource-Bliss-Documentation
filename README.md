@@ -1291,7 +1291,9 @@ Para visualizar cómo se han aplicado las decisiones de diseño en la plataforma
 
 Puedes explorar el prototipo en el siguiente enlace:
 
-[Ver Prototipo de BLISS](https://www.figma.com/proto/5gl2eOszEgsfeYKtZEmrQZ/BLISS-UX%2FUI-OPEN-SOURCE?node-id=1-2&t=72esfpcMUIWFgKgc-1)
+<img src="resources/ssPrototypingWeb.JPG"/>
+
+Link del prototipo: https://www.figma.com/proto/5gl2eOszEgsfeYKtZEmrQZ/BLISS-UX%2FUI-OPEN-SOURCE?node-id=1-2&t=72esfpcMUIWFgKgc-1
 
 
 ### 4.6. Domain-Driven Software Architecture
