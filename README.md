@@ -1807,6 +1807,8 @@ URL Trello: https://trello.com/b/nl4FsaI0/si729-bliss-202402-grupo3
 
 ##### 5.2.1.3. Development Evidence for Sprint Review
 
+Como primeras evidencias de lo que se desarrolló durante el sprint tenemos a la implmementación de la Landing Page, iniciando con la creación del proyecto y luego dando paso a commits que presentan un avance en cada sección del mismo.
+
 **Landing Page**
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
@@ -1818,10 +1820,9 @@ URL Trello: https://trello.com/b/nl4FsaI0/si729-bliss-202402-grupo3
 | https://github.com/SI729-Bliss/Landing-Page/commits/main/ | main | 8101b46 | Update index.html | Update index.html | 18/08/2024 |
 | https://github.com/SI729-Bliss/Landing-Page/commits/main/ | main | 720fb82 | Update index.html | Update index.html | 18/08/2024 |
 
-<br/>
-
-
 ##### 5.2.1.4. Testing Suite Evidence for Sprint Review
+
+Al realizar una landing page, se cumplieron con la totalidad de user stories relacionados a la Landing Page. Se documentó cada US completada en el repositorio Testing en archivos .feature con la sintaxis de Gherkin.
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |-|-|-|-|-|-|
@@ -1838,14 +1839,6 @@ URL Trello: https://trello.com/b/nl4FsaI0/si729-bliss-202402-grupo3
 En este primer sprint se desarrolló la Landing Page con Tailwind, siendo desplegada en GithubPages. En esta landing encontraremos los features principales con el primer diseño de acuerdo al mockup de este.
 
 <img src="resources/ssLanding1.JPG"/>
-
-##### 5.2.1.6. Services Documentation Evidence for Sprint Review
-
-Para este primer sprint no fue contemplada la evidencia de documentación de los servicios.
-
-##### 5.2.1.7. Software Deployment Evidence for Sprint Review
-
-<img src="resources/ssLanding1.JPG"/>
 <img src="resources/ssLanding2.JPG"/>
 <img src="resources/ssLanding3.JPG"/>
 <img src="resources/ssLanding4.JPG"/>
@@ -1853,17 +1846,51 @@ Para este primer sprint no fue contemplada la evidencia de documentación de los
 <img src="resources/ssLanding6.JPG"/>
 <img src="resources/ssLanding7.JPG"/>
 
+##### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+Para este primer sprint no fue contemplada la evidencia de documentación de los servicios.
+
+##### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+En la entrega de este primer sprint, se desplegó la Landing Page de Bliss completamente funcional y con las user stories completas. Siendo desplegada en Github Pages,
+
+**Landing Page:**
+  
+1) Subir el código fuente de nuestra Landig Page a nuestro repositorio destino en GitHub.
+2) Ir a la página de configuración de nuestro repositorio de GitHub.
+3) Seleccionar el apartado de Pages.
+
+<img src="resources/gthbpgsss1.JPG" />
+
+4) Elegir la rama main y folder(/root).
+5) Una vez hecho el paso anterior se estaría contruyendo y poco tiempo después tendriamos que observar la landing desplegada.
+
+<img src="resources/ssLanding1.JPG"/>
+<img src="resources/ssLanding2.JPG"/>
+
 Link de Landing Page: https://si729-bliss.github.io/Landing-Page/
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
 
+|**Integrante**|**Acciones realizadas durante el sprint**|
+|-|-|
+|Andre Bernaola|Elaborar secciones de landing page.|
+|Elvia Rodriguez|Diseño de la sección "Hero" y nav.|
+|David Rivas| Diseño de la sección "Alianzas" y "Nuestra visión".|
+|Diego Soriano|Diseño del footer y "Miembros del equipo".|
+|Diego Carbajal|Diseño de la sección "Pricing".|
+
+Repositorio Documentación:
 <img src="resources/ssSprint1Evidence.JPG"/>
 
-<img src="resources/ssSprint1Evidenc1.JPG"/>
-
+<img src="resources/ssSprint1Evidence1.JPG"/>
 
 <img src="resources/ssSprint1Evidence2.JPG"/>
 
+Repositorio Landing Page:
+
+<img src="resources/ssLandingEvidence1.JPG"/>
+<img src="resources/ssLandingEvidence2.JPG"/>
 
 <!-- ### 5.3. Validation Interviews -->
 
