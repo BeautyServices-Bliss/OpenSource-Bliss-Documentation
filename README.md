@@ -1176,64 +1176,98 @@ Finalmente, la arquitectura de la información está diseñada para facilitar la
 
 **Service client Login**
 
+En la sección Log In los usuarios pueden ingresar los datos para ingresar a la aplicación web.
+
 <img src="resources\desktop-login-version.png"/>
 
 **Service client Register**
+
+En esta sección encontrarán un formulario de registro para ser usuarios de la aplicación.
 
 <img src="resources\desktop-register-version.png"/>
 
 **Service client or visitor main page**
 
+Sección donde se encuentra la lista de servicios presentados al usuario.
+
 <img src="resources\desktop-home.png"/>
 
 **Enterprise information**
+
+Se muestra información acerca de la empresa que ofrece cierto servicio.
 
 <img src="resources\desktop-Company.png"/>
 
 **Service detail**
 
+Se muestra el detalle del servicio con su precio base y características del servicio.
+
 <img src="resources\desktop-Service Detail.png"/>
 
 **Book an appointment form**
+
+En esta sección se llena el formulario con la fecha, personalización al servicio y precio final.
 
 <img src="resources\desktop-Book Appointment.png"/>
 
 **Appointment saved notification**
 
+Se muestra un dialog de confirmación si la reserva ha sido hecha con éxito.
+
+
 <img src="resources\container.png"/>
 
 **Service Client profile**
+
+En esta sección se encuentra el perfil del cliente donde se observarán los servicios favoritos del cliente.
 
 <img src="resources\desktop-user profile-version.png"/>
 
 **Service Client Confirmed future appointments**
 
+Se muestran los servicios futuros agendados por el cliente.
+
 <img src= "resources\desktop-Schedule-1.png"/>
 
 **Service Client service history**
+
+Se muestran los servicios ya realizados anteriormente.
 
 <img src= "resources\desktop-Myservices.png"/>
 
 **Enterprise login**
 
+Se muestra el Log In de los usuarios del sector Empresa.
+
 <img src="resources\desktop-login-version-1.png"/>
 
 **Enterprise registration**
+
+En esta sección se muestra un formulario donde la empresa llenará sus datos para aprovechar los features de Bliss.
 
 <img src="resources\desktop-formCompanyProfile.png"/>
 
 **Enterprise Profile**
 
+En esta sección la Empresa podrá visualizar su perfil así como sus servicios mas populares y su team.
+
 <img src="resources\desktop-company Detail-version.png"/>
 
 **Enterprise list of services**
 
+En esta sección se mostrará una lista de servicios ofrecidos actualmente por la empresa de belleza.
+
 <img src="resources\desktop-company-Services.png"/>
 
 **Enterprise schedule**
+
+En esta sección se le mostrará a la empresa de belleza sus reservas o servicios a futuro, junto con la fecha y requisitos personalizados.
+
 <img src="resources\desktop-Company-Schedule.png"/>
 
 **Enterprise add Service**
+
+Se encuentra un formulario donde la empresa de belleza podrá ingresar un nuevo servicio con su categoria, imagen, detalle y descripción.
 
 <img src="resources\desktop-formCompanyService.png"/>
 
@@ -1289,7 +1323,7 @@ Link de LucidChart: https://lucid.app/lucidchart/7d2c78f1-74e6-4e06-bac7-fa7053c
 
 Para visualizar cómo se han aplicado las decisiones de diseño en la plataforma BLISS, hemos creado un prototipo interactivo. Este prototipo muestra la disposición de los elementos, los colores, tipografías y el espaciado en acción.
 
-Puedes explorar el prototipo en el siguiente enlace:
+En este protitipo encontramos un flujo de trabajo por parte del usuario donde puede observar su historial de servicios, el Home donde se encuentran los servicios que le muestra la aplicación, información del salón y el detalle de reservación.
 
 <img src="resources/ssPrototypingWeb.JPG"/>
 
