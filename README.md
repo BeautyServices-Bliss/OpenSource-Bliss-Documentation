@@ -503,40 +503,46 @@ Los propietarios de MYPES, como Matías, señalan que gestionar las reservas es 
 
 <br>
 
-####  2.3.2. User Task Matrix
+#### 2.3.2. User Task Matrix
 
-Para la realizar el User Task Matrix se tomo a los dos sengmetos objetivos ya presenteados que son:
+Para la realización del User Task Matrix se consideraron dos segmentos objetivos: **Clientas** (mujeres de 20 a 45 años del sector socioeconómico B-C) y **MYPES** (dueños de negocios que brindan servicios de cuidado y belleza en Lima). Este análisis identifica las tareas que cada segmento realiza para cumplir sus objetivos.
 
-**1. Clientas**
+##### **1. Clientas**
 
-| Task Matrix | Frecuencia | Importancia |
-|-------------|------------|-------------|
-| 1. Requerir servicios de belleza | Alta | Alta |
-| 2. Buscar locales de servicios de belleza cercanos | Alta | Alta |
-| 3. Seleccionar un centro de belleza | Alta | Media |
-| 4. Pedir atención o realizar una reserva en el local de servicios de belleza | Media | Alta |
-| 5. Recibir confirmación de reserva | Media | Media |
-| 6. Elegir el servicio requerido | Media | Alta |
-| 7. Pedir cambios en el servicio requerido en caso lo requiera | Media | Alta |
-| 8. Proporcionar retroalimentación sobre el servicio recibido | Baja | Media |
-| 9. Preferencias de comunicación | Media | Media |
+| Task Matrix                                           | Frecuencia | Importancia |
+|------------------------------------------------------|------------|-------------|
+| 1. Requerir servicios de belleza                      | Alta       | Alta        |
+| 2. Buscar locales de servicios de belleza cercanos    | Alta       | Alta        |
+| 3. Seleccionar un centro de belleza                   | Alta       | Media       |
+| 4. Pedir atención o realizar una reserva              | Media      | Alta        |
+| 5. Recibir confirmación de reserva                    | Media      | Media       |
+| 6. Elegir el servicio requerido                        | Media      | Alta        |
+| 7. Pedir cambios en el servicio requerido             | Media      | Alta        |
+| 8. Proporcionar retroalimentación sobre el servicio    | Baja       | Media       |
+| 9. Preferencias de comunicación                       | Media      | Media       |
 
-<br>
+###### **Análisis para Clientas**:  
+Las tareas más críticas para las **Clientas** incluyen requerir servicios de belleza y buscar locales cercanos, ambas con alta frecuencia e importancia. Esto refleja la necesidad de una plataforma que facilite el acceso a servicios personalizados y que ofrezca una experiencia intuitiva. Además, las tareas relacionadas con la selección de un centro de belleza y la recepción de confirmaciones son esenciales para garantizar la satisfacción del cliente, indicando que un sistema de reservas eficiente puede mejorar la experiencia del usuario.
 
-**2. MYPES**
+##### **2. MYPES**
 
-| Task Matrix | Frecuencia | Importancia |
-|-------------|------------|-------------|
-| 1. Publicitar el local de belleza en internet | Alta | Alta |
-| 2. Mantener un catálogo de servicios actualizado | Alta | Alta |
-| 3. Atender, confirmar y gestionar reservas por distintos medios | Alta | Alta |
-| 4. Atender las reservas y a todos los clientes| Alta | Alta |
-| 5. Realizar cambios en el servicio a ser realizado en caso el cliente lo requiera | Media | Alta |
-| 6. Mantener constante comunicación con los clientes | Alta | Alta |
-| 7. Gestionar y actualizar información del centro de belleza | Media | Media |
-| 8. Crear y administrar promociones del local | Baja | Media |
-| 9. Recibir y responder a la retroalimentación de los clientes | Baja | Media |
-| 10. Optimizar tiempos de respuesta para reservas y consultas | Media | Alta |
+| Task Matrix                                           | Frecuencia | Importancia |
+|------------------------------------------------------|------------|-------------|
+| 1. Publicitar el local de belleza en internet         | Alta       | Alta        |
+| 2. Mantener un catálogo de servicios actualizado      | Alta       | Alta        |
+| 3. Atender, confirmar y gestionar reservas             | Alta       | Alta        |
+| 4. Atender las reservas y a todos los clientes        | Alta       | Alta        |
+| 5. Realizar cambios en el servicio a ser realizado    | Media      | Alta        |
+| 6. Mantener constante comunicación con los clientes    | Alta       | Alta        |
+| 7. Gestionar y actualizar información del centro de belleza | Media      | Media       |
+| 8. Crear y administrar promociones del local          | Baja       | Media       |
+| 9. Recibir y responder a la retroalimentación         | Baja       | Media       |
+| 10. Optimizar tiempos de respuesta para reservas      | Media      | Alta        |
+
+###### **Análisis para MYPES**:  
+Las **MYPES** destacan en tareas como publicitar su local, gestionar reservas y mantener comunicación constante con los clientes, todas con alta frecuencia e importancia. Esto indica que tienen un fuerte enfoque en la promoción de sus servicios y en asegurar una experiencia de atención efectiva. La necesidad de optimizar tiempos de respuesta también sugiere que los dueños de negocios buscan herramientas que les permitan gestionar sus operaciones de manera más eficiente, mejorando así la relación con los clientes y la satisfacción general.
+
+En conclusión segmentos muestran un alto grado de interacción con sus respectivas tareas, pero con diferentes prioridades. Las **Clientas** están más centradas en la experiencia y accesibilidad de los servicios, mientras que las **MYPES** se enfocan en la gestión y promoción de su negocio. Esta diferencia en el enfoque sugiere que la plataforma debería ofrecer soluciones adaptadas a las necesidades específicas de cada segmento, garantizando una experiencia efectiva tanto para usuarios finales como para proveedores de servicios.
 
 <br>
 
