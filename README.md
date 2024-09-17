@@ -484,9 +484,13 @@ horarios y necesidades.
 
 Las entrevistas revelan patrones claros en las preferencias de los clientes. La mayoría prefiere buscar servicios a través de redes sociales, especialmente Instagram, donde las imágenes de alta calidad sobre el trabajo de belleza y las reseñas de otros usuarios juegan un papel importante en su toma de decisiones. Sin embargo, muchos encuentran que la información proporcionada en estas plataformas es insuficiente. Como destacó Gabriela: “Las fotos del trabajo de belleza y las reseñas son clave, pero muchas veces no encuentro toda la información que necesito en un solo lugar”. Esto indica una clara necesidad de una plataforma como Bliss que ofrezca información visual, precios, disponibilidad y testimonios, permitiendo a los usuarios tomar decisiones informadas sin tener que buscar en múltiples fuentes.
 
+<img src="resources/porcentaje1.png">
+
 **Segmento 2: Empresas pequeñas**
 
 Los propietarios de MYPES, como Matías, señalan que gestionar las reservas es un desafío constante debido a las cancelaciones de último momento y la dificultad de coordinar las citas a través de múltiples canales. Además, las preocupaciones de seguridad de María resaltaron la necesidad de que nuestra empresa incluya un sistema de autenticación para proteger a la empresa y a los clientes. "Gestionar todo a través de WhatsApp es difícil y siempre existe el riesgo de atender a personas que no conocemos", comentó María, resaltando la importancia de brindar soluciones integradas que aumenten la eficiencia operativa y la seguridad.
+
+<img src="resources/porcentaje2.png">
 
 ### 2.3. Needfinding
 #### 2.3.1. User Personas
@@ -570,13 +574,13 @@ En conclusión segmentos muestran un alto grado de interacción con sus respecti
 
 #### 2.3.5. As-is Scenario Mapping
 
-**User Persona 1**
+**Segmento objetivo: Clientes**
 
 <img src="resources/asmapp1.png">
 
 <br>
 
-**User Persona 2**
+**Segmento objetivo: MYPES**
 
  <img src="resources/asmapp2.png">
 
@@ -601,13 +605,13 @@ En conclusión segmentos muestran un alto grado de interacción con sus respecti
 ## Capítulo 3: Requirements Specification
 ### 3.1. To-be scenario mapping
 
-**User Persona 1**
+**Segmento objetivo: Clientes**
 
 <img src ="resources/tomapp1.png">
 
 <br>
 
-**User Persona 2**
+**Segmento objetivo: MYPES**
 
 <img src="resources/tomapp2.png">
 
