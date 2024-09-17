@@ -264,19 +264,19 @@ Creo que mis clientes necesitan saber cómo y dónde acceder a servicios de mani
 
 Estas necesidades se pueden resolver con una aplicación que conecte a clientes con profesionales de belleza verificados, ofreciendo una amplia gama de servicios personalizados y garantizando medidas de seguridad y calidad. 
 
-Mis clientes son personas que buscan comodidad y confiabilidad al reservar servicios de belleza, sin comprometer la calidad y la seguridad. 
+Asumimos que el 80% de los clientes que reservan servicios de belleza valoran más la conveniencia de una plataforma en línea y la confianza en la seguridad del servicio que la experiencia en un salón tradicional. Validaremos esta suposición mediante encuestas de satisfacción y análisis de uso de la plataforma. 
 
-El valor N°1 que mi cliente quiere de mi servicio es la facilidad de reserva, la calidad de los servicios y la tranquilidad de tener profesionales confiables en su hogar. 
+Asumimos que el 70% de los clientes valorarán la facilidad de uso de la plataforma para realizar reservas, y que un proceso de reserva simplificado aumentará la tasa de conversión en un 15%. Mediremos esto a través del tiempo promedio de reserva y la cantidad de reservas completadas. 
 
 El cliente también puede adquirir estos beneficios adicionales como descuentos por lealtad, recomendaciones personalizadas y acceso a productos exclusivos. 
 
-Voy a adquirir a la mayoría de mis clientes a través de estrategias de marketing digital, colaboraciones con empresas de belleza y programas de referidos. Haré dinero a través de anuncios por colaboraciones con marcas de belleza, comisiones por reservas y membresías premium. 
+Asumimos que el 50% de los nuevos usuarios se registrarán a través de programas de referidos y marketing digital, y que estos usuarios serán más propensos a realizar reservas en comparación con los usuarios que lleguen por otros medios. Validaremos esto mediante análisis de origen de tráfico y tasas de conversión de cada medio. 
 
 Mi competencia principal en el mercado serán aplicaciones similares que ofrecen servicios de belleza a domicilio, salones de belleza locales y plataformas de reserva en línea. Los venceremos debido a nuestra estrategia de enfoque en la seguridad y calidad, personalización de servicios, y programas de fidelización. 
 
-Mi mayor riesgo de producto es que los clientes no confíen en la seguridad de tener desconocidos en sus hogares o que prefieran la experiencia tradicional en un salón de belleza. 
+Asumimos que el 60% de los clientes potenciales podrían tener dudas respecto a la seguridad de contratar servicios a domicilio. Validaremos esta suposición implementando una encuesta de confianza en el proceso de registro, así como un piloto con un sistema de verificación de profesionales que incluya feedback de clientes sobre su sensación de seguridad. 
 
-Resolveremos esto a través de la implementación de rigurosos procesos de verificación de profesionales, garantías de seguridad y promoción de la comodidad y conveniencia de nuestros servicios a domicilio.
+Asumimos que implementar procesos de verificación de profesionales y mostrar claramente las certificaciones de los estilistas incrementará la confianza de los clientes en un 30%. Mediremos este impacto mediante encuestas de confianza y un aumento en el uso del servicio de reservas a domicilio.
 
 ###### 1.2.2.3. Lean UX Hypothesis Statements
 
