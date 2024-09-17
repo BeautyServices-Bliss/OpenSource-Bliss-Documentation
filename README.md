@@ -1665,6 +1665,8 @@ Usaremos buenas prácticas en cuanto al código de manera que sea coherente y so
 #### 5.2.1. Sprint 1
 ##### 5.2.1.1. Sprint Planning 1
 
+En este primer sprint definimos las tareas iniciales, todos los integrantes del equipo participaron, el objetivo principal fue diseñar una landing page atractica para Bliss, quien busca captar la atención de clientes de belleza como de empresas del mismo rubro.
+
 <table>
     <thead>
         <tr>
@@ -1678,7 +1680,7 @@ Usaremos buenas prácticas en cuanto al código de manera que sea coherente y so
     <tbody>
         <tr>
             <td>Date</td>
-            <td>20/08/2024</td>
+            <td>2024-08-20</td>
         </tr>
         <tr>
             <td>Time</td>
@@ -1709,7 +1711,7 @@ Usaremos buenas prácticas en cuanto al código de manera que sea coherente y so
         </tr>
         <tr>
             <td>Sprint 1 Goal</td>
-            <td>Diseñar e implementar la landing page</td>
+            <td> Nos enfocamos en diseñar e implementar la landing page, creemos que esta conseguirá una visibilidad inicial tanto en los las empresas de belleza como en los clientes interesados en la moda, esto será confirmado cuando las empresas se registren y publiquen sus servicios y la cantidad de usuarios empieze a crecer. </td>
         </tr>
         <tr>
             <td>Sprint 1 Velocity</td>
@@ -1723,6 +1725,8 @@ Usaremos buenas prácticas en cuanto al código de manera que sea coherente y so
 </table>
 
 ##### 5.2.1.2. Sprint Backlog 1
+
+En este primer sprint backlog, comenzamos con los US relacionados a la elaboración de secciones en la landing page. Se esta utilizando la plataforma de gestión de actividades, Trello, puesto que ha sido escogida de forma grupal para trabajar durante el ciclo de vida del proyecto. 
 
 **Sprint resumen**
 
