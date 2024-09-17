@@ -1006,24 +1006,41 @@ Web Application:
 
 El sistema de búsqueda está diseñado para facilitar el acceso rápido a la información. Se proporciona una barra de búsqueda en varias secciones del diseño, permitiendo a los usuarios filtrar los resultados por diferentes criterios, como el tipo de servicio o la ubicación. Además, se ofrecen opciones de búsqueda con filtros específicos y se muestra cómo lucirán los datos después de realizar una búsqueda.
 
+El sistema de búsqueda está diseñado para facilitar el acceso rápido a la información. Se proporciona una barra de búsqueda en varias secciones del diseño, permitiendo a los usuarios filtrar los resultados por diferentes criterios, como el tipo de servicio o la ubicación. Además, se ofrecen opciones de búsqueda con filtros específicos y se muestra cómo lucirán los datos después de realizar una búsqueda. Espefíficamente se implementarán las siguientes opciones:
+
+* **Opciones de búsqueda:** Los usuarios podrán buscar servicios utilizando una barra de búsqueda con autocompletado, lo que les permitirá encontrar servicios específicos fácilmente. Además, podrán realizar búsquedas por nombre de empresa, ubicación o tipo de servicio.
+  
+* **Filtros disponibles:** Los filtros incluirán categorías como tipo de servicio, salones, tags y rango de precios.
+  
+* **Presentación de resultados:** Después de realizar la búsqueda, los resultados se mostrarán de manera clara y organizada en tarjetas. Además, se ofrecerá la posibilidad de ordenar los resultados por relevancia, precio o valoración.
+  
 #### 4.2.5. Navigation Systems
 
-El sistema de navegación incluye menús y botones claros que guían a los usuarios a través del contenido de manera efectiva. Los usuarios pueden navegar fácilmente entre las diferentes secciones, como "Servicios", "Comentarios", y "Promociones". La navegación está diseñada para ser intuitiva, permitiendo a los usuarios cumplir sus metas e interactuar de manera satisfactoria con el producto.
+El sistema de navegación incluye menús y botones claros que guían a los usuarios a través del contenido de manera efectiva y clara. Para lograr esto, se han implementado las siguientes acciones y técnicas:
 
+* **Menú principal y enlaces de navegación:** Los enlaces de navegación estarán siempre visibles en todas las páginas, proporcionando acceso continuo a las diferentes áreas del producto sin necesidad de retroceder.
+
+* **Botones de acción destacados:** Los botones de acción estarán claramente visibles y accesibles en las secciones correspondientes. Estos botones estarán ubicados en áreas estratégicas para guiar al usuario hacia la acción deseada de manera fluida.
+
+* **Menú hamburguesa:** Se usará un menú hamburguesa para ahorrar espacio en pantalla y proporcionar una navegación clara y sencilla.
+
+* **Navegación con búsqueda:** Los usuarios también tendrán la opción de utilizar la barra de búsqueda, lo que les permitirá encontrar servicios deseados.
+  
 ### 4.3. Landing Page UX/UI Design
 
 #### 4.3.1 Landing Page Wireframe
 
-Para esta entrega realizamos una landing orientada a brindar una plataforma de servicios personalizados de belleza.
+Para esta entrega realizamos una landing orientada a brindar una plataforma de servicios personalizados de belleza con diferentes secciones como los features del producto, planes de pago, nuestra visión, miembros del equipo y formulario de contacto. Teniendo en cuenta que toda sección sera accesible mediante un navbar superior para una mejor visibilidad y usabilidad.
 
 <img src="resources/landing-wifreframe.png"/>
 
 #### 4.3.2. Landing Page Mock-up
 
+Para esta esta Landing tenemos los colores principales de Bliss como colores que inundan la página, tanto en el navbar como en las secciones. Iniciando con una gradiente desde arriba con un tono rosa hasta llegar al footer donde se encuentra el tono azulado. Priorizando y jugando con el fondo blanco en algunas secciones. Todo siguiendo los Style Guidelines para mantener una buena legibilidad para el usuario.
+
 <img src="resources/landing-mockup.png"/>
 
 ### 4.4. Web Applications UX/UI Design
-
 
 #### 4.4.1. Web Applications Wireframes
 
@@ -1031,33 +1048,49 @@ Para esta entrega realizamos una landing orientada a brindar una plataforma de s
 
 **Log In**
 
+En esta sección se presenta el Log In, donde se regisrarán los nuevos usuarios de la aplicación.
+
 <img src="resources/Wireframe - Login.png"/>
 
 **Sign In**
+
+En esta sección tenemos el wireframe de Sign In desde la aplicación web. Aquí, los usuarios ingresarán a la aplicación para disfrutar de las funciones de Bliss.
 
 <img src="resources/Wireframe - Register Client.png"/>
 
 **Home**
 
+En Home encontraran un catálogo de servicios junto con un filtro de búsqueda que le permitirá encontrar su servicio eficientemente.
+
 <img src="resources/Wireframe - Panel principal Client Catálogo de Servicios.png"/>
 
 **Client Service history**
+
+En el historial de servicios del cliente se encontrarán todos los servicios pasados del cliente.
 
 <img src="resources/Wireframe - Panel principal Historial de Servicios.png"/>
 
 **Client Reservation**
 
+En esta sección nos encontramos en un servicio específico donde hay más detalle de este, junto con su precio base, reseñas, imágenes referenciales y quién realizará el servicio.
+
 <img src="resources/Wireframe - Client Reservation.png"/>
 
 **Client My Reservations**
+
+En esta sección se encuentran todas las reservas actuales, en vigencia del cliente.
 
 <img src="resources/Wireframe - Panel principal Mis Reservas.png"/>
 
 **Client Appointment Detail**
 
+En esta sección se establecerá el detalle de servicio, junto con la fecha de la reserva, el cambio de precios a partir de la personalización de esta y una descripción que pondrá el cliente.
+
 <img src="resources/Wireframe - Reservacion Appointment detail.png"/>
 
 **Client Success Reservation Dialog**
+
+Al reservar adecuadamente se mostrará un dialog de éxito para el cliente.
 
 <img src="resources/Wireframe - Reservacion success.png"/>
 
@@ -1065,21 +1098,40 @@ Para esta entrega realizamos una landing orientada a brindar una plataforma de s
 ##### Enterprise Section
 
 **Log In**
+
+En esta sección se presenta el Log In, donde se regisrarán las nuevas empresas de la aplicación.
+
 <img src="resources/Wireframe-enterprise-login-version.png"/>
 
 **Enterprise profile**
+
+En el perfil de la empresa tenemos los datos como la dirección, también sus servicios más populares y su equipo de trabajo.
+
 <img src="resources/Wireframe-enterprise-company Detail-version.png"/>
 
 **Enterprise profile form**
+
+En esta sección encontramos el registro de una empresa que incluye su nombre, categoría a la que pertenece, su foto y una descripción.
+
 <img src="resources/Wireframe-enterprise-formCompanyProfile.png"/>
 
+
 **Schedule**
+
+En Schedule encontramos las futuras sesiones que tendrá la empresa junto con la fecha y dirección.
+
 <img src="resources/Wireframe-enterprise-Schedule.png"/>
 
 **Enterprise detailed**
+
+Aquí encontraremos unas cards con cada servicio ofrecido por la empresa.
+
 <img src="resources/Wireframe-enterprise-detail-version.png"/>
 
 **Creating new service**
+
+En esta sección se encuentra el formulario para crear un nuevo servicio, realizado por la empresa de belleza.
+
 <img src="resources/Wireframe-enterprise-formCompanyService.png"/>
 
 
