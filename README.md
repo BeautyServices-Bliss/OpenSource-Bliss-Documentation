@@ -1010,10 +1010,35 @@ El sistema de búsqueda está diseñado para facilitar el acceso rápido a la in
 
 * **Opciones de búsqueda:** Los usuarios podrán buscar servicios utilizando una barra de búsqueda con autocompletado, lo que les permitirá encontrar servicios específicos fácilmente. Además, podrán realizar búsquedas por nombre de empresa, ubicación o tipo de servicio.
   
-* **Filtros disponibles:** Los filtros incluirán categorías como tipo de servicio, salones, tags y rango de precios.
+* **Categorías:**
+Los usuarios pueden seleccionar entre diferentes categorías, como "Hair", "Nails", "Lashes", "Brows", "Skin", "Body", y "Toes", para limitar los resultados a un grupo específico de servicios.
+
+* **Etiquetas Populares:**
+Las etiquetas relacionadas al tipo de servicio como "Jelly Nails", "Trending on social media" y "New" aportan información adicional respecto a las características del servicio o local, estas facilitan la localización de servicios populares o especializados. 
+
+* **Filtros Disponibles:**
+
+Filtros por Tipo de Servicio: 
+Hair: Incluye opciones como "Dye", "Treatment", "Botox", "Curly", "Perm". Nails: Incluye opciones para diferentes tipos de servicios de uñas. Makeup: Servicios relacionados con el maquillaje. Filtros por Salón Los usuarios pueden seleccionar salones específicos, como "Vera", "SOHO", "Daniela’s Art", "Lucky", "Honey Moon", y "Magaly’s Salon", para encontrar servicios ofrecidos en lugares preferidos.
+
+* **Filtro por Precio:**
+Rango de Precio: Los usuarios pueden ajustar el rango de precio mediante una barra para filtrar los resultados entre 0 y 1000 unidades monetarias , ayudando a encontrar opciones dentro de su presupuesto.
+
+A continuación se muestran algunos filtros a implementar: 
+
+<img src="resources\filters.png"/>
+
+* **Resumen y Descripción:**
+Cada card de servicio incluye un resumen y descripción que destaca la información más relevante, facilitando una rápida evaluación sin necesidad de acceder a la vista completa.
+
+
+* **Revisiones y Comentarios:**
+Se muestran los comentarios más o reviews más relevantes por local a fin de permitir a los usuarios evaluar la calidad y popularidad de los usuarios. Éstas son están en formato card y 
   
 * **Presentación de resultados:** Después de realizar la búsqueda, los resultados se mostrarán de manera clara y organizada en tarjetas. Además, se ofrecerá la posibilidad de ordenar los resultados por relevancia, precio o valoración.
   
+
+
 #### 4.2.5. Navigation Systems
 
 El sistema de navegación incluye menús y botones claros que guían a los usuarios a través del contenido de manera efectiva y clara. Para lograr esto, se han implementado las siguientes acciones y técnicas:
@@ -1328,6 +1353,9 @@ En este protitipo encontramos un flujo de trabajo por parte del usuario donde pu
 <img src="resources/ssPrototypingWeb.JPG"/>
 
 Link del prototipo: https://www.figma.com/proto/5gl2eOszEgsfeYKtZEmrQZ/BLISS-UX%2FUI-OPEN-SOURCE?node-id=1-2&t=72esfpcMUIWFgKgc-1
+
+Video de recorrido del prototipo: 
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c784_upc_edu_pe/EWp-fNCXxLJKt07PFdvRGJwBsT_BZIOvTrj3uYBi374Iew?e=N76h1X&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 
 ### 4.6. Domain-Driven Software Architecture
