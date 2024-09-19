@@ -2054,12 +2054,22 @@ Como primeras evidencias de lo que se desarrolló durante el sprint tenemos a la
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |-|-|-|-|-|-|
-| https://github.com/SI729-Bliss/Landing-Page/commits/main/ | master | e7e5461 | Initial commit | Initial commit | 15/08/2024 |
-| https://github.com/SI729-Bliss/Landing-Page/commits/main/ | develop | 61e1e04 | Add files via upload | Add files via upload | 17/08/2024 |
-| https://github.com/SI729-Bliss/Landing-Page/commits/main/ | develop | d1f27b5 | . | . | 17/08/2024 |
-| https://github.com/SI729-Bliss/Landing-Page/commits/main/ | main | a230e21 | Merge branch 'develop' of https://github.com/upc-opensource-g-bliss/Landing-Page into develop | Merge branch 'develop' of https://github.com/upc-opensource-g-bliss/Landing-Page into develop | 17/08/2024 |
-| https://github.com/SI729-Bliss/Landing-Page/commits/main/ | main | 8101b46 | Update index.html | Update index.html | 18/08/2024 |
-| https://github.com/SI729-Bliss/Landing-Page/commits/main/ | main | 720fb82 | Update index.html | Update index.html | 18/08/2024 |
+| https://github.com/SI729-Bliss/Bliss-Landing-Page| master | e7e9efb | chore: added assets | chore: added assets | 18/09/2024 |
+| https://github.com/SI729-Bliss/Bliss-Landing-Page | develop | d1f27b5 | chore: initial landing page template | chore: initial landing page template | 18/09/2024 |
+| https://github.com/SI729-Bliss/Bliss-Landing-Page | feature/pricing | 8424a63 | feat: pricing | feat: pricing | 19/09/2024 |
+| https://github.com/SI729-Bliss/Bliss-Landing-Page | develop | 8c327e8 | Merge branch 'feature/pricing' into develop | Merge branch 'feature/pricing' into develop | 19/09/2024 |
+| https://github.com/SI729-Bliss/Bliss-Landing-Page | feature/our-vision | 720fb82 | feat(our-vision):update our vision section in index.html | feat(our-vision):update our vision section in index.html | 19/09/2024 |
+| https://github.com/SI729-Bliss/Bliss-Landing-Page | develop | c847a36 | Merge pull request #1 from SI729-Bliss/feature/our-vision| feat(our-vision):update our vision section in  index.html | 19/09/2024 |
+| https://github.com/SI729-Bliss/Bliss-Landing-Page | feature/contact | d8b4809 | feat: contact section | feat: contact section | 19/09/2024 |
+| https://github.com/SI729-Bliss/Bliss-Landing-Page | develop | a649caf | Merge pull request #2 from SI729-Bliss/feature/contact | feat: contact section | 19/09/2024 |
+| https://github.com/SI729-Bliss/Bliss-Landing-Page | feature/contact | e702acf | feat: added developers section | feat: added developers section | 19/09/2024 |
+| https://github.com/SI729-Bliss/Bliss-Landing-Page | develop | cae8b9e | Merge pull request #3 from SI729-Bliss/feature/developers | feat: added developers section | 19/09/2024 |
+| https://github.com/SI729-Bliss/Bliss-Landing-Page | feature/features | d7d75a4 | feat: added features section | feat: added features section | 19/09/2024 |
+| https://github.com/SI729-Bliss/Bliss-Landing-Page | develop | 8383578 | Merge pull request #4 from SI729-Bliss/feature/features | feat: added developers section | 19/09/2024 |
+| https://github.com/SI729-Bliss/Bliss-Landing-Page | feature/features | 4fb472d | feat: added home section | feat: added home section | 19/09/2024 |
+| https://github.com/SI729-Bliss/Bliss-Landing-Page | develop | 3bb0f72 | Merge pull request #5 from SI729-Bliss/feature/home | feat: added home section | 19/09/2024 |
+| https://github.com/SI729-Bliss/Bliss-Landing-Page | main | ff02eb5 | Merge pull request #6 from SI729-Bliss/develop | Develop | 19/09/2024 |
+
 
 ##### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
@@ -2120,13 +2130,6 @@ Link de Landing Page: https://si729-bliss.github.io/Landing-Page/
 |David Rivas| Diseño de la sección "Alianzas" y "Nuestra visión".|
 |Diego Soriano|Diseño del footer y "Miembros del equipo".|
 |Diego Carbajal|Diseño de la sección "Pricing".|
-
-Repositorio Documentación:
-<img src="resources/ssSprint1Evidence.JPG"/>
-
-<img src="resources/ssSprint1Evidence1.JPG"/>
-
-<img src="resources/ssSprint1Evidence2.JPG"/>
 
 Repositorio Landing Page:
 
