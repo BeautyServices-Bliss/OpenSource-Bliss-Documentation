@@ -576,13 +576,13 @@ En conclusión segmentos muestran un alto grado de interacción con sus respecti
 
 **Segmento objetivo: Clientes**
 
-<img src="resources/asmapp1.1.png">
+<img src="resources/asiscliente.png">
 
 <br>
 
 **Segmento objetivo: MYPES**
 
- <img src="resources/asmapp2.1.png">
+ <img src="resources/asismypes.png">
 
 <br>
 
@@ -1078,11 +1078,30 @@ Para esta entrega realizamos una landing orientada a brindar una plataforma de s
 
 <img src="resources/landing-wifreframe.png"/>
 
+**Mobile Wireframes**
+
+<img src="resources/Wireframe-Mobile-1.png"/>
+<img src="resources/Wireframe-Mobile-2.png"/>
+<img src="resources/Wireframe-Mobile-3.png"/>
+<img src="resources/Wireframe-Mobile-4.png"/>
+<img src="resources/Wireframe-Mobile-5.png"/>
+<img src="resources/Wireframe-Mobile-6.png"/>
+
 #### 4.3.2. Landing Page Mock-up
 
 Para esta esta Landing tenemos los colores principales de Bliss como colores que inundan la página, tanto en el navbar como en las secciones. Iniciando con una gradiente desde arriba con un tono rosa hasta llegar al footer donde se encuentra el tono azulado. Priorizando y jugando con el fondo blanco en algunas secciones. Todo siguiendo los Style Guidelines para mantener una buena legibilidad para el usuario.
 
 <img src="resources/landing-mockup.png"/>
+
+**Mobile Mockups**
+
+<img src="resources/Wireframe-Mobile-1 (1).png"/>
+<img src="resources/Wireframe-Mobile-2 (1).png"/>
+<img src="resources/Wireframe-Mobile-3 (1).png"/>
+<img src="resources/Wireframe-Mobile-4 (1).png"/>
+<img src="resources/Wireframe-Mobile-5 (1).png"/>
+<img src="resources/Wireframe-Mobile-6 (1).png"/>
+
 
 ### 4.4. Web Applications UX/UI Design
 
@@ -1421,7 +1440,7 @@ Los componentes del sistema siguen el patrón de arquitectura en capas, organiza
 <br>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/diego5m/labtest/main/opensource-images/DAOS-Class-Diagram.png" />
+    <img src="https://raw.githubusercontent.com/diego5m/labtest/main/opensource-images/DAOS-Class-Diagram-2.png" />
 </p>
 
 <br>
@@ -1431,7 +1450,7 @@ Los componentes del sistema siguen el patrón de arquitectura en capas, organiza
 | Clase | Nombre de Atributos | Definición | Tipo de dato |    Restricciones     |
 |-------|---------------------|------------|--------------|----------------------|
 | ***Beauty Salon*** |
-| 1 | ruc number | Número de RUC (Registro Único de Contribuyentes) | string | Se considera once dígitos numéricos para empresas en Perú |
+| 1 | ruc | Número de RUC (Registro Único de Contribuyentes) | string | Se considera once dígitos numéricos para empresas en Perú |
 | 2 | email | Dirección de correo electrónico del Salón de Belleza | string | Permite solo el formato estándar de correo electrónico |
 | 3 | salonName | Nombre del Salón de Belleza | string | Permite solo caracteres o letras |
 | 4 | salonDescription | Descripción del Salón de Belleza | string | Permite solo caracteres o letras |
@@ -1444,38 +1463,47 @@ Los componentes del sistema siguen el patrón de arquitectura en capas, organiza
 | 3 | email | Dirección de correo electrónico del Especialista de Belleza | string | Permite solo el formato estándar de correo electrónico |
 | 4 | phone | Número telefónico del Especilista | string | Permite nueve caracteres por el formato nacional |
 | 5 | certificationNumber | Documento que acredita el nivel educativo del Especilista  | string | Cumplir con los formatos y normativas nacionales |
-| ***Services*** |
-| 1 | serviceName | Nombre del servicio a realizarse | string | Permite solo caracteres o letras |
-| 2 | serviceDetail | Detalles del servicio | string | Permite solo caracteres o letras |
 | ***Category*** |
 | 1 | name | Nombre de la categoria de servicio | string | Permite solo caracteres o letras |
 | 2 | description | Descripción de la categoria de servicio | string | Permite solo caracteres o letras |
-| ***Feedbacks*** |
-| 1 | punctuation | Puntuación del servicio realizado | string | Permite solo caracteres o letras |
-| 2 | comment | Comentario del servicio realizado | string | Permite solo caracteres o letras |
-| ***Custom Services*** |
-| 1 | customDetails | Detalles del la personalización del servicio a realizarse | string | Permite solo caracteres o letras |
-| 2 | description | Descripción del servicio a realizarse | string | Permite solo caracteres o letras |
-| 3 | price | Precio del servicio personalizado a realizarse | int | Valores numéricos con una o más cifras decimales, no se admite negativos |
+| 3 | type | Tipo de la categoria | string | Permite solo caracteres o letras |
+| ***Services*** |
+| 1 | name | Nombre del servicio a realizarse | string | Permite solo caracteres o letras |
+| 2 | description | Descripción del servicio | string | Permite solo caracteres o letras |
+| 3 | basePrice | Precio inicial del servicio personalizado a realizarse | int | Valores numéricos con una o más cifras decimales, no se admite negativos |
+| ***Services Details*** |
+| 1 | price | Precio total detallado del servicio | int | Valores numéricos con una o más cifras decimales, no se admite negativos |
+| 2 | duration | Tiempo total de duración del servicio | int | Valores numéricos con una o más cifras decimales, no se admite negativos |
+| 3 | availability | Disponibilidad del servicio | string | Permite solo caracteres o letras |
+| 4 | customAnnotation | Observaciones o notas adicionales sobre el servicio. | string | Permite solo caracteres o letras |
+| ***Reservation Details*** |
+| 1 | status | Estado de la reservación realizada | string | Permite solo caracteres o letras |
+| 2 | description | Descripción de la reservación realizada | string | Permite solo caracteres o letras |
+| 3 | duration | Tiempo total de duración de la reservación | int | Valores numéricos, no se admite negativos |
+| 4 | totalPrice | Precio total detallado de la reservación | int | Valores numéricos con una o más cifras decimales, no se admite negativos |negativos |
 | ***Reservations*** |
 | 1 | reservationDate | Fecha de reservación del servicio a realizarse | string | Permite solo caracteres o letras en formato de fecha |
-| 2 | reservationHour | Hora de reservación del servicio a realizarse | int | Valores numéricos con una o más cifras decimales, no se admite negativos |
+| 2 | reservationHour | Hora de reservación del servicio a realizarse | string | Permite solo caracteres o letras en formato de tiempo |
+| ***Ticket*** |
+| 1 | date | Fecha de creación del ticket asociado a la reservación. | string | Permite solo caracteres o letras en formato de fecha |
+| 2 | hour | Hora de creación del ticket asociado a la reservación. | string | Permite solo caracteres o letras en formato de tiempo |
+| ***Payments*** |
+| 1 | payDate | Fecha de pago del servicio realizado | string | Permite solo caracteres o letras en formato de fecha |
+| 2 | payStatus | Situación actual del pago asociado al servicio, incluido por seguridad | string | Permite solo un conjunto de caracteres o letras |
+| 3 | payMethod | Forma en que se realizó el pago por del servicio | string | Permite solo un conjunto de caracteres o letras |
 | ***Customers*** |
 | 1 | firstName | Nombre del cliente | string | Permite solo caracteres o letras |
 | 2 | lastName | Apellido del cliente | string | Permite solo caracteres o letras |
 | 3 | email | Dirección de correo electrónico del cliente | string | Permite solo el formato estándar de correo electrónico |
 | 4 | phone | Número telefónico del cliente | string | Permite nueve caracteres por el formato nacional |
 | 5 | password | Cadena de caracteres para autenticar el acceso al sistema | string | Permite solo caracteres o letras almacenados usando hash |
-| ***Payments*** |
-| 1 | payDate | Fecha de pago del servicio realizado | string | Permite solo caracteres o letras en formato de fecha |
-| 2 | payStatus | Situación actual del pago asociado al servicio, incluido por seguridad | string | Permite solo un conjunto de caracteres o letras |
-| 3 | payMethod | Forma en que se realizó el pago por del servicio | string | Permite solo un conjunto de caracteres o letras |
-| ***Reservation Status*** |
-| 1 | status | Estado de la reservación realizada | string | Permite solo un conjunto de caracteres o letras |
-| 2 | details | Detalles del estado de la reservación realizada | string | Permite solo caracteres o letras |
+| ***Feedbacks*** |
+| 1 | punctuation | Puntuación del servicio realizado | int | Valores numéricos, no se admite negativos |
+| 2 | comment | Comentario del servicio realizado | string | Permite solo caracteres o letras |
+| 3 | createdDate | Fecha de publicación del comentario asociado a la reservación. | string | Permite solo caracteres o letras en formato de fecha |
 | ***Notifications*** |
-| 1 | notifiContent | Contenido de la notificación asociado al servicio reservado | string | Permite caracteres o letras |
-| 2 | notifiStatus | Indica el estado actual de la notificación asociado al servicio reservado | string | Permite solo un conjunto de caracteres o letras |
+| 1 | content | Contenido de la notificación asociado al servicio reservado | string | Permite caracteres o letras |
+| 2 | status | Indica el estado actual de la notificación asociado al servicio reservado | string | Permite solo un conjunto de caracteres o letras |
 
 <br>
 
@@ -1485,7 +1513,7 @@ Los componentes del sistema siguen el patrón de arquitectura en capas, organiza
 <br>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/diego5m/labtest/main/opensource-images/DAOS-DB-Diagram.png" />
+    <img src="https://raw.githubusercontent.com/diego5m/labtest/main/opensource-images/DAOS-DB-Diagram-2.png" />
 </p>
 
 <br>
