@@ -1097,12 +1097,12 @@ Para esta esta Landing tenemos los colores principales de Bliss como colores que
 
 **Mobile Mockups**
 
-<img src="resources/Wireframe-Mobile-1(1).png"/>
-<img src="resources/Wireframe-Mobile-2(1).png"/>
-<img src="resources/Wireframe-Mobile-3(1).png"/>
-<img src="resources/Wireframe-Mobile-4(1).png"/>
-<img src="resources/Wireframe-Mobile-5(1).png"/>
-<img src="resources/Wireframe-Mobile-6(1).png"/>
+<img src="resources/Wireframe-Mobile-1 (1).png"/>
+<img src="resources/Wireframe-Mobile-2 (1).png"/>
+<img src="resources/Wireframe-Mobile-3 (1).png"/>
+<img src="resources/Wireframe-Mobile-4 (1).png"/>
+<img src="resources/Wireframe-Mobile-5 (1).png"/>
+<img src="resources/Wireframe-Mobile-6 (1).png"/>
 
 
 ### 4.4. Web Applications UX/UI Design
