@@ -241,24 +241,58 @@ Los clientes y proveedores suelen gestionar las reservas a través de canales no
 La magnitud del problema es alarmante. Según la Asociación Peruana de Empresarios de la Belleza (2022), un 40% de las peluquerías y centros de belleza se vieron obligados a cerrar durante la pandemia, y solo un 30% de los que permanecen operando siguen funcionando de manera formal. Esta situación resalta la necesidad urgente de abordar la falta de formalidad y confianza en el sector, ya que la insatisfacción de los clientes y la ineficiencia en la gestión de las reservas afectan directamente la viabilidad de estas pequeñas empresas.
 
 #### 1.2.2. Lean UX Process
-El objetivo de nuestra aplicación es mejorar la gestión de clientes mediante una plataforma que facilite a los clientes la búsqueda y reserva de servicios de belleza y cuidado personal.
+
+A continuación, aplicaremos el proceso Lean UX en nuestro trabajo para optimizar el desarrollo de nuestra solución. Esta metodología nos permitirá centrarnos en la colaboración y la validación continua, asegurando que nuestro producto final responda efectivamente a las necesidades de nuestros usuarios.
+
+<br/>
 
 ##### 1.2.2.1. Lean UX Problem Statements
 
-a) El objetivo de nuestra aplicación es mejorar la gestión de clientes mediante una plataforma que facilite a los clientes la búsqueda y reserva de servicios de belleza y cuidado personal. 
-Sin embargo, nos enfrentamos a un desafío significativo: la alta tasa de informalidad en la industria, que genera desconfianza entre los clientes al seleccionar un centro para sus necesidades de belleza. Esta falta de transparencia y garantías sobre la calidad de los servicios ofrecidos crea incertidumbre y afecta negativamente la experiencia del usuario.
+**Aspectos:**
 
-¿Cómo podemos mejorar el proceso de selección del cliente para salones, tratamientos y servicios, asegurando un diseño que promueva la confianza y seguridad?
+- Dominio (Domain): Personas que frecuentan servicios de belleza.
 
-b) Otro objetivo a mencionar es el de proporcionar un sistema eficiente de y transparente para la búsqueda y reserva de servicios, así como establecer canales de comunicación efectivos con los clientes. Nos enfrentamos a otro desafío significativo, los sistemas de gestión de citas para servicios de cuidado y belleza son ineficientes y generan desconfiaza en el usuario final.
+- Segmento de clientes (Customer Segment): Clientes mujeres jovenes y adultas.
 
-¿Cómo podemos implementar estrategias efectivas para fomentar la transparencia y la calidad en los servicios ofrecidos por los centros de belleza, mejorando así la confianza de los usuarios en nuestra plataforma?
+- Puntos de dolor (Pain Points): Clientas habituales de centros de belleza tienen dificultades al intentar localizar establecimientos confiables y al realizar reservas de citas, lo que genera frustración y afecta su experiencia general y la satisfacción con los servicios de belleza.
 
-c) Reconocemos la importancia de garantizar una experiencia segura y sin preocupaciones para los usuarios que utilizan nuestra plataforma para reservar servicios de belleza. La alta tasa de informalidad en la industria de los centros de belleza crea desafíos adicionales para garantizar la calidad y confiabilidad de los servicios ofrecidos.
+- Brecha (Gap): Existen pocas plataformas que ofrezcan las herramientas necesarias y cumplan con los requerimientos para satisfacer las demandas de clientas en la búsqueda de salones de belleza. Las soluciones disponibles no facilitan adecuadamente la localización de establecimientos, la selección y modificación de servicios, la gestión de reservas, ni la comunicación efectiva entre las clientas y los salones de belleza.
 
-¿Cómo podemos establecer procedimientos claros y efectivos para verificar y promover la formalidad y calidad de los centros de belleza asociados, brindando así una experiencia de usuario más segura y confiable en nuestra plataforma?
+- Visión/Estrategia (Vision/Strategy): Desarrollar una aplicación que integre las herramientas esenciales y cumpla con los requisitos necesarios, permitiendo a las clientas acceder y reservar de manera fácil y rápida los servicios de belleza que requieran.
 
-###### 1.2.2.2. Lean UX Assumptions
+- Segmento inicial (Initial Segment): Mujeres en el rango de edad de 20 a 45 años, del sector socioeconómico B-C que residen en la ciudad de Lima.
+
+<br>
+
+**Problem Statement:**
+
+En la escena de personas que frecuentan servicios de belleza, clientas mujeres jovenes y adultas tienen dificultades al intentar localizar establecimientos confiables y al realizar reservas de citas, lo que genera frustración y afecta su experiencia general y la satisfacción con los servicios de belleza. Actualmente, hay una escasez de plataformas que ofrezcan las herramientas necesarias y cumplan con los requerimientos para satisfacer las demandas de clientas en la búsqueda de salones de belleza. Las soluciones disponibles no facilitan adecuadamente la localización de establecimientos, la selección y modificación de servicios, la gestión de reservas, ni la comunicación efectiva entre las clientas y los salones de belleza. Nuestra visión es desarrollar una aplicación que integre las herramientas esenciales y cumpla con los requisitos necesarios, permitiendo a las clientas acceder y reservar de manera fácil y rápida los servicios de belleza que requieran. Comenzaremos enfocándonos en mujeres en el rango de edad de 20 a 45 años, del sector socioeconómico B-C que residen en la ciudad de Lima.
+
+<br>
+
+**Aspectos:**
+
+- Dominio (Domain): La Micro y Pequeña Empresa (MYPE)
+
+- Segmento de clientes (Customer Segment): Dueños de negocios de Belleza
+
+- Puntos de dolor (Pain Points): Negocios de belleza enfrentan dificultades en la gestión de la oferta de sus servicios, así como en la atención a las reservas de sus clientes, estos obstaculos pueden resultar en malas experiencia para sus clientes, ineficiencia operativa y, en última instancia, afectar la rentabilidad del negocio.
+
+- Brecha (Gap): Existen pocas plataformas que ofrezcan las herramientas y funcionalidades necesarias para que los dueños de negocios de belleza puedan ofrecer sus servicios de manera sencilla y rápida. Además, estas plataformas no facilitan una gestión eficiente de las reservas de citas, ni permiten realizar cambios en los servicios ofrecidos a petición de los clientes. 
+
+- Visión/Estrategia (Vision/Strategy): Desarrollar una aplicación que integre las herramientas necesarias para la publicación sencilla de servicios de belleza y que cumpla con los requisitos para una gestión rápida y eficiente de las citas solicitadas, que a su vez permita la comunicación efectiva entre los dueños de negocios de belleza y sus clientas.
+
+- Segmento inicial (Initial Segment): Dueños de de negocios que brindan servicios de cuidado de belleza que funcionan en la ciudad de Lima.
+
+<br>
+
+**Problem Statement:**
+
+En el ámbito de la Micro y Pequeña Empresa (MYPE), dueños de negocios de Belleza enfrentan dificultades en la gestión de la oferta de sus servicios, así como en la atención a las reservas de sus clientes, estos obstaculos pueden resultar en malas experiencia para sus clientes, ineficiencia operativa y, en última instancia, afectar la rentabilidad del negocio. Actualmente, existen pocas plataformas que ofrezcan las herramientas y funcionalidades necesarias para que los dueños de negocios de belleza puedan ofrecer sus servicios de manera sencilla y rápida. Además, estas plataformas no facilitan una gestión eficiente de las reservas de citas, ni permiten realizar cambios en los servicios ofrecidos a petición de los clientes. Nuestra visión es desarrollar una aplicación que integre las herramientas necesarias para la publicación sencilla de servicios de belleza y que cumpla con los requisitos para una gestión rápida y eficiente de las citas solicitadas, que a su vez permita la comunicación efectiva entre los dueños de negocios de belleza y sus clientas. Comenzaremos enfocándonos en dueños de negocios que brindan servicios de cuidado de belleza que funcionan en la ciudad de Lima.
+
+<br>
+
+##### 1.2.2.2. Lean UX Assumptions
 
 Creo que mis clientes necesitan saber cómo y dónde acceder a servicios de manicure, pedicure y tratamientos faciales a domicilio de manera conveniente y segura. 
 
