@@ -1080,11 +1080,30 @@ Para esta entrega realizamos una landing orientada a brindar una plataforma de s
 
 <img src="resources/landing-wifreframe.png"/>
 
+**Mobile Wireframes**
+
+<img src="resources/Wireframe-Mobile-1.PNG"/>
+<img src="resources/Wireframe-Mobile-2.PNG"/>
+<img src="resources/Wireframe-Mobile-3.PNG"/>
+<img src="resources/Wireframe-Mobile-4.PNG"/>
+<img src="resources/Wireframe-Mobile-5.PNG"/>
+<img src="resources/Wireframe-Mobile-6.PNG"/>
+
 #### 4.3.2. Landing Page Mock-up
 
 Para esta esta Landing tenemos los colores principales de Bliss como colores que inundan la página, tanto en el navbar como en las secciones. Iniciando con una gradiente desde arriba con un tono rosa hasta llegar al footer donde se encuentra el tono azulado. Priorizando y jugando con el fondo blanco en algunas secciones. Todo siguiendo los Style Guidelines para mantener una buena legibilidad para el usuario.
 
 <img src="resources/landing-mockup.png"/>
+
+**Mobile Mockups**
+
+<img src="resources/Wireframe-Mobile-1(1).PNG"/>
+<img src="resources/Wireframe-Mobile-2(1).PNG"/>
+<img src="resources/Wireframe-Mobile-3(1).PNG"/>
+<img src="resources/Wireframe-Mobile-4(1).PNG"/>
+<img src="resources/Wireframe-Mobile-5(1).PNG"/>
+<img src="resources/Wireframe-Mobile-6(1).PNG"/>
+
 
 ### 4.4. Web Applications UX/UI Design
 
