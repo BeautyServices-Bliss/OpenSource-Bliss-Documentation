@@ -1082,12 +1082,12 @@ Para esta entrega realizamos una landing orientada a brindar una plataforma de s
 
 **Mobile Wireframes**
 
-<img src="resources/Wireframe-Mobile-1.PNG"/>
-<img src="resources/Wireframe-Mobile-2.PNG"/>
-<img src="resources/Wireframe-Mobile-3.PNG"/>
-<img src="resources/Wireframe-Mobile-4.PNG"/>
-<img src="resources/Wireframe-Mobile-5.PNG"/>
-<img src="resources/Wireframe-Mobile-6.PNG"/>
+<img src="resources/Wireframe-Mobile-1.png"/>
+<img src="resources/Wireframe-Mobile-2.png"/>
+<img src="resources/Wireframe-Mobile-3.png"/>
+<img src="resources/Wireframe-Mobile-4.png"/>
+<img src="resources/Wireframe-Mobile-5.png"/>
+<img src="resources/Wireframe-Mobile-6.png"/>
 
 #### 4.3.2. Landing Page Mock-up
 
@@ -1097,12 +1097,12 @@ Para esta esta Landing tenemos los colores principales de Bliss como colores que
 
 **Mobile Mockups**
 
-<img src="resources/Wireframe-Mobile-1(1).PNG"/>
-<img src="resources/Wireframe-Mobile-2(1).PNG"/>
-<img src="resources/Wireframe-Mobile-3(1).PNG"/>
-<img src="resources/Wireframe-Mobile-4(1).PNG"/>
-<img src="resources/Wireframe-Mobile-5(1).PNG"/>
-<img src="resources/Wireframe-Mobile-6(1).PNG"/>
+<img src="resources/Wireframe-Mobile-1(1).png"/>
+<img src="resources/Wireframe-Mobile-2(1).png"/>
+<img src="resources/Wireframe-Mobile-3(1).png"/>
+<img src="resources/Wireframe-Mobile-4(1).png"/>
+<img src="resources/Wireframe-Mobile-5(1).png"/>
+<img src="resources/Wireframe-Mobile-6(1).png"/>
 
 
 ### 4.4. Web Applications UX/UI Design
