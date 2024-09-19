@@ -576,13 +576,13 @@ En conclusión segmentos muestran un alto grado de interacción con sus respecti
 
 **Segmento objetivo: Clientes**
 
-<img src="resources/asmapp1.1.png">
+<img src="resources/asiscliente.png">
 
 <br>
 
 **Segmento objetivo: MYPES**
 
- <img src="resources/asmapp2.1.png">
+ <img src="resources/asismypes.png">
 
 <br>
 
