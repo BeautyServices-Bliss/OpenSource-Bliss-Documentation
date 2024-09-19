@@ -1716,7 +1716,7 @@ URL Trello: https://trello.com/b/nl4FsaI0/si729-bliss-202402-grupo3
           	<td> Visualizar sección de alianzas </td>
             <td>  Visitante debe pober visualizar las alianzas de manera clara. </td>
             <td> 2 </td>
-            <td> Andre Bernaola </td>
+            <td>Elvia Rodriguez </td>
             <td> Done </td>
         </tr>
       <tr>
@@ -1726,7 +1726,7 @@ URL Trello: https://trello.com/b/nl4FsaI0/si729-bliss-202402-grupo3
           	<td> Visualizar sección de equipo </td>
             <td> Visitante debe pober visualizar a los miembros del equipo de manera clara. </td>
             <td> 2 </td>
-            <td>Andre Bernaola  </td>
+            <td>David Rivas  </td>
             <td> Done </td>
         </tr>
       <tr>
@@ -1736,7 +1736,7 @@ URL Trello: https://trello.com/b/nl4FsaI0/si729-bliss-202402-grupo3
           	<td> Visualizar sección de visión del proyecto </td>
             <td> Visitante debe pober visualizar la visión del proyecto de manera clara.  </td>
             <td> 2 </td>
-            <td> Andre Bernaola </td>
+            <td> Diego Soriano </td>
             <td> Done </td>
         </tr>
     </tbody>
