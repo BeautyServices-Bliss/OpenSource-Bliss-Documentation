@@ -314,9 +314,11 @@ Asumimos que implementar procesos de verificación de profesionales y mostrar cl
 
 ###### 1.2.2.4. Lean UX Canvas
 
-  <img src="resources/leanuxcanvas.png" alt="LeanUxCanvas">
+<p align="center">
+    <img src="https://raw.githubusercontent.com/diego5m/labtest/main/opensource-images/DAOS-Leanux-Canva.png" />
+</p>
 
-Enlace para acceder al Canvas (https://app.mural.co/t/studentprojects6765/m/studentprojects6765/1723924811878/e2acd47a64a2a0139c4cf13feb7c67c6a2e5f92d?sender=u9e84aeace61d1c60b4be6095)
+<br/>
 
 ### 1.3. Segmento objetivo
 
