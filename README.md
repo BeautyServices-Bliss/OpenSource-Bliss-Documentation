@@ -39,14 +39,16 @@
 | 3         |24/08/2024|Rivas David,  Rodriguez Elvia|Desarrollo de las US y Product Backlog|
 |4          |25/08/2024|Bernaola Andre|Implementación de la Landing Page|
 |5          |25/08/2024|Soriano Diego|Elaboracion de Diagrama de Clases|
-|6          |28/08/2024|Soriano Diego|Elaboración de diegrama de base de datos|
+|6          |28/08/2024|Soriano Diego|Elaboración de diagrama de base de datos|
 |7          |28/08/2024|Rivas David|Capítulo 5|
 |8          |30/08/2024|Cabrera Diego|Arreglo de entrevistas|
 |9          |01/09/2024|Bernaola Andre|Elaboración de modelos C4|
 |10          |04/09/2024|Rivas David|SEO and Meta tags|
 |11          |07/09/2024| Rivas David|Puntos 4.7 y 4.8|
 |12          |09/09/2024|Rodriguez Elvia, Rivas David|Implementación de Wireframes, Mockups y Prototipo|
-
+|13          |18/09/2024|Rodriguez Elvia, Rivas David|Correcciones de Implementación de Wireframes, Mockups y Prototipo|
+|14         |18/09/2024|Cabrera Diego|Corrección del capítulo 1 y Entrevistas|
+|15          |18/08/2024|Soriano Diego|Correcciones en la elaboración de diagrama de base de datos|
 
 <br/>
 
