@@ -831,6 +831,9 @@ Link de Miro: https://miro.com/welcomeonboard/SjRSYUFMUThqcHdEZ2JnV3ZJVkxhendnbz
 | 38        | US009             | Cancelación de cita por parte del cliente    | Como cliente, quiero cancelar una cita reservada en la aplicación para asegurarme de no asistir a un servicio que ya no deseo.                                             | 3                |
 | 39        | US017             | Visualización de precios del servicio        | Como cliente, quiero visualizar tanto el precio total como el precio base del servicio reservado para estimar el presupuesto.                                              | 3                |
 | 40        | US028             | Notificación de cambios en servicios         | Como empresa, quiero recibir notificaciones sobre cambios en los servicios ofrecidos para estar al tanto de las actualizaciones.                                           | 4                |
+
+Link Product Backlog Trello: https://trello.com/b/nl4FsaI0/si729-bliss-202402-grupo3
+
 ## Capítulo 4: Product Design
 ###  4.1. Style Guidelines
 #### 4.1.1. General Style Guidelines
@@ -1739,7 +1742,7 @@ Para la organizacion del proyecto requerimos de un sistema de de asignación de 
         <tr>
             <td> Landing Page </td>
             <td> Bliss-landing-page </td>
-            <td> https://github.com/SI729-Bliss/Landing-Page </td>
+            <td> https://github.com/SI729-Bliss/Bliss-Landing-Page </td>
         </tr>
         <tr>
             <td> Web Services </td>
