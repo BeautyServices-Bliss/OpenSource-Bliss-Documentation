@@ -2135,7 +2135,7 @@ Link de Landing Page: https://si729-bliss.github.io/Landing-Page/
 
 Repositorio Landing Page:
 
-<img src="resources/ssEvidence1.JPG"/>
+<img src="resources/SSEvidence1.JPG"/>
 
 <img src="resources/ssEvidence2.JPG"/>
 
