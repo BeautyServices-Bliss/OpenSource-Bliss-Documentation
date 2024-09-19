@@ -2116,8 +2116,11 @@ Repositorio Documentación:
 
 Repositorio Landing Page:
 
-<img src="resources/ssLandingEvidence1.JPG"/>
-<img src="resources/ssLandingEvidence2.JPG"/>
+<img src="resources/ssEvidence1.JPG"/>
+
+<img src="resources/ssEvidence2.JPG"/>
+
+<img src="resources/ssEvidence3.JPG"/>
 
 <!-- ### 5.3. Validation Interviews -->
 
