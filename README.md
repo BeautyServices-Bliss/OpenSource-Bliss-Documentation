@@ -2143,7 +2143,68 @@ Repositorio Landing Page:
 
 #### 5.2.2. Sprint 2
 ##### 5.2.2.1. Sprint Planning 2
+
+<table>
+    <thead>
+        <tr>
+            <td>Sprint #</td>
+            <td>Sprint 2</td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Planning Background</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Date</td>
+            <td>2024-09-24</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>21:00</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>UPC</td>
+        </tr>
+        <tr>
+            <td>Prepared By</td>
+            <td>BeautyServices</td>
+        </tr>
+        <tr>
+            <td>Attendees (to planning meeting)</td>
+            <td>Soriano Medrano, Diego Martin/Rodriguez Villa, Elvia Marcela/Cabrera Buitron, Diego Ivan/ Rivas Sarango, David Alejandro / Bernaola Pérez, André Arturo</td>
+        </tr>
+        <tr>
+            <td>Sprint n – 2 Review Summary</td>
+            <td>Se mejorararon secciones de la landing page y se realizaron los primeros diseños de la web app.</td>
+        </tr>
+        <tr>
+            <td>Sprint n – 2 Retrospective Summary</td>
+            <td>Siendo esto el segundo sprint, conseguiremos la parcialidad de las pestañas implementadas para el front.  </td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Goal & User Stories</td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Goal</td>
+            <td> Nos enfocamos en  implementar el frontend web, creemos que esta conseguirá una aceptación en cuanto a diseño y accesbilidad para el usuario, esto será confirmado cuando las empresas y clientes naveguen por la página en cortos tiempos debido a la fluidez del front. </td>
+        </tr>
+        <tr>
+            <td>Sprint 1 Velocity</td>
+            <td>21</td>
+        </tr>
+        <tr>
+            <td>Sum of Story Points</td>
+            <td>26</td>
+        </tr>
+    </tbody>
+</table>
+
 ##### 5.2.1.2. Sprint Backlog 2
+
+
+
 ##### 5.2.1.3. Development Evidence for Sprint Review
 
 Como primeras evidencias de lo que se desarrolló durante el sprint tenemos a la implmementación del Front web app, iniciando con la creación del proyecto y luego dando paso a commits que presentan un avance en cada sección del mismo.
@@ -2206,6 +2267,19 @@ Para el sprint 2 únicamente se planificó que el sprint abarcaría el desarroll
 
 ##### 5.2.2.7. Software Deployment Evidence for Sprint Review
 En la entrega de este segundo sprint, se desplegaron las secciones del Frontend web app de manera separada en Firebase, siendo estas completamente funcionales y con algunas us completas.
+
+**Landing**
+
+<img src="resources/ssLanding1.JPG"/>
+<img src="resources/ssLanding2.JPG"/>
+<img src="resources/sslanding70.JPG"/>
+<img src="resources/ssLanding3.JPG"/>
+<img src="resources/ssLanding4.JPG"/>
+<img src="resources/ssLanding5.JPG"/>
+<img src="resources/ssLanding6.JPG"/>
+<img src="resources/ssLanding7.JPG"/>
+
+**Frontend**
 
 Registro de empresa de belleza
 
