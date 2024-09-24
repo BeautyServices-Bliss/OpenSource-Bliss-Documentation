@@ -1497,7 +1497,7 @@ Los componentes del sistema siguen el patrón de arquitectura en capas, organiza
 
 <img src="resources/C4-Model/services-component.png" />
 
-##### User Management Component
+##### Profile Management Component
 
 <img src="resources/C4-Model/user-component.png" />
 
@@ -1505,11 +1505,11 @@ Los componentes del sistema siguen el patrón de arquitectura en capas, organiza
 
 <img src="resources/C4-Model/booking-component.png" />
 
-##### Notification Component
+##### Searching Monitoring Component
 
 <img src="resources/C4-Model/notification-component.png" />
 
-##### Payments Component
+##### Feedback Component
 
 <img src="resources/C4-Model/payments-component.png" />
 
