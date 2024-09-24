@@ -2141,6 +2141,103 @@ Repositorio Landing Page:
 
 <img src="resources/ssEvidence3.JPG"/>
 
+#### 5.2.2. Sprint 2
+##### 5.2.2.1. Sprint Planning 2
+##### 5.2.1.2. Sprint Backlog 2
+##### 5.2.1.3. Development Evidence for Sprint Review
+
+Como primeras evidencias de lo que se desarrolló durante el sprint tenemos a la implmementación del Front web app, iniciando con la creación del proyecto y luego dando paso a commits que presentan un avance en cada sección del mismo.
+
+**Landing Page**
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|-|-|-|-|-|-|
+| https://github.com/SI729-Bliss/Bliss-Landing-Page| feature/product-info-section | 2ed8076 | feat: product-information section and about us implementation | feat: product-information section and about us implementation | 24/09/2024 |
+| https://github.com/SI729-Bliss/Bliss-Landing-Page| develop | 1a623de | Merge pull request #7 from SI729-Bliss/feature/product-info-section | Feature/product info section | 24/09/2024 |
+| https://github.com/SI729-Bliss/Bliss-Landing-Page| main | 071ed2c | Merge pull request #8 from SI729-Bliss/develop | Develop | 24/09/2024 |
+
+
+**FrontEnd WEB Application**
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|-|-|-|-|-|-|
+| https://github.com/SI729-Bliss/Bliss-Frontend-Web-Applications| main | 88dbe96 | initial commit | initial commit| 23/09/2024 |
+| https://github.com/SI729-Bliss/Bliss-Frontend-Web-Applications| main | 84fe432 | feat: add initial project setup |feat: add initial project setup| 23/09/2024 |
+| https://github.com/SI729-Bliss/Bliss-Frontend-Web-Applications| main | 752ac07 | initial commit | initial commit| 23/09/2024 |
+| https://github.com/SI729-Bliss/Bliss-Frontend-Web-Applications| feature/booking | ce6e4c8 | feat: add environments | feat: add environments| 23/09/2024 |
+| https://github.com/SI729-Bliss/Bliss-Frontend-Web-Applications| feature/booking | dbddeea | feat: added new branch | feat: added new branch| 23/09/2024 |
+| https://github.com/SI729-Bliss/Bliss-Frontend-Web-Applications| feature/profile-management | dcfdde8 | chore: add i18n and language switcher in template project | chore: add i18n and language switcher in template project| 23/09/2024 |
+| https://github.com/SI729-Bliss/Bliss-Frontend-Web-Applications| feature/profile-management | 44dc5b6 | feat(profile-management): added an implemented entities | feat(profile-management): added an implemented entities| 23/09/2024 |
+| https://github.com/SI729-Bliss/Bliss-Frontend-Web-Applications| feature/profile-management | 9629823 | style(profile-management): added display flex and resizing |style(profile-management): added display flex and resizing| 23/09/2024 |
+| https://github.com/SI729-Bliss/Bliss-Frontend-Web-Applications| feature/profile-management | 9dab75a |feat(profile-management): added company components |feat(profile-management): added company components| 23/09/2024 |
+| https://github.com/SI729-Bliss/Bliss-Frontend-Web-Applications| feature/profile-management | 7545200 |chore(profile-management): added base services |chore(profile-management): added base services| 23/09/2024 |
+| https://github.com/SI729-Bliss/Bliss-Frontend-Web-Applications| feature/searching | b34e992 |feat: json of beauty_salons, service_details, categories, services, reservations, reservations_details and feedback |feat: json of beauty_salons, service_details, categories, services, reservations, reservations_details and feedback| 24/09/2024 |
+| https://github.com/SI729-Bliss/Bliss-Frontend-Web-Applications| feature/searching | 37fc821 |feat: base of home-client |feat: base of home-client| 24/09/2024 |
+| https://github.com/SI729-Bliss/Bliss-Frontend-Web-Applications| feature/searching | e87659c |feat: home page |feat: home page| 24/09/2024 |
+| https://github.com/SI729-Bliss/Bliss-Frontend-Web-Applications| feature/services-management | 27fdc12 |feat: enterprise services |feat: enterprise services| 24/09/2024 |
+| https://github.com/SI729-Bliss/Bliss-Frontend-Web-Applications| feature/services-management | dff3312 |feat: db.json for services |feat: db.json for services| 24/09/2024 |
+| https://github.com/SI729-Bliss/Bliss-Frontend-Web-Applications| feature/services-management | 5f7b94f |feat: services configuration |feat: services configuration| 24/09/2024 |
+
+##### 5.2.2.4. Testing Suite Evidence for Sprint Review
+Test que incluyen la visializacion de componentes como los servicios ofrecidos, especialistas y  creación de feedback.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|-|-|-|-|-|-|
+| https://github.com/SI729-Bliss/Testing| main | 88dbe96 | feat: new users stories | feat: new users stories| 24/09/2024 |
+
+
+##### 5.2.2.5. Execution Evidence for Sprint Review
+
+Se muestra la ejecución de algunas pantallas por parte de los miembros del equipo.
+
+<img src="resources/ssfront1.JPG"/>
+<img src="resources/ssfront2.JPG"/>
+<img src="resources/ssfront3.JPG"/>
+
+##### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+Para el sprint 2 únicamente se planificó que el sprint abarcaría el desarrollo restante de la landing page y el front-end y para evitar limitaciones al probar las funcionalidades, se utilizó json server. Inicialmente se trabajó con una json server de forma local, sin embargo tras haber aprendido sobre My Json Server, se optó por usar este último puesto que nos permite interactuar con él desde una Front End Web Application ya desplegada. Enlace del my-json-server: https://my-json-server.typicode.com/SI729-Bliss/db-server
+
+|Endpoints|Description|
+|-|-|
+|beauty_salons|Se guardan las empresas de belleza que se han inscrito y usan la aplicación.|
+|Services|Servicios que brindan las empresas.|
+|Specialists|Lista de especialistas, estas son creadas por las empresas de belleza.|
+
+##### 5.2.2.7. Software Deployment Evidence for Sprint Review
+En la entrega de este segundo sprint, se desplegaron las secciones del Frontend web app de manera separada en Firebase, siendo estas completamente funcionales y con algunas us completas.
+
+Registro de empresa de belleza
+
+<img src="resources/ssfront1.JPG"/>
+
+Perfil de usuario
+
+<img src="resources/ssfront2.JPG"/>
+
+Home de cliente
+
+<img src="resources/ssfront3.JPG"/>
+
+Feedback section
+
+<img src="resources/ssfront5.JPG"/>
+
+
+
+##### 5.2.2.8. Team Collaboration Insights during Sprint
+
+|**Integrante**|**Acciones realizadas durante el sprint**|
+|-|-|
+|Andre Bernaola|Elaborar bc profile management|
+|Elvia Rodriguez|Elaborar bc feedback|
+|David Rivas|Elaborar bc searching home. |
+|Diego Soriano|Elaborar bc services|
+|Diego Carbajal|Elaborar bc booking|
+
+<img src="resources/ssTB2.JPG"/>
+<img src="resources/ssTB22.JPG"/>
+<img src="resources/ssTB23.JPG"/>
 <!-- ### 5.3. Validation Interviews -->
 
 
