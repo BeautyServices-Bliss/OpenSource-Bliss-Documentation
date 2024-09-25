@@ -2303,7 +2303,7 @@ Home de cliente
 
 Feedback section
 
-<img src="resources/ssfront5.JPG"/>
+<img src="resources/ssfront5.jpeg"/>
 
 
 
