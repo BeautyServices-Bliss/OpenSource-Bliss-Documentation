@@ -2121,7 +2121,7 @@ En la entrega de este primer sprint, se desplegó la Landing Page de Bliss compl
 <img src="resources/ssLanding1.JPG"/>
 <img src="resources/ssLanding2.JPG"/>
 
-Link de Landing Page: https://si729-bliss.github.io/Landing-Page/
+Link de Landing Page: https://si729-bliss.github.io/Bliss-Landing-Page/
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
 
@@ -2285,6 +2285,8 @@ En la entrega de este segundo sprint, se desplegaron las secciones del Frontend 
 <img src="resources/ssLanding6.JPG"/>
 <img src="resources/ssLanding7.JPG"/>
 
+URL: https://si729-bliss.github.io/Bliss-Landing-Page/
+
 **Frontend**
 
 Registro de empresa de belleza
@@ -2344,7 +2346,7 @@ TB1: En esta primera entrega, nos adecuamos al proyecto con la ayuda de herramie
 
 ## Anexos
 
-* **Landing Page:** https://si729-bliss.github.io/Landing-Page/
+* **Landing Page:** https://si729-bliss.github.io/Bliss-Landing-Page/
 * **Impact Mapping-Miro:** https://miro.com/welcomeonboard/SjRSYUFMUThqcHdEZ2JnV3ZJVkxhendnbzJUeHpxREozMUhBdlhKM2JSVml2TFFudTZ4dlQ2RDNNRjk5NllrUXwzMDc0NDU3MzY0MTkwNzY3NzU4fDI=?share_link_id=407431920605
 * **Trello:** https://trello.com/b/nl4FsaI0/si729-bliss-202402-grupo3
 * **Wireflows-Lucidchart:** https://lucid.app/lucidchart/7d2c78f1-74e6-4e06-bac7-fa7053cb3a4d/edit?beaconFlowId=85F79CDA3ED67A01&invitationId=inv_d318f86c-78f2-4c1c-80b0-0c5715a137bd&page=0_0#
