@@ -1958,7 +1958,7 @@ En este primer sprint definimos las tareas iniciales, todos los integrantes del 
         </tr>
         <tr>
             <td>Sprint 1 Goal</td>
-            <td> Nos enfocamos en diseñar e implementar la landing page, creemos que esta conseguirá una visibilidad inicial tanto en los las empresas de belleza como en los clientes interesados en la moda, esto será confirmado cuando las empresas se registren y publiquen sus servicios y la cantidad de usuarios empieze a crecer. </td>
+            <td> Nos enfocamos en diseñar e implementar la landing page, creemos que esta conseguirá una visibilidad inicial tanto en los las empresas de belleza como en los clientes interesados en el cuidado y belleza, esto será confirmado cuando las empresas se registren y publiquen sus servicios y la cantidad de usuarios empieze a crecer. </td>
         </tr>
         <tr>
             <td>Sprint 1 Velocity</td>
@@ -2273,6 +2273,8 @@ En la entrega de este segundo sprint, se desplegaron las secciones del Frontend 
 | https://bliss-front.web.app/company|Profile management|
 |https://bliss-web-home.web.app|Searching / home|
 |https://bliss-frontend-web-application.web.app/home|Services|
+|https://farma-project-4bbda.web.app/review|Feedback|
+
 
 **Landing**
 
