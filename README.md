@@ -2317,9 +2317,9 @@ Feedback section
 |Diego Soriano|Elaborar bc services|
 |Diego Carbajal|Elaborar bc booking|
 
-<img src="resources/ssTB2.JPG"/>
-<img src="resources/ssTB22.JPG"/>
-<img src="resources/ssTB23.JPG"/>
+<img src="resources/ssTC2.JPG"/>
+<img src="resources/ssTC22.JPG"/>
+<img src="resources/ssTC23.JPG"/>
 <!-- ### 5.3. Validation Interviews -->
 
 
