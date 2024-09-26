@@ -2223,7 +2223,9 @@ Para este sprint nos dedicamos a la implementación inicial del producto.
 
 ##### 5.2.1.2. Sprint Backlog 2
 
+En este sprint nos dedicamos a implementar de manera inicial el producto con sus vistas iniciales.
 
+<img src="resources/Sprint2SS.JPG"/>
 
 ##### 5.2.1.3. Development Evidence for Sprint Review
 
