@@ -2227,6 +2227,8 @@ En este sprint nos dedicamos a implementar de manera inicial el producto con sus
 
 <img src="resources/Sprint2SS.JPG"/>
 
+url: https://trello.com/b/nl4FsaI0/si729-bliss-202402-grupo3
+
 ##### 5.2.1.3. Development Evidence for Sprint Review
 
 Como primeras evidencias de lo que se desarrolló durante el sprint tenemos a la implmementación del Front web app, iniciando con la creación del proyecto y luego dando paso a commits que presentan un avance en cada sección del mismo.
