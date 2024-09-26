@@ -49,6 +49,8 @@
 |13          |18/09/2024|Rodriguez Elvia, Rivas David|Correcciones de Implementación de Wireframes, Mockups y Prototipo|
 |14         |18/09/2024|Cabrera Diego|Corrección del capítulo 1 y Entrevistas|
 |15          |18/08/2024|Soriano Diego|Correcciones en la elaboración de diagrama de base de datos|
+|16          |23/09/2024|Bernaola, Andre|Actualización de Diagramas de Contexto|
+|17          |23/09/2024|Rivas Sarango|Elaboracion de Capítulo V|
 
 <br/>
 
@@ -70,6 +72,22 @@ URL de la organización del proyecto: [https://github.com/upc-opensource-g-bliss
 <img src="resources/ssSprint1Evidence.JPG"/>
 
 <img src="resources/ssSprint1Evidence1.JPG"/>
+
+
+**TP**
+|Integrante|Tareas Asignadas|
+|-|-|
+|André Arturo Bernaola Pérez|Actualización de Diagramas de Contexto|
+|Diego Ivan Cabrera Buitron| |
+|Elvia Marcela Rodriguez Villa|Actualización de Mockups y Prototipo|
+|David Alejandro Rivas Sarango|Elaboración de Capítulo 5|
+|Diego Martin Soriano Medrano|Elaboración de Diagrama de base de datos|
+
+**TP Github**
+
+<img src="resources/screentp1.JPG"/>
+
+<img src="resources/screentp1.JPG"/>
 
 ***
 
