@@ -2162,6 +2162,8 @@ Repositorio Landing Page:
 #### 5.2.2. Sprint 2
 ##### 5.2.2.1. Sprint Planning 2
 
+Para este sprint nos dedicamos a la implementación inicial del producto.
+
 <table>
     <thead>
         <tr>
@@ -2360,6 +2362,7 @@ Feedback section
 
 TB1: En esta primera entrega, nos adecuamos al proyecto con la ayuda de herramientas utilizadas como Figma o Miro. De esta manera, hemos trabajado de manera adecuada con ansias por desplegar y codear este proyecto con toda la retroalimentación posible.
 
+TP: En esta entrega iniciamos con la implementación y despliegue del producto y su documentación de acuerdo a los requisitos del usuario. Utilizamos gitflow para la elaboración del mismo, siempre hablando entre los miembros del equipo para mantener una fluidez y coherencia en los archivos del proyecto como en su ciclo de vida.
 
 ## Bibliografía
 
