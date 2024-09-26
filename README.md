@@ -46,6 +46,8 @@
 |10          |04/09/2024|Rivas David|SEO and Meta tags|
 |11          |07/09/2024| Rivas David|Puntos 4.7 y 4.8|
 |12          |09/09/2024|Rodriguez Elvia, Rivas David|Implementación de Wireframes, Mockups y Prototipo|
+|13          |23/09/2024|Bernaola, Andre|Actualización de Diagramas de Contexto|
+|14          |23/09/2024|Rivas Sarango|Elaboracion de Capítulo V|
 
 
 <br/>
@@ -68,6 +70,21 @@ URL de la organización del proyecto: [https://github.com/upc-opensource-g-bliss
 <img src="resources/ssSprint1Evidence.JPG"/>
 
 <img src="resources/ssSprint1Evidence1.JPG"/>
+
+**TP**
+|Integrante|Tareas Asignadas|
+|-|-|
+|André Arturo Bernaola Pérez|Actualización de Diagramas de Contexto|
+|Diego Ivan Cabrera Buitron|Uso de |
+|Elvia Marcela Rodriguez Villa|Actualización de Mockups y Prototipo|
+|David Alejandro Rivas Sarango|Elaboración de Capítulo 5|
+|Diego Martin Soriano Medrano|Elaboración de Diagrama de base de datos|
+
+**TP Github**
+
+<img src="resources/screentp1.JPG"/>
+
+<img src="resources/screentp1.JPG"/>
 
 ***
 
