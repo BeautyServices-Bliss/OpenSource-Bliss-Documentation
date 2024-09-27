@@ -2341,7 +2341,7 @@ Feedback section
 |Elvia Rodriguez|Elaborar bc feedback|
 |David Rivas|Elaborar bc searching home. |
 |Diego Soriano|Elaborar bc services|
-|Diego Carbajal|Elaborar bc booking|
+|Diego Cabrera|Elaborar bc booking|
 
 <img src="resources/ssTC2.JPG"/>
 <img src="resources/ssTC22.JPG"/>
