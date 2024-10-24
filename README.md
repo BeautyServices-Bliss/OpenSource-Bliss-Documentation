@@ -168,6 +168,24 @@ URL de la organización del proyecto: [https://github.com/upc-opensource-g-bliss
 5.2.1.6. [Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review) <br>
 5.2.1.7. [Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review) <br>
 5.2.1.8. [Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint) <br>
+5.2.2. [Sprint 2](#522-sprint-2) <br>
+5.2.2.1. [Sprint Planning 2](#5221-sprint-planning-2) <br>
+5.2.2.2. [Sprint Backlog 2](#5222-sprint-backlog-2) <br>
+5.2.2.3. [Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review) <br>
+5.2.2.4. [Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review) <br>
+5.2.2.5. [Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review) <br>
+5.2.2.6. [Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review) <br>
+5.2.2.7. [Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review) <br>
+5.2.2.8. [Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint) <br>
+5.2.3. [Sprint 3](#532-sprint-3) <br>
+5.2.3.1. [Sprint Planning 3](#5231-sprint-planning-2) <br>
+5.2.3.2. [Sprint Backlog 3](#5232-sprint-backlog-2) <br>
+5.2.3.3. [Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review) <br>
+5.2.3.4. [Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review) <br>
+5.2.3.5. [Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review) <br>
+5.2.3.6. [Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review) <br>
+5.2.3.7. [Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review) <br>
+5.2.3.8. [Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint) <br>
 5.3. [***Validation Interviews***](#53-validation-interviews) <br>
 5.3.1.[Diseño de Entrevistas](#531-diseño-de-entrevistas) <br>
 5.3.2.[Registro de Entrevistas](#532-registro-de-entrevistas) <br>
@@ -2346,6 +2364,117 @@ Feedback section
 <img src="resources/ssTC2.JPG"/>
 <img src="resources/ssTC22.JPG"/>
 <img src="resources/ssTC23.JPG"/>
+
+#### 5.2.3. Sprint 3
+##### 5.2.3.1. Sprint Planning 3
+
+En este primer sprint definimos las tareas iniciales, todos los integrantes del equipo participaron, el objetivo principal fue diseñar una landing page atractica para Bliss, quien busca captar la atención de clientes de belleza como de empresas del mismo rubro.
+
+<table>
+    <thead>
+        <tr>
+            <td>Sprint #</td>
+            <td>Sprint 3</td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Planning Background</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Date</td>
+            <td>2024-10-24</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>21:00</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>UPC</td>
+        </tr>
+        <tr>
+            <td>Prepared By</td>
+            <td>BeautyServices</td>
+        </tr>
+        <tr>
+            <td>Attendees (to planning meeting)</td>
+            <td>Soriano Medrano, Diego Martin/Rodriguez Villa, Elvia Marcela/Cabrera Buitron, Diego Ivan/ Rivas Sarango, David Alejandro / Bernaola Pérez, André Arturo</td>
+        </tr>
+        <tr>
+            <td>Sprint n – 3 Review Summary</td>
+            <td>Siendo este el primer sprint, no hay reviews de sprints anteriores.</td>
+        </tr>
+        <tr>
+            <td>Sprint n – 3 Retrospective Summary</td>
+            <td>Siendo el primer sprint, se mencionará la expectativa de los miembros del equipo: Terminar las actividades antes de la crítica. </td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Goal & User Stories</td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Goal</td>
+            <td> Nos enfocamos en diseñar e implementar la landing page, creemos que esta conseguirá una visibilidad inicial tanto en los las empresas de belleza como en los clientes interesados en el cuidado y belleza, esto será confirmado cuando las empresas se registren y publiquen sus servicios y la cantidad de usuarios empieze a crecer. </td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Velocity</td>
+            <td>6</td>
+        </tr>
+        <tr>
+            <td>Sum of Story Points</td>
+            <td>6</td>
+        </tr>
+    </tbody>
+</table>
+
+##### 5.2.3.2. Sprint Backlog 3
+
+
+
+##### 5.2.3.3. Development Evidence for Sprint Review
+
+
+
+**Landing Page**
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|-|-|-|-|-|-|
+
+
+##### 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+
+
+##### 5.2.3.5. Execution Evidence for Sprint Review
+
+
+
+##### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+
+
+##### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+
+
+##### 5.2.3.8. Team Collaboration Insights during Sprint
+
+|**Integrante**|**Acciones realizadas durante el sprint**|
+|-|-|
+|Andre Bernaola|Implementacion inicial de bc-profiles en backend|
+|Elvia Rodriguez|Implementacion inicial de bg-feedback|
+|David Rivas| Implementacion inicial de bc-services en backend|
+|Diego Soriano|Implementacion inicial de bc-services en backend|
+|Diego Carbajal|Implementacion inicial de bc-booking en backend|
+
+Repositorio Landing Page:
+
+<img src="resources/SSEvidence1.JPG"/>
+
+<img src="resources/ssEvidence2.JPG"/>
+
+<img src="resources/ssEvidence3.JPG"/>
+
 <!-- ### 5.3. Validation Interviews -->
 
 
