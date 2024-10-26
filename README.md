@@ -2368,7 +2368,9 @@ Feedback section
 #### 5.2.3. Sprint 3
 ##### 5.2.3.1. Sprint Planning 3
 
-En este primer sprint definimos las tareas iniciales, todos los integrantes del equipo participaron, el objetivo principal fue diseñar una landing page atractica para Bliss, quien busca captar la atención de clientes de belleza como de empresas del mismo rubro.
+En este tercer sprint del proyecto, nos enfocaremos en definir las tareas a realizar en el backend de la aplicación para el dessarrollo de nuestra API REST, así como en consolidar y completar todas las tareas asignadas en el desarrollo frontend. Todos los miembros del equipo han participado activamente en la planificación y ejecución de las actividades.
+
+El objetivo principal de este sprint es consolidar las tareas y las user stories asignadas en sprints anteriores, además de planificar las user stories que cada integrante llevará a cabo para el desarrollo del backend de nuestra aplicación. Con este enfoque, buscamos asegurar un avance sólido y coordinado en ambos lados del proyecto.
 
 <table>
     <thead>
@@ -2402,19 +2404,19 @@ En este primer sprint definimos las tareas iniciales, todos los integrantes del 
             <td>Soriano Medrano, Diego Martin/Rodriguez Villa, Elvia Marcela/Cabrera Buitron, Diego Ivan/ Rivas Sarango, David Alejandro / Bernaola Pérez, André Arturo</td>
         </tr>
         <tr>
-            <td>Sprint n – 3 Review Summary</td>
-            <td>Siendo este el primer sprint, no hay reviews de sprints anteriores.</td>
+            <td>Sprint 3 – 2 Review Summary</td>
+            <td> Se cumplió con el objetivo del sprint anterior al implementar completamente el frontend web de nuestra propuesta de solución. Se llevaron a cabo la implementación y corrección de las rutas de acceso a los componentes durante la integración del frontend. Además, en la herramienta Trello, se actualizaron las asignaciones de las historias de usuario y se registraron las tareas completadas en cada historia. Por último, se integraron todos los cambios realizados en el repositorio del frontend en la rama de desarrollo. </td>
         </tr>
         <tr>
-            <td>Sprint n – 3 Retrospective Summary</td>
-            <td>Siendo el primer sprint, se mencionará la expectativa de los miembros del equipo: Terminar las actividades antes de la crítica. </td>
+            <td>Sprint 3 – 2 Retrospective Summary</td>
+            <td> Todos los integrantes del equipo participaron activamente en el desarrollo del frontend de la aplicación y colaboraron en la integración de todas las funcionalidades implementadas en el repositorio. En general, se concluye que hasta el momento se han obtenido resultados positivos. Como puntos de mejora, se destacan la falta de coordinación en la ejecución de algunas funcionalidades asignadas y la necesidad de mejorar la comunicación para evitar redundancias en la gestión de los datos necesarios para cada funcionalidad. </td>
         </tr>
         <tr>
             <td colspan="2">Sprint Goal & User Stories</td>
         </tr>
         <tr>
             <td>Sprint 3 Goal</td>
-            <td> Nos enfocamos en diseñar e implementar la landing page, creemos que esta conseguirá una visibilidad inicial tanto en los las empresas de belleza como en los clientes interesados en el cuidado y belleza, esto será confirmado cuando las empresas se registren y publiquen sus servicios y la cantidad de usuarios empieze a crecer. </td>
+            <td> <b>Nuestro enfoque está en</b> la implementación de los servicios backend necesarios para nuestra aplicación, asegurando que cumplan con la lógica de negocio establecida en las historias de usuario. <b>Creemos que esta implementación proporcionará</b> la funcionalidad esencial para generar recursos y añadir datos relevantes en nuestra aplicación. <b>Esto se confirmará cuando</b> hayamos implementado las funciones CRUD básicas para los dominios identificados, permitiendo así probar la funcionalidad a través de nuestra API documentada con swagger. </td>
         </tr>
         <tr>
             <td>Sprint 3 Velocity</td>
