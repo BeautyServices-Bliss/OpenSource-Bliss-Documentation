@@ -2429,18 +2429,153 @@ El objetivo principal de este sprint es consolidar las tareas y las user stories
     </tbody>
 </table>
 
+<br/>
+
 ##### 5.2.3.2. Sprint Backlog 3
 
+En el desarrollo del Sprint número tres, hemos verificado el cumplimiento de las actividades asignadas en el sprint anterior. Consolidamos todas las historias de usuario relacionadas con el desarrollo frontend de la aplicación y asignamos a cada integrante las historias de usuario necesarias para comenzar con la implementación de los servicios backend.
 
+Cada miembro del equipo se encargó de identificar sus respectivas historias de usuario, lo cual se refleja en la plataforma Trello. Posteriormente, cada integrante elaboró una descripción detallada de las tareas realizadas, así como una estimación de las horas correspondientes para el desarrollo del backend.
+<!--
+**Board para el Sprint:**
+
+<img src="resources/ssTrelloTB1.JPG"/>
+
+<br/>
+
+**URL Trello:**
+
+URL Trello: https://trello.com/b/nl4FsaI0/si729-bliss-202402-grupo3
+-->
+<br/>
+
+<table>
+    <thead>
+        <tr>
+            <td>Sprint #</td>
+            <td colspan="7" >Sprint 3</td>
+        </tr>
+        <tr>
+            <td colspan="2" > User Story</td>
+            <td colspan="6" > Work-Item / Task </td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td> Id </td>
+            <td> Title </td>
+            <td> Id </td>
+            <td> Title </td>
+            <td> Description </td>
+            <td> Estimation (Hours) </td>
+            <td> Assigned To </td>
+            <td> Status (To-do / In-Process / To-Review / Done) </td>
+        </tr>
+        <tr>
+            <td> US011 </td>
+          	<td> Notificación de confirmación de reserva </td>
+          	<td> 01 </td>
+          	<td> Crear componente para notificar las reservas </td>
+            <td> - Implementar lógica para gestionar la notificación automática </br> - Crear servicio para simular el envío de correo electrónico </br> - Pruebas de funcionalidad de notificación automática  </td>
+            <td> 2 </td>
+            <td> Elvia Rodriguez </td>
+            <td> Done </td>
+        </tr>
+        <tr>
+            <td> US012 </td>
+          	<td> Dejar valoración y reseña después de la cita </td>
+          	<td> 02 </td>
+          	<td> Crear formulario para guardar reserñas de citas </td>
+            <td> - Implementar la lógica de interacción con el usuario </br> - Crear la funcionalidad de envío de reseñas al servidor </br> - Desarrollar la visualización de reseñas publicadas </br> - Probar el flujo completo de publicación y visualización de reseñas </td>
+            <td> 2 </td>
+            <td> Elvia Rodriguez </td>
+            <td> Done </td>
+        </tr>
+        <tr>
+            <td> TS00 </td>
+          	<td>  </td>
+          	<td>  </td>
+          	<td>  </td>
+            <td> - </br> -  </br> -  </br> - </td> </td>
+            <td>  </td>
+            <td>  </td>
+            <td>  </td>
+        </tr>
+        <tr>
+            <td> TS034 </td>
+          	<td> Visualización de servicios ofrecidos por la empresa </td>
+          	<td> 04 </td>
+          	<td> Obtener listado de servicios por empresa </td>
+            <td> - Codificación aggregate de servicios </br> - Codificación los value objects para servicios </br> - Crear la clase Servicios con extención de AggregateRoot </br> - Codificar Queries del modelo </br> - Codificar la interface para query de servicios </br> - Codificar la implementación de query para servicios </br> - Codificar las interfaces rest para servicios </br> - Implementar el endpoint para obtener el listado de todos los servicios </td>
+            <td> 3 </td>
+            <td> Diego Soriano </td>
+            <td> Done </td>
+        </tr>
+        <tr>
+            <td> TS024 </td>
+          	<td> Creación de servicio en el sistema </td>
+          	<td> 05 </td>
+          	<td> Backend para la creación y almacenamiento de servicios de empresa </td>
+            <td> - Crear aggregate de servicios </br> - Identificar los value objects para servicios  </br> - Crear la clase Servicios con extención de AggregateRoot  </br> - Codificar los atributos de la clase Servicios con los nombres para las tablas en bd  </br> - Codificar los constructores de Servicios  </br> - Codificar value objects de Servicios </br> - Codificar Commands del modelo </br> - Codificar Queries del modelo </td>
+            <td> 3 </td>
+            <td> Diego Soriano </td>
+            <td> Done </td>
+        </tr>
+        <tr>
+            <td> TS025 </td>
+          	<td> Eliminación de servicio en el sistema </td>
+          	<td> 06 </td>
+          	<td> Backend para eliminación de servicios </td>
+            <td> - Codificación de los command de eliminación </br> - Codificación de los servicios command para el dominio </br> - Codificación de la implementación de los servicios command </br> - Implementación del endpoint de eliminación de servicios </td>
+            <td> 3 </td>
+            <td> Diego Soriano </td>
+            <td> Done </td>
+        </tr>
+        <tr>
+            <td> TS030 </td>
+          	<td> Actualización de servicios ofrecidos </td>
+          	<td> 07 </td>
+          	<td> Backend para actualización de servicios en base de datos </td>
+            <td> - Codificación de model command de actualización de servicios </br> - Codificación de los servicios command para el dominio </br> - Implementación de los servicios command </br> - Codificación de interfaces rest para eliminación de servicios </br> - Implementación del endpoint de eliminación de servicios </td>
+            <td> 3 </td>
+            <td> Diego Soriano </td>
+            <td> Done </td>
+        </tr>
+        <tr>
+            <td>  </td>
+          	<td>  </td>
+          	<td>  </td>
+          	<td>  </td>
+            <td> - </br> -  </br> -  </br> - </br> </td>
+            <td>  </td>
+            <td>  </td>
+            <td>  </td>
+        </tr>
+    </tbody>
+</table>
+
+
+<br/>
 
 ##### 5.2.3.3. Development Evidence for Sprint Review
 
+- En el repositorio de Web Applications, nos hemos centrado en el desarrollo de las funciones pendientes y en la integración de las características implementadas en la rama development de nuestro repositorio. Nuestro objetivo ha sido garantizar la correcta integración de todos los componentes y el enrutamiento adecuado de las páginas dentro de esta rama. Al concluir el sprint, procederemos con una integración final en la rama main, asegurando así la estabilidad y el óptimo funcionamiento de la aplicación.
 
-
-**Landing Page**
+**Web Applications**
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |-|-|-|-|-|-|
+|  |  |  |  |  |  |
+
+<br/>
+
+- En el repositorio de Web Services, nos hemos enfocado en llevar a cabo todas las configuraciones necesarias para trabajar con el lenguaje y el framework asignados para el desarrollo. Iniciamos creando y cargando al repositorio el proyecto generado con Spring Initializr en el primer commit, seguido de la configuración de los archivos pertinentes. Finalmente, cada integrante se encargó de crear las ramas correspondientes a cada bounded context asignado, lo que nos permitirá comenzar con el desarrollo de manera organizada y estructurada.
+
+**Web Services**
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|-|-|-|-|-|-|
+|  |  |  |  |  |  |
 
 
 ##### 5.2.3.4. Testing Suite Evidence for Sprint Review
