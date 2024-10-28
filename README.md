@@ -2613,19 +2613,246 @@ Repositorio Landing Page:
 
 <img src="resources/ssEvidence3.JPG"/>
 
-<!-- ### 5.3. Validation Interviews -->
+### 5.3. Validation Interviews
 
 
-<!-- #### 5.3.1. Diseño de Entrevistas -->
+#### 5.3.1. Diseño de Entrevistas
+- Objetivo de la entrevista
+  El objetivo es validar la usabilidad y efectividad del landing page y la aplicación para cada uno de los segmentos de usuarios, asegurando que los flujos de usuario (user flows) sean intuitivos y satisfactorios.
+- Elementos de Validación
+  Landing Page: Los usuarios interactuarán con la landing page para evaluar la claridad del mensaje, las llamadas a la acción (CTA), la navegación y el diseño.
+  Aplicación: Se guiará a los usuarios a través de los principales flujos como la reserva de servicios de belleza, la gestión de servicios de belleza y el sistema de feedback.
+- User Flows a Validar 
+
+###### Para el segmento Cliente:
+
+1. **Navegación del Catálogo de Servicios:**
+  - Facilidad para encontrar y explorar los servicios disponibles (manicure, pedicure, tratamientos faciales, etc.).
+
+2. **Proceso de Reserva:**
+  - Evaluar la facilidad de reservar un servicio, seleccionar una hora, y elegir un profesional.
+
+3. **Recepción de Servicios:**
+  - Evaluar cómo se muestra la confirmación de la reserva, notificaciones y feedback post-servicio.
+
+##### Para el segmento Empresa:
+
+1. **Edición de Cuenta:**
+  - Cómo las empresas editan su perfil en la plataforma, incluyendo los servicios que ofrecen y los especialistas a cargo.
+
+2. **Visualización del Perfil de la Empresa:**
+  - Evaluar cómo la empresa puede visualizar su propio perfil, incluyendo los servicios que ofrece y los especialistas asignados.
+
+3. **Creación de Servicio:**
+  - Evaluar la facilidad con la que las empresas pueden crear y personalizar nuevos servicios (manicure, pedicure, tratamientos faciales, etc.).
+
+##### Preguntas de Validación
+
+Para cada una de las entrevistas se seguirá el siguiente formato de registro:
+
+### 1. Datos del Entrevistado:
+- **Nombre y apellidos**
+- **Edad**
+- **Distrito de residencia**
+- **Dispositivo utilizado para la validación** (smartphone, tablet, laptop)
+
+### 2. Preguntas segmento cliente:
+
+#### Visualización de perfil
+1. ¿Cómo fue tu experiencia al intentar acceder a tu perfil desde la página principal?
+2. ¿Cuáles fueron los aspectos que te resultaron más útiles o confusos al revisar la información de tu perfil?
+3. Si tuvieras que actualizar la información de tu perfil, ¿cómo procederías? ¿Qué tan intuitivo fue este proceso?
+4. ¿Hubo algo que te frustrara o que sintieras que faltaba mientras revisabas tu perfil y tus servicios favoritos?
+
+#### Catálogo de servicios
+1. ¿Cómo te sentiste al navegar por el catálogo de servicios? ¿Fue fácil encontrar lo que buscabas?
+2. ¿Cómo describirías la información presentada sobre los servicios? ¿Hubo algo que te resultara difícil de entender?
+3. ¿Hubo algún momento en que te sentiste perdido o que no supieras cómo continuar mientras explorabas el catálogo?
+4. ¿Pudiste comparar fácilmente diferentes servicios dentro del catálogo? ¿Cómo mejorarías este proceso?
+5. Si tuvieses que explicar a otra persona cómo acceder y explorar el catálogo, ¿qué le dirías?
+
+#### Creación de reserva de cita
+1. ¿Qué tan sencillo te resultó comenzar el proceso para reservar una cita?
+2. Describe el flujo para crear una reserva. ¿Hubo algún paso que te generara confusión o dudas?
+3. ¿El sistema te brindó suficiente retroalimentación o confirmación al completar la reserva?
+4. ¿Encontraste algún obstáculo para elegir la fecha o el servicio adecuado durante la creación de la reserva?
+5. ¿Qué tan satisfecho te sentiste con el proceso general de reservar una cita? ¿Cómo lo mejorarías?
+
+#### Visualización de historial
+1. Describe tu experiencia al intentar encontrar tu historial de reservas. ¿Te resultó intuitivo?
+2. ¿Cómo te pareció la organización del historial de citas? ¿Pudiste encontrar la información que buscabas fácilmente?
+3. ¿Notaste algún tipo de información que esperabas encontrar en el historial pero no estaba disponible?
+4. ¿Crees que el historial te ayuda a gestionar tus reservas pasadas de manera efectiva? ¿Qué añadirías o cambiarías?
+5. ¿Hubo algo en el diseño del historial que te resultara confuso o poco útil?
+
+#### Review
+1. Describe el proceso para dejar una review sobre un servicio. ¿Fue sencillo y rápido?
+2. ¿Recibiste algún tipo de guía o indicación durante el proceso de inclusión de tu review? ¿Te pareció suficiente?
+3. ¿Qué tan útil te pareció la opción de valorar tanto el servicio como al proveedor? ¿Cambiarías algo en este aspecto?
+4. ¿Sientes que tu opinión fue bien representada en la review después de escribirla? ¿Cómo mejorarías la forma en que se incluyen y visualizan las reviews?
+5. ¿Hubo algún momento en que no supieras cómo proceder al intentar publicar tu review?
+6. En tu opinión, ¿qué aspectos de la aplicación te resultaron más fáciles de usar? ¿Y cuáles te causaron más problemas?
+7. ¿Qué recomendarías cambiar o mejorar en términos de la interfaz o funcionalidad de las secciones que probaste?
+
+### 3. Preguntas segmento Empresa:
+Visualización de perfil
+1. ¿Cómo describirías tu experiencia al intentar acceder al perfil de tu empresa? ¿Fue fácil encontrar la opción?
+2. ¿Qué tan clara te resultó la visualización de los servicios que ofrece tu empresa en el perfil?
+3. ¿Consideras que la información de los especialistas a cargo de los servicios está presentada de manera eficiente? ¿Qué mejorarías en la presentación?
+4. ¿Qué tan útil te resultó la funcionalidad para actualizar o modificar la información de los servicios que ofrece tu empresa?
+5. ¿Qué tipo de detalles adicionales sobre los servicios o especialistas crees que deberían incluirse para mejorar la visualización del perfil de la empresa?
+6. ¿Te resultó sencillo navegar entre la información de los especialistas y los servicios ofrecidos? ¿Qué cambiarías en el diseño o flujo de esta sección?
+7. ¿Percibes que la interfaz del perfil empresarial te da suficiente control y flexibilidad para gestionar tus servicios y especialistas?
+8. ¿Hubo algo en la interfaz o funcionalidad del perfil que te frustrara o que no encontraste útil?
+9. Describe el proceso que seguiste para crear un nuevo servicio en la aplicación. ¿Fue sencillo y claro desde el principio?
+10. ¿Qué tan intuitivo te pareció definir los detalles del servicio (nombre, precio, disponibilidad, etc.) dentro del proceso de creación?
+11. ¿Sentiste que el sistema te brindaba suficiente orientación o retroalimentación durante la creación del servicio? ¿Qué aspectos mejorarías en este sentido?
+12. ¿Pudiste asignar fácilmente a los especialistas encargados de cada servicio? ¿El flujo para asignar especialistas fue claro y directo?
+13. ¿Encontraste algún obstáculo al intentar definir las características del servicio (horarios, precios, descripciones)?
+14. ¿Consideras que los pasos necesarios para crear un servicio son suficientes o te gustaría tener opciones adicionales (ej. personalización más detallada, horarios especiales)?
+15. Una vez creado el servicio, ¿cómo fue la experiencia al visualizarlo en tu perfil? ¿Reflejaba de manera correcta la información que ingresaste?
+16. Si tuvieras que agregar o modificar algo en el proceso de creación de servicios, ¿qué sería y por qué?
+17. ¿En qué medida consideras que el sistema te permite gestionar eficientemente los servicios y especialistas de tu empresa?
+18. ¿Qué desafíos enfrentaste al intentar acceder o actualizar la información de tu empresa y servicios?
+19. ¿Qué aspectos de la plataforma te resultaron más útiles en la gestión de tus servicios, y qué cambiarías para mejorar tu experiencia general?
+20. Si comparas este sistema con otras plataformas que utilizas para gestionar servicios y personal, ¿qué diferencias encuentras y qué aspectos valoras más?
+
+#### 5.3.2. Registro de Entrevistas
+
+En esta sección registramos los puntos e ideas más importantes de las entrevistas realizadas a los usuarios y MYPES del sector de belleza y cuidado personal. Los detalles completos de las entrevistas, incluyendo las grabaciones, se encuentran disponibles en el siguiente enlace.
+
+|                                                           |                                                                                                                                                   |
+|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Link de video de entrevistas**                          | [Link de acceso]() |
+
+A continuación se presentan los detalles clave de las entrevistas realizadas a los usuarios y MYPES del sector de belleza y cuidado personal.
+
+| Entrevista 1: Usuario se servicios de belleza y cuidado   |                                                                                                                                                                                         |
+| --------------------------------------------------------- |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nombre Entrevistado                                       |                                                                                                                                                                     |
+| Edad                                                      |                                                                                                                                                                                |
+| Profesión                                                 |                                                                                                                                                     |
+| Departamento                                              | Lima, Perú                                                                                                                                                                              |
+| Duración de la Entrevista                                 |                                                                                                                                                                                |
+| **Análisis de la Entrevista**                             |                                                                                                                                                                                         |
+
+| Entrevista 2: Usuario de servicios de belleza y cuidado |                                                                                                                                                               |
+|---------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nombre Entrevistado                                     |                                                                                                                                                 |
+| Edad                                                    |                                                                                                                                                      |
+| Profesión                                               |                                                                                                                            |
+| Departamento                                            | Lima, Perú                                                                                                                                                    |
+| Duración de la Entrevista                               |                                                                                                                                                 |
+| **Análisis de la Entrevista**                           |                                                                                                                                                               |
+
+| Entrevista 3: Usuario se servicios de belleza y cuidado |                                                                                                                                                          |
+|---------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nombre Entrevistado                                     |                                                                                                                                          |
+| Edad                                                    |                                                                                                                                                   |
+| Profesión                                               |                                                                                                           |
+| Departamento                                            | Lima, Perú                                                                                                                                               |
+| Duración de la Entrevista                               |                                                                                                                                                 |
+| **Análisis de la Entrevista**                           |                                                                                                                                                          |
+
+A continuación se presentan los detalles clave de las entrevistas realizadas a las MYPES y emprendedores del sector de belleza y cuidado personal.
+
+| Entrevista 4: Mypes o emprendedores |                                                                                                                                                                                                                                                                       |
+|-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nombre Entrevistado               |                                                                                                                                                                                                                                            |
+| Edad                              |                                                                                                                                                                                                                                                            |
+| Profesión                         |                                                                                                                                                                                                                                           |
+| Departamento                      | Lima, Perú                                                                                                                                                                                                                                                            |
+| Duración de la Entrevista         | 13:01 min                                                                                                                                                                                                                                                             |
+| Análisis de la Entrevista         |                                                                                                                                                                                                                                                                       |
 
 
-<!-- #### 5.3.2. Registro de Entrevistas -->
+| Entrevista 5: Mypes o emprendedores |                                                                                                                                                            |
+|-------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nombre Entrevistado                 |                                                                                                                                              |
+| Edad                                |                                                                                                                                                     |
+| Profesión                           |                                                                                                                                     |
+| Departamento                        |                                                                                                                                                |
+| Duración de la Entrevista           |                                                                                                                                                    |
+| **Análisis de la Entrevista**       |                                                                                                                                                            |
+
+| Entrevista 6: Mypes o emprendedores |                                                                                                                                                            |
+|-------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nombre Entrevistado                 |                                                                                                                                              |
+| Edad                                |                                                                                                                                                     |
+| Profesión                           |                                                                                                                                     |
+| Departamento                        |                                                                                                                                                |
+| Duración de la Entrevista           |                                                                                                                                                    |
+| **Análisis de la Entrevista**       |                                                                                                                                                            |
+
+#### 5.3.3. Evaluaciones según heurísticas
+
+# **Anexo D. Formato para Evaluación de User Experience según Heurísticas**
+
+#### **UX Heuristics & Principles Evaluation**
+**Usability – Inclusive Design – Information Architecture**
+
+- **CARRERA**: Ingeniería de Software
+- **CURSO**: Desarrollo de Aplicaciones Open Source
+- **SECCIÓN**: WS53
+- **PROFESORES**: Juan Antonio Flores Moroco
+- **AUDITOR**: Nombre del Grupo que ejecuta la Sesión de evaluación
+- **CLIENTE(S)**: 
+
+---
+
+**NOTA**: Los contenidos de este formato (en color plomo) son referidos a un sitio web de ejemplo. Use este formato como referencia de la estructura que tiene que ser entregada y elimine el contenido en plomo. Coloque su contenido con color azul.
+
+---
+
+###### **SITE o APP A EVALUAR**:
+**Nombre de App**
+
+---
+
+###### **TAREAS A EVALUAR**:
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. Registro de un usuario nuevo
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+1. 
+
+---
+
+###### **ESCALA DE SEVERIDAD**:
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+| **Nivel** | **Descripción** |
+|-----------|-----------------|
+| **1** | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| **2** | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja para resolverlo de cara al siguiente release. |
+| **3** | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Es importante que sea corregido y se le debe asignar una prioridad alta. |
+| **4** | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+---
+
+###### **TABLA RESUMEN**:
+
+| # | **Problema** | **Escala de severidad** | **Heurística/Principio violado** |
+|---|--------------|-------------------------|----------------------------------|
+| 1 | -            | -                       | -                                |
+
+---
+
+###### **DESCRIPCIÓN DE PROBLEMAS**:
+
+**PROBLEMA #1: No hay un control que permita regresar a la tienda durante el trámite de compra**
+- **Severidad**: 3
+- **Heurística violada**: Usabilidad - Libertad y control del usuario
+
+**Problema**:  
 
 
-<!-- #### 5.3.3. Evaluaciones según heurísticas -->
+**Recomendación**
 
 
-<!-- ### 5.4. Video About-the-Product -->
+#### 5.4. Video About-the-Product
 
 
 ## Conclusiones
