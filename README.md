@@ -2582,7 +2582,111 @@ URL Trello: https://trello.com/b/nl4FsaI0/si729-bliss-202402-grupo3
 
 ##### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
+Durante este tercer sprint, iniciamos el desarrollo de nuestros Web Services para cada Bounded Context identificado, asignando cada uno a un miembro del equipo. Consideramos que hemos logrado varios avances en la documentación de nuestros Web Services mediante el uso de la herramienta Swagger. Al configurar esta herramienta, dentro de nuestro proyecto, contamos con una interfaz accesible para cada endpoint, organizada por el Bounded Context correspondiente. También hemos tenido en cuenta los estándares de nomenclatura y versionado para nuestra API, lo que nos ha permitido facilitar la ejecución de cada endpoint y realizar las pruebas necesarias para verificar su correcto funcionamiento y la coherencia con la nomenclatura establecida. Como resultado, todos los miembros del equipo coinciden en que la claridad y accesibilidad de nuestra API han mejorado notablemente.
 
+A continuación, se presenta la relación de endpoints documentados con OpenAPI, clasificados por cada Bounded Context:
+
+<br>
+
+**Bounded Context Payment**
+
+| Endpoint | Acciones implementadas | Verbo HTTP | Sintaxis de Llamada | Parámetros |
+|----------|------------------------|------------|---------------------|------------|
+| /api/v1/ | Actualizar  | PUT | PUT /api/v1//{} | {} |
+| /api/v1/ | Eliminar  | DELETE | DELETE /api/v1//{} | {} |
+| /api/v1/ | Obtener lista  | GET | GET /api/v1/ | N/A |
+| /api/v1/ | Crear  | POST | POST /api/v1/ | Request body |
+
+**Ejemplos de Ejecución y Respuesta:**
+
+|         Petición        |                Respuesta             |
+|-------------------------|--------------------------------------|
+| PUT /api/v1/ /1 { .. } | 200 OK - Retorna .. actualizado en formato JSON. |
+| DELETE /api/v1//1 | 200 Indica que .. eliminado exitosamente. |
+| GET /api/v1/ | 200 OK - Retorna .. en formato JSON. |
+| POST /api/v1/ { .. } | 200 Created - Retorna .. formato JSON. |
+
+
+<br>
+
+**Bounded Context Companies**
+
+| Endpoint | Acciones implementadas | Verbo HTTP | Sintaxis de Llamada | Parámetros |
+|----------|------------------------|------------|---------------------|------------|
+| /api/v1/ | Actualizar  | PUT | PUT /api/v1//{} | {} |
+| /api/v1/ | Eliminar  | DELETE | DELETE /api/v1//{} | {} |
+| /api/v1/ | Obtener lista  | GET | GET /api/v1/ | N/A |
+| /api/v1/ | Crear  | POST | POST /api/v1/ | Request body |
+
+**Ejemplos de Ejecución y Respuesta:**
+
+|         Petición        |                Respuesta             |
+|-------------------------|--------------------------------------|
+| PUT /api/v1/ /1 { .. } | 200 OK - Retorna .. actualizado en formato JSON. |
+| DELETE /api/v1//1 | 200 Indica que .. eliminado exitosamente. |
+| GET /api/v1/ | 200 OK - Retorna .. en formato JSON. |
+| POST /api/v1/ { .. } | 200 Created - Retorna .. formato JSON. |
+
+<br>
+
+**Bounded Context Reviews**
+
+| Endpoint | Acciones implementadas | Verbo HTTP | Sintaxis de Llamada | Parámetros |
+|----------|------------------------|------------|---------------------|------------|
+| /api/v1/ | Actualizar  | PUT | PUT /api/v1//{} | {} |
+| /api/v1/ | Eliminar  | DELETE | DELETE /api/v1//{} | {} |
+| /api/v1/ | Obtener lista  | GET | GET /api/v1/ | N/A |
+| /api/v1/ | Crear  | POST | POST /api/v1/ | Request body |
+
+**Ejemplos de Ejecución y Respuesta:**
+
+|         Petición        |                Respuesta             |
+|-------------------------|--------------------------------------|
+| PUT /api/v1/ /1 { .. } | 200 OK - Retorna .. actualizado en formato JSON. |
+| DELETE /api/v1//1 | 200 Indica que .. eliminado exitosamente. |
+| GET /api/v1/ | 200 OK - Retorna .. en formato JSON. |
+| POST /api/v1/ { .. } | 200 Created - Retorna .. formato JSON. |
+
+<br>
+
+**Bounded Context Services**
+
+| Endpoint | Acciones implementadas | Verbo HTTP | Sintaxis de Llamada | Parámetros |
+|----------|------------------------|------------|---------------------|------------|
+| /api/v1/services | Actualizar un servicio por Id | PUT | PUT /api/v1/services/{} | {serviceId} |
+| /api/v1/services | Eliminar un servicio por Id | DELETE | DELETE /api/v1/services/{} | {serviceId} |
+| /api/v1/services | Obtener lista de todos los servicios | GET | GET /api/v1/services | N/A |
+| /api/v1/services | Crear un servicio | POST | POST /api/v1/services | Request body |
+| /api/v1/services/findBySalon | Obtener lista de servicios por id de salon | GET | GET /api/v1/services/findBySalon?BeautySalonId={} | {beautySalonId} |
+
+**Ejemplos de Ejecución y Respuesta:**
+
+|         Petición        |                Respuesta             |
+|-------------------------|--------------------------------------|
+| PUT /api/v1/services/1 { "name": "string", "imageUrl": "string", "description": "string", "basePrice": 0 } | 200 OK - Retorna el servicio actualizado en formato JSON. |
+| DELETE /api/v1/services/1 | 200 Indica que el servicio con Id 1 fue eliminado exitosamente. |
+| GET /api/v1/services | 200 OK - Retorna un array de servicios en formato JSON. |
+| POST /api/v1/services { "name": "string", "imageUrl": "string", "description": "string", "basePrice": 0 } | 200 Created - Retorna el servicio creado en formato JSON. |
+| GET /api/v1/services/findBySalon?BeautySalonId=1 | 200 OK - Retorna un array de servicios correspondientes en formato JSON. |
+
+
+<br>
+
+<!--Imagen de los endpoins Services-->
+
+<br>
+
+**URL Local de documentación desplegada:**
+
+[http://localhost:8092/swagger-ui/index.html/](http://localhost:8092/swagger-ui/index.html/)
+
+
+**URL del repositorio de Web Services:**
+
+[https://github.com/SI729-Bliss/Bliss-web-services](https://github.com/SI729-Bliss/Bliss-web-services)
+
+
+<br>
 
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
