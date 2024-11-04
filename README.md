@@ -32,25 +32,26 @@
 
 ## Registro de versiones del informe
 
-| Versión   | Fecha     | Autor |Descripción de la modificación |
-|-----------|-----------|-------|-------------                  |
-| 1         |16/08/24|Rivas David|Creación del documento de trabajo en markdown|
-| 2         |18/08/2024|Cabrera Diego|Desarrollo del capítulo 1 y Entrevistas|
-| 3         |24/08/2024|Rivas David,  Rodriguez Elvia|Desarrollo de las US y Product Backlog|
-|4          |25/08/2024|Bernaola Andre|Implementación de la Landing Page|
-|5          |25/08/2024|Soriano Diego|Elaboracion de Diagrama de Clases|
-|6          |28/08/2024|Soriano Diego|Elaboración de diagrama de base de datos|
-|7          |28/08/2024|Rivas David|Capítulo 5|
-|8          |30/08/2024|Cabrera Diego|Arreglo de entrevistas|
-|9          |01/09/2024|Bernaola Andre|Elaboración de modelos C4|
-|10          |04/09/2024|Rivas David|SEO and Meta tags|
-|11          |07/09/2024| Rivas David|Puntos 4.7 y 4.8|
-|12          |09/09/2024|Rodriguez Elvia, Rivas David|Implementación de Wireframes, Mockups y Prototipo|
-|13          |18/09/2024|Rodriguez Elvia, Rivas David|Correcciones de Implementación de Wireframes, Mockups y Prototipo|
-|14         |18/09/2024|Cabrera Diego|Corrección del capítulo 1 y Entrevistas|
-|15          |18/08/2024|Soriano Diego|Correcciones en la elaboración de diagrama de base de datos|
-|16          |23/09/2024|Bernaola, Andre|Actualización de Diagramas de Contexto|
-|17          |23/09/2024|Rivas Sarango|Elaboracion de Capítulo V|
+| Versión | Fecha      | Autor                            | Descripción de la modificación                                    |
+|---------|------------|----------------------------------|-------------------------------------------------------------------|
+| 1       | 16/08/24   | Rivas David                      | Creación del documento de trabajo en markdown                     |
+| 2       | 18/08/2024 | Cabrera Diego                    | Desarrollo del capítulo 1 y Entrevistas                           |
+| 3       | 24/08/2024 | Rivas David,  Rodriguez Elvia    | Desarrollo de las US y Product Backlog                            |
+| 4       | 25/08/2024 | Bernaola Andre                   | Implementación de la Landing Page                                 |
+| 5       | 25/08/2024 | Soriano Diego                    | Elaboracion de Diagrama de Clases                                 |
+| 6       | 28/08/2024 | Soriano Diego                    | Elaboración de diagrama de base de datos                          |
+| 7       | 28/08/2024 | Rivas David                      | Capítulo 5                                                        |
+| 8       | 30/08/2024 | Cabrera Diego                    | Arreglo de entrevistas                                            |
+| 9       | 01/09/2024 | Bernaola Andre                   | Elaboración de modelos C4                                         |
+| 10      | 04/09/2024 | Rivas David                      | SEO and Meta tags                                                 |
+| 11      | 07/09/2024 | Rivas David                      | Puntos 4.7 y 4.8                                                  |
+| 12      | 09/09/2024 | Rodriguez Elvia, Rivas David     | Implementación de Wireframes, Mockups y Prototipo                 |
+| 13      | 18/09/2024 | Rodriguez Elvia, Rivas David     | Correcciones de Implementación de Wireframes, Mockups y Prototipo |
+| 14      | 18/09/2024 | Cabrera Diego                    | Corrección del capítulo 1 y Entrevistas                           |
+| 15      | 18/08/2024 | Soriano Diego                    | Correcciones en la elaboración de diagrama de base de datos       |
+| 16      | 23/09/2024 | Bernaola, Andre                  | Actualización de Diagramas de Contexto                            |
+| 17      | 23/09/2024 | Rivas Sarango                    | Elaboracion de Capítulo V                                         |
+| 18      | 04/11/2024  | Elvia Rodríguez y Diego Cabrera  | Elaboración de las Validation Interview questions                 |
 
 <br/>
 
@@ -80,7 +81,7 @@ URL de la organización del proyecto: [https://github.com/upc-opensource-g-bliss
 |Integrante|Tareas Asignadas|
 |-|-|
 |André Arturo Bernaola Pérez|Actualización de Diagramas de Contexto|
-|Diego Ivan Cabrera Buitron|  |
+|Diego Ivan Cabrera Buitron|Elaboración de Capítulo 5|
 |Elvia Marcela Rodriguez Villa|Actualización de Mockups y Prototipo|
 |David Alejandro Rivas Sarango|Elaboración de Capítulo 5|
 |Diego Martin Soriano Medrano|Elaboración de Diagrama de base de datos|
@@ -215,10 +216,10 @@ Integrante| Tareas Asignadas            |
 
 ## Students Outcomes
 
-| Criterio específico | Acciones realizadas | Conclusiones |
-|---------------------|---------------------|--------------|
-|Comunica oralmente con efectividad a diferentes rangos de audiencia.| **André Arturo Bernaola Pérez** <br> **TB1** <br> En esta entrega, expliqué a mi equipo las decisiones arquitectónicas del modelo C4, lo que facilitó la comprensión del enfoque adoptado. Además, implementé retroalimentación activa para mejorar tanto las User Stories como el diagrama de base de datos, integrando de manera efectiva las sugerencias del equipo para optimizar la calidad del proyecto. <br>**TP** Lideré al equipo en el diseño de los bounded context, organizando tareas y asegurando la alineación arquitectónica. Además, supervisé la integración de las propuestas para garantizar la calidad del trabajo. <br>**TB2** <br> **Diego Ivan Cabrera Buitron** <br> **TB1** <br> Para esta entrega identifiqué el problema a solucionar y así pude realizar los assumptions y las entrevistas de manera concreta. <br>**TP** -Para esta entrega logré identificar los bounded context para poder ejecutar el booking component y desplegarlo.<br>**Elvia Marcela Rodriguez Villa** <br> **TB1** En la presente actividad he colaborado con el diseño y elaboración de productos como mockups y prototipos, por ello ha sido necesaria una comunicación constante con mis compañeros de trabajo para acordar decisiones e incorporar opiniones a fin de elaborar un producto de acuerdo a las necesidads de un usuario final. <br>**TP** En esta actividad, participé en discusiones con mis compañeros para asegurar que todos estuvieran al tanto de las decisiones tomadas. Mantuve una comunicación constante sobre los avances del equipo y consulté al profesor para recibir retroalimentación sobre nuestras propuestas, lo que nos ayudó a mejorar nuestro enfoque. Esta interacción con diferentes audiencias demostró mi capacidad para comunicarme de manera efectiva y colaborar en equipo. <br>**David Alejandro Rivas Sarango** <br> **TB1** En esta entrega diseñe la aplicación web de acuerdo a los sectores entrevistados, nuestros ahora clientes deben sentirse cómodos con el servicio que les proporcionamos y estamos al tanto de la retroalimentación que se nos brinda para una mejora continua. <br>**TP** En esta entrega realice ls diseños del home y su codificación en Angular que me permitieron saber el orden de flujo que recibe un cliente cuando requiere un servicio de belleza. <br>**TB2** En esta tercera entrega la principal actividad fue elaborar el backend del proyecto, acordando entre los miembros del equipo los métodos y entidades a crear y como se conectarían, personalmente, me encargué de payments que se relaciona con la tala cliente y reserva. <br>**Diego Martin Soriano Medrano** <br> **TB1** <br> Para la primera entrega del trabajo, realicé diversas actividades, entre las cuales destaco la habilidad para comunicar efectivamente mis ideas y consideraciones sobre el desarrollo del proyecto a mis compañeros de grupo. <br>**TP**  <br>**TB2**<br> Se integraron nuevas estrategias de comunicación para que todos puedan comunicar sus necesidades según las tereas y actividades asignadas para poder sobrellevar el desarrollo del trabajo. <br> | Se ha demostrado una clara comprensión y aplicación de las técnicas y herramientas necesarias, lo que ha permitido una integración coherente de los distintos componentes del proyecto. La capacidad para adaptar y mejorar las User Stories y el diagrama de base de datos ha optimizado la calidad y precisión del trabajo realizado. En general, el equipo ha establecido una base sólida para las siguientes etapas del proyecto, evidenciando un trabajo colaborativo y bien documentado que facilita la continuación del desarrollo con una visión clara y alineada. |
-|Comunica por escrito con efectividad a diferentes rangos de audiencia|**André Arturo Bernaola Pérez** <br> **TB1** <br> Al realizar los diagramas del modelo C4 para el trabajo, justifiqué la arquitectura y los patrones empleados de manera detallada para asegurar una comprensión clara de las decisiones técnicas. <br> **TP** Implementé estrategias de gestión que facilitaron la comunicación y el flujo de trabajo eficiente, logrando la entrega a tiempo y una integración coherente con el resto del proyecto. <br>  **Diego Ivan Cabrera Buitron** <br> **TB1** <br> Al identificar el problema, en la realización de las entrevistas, tomé muy en cuenta las necesidades de nuestro público objetico para poder analizarlas. <br>**TP** La identificar las funcionalidades de los servicios, pude comprender las necesidades de nuetro público objetivo y qué se requiere para poder realizarlas.<br>**Elvia Marcela Rodriguez Villa** <br> **TB1** <br> Las decisiones respecto al diseño visual e interactivo de los mockups y prototipos fueron debidamente justificados de acuerdo a los parámetros y heurísticas de diseño UX, por lo mencionado, he incluido información escrita que especifica la razón detras del diseño visual y estructura de los productos mencionados. <br>**TP**En esta actividad, participé en discusiones con mis compañeros para asegurar que todos estuvieran al tanto de las decisiones tomadas. Mantuve una comunicación constante sobre los avances del equipo y consulté al profesor para recibir retroalimentación sobre nuestras propuestas, lo que nos ayudó a mejorar nuestro enfoque. Esta interacción con diferentes audiencias demostró mi capacidad para comunicarme de manera efectiva y colaborar en equipo. <br>**David Alejandro Rivas Sarango** <br> **TB1** Para esta entrega planteamos grupalmente las pautas que nos permitirán trabajar ordenadamente durante los sprints, siendo la documentación lo primero que realizamos, en mi caso realize las historias de usuario, que son vitales para los requisitos que debe cumplir el proyecto.<br>**TP** En esta entrega realice ls diseños del home y su codificación en Angular que me permitieron saber el orden de flujo que recibe un cliente cuando requiere un servicio de belleza. <br> **TB2** Nos encargamos de documentar cada actividad que realizabamos, mi trabajo principal fue realizar la presentación del producto final al usuario sus opiniones sobre el producto Front ya elaborado y desplegado. <br>**Diego Martin Soriano Medrano** <br> **TB1** <br> Para llevar a cabo el trabajo de manera organizada, se emplearon diversos canales de comunicación, a través de los cuales fue necesario transmitir por escrito nuestras consideraciones sobre partes específicas del proyecto. <br> **TP** <br> Para llevar a cabo el trabajo de manera organizada, reconsidero el uso canales de comunicación, para poder llevar a cabo el desarrollo del trabajo de forma fluida y para que todos puedan desarrollar las partes asignadas del proyecto. <br> | El equipo ha establecido una sólida base en comunicación escrita, logrando documentar claramente los diagramas del modelo C4, las historias de usuario y el diseño UX. Esta documentación ha facilitado la coordinación y comprensión entre los miembros del equipo, sentando una base efectiva para el desarrollo continuo del proyecto.|
+| Criterio específico | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Conclusiones |
+|---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+|Comunica oralmente con efectividad a diferentes rangos de audiencia.| **André Arturo Bernaola Pérez** <br> **TB1** <br> En esta entrega, expliqué a mi equipo las decisiones arquitectónicas del modelo C4, lo que facilitó la comprensión del enfoque adoptado. Además, implementé retroalimentación activa para mejorar tanto las User Stories como el diagrama de base de datos, integrando de manera efectiva las sugerencias del equipo para optimizar la calidad del proyecto. <br>**TP** Lideré al equipo en el diseño de los bounded context, organizando tareas y asegurando la alineación arquitectónica. Además, supervisé la integración de las propuestas para garantizar la calidad del trabajo. <br>**TB2** <br> **Diego Ivan Cabrera Buitron** <br> **TB1** <br> Para esta entrega identifiqué el problema a solucionar y así pude realizar los assumptions y las entrevistas de manera concreta. <br>**TP** -Para esta entrega logré identificar los bounded context para poder ejecutar el booking component y desplegarlo.<br>TB2: <br>Para esta entrega se elaboró el backend del proyecto, por mi lado me encargué de la sección del booking que se relaciona con la tabla de services y services_personalization. <br>**Elvia Marcela Rodriguez Villa** <br> **TB1** En la presente actividad he colaborado con el diseño y elaboración de productos como mockups y prototipos, por ello ha sido necesaria una comunicación constante con mis compañeros de trabajo para acordar decisiones e incorporar opiniones a fin de elaborar un producto de acuerdo a las necesidads de un usuario final. <br>**TP** En esta actividad, participé en discusiones con mis compañeros para asegurar que todos estuvieran al tanto de las decisiones tomadas. Mantuve una comunicación constante sobre los avances del equipo y consulté al profesor para recibir retroalimentación sobre nuestras propuestas, lo que nos ayudó a mejorar nuestro enfoque. Esta interacción con diferentes audiencias demostró mi capacidad para comunicarme de manera efectiva y colaborar en equipo.<br>**TB2**<br> En este sprint me desempeñé en la implmentación de el bounded context reseñas tanto en la parte frontend como backend, por otro lado me encargué del diseño y análisis de entrevistas así como la evaluación de heurísticas. A diferencia del sprint pasado, esta entrega me ha permitido aprender más respecto al manejo eficiente de los recursos y la distribución de tareas, por ello consdiero que me he desempaño en este aspecto, liderando y consultando los avances del resto del equipo para tener una visión general de lo que hemos y nos falta por avanzar <br> <br>**David Alejandro Rivas Sarango** <br> **TB1** En esta entrega diseñe la aplicación web de acuerdo a los sectores entrevistados, nuestros ahora clientes deben sentirse cómodos con el servicio que les proporcionamos y estamos al tanto de la retroalimentación que se nos brinda para una mejora continua. <br>**TP** En esta entrega realice ls diseños del home y su codificación en Angular que me permitieron saber el orden de flujo que recibe un cliente cuando requiere un servicio de belleza. <br>**TB2** En esta tercera entrega la principal actividad fue elaborar el backend del proyecto, acordando entre los miembros del equipo los métodos y entidades a crear y como se conectarían, personalmente, me encargué de payments que se relaciona con la tala cliente y reserva. <br>**Diego Martin Soriano Medrano** <br> **TB1** <br> Para la primera entrega del trabajo, realicé diversas actividades, entre las cuales destaco la habilidad para comunicar efectivamente mis ideas y consideraciones sobre el desarrollo del proyecto a mis compañeros de grupo. <br>**TP**<br> Se integraron nuevas estrategias de comunicación para que todos puedan comunicar sus necesidades según las tereas y actividades asignadas para poder sobrellevar el desarrollo del trabajo. <br>**TB3**<br> Se llevó a cabo el diseño y planteamiento necesarios para el desarrollo de la parte backend de cada bounded context identificado para la aplicación. <br> | Se ha demostrado una clara comprensión y aplicación de las técnicas y herramientas necesarias, lo que ha permitido una integración coherente de los distintos componentes del proyecto. La capacidad para adaptar y mejorar las User Stories y el diagrama de base de datos ha optimizado la calidad y precisión del trabajo realizado. En general, el equipo ha establecido una base sólida para las siguientes etapas del proyecto, evidenciando un trabajo colaborativo y bien documentado que facilita la continuación del desarrollo con una visión clara y alineada. |
+|Comunica por escrito con efectividad a diferentes rangos de audiencia| **André Arturo Bernaola Pérez** <br> **TB1** <br> Al realizar los diagramas del modelo C4 para el trabajo, justifiqué la arquitectura y los patrones empleados de manera detallada para asegurar una comprensión clara de las decisiones técnicas. <br> **TP** Implementé estrategias de gestión que facilitaron la comunicación y el flujo de trabajo eficiente, logrando la entrega a tiempo y una integración coherente con el resto del proyecto. <br>  **Diego Ivan Cabrera Buitron** <br> **TB1** <br> Al identificar el problema, en la realización de las entrevistas, tomé muy en cuenta las necesidades de nuestro público objetico para poder analizarlas. <br>**TP** La identificar las funcionalidades de los servicios, pude comprender las necesidades de nuetro público objetivo y qué se requiere para poder realizarlas.<br>TB2: <br>El equipo se encargó de realizar este sprint en conjunto, mi aporte fue la recopilación de las entrevistas y la elaboración de las heurísticas. <br>**Elvia Marcela Rodriguez Villa** <br> **TB1** <br> Las decisiones respecto al diseño visual e interactivo de los mockups y prototipos fueron debidamente justificados de acuerdo a los parámetros y heurísticas de diseño UX, por lo mencionado, he incluido información escrita que especifica la razón detras del diseño visual y estructura de los productos mencionados. <br>**TP**En esta actividad, participé en discusiones con mis compañeros para asegurar que todos estuvieran al tanto de las decisiones tomadas. Mantuve una comunicación constante sobre los avances del equipo y consulté al profesor para recibir retroalimentación sobre nuestras propuestas, lo que nos ayudó a mejorar nuestro enfoque. Esta interacción con diferentes audiencias demostró mi capacidad para comunicarme de manera efectiva y colaborar en equipo.<br> **TB2** <br> En esta entrega realicé entrevistas de validación y conocí las opiniones de usuarios rales respecto a nuestra implementación, debido a esto, considero haber demostrado mi capacidad de comunicación efectiva para poder reconocer las opiniones de los entrevistados. <br>**David Alejandro Rivas Sarango** <br> **TB1** Para esta entrega planteamos grupalmente las pautas que nos permitirán trabajar ordenadamente durante los sprints, siendo la documentación lo primero que realizamos, en mi caso realize las historias de usuario, que son vitales para los requisitos que debe cumplir el proyecto.<br>**TP** En esta entrega realice ls diseños del home y su codificación en Angular que me permitieron saber el orden de flujo que recibe un cliente cuando requiere un servicio de belleza. <br> **TB2** Nos encargamos de documentar cada actividad que realizabamos, mi trabajo principal fue realizar la presentación del producto final al usuario sus opiniones sobre el producto Front ya elaborado y desplegado. <br>**Diego Martin Soriano Medrano** <br> **TB1** <br> Para llevar a cabo el trabajo de manera organizada, se emplearon diversos canales de comunicación, a través de los cuales fue necesario transmitir por escrito nuestras consideraciones sobre partes específicas del proyecto. <br> **TP** <br> Para llevar a cabo el trabajo de manera organizada, reconsidero el uso canales de comunicación, para poder llevar a cabo el desarrollo del trabajo de forma fluida y para que todos puedan desarrollar las partes asignadas del proyecto. <br> **TB3** <br>  Se completó el trabajo y desarrollo correspondiente a la parte backend de la aplicación, con el fin de obtener los endpoints necesarios para cada bounded context asignado e identificado. <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | El equipo ha establecido una sólida base en comunicación escrita, logrando documentar claramente los diagramas del modelo C4, las historias de usuario y el diseño UX. Esta documentación ha facilitado la coordinación y comprensión entre los miembros del equipo, sentando una base efectiva para el desarrollo continuo del proyecto.|
 
 ***
 
@@ -412,7 +413,7 @@ Asumimos que implementar procesos de verificación de profesionales y mostrar cl
 
 1. Clientas aficionadas al embellecimiento: Este segmento esta compuesto por mujeres en el rango de edad de 20 a 45 años, del sector socioeconómico B-C que residan en Lima.
 
-2. MYPES: Este segmento esta compuesto por dueños de negocios que brindan servicios de cuidado y belleza que funcionan en Lima.
+2. MYPES: Este segmento está compuesto por dueños de negocios que brindan servicios de cuidado y belleza que funcionan en Lima.
 
 <br/>
 
@@ -2621,6 +2622,25 @@ Cada miembro del equipo se encargó de identificar sus respectivas historias de 
             <td> Diego Soriano </td>
             <td> Done </td>
         </tr>
+         <tr>
+            <td> US013 </td>
+          	<td> Pagos </td>
+          	<td> 15 </td>
+          	<td> Como cliente, quiero poder pagar los servicios desde el producto. </td>
+            <td> - Implementar lógica para gestionar la pasarela de pagos.</td>
+            <td> 2 </td>
+            <td> David Rivas </td>
+            <td> Done </td>
+        </tr>
+        <tr>
+            <td> TS030 </td>
+          	<td> Implementar endpoint de procesamiento de pagos </td>
+          	<td> 16 </td>
+          	<td> Obtener listado de payments procesados </td>
+            <td> - Codificación aggregate de payments </br> - Codificación los value objects para payments </br> - Crear la clase payments con extención de AggregateRoot </br> - Codificar Queries del modelo </br> - Codificar la interface para query de payments </br> - Codificar la implementación de query para payments </br> - Codificar las interfaces rest para payments </br> - Implementar el endpoint para obtener el listado de todos los payments </td>
+            <td> 3 </td>
+            <td> David Rivas </td>
+            <td> Done </td>
     </tbody>
 </table>
 
@@ -2913,13 +2933,13 @@ Finalmente generamos el url de la aplicación y verificamos que el servicio se e
 
 ##### 5.2.3.8. Team Collaboration Insights during Sprint
 
-|**Integrante**|**Acciones realizadas durante el sprint**|
-|-|-|
-|Andre Bernaola|Implementacion inicial de bc-profiles en backend|
-|Elvia Rodriguez|Implementacion inicial de bg-feedback|
-|David Rivas| Implementacion inicial de bc-services en backend|
-|Diego Soriano|Implementacion inicial de bc-services en backend|
-|Diego Carbajal|Implementacion inicial de bc-booking en backend|
+|**Integrante**| **Acciones realizadas durante el sprint**        |
+|-|--------------------------------------------------|
+|Andre Bernaola| Implementacion inicial de bc-profiles en backend |
+|Elvia Rodriguez| Implementacion inicial de bc-feedback            |
+|David Rivas| Implementacion inicial de bc-services en backend |
+|Diego Soriano| Implementacion inicial de bc-services en backend |
+|Diego Carbajal| Implementacion inicial de bc-booking en backend  |
 
 Repositorio Landing Page:
 
@@ -3055,70 +3075,75 @@ En esta sección registramos los puntos e ideas más importantes de las entrevis
 
 |                                                           |                                                                                                                                                   |
 |-----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Link de video de entrevistas**                          | [Link de acceso]() |
+| **Link de video de entrevistas**                          | [Link de acceso](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c784_upc_edu_pe/Eex4t5Zi6VJDrtctZorqyPQB5lxtCXpGYrvC0TJ52B-Xjg?e=fvj9nh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
 
 A continuación se presentan los detalles clave de las entrevistas realizadas a los usuarios y MYPES del sector de belleza y cuidado personal.
 
 | Entrevista 1: Usuario se servicios de belleza y cuidado   |                                                                                                                                                                                         |
 | --------------------------------------------------------- |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Nombre Entrevistado                                       |                                                                                                                                                                     |
-| Edad                                                      |                                                                                                                                                                                |
-| Profesión                                                 |                                                                                                                                                     |
-| Departamento                                              | Lima, Perú                                                                                                                                                                              |
-| Duración de la Entrevista                                 |                                                                                                                                                                                |
-| **Análisis de la Entrevista**                             |                                                                                                                                                                                         |
+| Nombre Entrevistado                                       |   Maricielo Sanchez Valerio   |
+| Edad                                                      |   22 años   |
+| Profesión                                                 |   Reservado   |
+| Departamento                                              |   Lima, Perú                                                                                                                                                                              |
+| Duración de la Entrevista                                 |   6:49   |
+| **Análisis de la Entrevista**                             |   Maricielo nos comenta que la plataforma es bastante intuitiva. El perfil es fácil de acceder, aunque mejorar la confirmación de cambios ayudaría. La navegación en el catálogo y la reserva de citas también son sencillas, aunque añadir descripciones más detalladas y guías de ayuda sería ideal. El historial de reservas es útil, aunque un filtro por fecha y una opción para repetir reservas serían prácticas. Dejar una review es fácil, pero podría incluir la opción de añadir fotos. Mejoraría el diseño visual de algunas confirmaciones y añadiría más personalización en el perfil.  |
 
-| Entrevista 2: Usuario de servicios de belleza y cuidado |                                                                                                                                                               |
-|---------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Nombre Entrevistado                                     |                                                                                                                                                 |
-| Edad                                                    |                                                                                                                                                      |
-| Profesión                                               |                                                                                                                            |
-| Departamento                                            | Lima, Perú                                                                                                                                                    |
-| Duración de la Entrevista                               |                                                                                                                                                 |
-| **Análisis de la Entrevista**                           |                                                                                                                                                               |
+| Entrevista 1: Usuario de servicios de belleza y cuidado |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|--------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nombre Entrevistado**                                | Karol Pamela Villa Cayetano                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| **Edad**                                               | 22 Años                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **Profesión**                                          | Estudiante de Arquitectura                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| **Departamento**                                       | Lima, Perú                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| **Duración de la Entrevista**                          | 14:11 min                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| **Análisis de la Entrevista**                          | La entrevistada menciona que la navegación es confusa y que hay demasiados pasos, además, las etiquetas del toolbar no son claras. También señala que no entiende por qué se solicita nuevamente el nombre al reservar, y que la notificación de éxito en la reserva no es clara.  Comenta que las tarjetas en su perfil ocupan demasiado espacio y crean ruido visual. Aprecia la posibilidad de crear servicios, pero le gustaría poder subir imágenes desde un archivo y que la duración del servicio se predeterminara en lugar de ingresarse manualmente. Por último, señala que los filtros de servicios no funcionan adecuadamente, ya que redirigen a la página de inicio. |
 
-| Entrevista 3: Usuario se servicios de belleza y cuidado |                                                                                                                                                          |
-|---------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Nombre Entrevistado                                     |                                                                                                                                          |
-| Edad                                                    |                                                                                                                                                   |
-| Profesión                                               |                                                                                                           |
-| Departamento                                            | Lima, Perú                                                                                                                                               |
-| Duración de la Entrevista                               |                                                                                                                                                 |
-| **Análisis de la Entrevista**                           |                                                                                                                                                          |
+| Entrevista 2: Usuario de servicios de belleza y cuidado |                                                                                                                                                                |
+|--------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nombre Entrevistado**                                | Carlos Villa Cayetano                                                                                                                                        |
+| **Edad**                                               | 20 Años                                                                                                                                                         |
+| **Profesión**                                          | Estudiante de contabilidad                                                                                                                                   |
+| **Departamento**                                       | Lima, Perú                                                                                                                                                     |
+| **Duración de la Entrevista**                          | 8:09 min                                                                                                                                                       |
+| **Análisis de la Entrevista**                          | El entrevistado no tuvo inconvenientes significativos al buscar servicios, pero preferiría que los filtros ocuparan menos espacio en pantalla. Comenta que el diálogo de información es muy grande y que preferiría imágenes más pertinentes. Aprecia los mensajes de confirmación, pero agradecería poder ver el nombre y un logo distintivo de la compañía. En cuanto a la visualización de su agenda, menciona que no tiene inconvenientes, aunque cree que permitir eliminar citas sin restricciones podría no ser conveniente. También sugiere cambiar el título de la sección de historial y reseñas, y menciona que arrastrar imágenes hacia la sección de reseñas facilitaría el proceso. Por último, destaca la facilidad de uso de la toolbar, aunque preferiría un sidebar para mayor comodidad en la navegación vertical. |
 
 A continuación se presentan los detalles clave de las entrevistas realizadas a las MYPES y emprendedores del sector de belleza y cuidado personal.
 
-| Entrevista 4: Mypes o emprendedores |                                                                                                                                                                                                                                                                       |
-|-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Nombre Entrevistado               |                                                                                                                                                                                                                                            |
-| Edad                              |                                                                                                                                                                                                                                                            |
-| Profesión                         |                                                                                                                                                                                                                                           |
-| Departamento                      | Lima, Perú                                                                                                                                                                                                                                                            |
-| Duración de la Entrevista         | 13:01 min                                                                                                                                                                                                                                                             |
-| Análisis de la Entrevista         |                                                                                                                                                                                                                                                                       |
+| Entrevista 4: Mypes o emprendedores |                                                                                                                                                                                                                        |
+|-------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nombre Entrevistado**             | Eliana                                                                                                                                                                                                                 |
+| **Edad**                            | 18 Años                                                                                                                                                                                                                |
+| **Profesión**                       | Manicurista independiente                                                                                                                                                                                              |
+| **Departamento**                    | Lima, Perú                                                                                                                                                                                                             |
+| **Duración de la Entrevista**       | 13:01 min                                                                                                                                                                                                              |
+| **Análisis de la Entrevista**       |                                                                                                                                                                                                                        |
+| **Visualización de Perfil**         | Menciona que el perfil es claro, pero le gustaría que fuese más dinámico y visual. También comenta que las **cards ocupan demasiado espacio en pantalla** y que hay mucho ruido visual.                                 |
+| **Manejo de servicios**             | Comenta que la creación de servicios es fácil, pero tiene dificultades para **subir imágenes desde el archivo**, ya que solo permite usar un link, lo cual complica el proceso. También preferiría más opciones de personalización, como intervalos de tiempo predeterminados, ya que **la duración del servicio tiene que ser ingresada manualmente**. |
+| **Gestión de reservas**             | Opina que la gestión de reservas es funcional, pero señala que **no entiende por qué se solicita nuevamente el nombre** al hacer la reserva. Le gustaría ver más opciones como un calendario con las citas registradas pendientes. Además, menciona que **la notificación de éxito al hacer una reserva no es clara**. |
+| **Recepción de reviews**            | Menciona que le gusta la opción de reseñas, pero preferiría que solo algunas fueran visibles y que se pudiera responder a las mismas desde el perfil.                                                                   |
+| **Navegación general**              | Navegar es sencillo, pero menciona que **la navegación es confusa** y que preferiría que los **labels del toolbar** fueran más claros, ya que el término "list" no le dice nada. Además, señala que los **filtros de servicio no funcionan correctamente** y la redirigen nuevamente a la página principal (home). |
+
 
 
 | Entrevista 5: Mypes o emprendedores |                                                                                                                                                            |
 |-------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Nombre Entrevistado                 |                                                                                                                                              |
-| Edad                                |                                                                                                                                                     |
-| Profesión                           |                                                                                                                                     |
-| Departamento                        |                                                                                                                                                |
-| Duración de la Entrevista           |                                                                                                                                                    |
-| **Análisis de la Entrevista**       |                                                                                                                                                            |
+| Nombre Entrevistado                 |  Matías Jhoan Munives Santamaría  |
+| Edad                                |  23 años  |
+| Profesión                           |  Reservado   |
+| Departamento                        |  Lima     |
+| Duración de la Entrevista           |  4:58   |
+| **Análisis de la Entrevista**       |  Matías Munives comenta que el acceso al perfil de empresa es intuitivo, con opciones visibles. La visualización de servicios es clara, aunque sugiere agregar descripciones. La información de los especialistas es adecuada, pero se beneficiaría de fotos y especializaciones de estos. La modificación de servicios es fácil, aunque sería útil una confirmación visual de los cambios. La navegación entre especialistas y servicios es eficiente y propone un diseño con tarjetas para mayor claridad. Valora la organización general de la plataforma, pero sugiere tutoriales y opciones de personalización para mejorar la experiencia.  |
 
 | Entrevista 6: Mypes o emprendedores |                                                                                                                                                            |
 |-------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Nombre Entrevistado                 |                                                                                                                                              |
-| Edad                                |                                                                                                                                                     |
-| Profesión                           |                                                                                                                                     |
-| Departamento                        |                                                                                                                                                |
-| Duración de la Entrevista           |                                                                                                                                                    |
-| **Análisis de la Entrevista**       |                                                                                                                                                            |
+| Nombre Entrevistado                 |  Jorge Ramirez Cerna  |
+| Edad                                |  24 años  |
+| Profesión                           |  Reservado  |
+| Departamento                        |  Lima   |
+| Duración de la Entrevista           |  5:30     |
+| **Análisis de la Entrevista**       |  Como segundo entrevistado, tenemos a Jorge Ramirez, nos comenta que el acceso al perfil de la empresa fue algo confuso inicialmente, sugiriendo un acceso directo para simplificarlo. La visualización de los servicios era clara en nombres y precios, pero mejoraría con descripciones o imágenes. La información de los especialistas estaba organizada, pero podría destacarse más con fotos, especialidad y experiencia. Al actualizar los servicios, sugiere un botón de "Editar Servicio" visible junto a cada opción. También menciona que incluir detalles como productos utilizados y recomendaciones post-servicio sería útil. La navegación entre especialistas y servicios fue adecuada, aunque prefiere un diseño más visual. Jorge nos comenta que sugiere añadir opciones avanzadas, como personalización de horarios y mensajes de bienvenida, y notificaciones que confirmen cambios guardados. Finalmente, compara esta plataforma con otras, destacando que sería beneficioso añadir tutoriales integrados y un diseño gráfico más moderno y profesional.  |
 
 #### 5.3.3. Evaluaciones según heurísticas
 
-# **Anexo D. Formato para Evaluación de User Experience según Heurísticas**
 
 #### **UX Heuristics & Principles Evaluation**
 **Usability – Inclusive Design – Information Architecture**
@@ -3128,60 +3153,85 @@ A continuación se presentan los detalles clave de las entrevistas realizadas a 
 - **SECCIÓN**: WS53
 - **PROFESORES**: Juan Antonio Flores Moroco
 - **AUDITOR**: Nombre del Grupo que ejecuta la Sesión de evaluación
-- **CLIENTE(S)**: 
+- **Nombre de App**: Bliss
 
----
-
-**NOTA**: Los contenidos de este formato (en color plomo) son referidos a un sitio web de ejemplo. Use este formato como referencia de la estructura que tiene que ser entregada y elimine el contenido en plomo. Coloque su contenido con color azul.
-
----
-
-###### **SITE o APP A EVALUAR**:
-**Nombre de App**
-
----
-
-###### **TAREAS A EVALUAR**:
+#### Tareas a Evaluar
 El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
 
-1. Registro de un usuario nuevo
+##### Para el Segmento Cliente:
+1. **Navegación del Catálogo de Servicios:** Evaluar la facilidad para encontrar y explorar servicios como manicure, pedicure y tratamientos faciales.
+2. **Proceso de Reserva:** Evaluar la facilidad para reservar un servicio, seleccionar un horario y elegir un profesional.
+3. **Recepción de Servicios:** Evaluar la confirmación de la reserva, notificaciones y feedback post-servicio.
 
-No están incluidas en esta versión de la evaluación las siguientes tareas:
+##### Para el Segmento Empresa:
+1. **Visualización del Perfil de la Empresa:** Evaluar cómo la empresa visualiza su propio perfil.
+2. **Creación de Servicio:** Evaluar la facilidad para crear y personalizar nuevos servicios.
+3. **Gestión de Reservas:** Evaluar la capacidad para gestionar reservas de clientes, incluyendo la visualización y modificación de citas.
+4. **Recepción de Reviews y Feedback de Clientes:** Evaluar cómo las empresas reciben y gestionan reseñas de los clientes.
 
-1. 
+#### Escala de Severidad
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
----
+| Nivel | Descripción |
+|-------|-------------|
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2     | Problema menor: puede ocurrir con más frecuencia o es más difícil de superar para el usuario. Debería tener una prioridad baja para resolverse en la próxima versión. |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Debería tener alta prioridad para corregirse. |
+| 4     | Problema muy grave: error que impide al usuario continuar utilizando la herramienta. Debe corregirse antes del lanzamiento. |
 
-###### **ESCALA DE SEVERIDAD**:
-Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+#### Tabla Resumen
 
-| **Nivel** | **Descripción** |
-|-----------|-----------------|
-| **1** | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
-| **2** | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja para resolverlo de cara al siguiente release. |
-| **3** | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Es importante que sea corregido y se le debe asignar una prioridad alta. |
-| **4** | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+| #  | Problema                                                                 | Escala de severidad | Heurística/Principio violado            | Tarea evaluada                                  |
+|----|--------------------------------------------------------------------------|--------------------|----------------------------------------|-------------------------------------------------|
+| 1  | Navegación confusa, muchos pasos y etiquetas del toolbar no son claras   | 3                  | Consistencia y eficiencia             | Navegación del Catálogo de Servicios            |
+| 2  | No se entiende por qué se solicita nuevamente el nombre al reservar      | 2                  | Minimalismo y prevención de errores   | Proceso de Reserva                              |
+| 3  | Notificación de éxito en la reserva no es clara                          | 3                  | Visibilidad del estado del sistema     | Recepción de Servicios                          |
+| 4  | Las tarjetas en el perfil ocupan demasiado espacio y crean ruido visual  | 2                  | Diseño estético y minimalista         | Visualización del Perfil de la Empresa          |
+| 5  | No permite subir imágenes desde archivo en la creación de servicios      | 3                  | Flexibilidad y eficiencia             | Creación de Servicio                            |
+| 6  | La duración del servicio debe ingresarse manualmente, preferirían predeterminado | 2            | Flexibilidad y eficiencia             | Creación de Servicio                            |
+| 7  | Los filtros de servicios no funcionan, redirigen a la página de inicio   | 3                  | Control y libertad del usuario        | Navegación del Catálogo de Servicios            |
 
----
+#### Descripción de Problemas
 
-###### **TABLA RESUMEN**:
+##### Problema #1: Navegación confusa y etiquetas del toolbar no son claras
+- **Tarea Evaluada:** Navegación del Catálogo de Servicios
+- **Recomendación:** Mejorar la estructura de navegación reduciendo los pasos entre secciones clave. Cambiar etiquetas poco claras como “list” por denominaciones más comprensibles para los usuarios.
 
-| # | **Problema** | **Escala de severidad** | **Heurística/Principio violado** |
-|---|--------------|-------------------------|----------------------------------|
-| 1 | -            | -                       | -                                |
+##### Problema #2: No se entiende por qué se solicita nuevamente el nombre al reservar
+- **Tarea Evaluada:** Proceso de Reserva
+- **Recomendación:** Evitar solicitar información redundante como el nombre del usuario si ya fue proporcionado anteriormente.
 
----
+##### Problema #3: Notificación de éxito en la reserva no es clara
+- **Tarea Evaluada:** Recepción de Servicios
+- **Recomendación:** Aumentar la visibilidad y claridad de las notificaciones de confirmación de reservas, utilizando colores o mensajes más destacados para evitar confusión.
 
-###### **DESCRIPCIÓN DE PROBLEMAS**:
+##### Problema #4: Las tarjetas en el perfil ocupan demasiado espacio y crean ruido visual
+- **Tarea Evaluada:** Visualización del Perfil de la Empresa
+- **Recomendación:** Reducir el tamaño de las tarjetas y reorganizar la información para disminuir el ruido visual, priorizando datos relevantes.
 
-**PROBLEMA #1: No hay un control que permita regresar a la tienda durante el trámite de compra**
-- **Severidad**: 3
-- **Heurística violada**: Usabilidad - Libertad y control del usuario
+##### Problema #5: No permite subir imágenes desde archivo en la creación de servicios
+- **Tarea Evaluada:** Creación de Servicio
+- **Recomendación:** Permitir la subida de imágenes desde archivos locales además de enlaces, para facilitar la personalización de los servicios por parte de la empresa.
 
-**Problema**:  
+##### Problema #6: La duración del servicio debe ingresarse manualmente
+- **Tarea Evaluada:** Creación de Servicio
+- **Recomendación:** Ofrecer duraciones de servicio preconfiguradas para acelerar el proceso de creación de servicios y evitar errores al ingresarlas manualmente.
 
+##### Problema #7: Los filtros de servicios no funcionan, redirigen a la página de inicio
+- **Tarea Evaluada:** Navegación del Catálogo de Servicios
+- **Recomendación:** Arreglar el funcionamiento de los filtros para que apliquen los criterios de búsqueda sin interrumpir la navegación, evitando redireccionamientos no deseados.
 
-**Recomendación**
+#### User Flows a Validar
+
+##### Para el Segmento Cliente:
+1. **Navegación del Catálogo de Servicios:** Evaluar la facilidad para encontrar y explorar servicios como manicure, pedicure y tratamientos faciales.
+2. **Proceso de Reserva:** Evaluar la facilidad para reservar un servicio, seleccionar un horario y elegir un profesional.
+3. **Recepción de Servicios:** Evaluar la confirmación de la reserva, notificaciones y feedback post-servicio.
+
+##### Para el Segmento Empresa:
+1. **Visualización del Perfil de la Empresa:** Evaluar cómo la empresa visualiza su propio perfil.
+2. **Creación de Servicio:** Evaluar la facilidad para crear y personalizar nuevos servicios.
+3. **Gestión de Reservas:** Evaluar la capacidad para gestionar reservas de clientes, visualizar y modificar citas de clientes.
 
 
 #### 5.4. Video About-the-Product
@@ -3196,6 +3246,56 @@ URL en Onedrive: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e831_up
 TB1: En esta primera entrega, nos adecuamos al proyecto con la ayuda de herramientas utilizadas como Figma o Miro. De esta manera, hemos trabajado de manera adecuada con ansias por desplegar y codear este proyecto con toda la retroalimentación posible.
 
 TP: En esta entrega iniciamos con la implementación y despliegue del producto y su documentación de acuerdo a los requisitos del usuario. Utilizamos gitflow para la elaboración del mismo, siempre hablando entre los miembros del equipo para mantener una fluidez y coherencia en los archivos del proyecto como en su ciclo de vida.
+
+TB2: En esta entrega hemos logrado implementar una versión más amplia del web application, asimismo hemos logrado implementar el web service y desplegar el producto, además de realizar las validaciones necesarias para asegurar su correcto funcionamiento. Hemos trabajado en equipo para cumplir con los objetivos y hemos logrado una buena comunicación y coordinación entre los miembros del grupo.
+
+<br>
+
+#### Video About-The-Team
+
+**Introducción al Desarrollo:**
+
+A lo largo de los tres sprints, se desarrolló la Landing Page y se trabajó en el frontend y backend de cada uno de los bounded contexts planteados.
+
+**Sprint 1:**
+
+- Desarrollo de la Landing Page.
+- Inicio de la documentación del desarrollo.
+- Creación de repositorios en GitHub.
+- Realización de entrevistas.
+
+**Sprint 2:**
+
+- Ejercicio de liderazgo en el equipo y revisión de entrevistas.
+- Trabajo en el bounded context del frontend.
+
+**Sprint 3:**
+
+- Apoyo en la creación de estadísticas y realización de nuevas entrevistas.
+- Implementación de endpoints para cada bounded context definido.
+- Finalización del desarrollo frontend, conforme a las historias de usuario establecidas en el Sprint.
+
+**Mejoras en la Organización:**
+
+- Se observó una mejora en la organización del trabajo, utilizando Trello para dividir las tareas en historias de usuario. Sin embargo, se identificó la necesidad de optimizar la comunicación y coordinación dentro del equipo, sugiriendo que algunas tareas se realicen de forma colaborativa.
+
+<br>
+
+<img src="/resources/Video_AboutTeam.png"/>
+
+<br>
+
+**URL de la versión publicada en Microsoft Stream:**
+
+[https://upcedupe-my.sharepoint.com/personal/u202114793_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202114793%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202401%2Dsi729%2Dws53%2DBeautyServices%2Dabout%2Dthe%2Dteam%2Dsprint%2D3%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E17c755c0%2D48dc%2D4434%2D9ab8%2D6d32ed36d092](https://upcedupe-my.sharepoint.com/personal/u202114793_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202114793%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202401%2Dsi729%2Dws53%2DBeautyServices%2Dabout%2Dthe%2Dteam%2Dsprint%2D3%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E17c755c0%2D48dc%2D4434%2D9ab8%2D6d32ed36d092)
+
+<br>
+
+**URL de la versión publicada en YouTube:**
+
+[https://youtu.be/vmn7WVgW7BA](https://youtu.be/vmn7WVgW7BA)
+
+<br>
 
 ## Bibliografía
 
