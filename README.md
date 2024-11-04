@@ -2798,11 +2798,26 @@ A continuación, se presenta la relación de endpoints documentados con OpenAPI,
 
 Repositorio Landing Page:
 
-<img src="resources/SSEvidence1.JPG"/>
 
-<img src="resources/ssEvidence2.JPG"/>
 
-<img src="resources/ssEvidence3.JPG"/>
+
+Repositorio Back-end:
+
+<img src="resources/evidences/BACK-S3-3.jpeg"/>
+
+<img src="resources/evidences/BACK-S3-2.jpeg"/>
+
+<img src="resources/evidences/BACK-S3-1.jpeg"/>
+
+
+Repositorio Front-end:
+
+<img src="resources/evidences/FRONT-S3-1.jpeg"/>
+
+<img src="resources/evidences/FRONT-S3-2.jpeg"/>
+
+<img src="resources/evidences/FRONT-S3-3.jpeg"/>
+
 
 ### 5.3. Validation Interviews
 
