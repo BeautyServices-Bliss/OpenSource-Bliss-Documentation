@@ -3067,34 +3067,40 @@ A continuación se presentan los detalles clave de las entrevistas realizadas a 
 | Duración de la Entrevista                                 |   6:49   |
 | **Análisis de la Entrevista**                             |   Maricielo nos comenta que la plataforma es bastante intuitiva. El perfil es fácil de acceder, aunque mejorar la confirmación de cambios ayudaría. La navegación en el catálogo y la reserva de citas también son sencillas, aunque añadir descripciones más detalladas y guías de ayuda sería ideal. El historial de reservas es útil, aunque un filtro por fecha y una opción para repetir reservas serían prácticas. Dejar una review es fácil, pero podría incluir la opción de añadir fotos. Mejoraría el diseño visual de algunas confirmaciones y añadiría más personalización en el perfil.  |
 
-| Entrevista 2: Usuario de servicios de belleza y cuidado |                                                                                                                                                               |
-|---------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Nombre Entrevistado                                     |                                                                                                                                                 |
-| Edad                                                    |                                                                                                                                                      |
-| Profesión                                               |                                                                                                                            |
-| Departamento                                            | Lima, Perú                                                                                                                                                    |
-| Duración de la Entrevista                               |                                                                                                                                                 |
-| **Análisis de la Entrevista**                           |                                                                                                                                                               |
+| Entrevista 1: Usuario de servicios de belleza y cuidado |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|--------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nombre Entrevistado**                                | Karol Pamela Villa Cayetano                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| **Edad**                                               | 22 Años                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **Profesión**                                          | Estudiante de Arquitectura                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| **Departamento**                                       | Lima, Perú                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| **Duración de la Entrevista**                          | 14:11 min                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| **Análisis de la Entrevista**                          | La entrevistada menciona que la navegación es confusa y que hay demasiados pasos, además, las etiquetas del toolbar no son claras. También señala que no entiende por qué se solicita nuevamente el nombre al reservar, y que la notificación de éxito en la reserva no es clara.  Comenta que las tarjetas en su perfil ocupan demasiado espacio y crean ruido visual. Aprecia la posibilidad de crear servicios, pero le gustaría poder subir imágenes desde un archivo y que la duración del servicio se predeterminara en lugar de ingresarse manualmente. Por último, señala que los filtros de servicios no funcionan adecuadamente, ya que redirigen a la página de inicio. |
 
-| Entrevista 3: Usuario se servicios de belleza y cuidado |                                                                                                                                                          |
-|---------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Nombre Entrevistado                                     |                                                                                                                                          |
-| Edad                                                    |                                                                                                                                                   |
-| Profesión                                               |                                                                                                           |
-| Departamento                                            | Lima, Perú                                                                                                                                               |
-| Duración de la Entrevista                               |                                                                                                                                                 |
-| **Análisis de la Entrevista**                           |                                                                                                                                                          |
+| Entrevista 2: Usuario de servicios de belleza y cuidado |                                                                                                                                                                |
+|--------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nombre Entrevistado**                                | Carlos Villa Cayetano                                                                                                                                        |
+| **Edad**                                               | 20 Años                                                                                                                                                         |
+| **Profesión**                                          | Estudiante de contabilidad                                                                                                                                   |
+| **Departamento**                                       | Lima, Perú                                                                                                                                                     |
+| **Duración de la Entrevista**                          | 8:09 min                                                                                                                                                       |
+| **Análisis de la Entrevista**                          | El entrevistado no tuvo inconvenientes significativos al buscar servicios, pero preferiría que los filtros ocuparan menos espacio en pantalla. Comenta que el diálogo de información es muy grande y que preferiría imágenes más pertinentes. Aprecia los mensajes de confirmación, pero agradecería poder ver el nombre y un logo distintivo de la compañía. En cuanto a la visualización de su agenda, menciona que no tiene inconvenientes, aunque cree que permitir eliminar citas sin restricciones podría no ser conveniente. También sugiere cambiar el título de la sección de historial y reseñas, y menciona que arrastrar imágenes hacia la sección de reseñas facilitaría el proceso. Por último, destaca la facilidad de uso de la toolbar, aunque preferiría un sidebar para mayor comodidad en la navegación vertical. |
 
 A continuación se presentan los detalles clave de las entrevistas realizadas a las MYPES y emprendedores del sector de belleza y cuidado personal.
 
-| Entrevista 4: Mypes o emprendedores |                                                                                                                                                                                                                                                                       |
-|-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Nombre Entrevistado               |                                                                                                                                                                                                                                            |
-| Edad                              |                                                                                                                                                                                                                                                            |
-| Profesión                         |                                                                                                                                                                                                                                           |
-| Departamento                      | Lima, Perú                                                                                                                                                                                                                                                            |
-| Duración de la Entrevista         | 13:01 min                                                                                                                                                                                                                                                             |
-| Análisis de la Entrevista         |                                                                                                                                                                                                                                                                       |
+| Entrevista 4: Mypes o emprendedores |                                                                                                                                                                                                                        |
+|-------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nombre Entrevistado**             | Eliana                                                                                                                                                                                                                 |
+| **Edad**                            | 18 Años                                                                                                                                                                                                                |
+| **Profesión**                       | Manicurista independiente                                                                                                                                                                                              |
+| **Departamento**                    | Lima, Perú                                                                                                                                                                                                             |
+| **Duración de la Entrevista**       | 13:01 min                                                                                                                                                                                                              |
+| **Análisis de la Entrevista**       |                                                                                                                                                                                                                        |
+| **Visualización de Perfil**         | Menciona que el perfil es claro, pero le gustaría que fuese más dinámico y visual. También comenta que las **cards ocupan demasiado espacio en pantalla** y que hay mucho ruido visual.                                 |
+| **Manejo de servicios**             | Comenta que la creación de servicios es fácil, pero tiene dificultades para **subir imágenes desde el archivo**, ya que solo permite usar un link, lo cual complica el proceso. También preferiría más opciones de personalización, como intervalos de tiempo predeterminados, ya que **la duración del servicio tiene que ser ingresada manualmente**. |
+| **Gestión de reservas**             | Opina que la gestión de reservas es funcional, pero señala que **no entiende por qué se solicita nuevamente el nombre** al hacer la reserva. Le gustaría ver más opciones como un calendario con las citas registradas pendientes. Además, menciona que **la notificación de éxito al hacer una reserva no es clara**. |
+| **Recepción de reviews**            | Menciona que le gusta la opción de reseñas, pero preferiría que solo algunas fueran visibles y que se pudiera responder a las mismas desde el perfil.                                                                   |
+| **Navegación general**              | Navegar es sencillo, pero menciona que **la navegación es confusa** y que preferiría que los **labels del toolbar** fueran más claros, ya que el término "list" no le dice nada. Además, señala que los **filtros de servicio no funcionan correctamente** y la redirigen nuevamente a la página principal (home). |
+
 
 
 | Entrevista 5: Mypes o emprendedores |                                                                                                                                                            |
@@ -3117,7 +3123,6 @@ A continuación se presentan los detalles clave de las entrevistas realizadas a 
 
 #### 5.3.3. Evaluaciones según heurísticas
 
-# **Anexo D. Formato para Evaluación de User Experience según Heurísticas**
 
 #### **UX Heuristics & Principles Evaluation**
 **Usability – Inclusive Design – Information Architecture**
@@ -3127,60 +3132,85 @@ A continuación se presentan los detalles clave de las entrevistas realizadas a 
 - **SECCIÓN**: WS53
 - **PROFESORES**: Juan Antonio Flores Moroco
 - **AUDITOR**: Nombre del Grupo que ejecuta la Sesión de evaluación
-- **CLIENTE(S)**: 
+- **Nombre de App**: Bliss
 
----
-
-**NOTA**: Los contenidos de este formato (en color plomo) son referidos a un sitio web de ejemplo. Use este formato como referencia de la estructura que tiene que ser entregada y elimine el contenido en plomo. Coloque su contenido con color azul.
-
----
-
-###### **SITE o APP A EVALUAR**:
-**Nombre de App**
-
----
-
-###### **TAREAS A EVALUAR**:
+#### Tareas a Evaluar
 El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
 
-1. Registro de un usuario nuevo
+##### Para el Segmento Cliente:
+1. **Navegación del Catálogo de Servicios:** Evaluar la facilidad para encontrar y explorar servicios como manicure, pedicure y tratamientos faciales.
+2. **Proceso de Reserva:** Evaluar la facilidad para reservar un servicio, seleccionar un horario y elegir un profesional.
+3. **Recepción de Servicios:** Evaluar la confirmación de la reserva, notificaciones y feedback post-servicio.
 
-No están incluidas en esta versión de la evaluación las siguientes tareas:
+##### Para el Segmento Empresa:
+1. **Visualización del Perfil de la Empresa:** Evaluar cómo la empresa visualiza su propio perfil.
+2. **Creación de Servicio:** Evaluar la facilidad para crear y personalizar nuevos servicios.
+3. **Gestión de Reservas:** Evaluar la capacidad para gestionar reservas de clientes, incluyendo la visualización y modificación de citas.
+4. **Recepción de Reviews y Feedback de Clientes:** Evaluar cómo las empresas reciben y gestionan reseñas de los clientes.
 
-1. 
+#### Escala de Severidad
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
----
+| Nivel | Descripción |
+|-------|-------------|
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2     | Problema menor: puede ocurrir con más frecuencia o es más difícil de superar para el usuario. Debería tener una prioridad baja para resolverse en la próxima versión. |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Debería tener alta prioridad para corregirse. |
+| 4     | Problema muy grave: error que impide al usuario continuar utilizando la herramienta. Debe corregirse antes del lanzamiento. |
 
-###### **ESCALA DE SEVERIDAD**:
-Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+#### Tabla Resumen
 
-| **Nivel** | **Descripción** |
-|-----------|-----------------|
-| **1** | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
-| **2** | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja para resolverlo de cara al siguiente release. |
-| **3** | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Es importante que sea corregido y se le debe asignar una prioridad alta. |
-| **4** | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+| #  | Problema                                                                 | Escala de severidad | Heurística/Principio violado            | Tarea evaluada                                  |
+|----|--------------------------------------------------------------------------|--------------------|----------------------------------------|-------------------------------------------------|
+| 1  | Navegación confusa, muchos pasos y etiquetas del toolbar no son claras   | 3                  | Consistencia y eficiencia             | Navegación del Catálogo de Servicios            |
+| 2  | No se entiende por qué se solicita nuevamente el nombre al reservar      | 2                  | Minimalismo y prevención de errores   | Proceso de Reserva                              |
+| 3  | Notificación de éxito en la reserva no es clara                          | 3                  | Visibilidad del estado del sistema     | Recepción de Servicios                          |
+| 4  | Las tarjetas en el perfil ocupan demasiado espacio y crean ruido visual  | 2                  | Diseño estético y minimalista         | Visualización del Perfil de la Empresa          |
+| 5  | No permite subir imágenes desde archivo en la creación de servicios      | 3                  | Flexibilidad y eficiencia             | Creación de Servicio                            |
+| 6  | La duración del servicio debe ingresarse manualmente, preferirían predeterminado | 2            | Flexibilidad y eficiencia             | Creación de Servicio                            |
+| 7  | Los filtros de servicios no funcionan, redirigen a la página de inicio   | 3                  | Control y libertad del usuario        | Navegación del Catálogo de Servicios            |
 
----
+#### Descripción de Problemas
 
-###### **TABLA RESUMEN**:
+##### Problema #1: Navegación confusa y etiquetas del toolbar no son claras
+- **Tarea Evaluada:** Navegación del Catálogo de Servicios
+- **Recomendación:** Mejorar la estructura de navegación reduciendo los pasos entre secciones clave. Cambiar etiquetas poco claras como “list” por denominaciones más comprensibles para los usuarios.
 
-| # | **Problema** | **Escala de severidad** | **Heurística/Principio violado** |
-|---|--------------|-------------------------|----------------------------------|
-| 1 | -            | -                       | -                                |
+##### Problema #2: No se entiende por qué se solicita nuevamente el nombre al reservar
+- **Tarea Evaluada:** Proceso de Reserva
+- **Recomendación:** Evitar solicitar información redundante como el nombre del usuario si ya fue proporcionado anteriormente.
 
----
+##### Problema #3: Notificación de éxito en la reserva no es clara
+- **Tarea Evaluada:** Recepción de Servicios
+- **Recomendación:** Aumentar la visibilidad y claridad de las notificaciones de confirmación de reservas, utilizando colores o mensajes más destacados para evitar confusión.
 
-###### **DESCRIPCIÓN DE PROBLEMAS**:
+##### Problema #4: Las tarjetas en el perfil ocupan demasiado espacio y crean ruido visual
+- **Tarea Evaluada:** Visualización del Perfil de la Empresa
+- **Recomendación:** Reducir el tamaño de las tarjetas y reorganizar la información para disminuir el ruido visual, priorizando datos relevantes.
 
-**PROBLEMA #1: No hay un control que permita regresar a la tienda durante el trámite de compra**
-- **Severidad**: 3
-- **Heurística violada**: Usabilidad - Libertad y control del usuario
+##### Problema #5: No permite subir imágenes desde archivo en la creación de servicios
+- **Tarea Evaluada:** Creación de Servicio
+- **Recomendación:** Permitir la subida de imágenes desde archivos locales además de enlaces, para facilitar la personalización de los servicios por parte de la empresa.
 
-**Problema**:  
+##### Problema #6: La duración del servicio debe ingresarse manualmente
+- **Tarea Evaluada:** Creación de Servicio
+- **Recomendación:** Ofrecer duraciones de servicio preconfiguradas para acelerar el proceso de creación de servicios y evitar errores al ingresarlas manualmente.
 
+##### Problema #7: Los filtros de servicios no funcionan, redirigen a la página de inicio
+- **Tarea Evaluada:** Navegación del Catálogo de Servicios
+- **Recomendación:** Arreglar el funcionamiento de los filtros para que apliquen los criterios de búsqueda sin interrumpir la navegación, evitando redireccionamientos no deseados.
 
-**Recomendación**
+#### User Flows a Validar
+
+##### Para el Segmento Cliente:
+1. **Navegación del Catálogo de Servicios:** Evaluar la facilidad para encontrar y explorar servicios como manicure, pedicure y tratamientos faciales.
+2. **Proceso de Reserva:** Evaluar la facilidad para reservar un servicio, seleccionar un horario y elegir un profesional.
+3. **Recepción de Servicios:** Evaluar la confirmación de la reserva, notificaciones y feedback post-servicio.
+
+##### Para el Segmento Empresa:
+1. **Visualización del Perfil de la Empresa:** Evaluar cómo la empresa visualiza su propio perfil.
+2. **Creación de Servicio:** Evaluar la facilidad para crear y personalizar nuevos servicios.
+3. **Gestión de Reservas:** Evaluar la capacidad para gestionar reservas de clientes, visualizar y modificar citas de clientes.
 
 
 #### 5.4. Video About-the-Product
