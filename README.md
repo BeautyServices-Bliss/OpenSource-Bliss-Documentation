@@ -2822,6 +2822,77 @@ A continuación, se presenta la relación de endpoints documentados con OpenAPI,
 
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
+En esta sección se presenta la evidencia del despliegue del software realizado durante el tercer sprint. Se detallan los pasos seguidos para el deployment de nuestros productos, así como las herramientas y plataformas utilizadas para asegurar un despliegue exitoso y funcional del sistema.
+
+###### Despliegue de la Landing Page con Github Pages
+Para el despliegue de la landing page se utilizó Github Pages, se siguió los siguientes pasos:
+
+Paso 1:
+Primero se creó un nuevo repositorio en Github con el nombre de `bliss-landing-page`.
+<br>
+Paso 2:
+Luego se clonó el repositorio en el directorio del proyecto y se copió el contenido de la landing page en el repositorio.
+<br>
+Paso 3:
+Después nos dirigimos a la pestaña de `Settings` y luego a la sección de `Pages`.
+<br>
+Paso 4:
+Finalmente se seleccionó la rama `main` para el despliegue de la landing page.
+
+<img src="resources/deployment/LANDING-PAGE.png"/>
+
+###### Despliegue del Frontend en Firebase
+
+Para el frontend se utilizó firebase para el despliegue de la aplicación, se siguió los siguientes pasos:
+
+Paso 1:
+Primero se creó una cuenta en firebase y se creó un nuevo proyecto.
+<br>
+Paso 2:
+Luego en la consola, en el mismo directorio del proyecto, se ejecutó el comando `firebase login` para conectar mi cuenta con el proyecto.
+<br>
+Paso 3:
+Se ejecutó el comando `firebase init` para inicializar el proyecto en firebase.
+<br>
+Paso 4:
+Se seleccionó la opción de hosting y se siguió los pasos para configurar el proyecto.
+<br>
+Paso 4:
+Finalmente se ejecutó el comando `firebase deploy` para desplegar la aplicación.
+
+<img src="resources/deployment/FRONT.png"/>
+
+
+
+###### Despliegue del Backend en Railway
+Para el despliegue del backend se utilizó Railway, se siguió los siguientes pasos:
+
+
+Paso 1:
+Creamos una cuenta en railway e iniciamos sesión. En primer lugar creamos un nuevo proyecto.
+<img src="resources/deployment/BACK-1.jpeg"/>
+
+Paso 2:
+Seleccionamos la opción de despliegue de un nuevo servicio, desplegamos una base de datos de postres en la nube.
+<img src="resources/deployment/BACK-2.jpeg"/>
+
+Paso 3:
+Copiamos la información de la base de datos, como el nombre, host, puerto, usuario y contraseña.
+<img src="resources/deployment/BACK-3.jpeg"/>
+
+Paso 4:
+Creamos un servicio para el backend, enlazamos el repositorio a railway dando permisos de acceso.
+<img src="resources/deployment/BACK-4.jpeg"/>
+
+Paso 5:
+Mientras inicia el servicio configuramos los datos que copiamos de la base de datos y la pegamos como variables de entorno
+<img src="resources/deployment/BACK-5.jpeg"/>
+
+Paso 6:
+Finalmente generamos el url de la aplicación y verificamos que el servicio se encuentre en funcionamiento.
+<img src="resources/deployment/BACK-6.jpeg"/>
+
+
 
 
 ##### 5.2.3.8. Team Collaboration Insights during Sprint
