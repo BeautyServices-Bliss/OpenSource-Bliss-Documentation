@@ -2847,7 +2847,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 
 #### 5.4. Video About-the-Product
 
-<img src="/resources/fotoVideoPruebaProduct.png"/>
+<img src="/resources/fotoVideoPruebaProduct.PNG"/>
 
 URL en Onedrive: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e831_upc_edu_pe/EW3_bkhrLS1JuFxeD0ny8_UBHr-P97_szSMdbwkxxEgotg?e=VNYhMf
 
