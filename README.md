@@ -2913,13 +2913,13 @@ Finalmente generamos el url de la aplicación y verificamos que el servicio se e
 
 ##### 5.2.3.8. Team Collaboration Insights during Sprint
 
-|**Integrante**|**Acciones realizadas durante el sprint**|
-|-|-|
-|Andre Bernaola|Implementacion inicial de bc-profiles en backend|
-|Elvia Rodriguez|Implementacion inicial de bg-feedback|
-|David Rivas| Implementacion inicial de bc-services en backend|
-|Diego Soriano|Implementacion inicial de bc-services en backend|
-|Diego Carbajal|Implementacion inicial de bc-booking en backend|
+|**Integrante**| **Acciones realizadas durante el sprint**        |
+|-|--------------------------------------------------|
+|Andre Bernaola| Implementacion inicial de bc-profiles en backend |
+|Elvia Rodriguez| Implementacion inicial de bc-feedback            |
+|David Rivas| Implementacion inicial de bc-services en backend |
+|Diego Soriano| Implementacion inicial de bc-services en backend |
+|Diego Carbajal| Implementacion inicial de bc-booking en backend  |
 
 Repositorio Landing Page:
 
@@ -3225,6 +3225,8 @@ URL en Onedrive: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e831_up
 TB1: En esta primera entrega, nos adecuamos al proyecto con la ayuda de herramientas utilizadas como Figma o Miro. De esta manera, hemos trabajado de manera adecuada con ansias por desplegar y codear este proyecto con toda la retroalimentación posible.
 
 TP: En esta entrega iniciamos con la implementación y despliegue del producto y su documentación de acuerdo a los requisitos del usuario. Utilizamos gitflow para la elaboración del mismo, siempre hablando entre los miembros del equipo para mantener una fluidez y coherencia en los archivos del proyecto como en su ciclo de vida.
+
+TB2: En esta entrega hemos logrado implementar una versión más amplia del web application, asimismo hemos logrado implementar el web service y desplegar el producto, además de realizar las validaciones necesarias para asegurar su correcto funcionamiento. Hemos trabajado en equipo para cumplir con los objetivos y hemos logrado una buena comunicación y coordinación entre los miembros del grupo.
 
 ## Bibliografía
 
