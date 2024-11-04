@@ -59,6 +59,7 @@
 URL de la organización del proyecto: [https://github.com/upc-opensource-g-bliss]
 
 **TB1**
+
 |Integrante|Tareas Asignadas|
 |-|-|
 |André Arturo Bernaola Pérez|Elaboración de Diagramas de clase, Implementación de Landing Page y Domain-Driven Software Architecture|
@@ -75,10 +76,11 @@ URL de la organización del proyecto: [https://github.com/upc-opensource-g-bliss
 
 
 **TP**
+
 |Integrante|Tareas Asignadas|
 |-|-|
 |André Arturo Bernaola Pérez|Actualización de Diagramas de Contexto|
-|Diego Ivan Cabrera Buitron| |
+|Diego Ivan Cabrera Buitron|  |
 |Elvia Marcela Rodriguez Villa|Actualización de Mockups y Prototipo|
 |David Alejandro Rivas Sarango|Elaboración de Capítulo 5|
 |Diego Martin Soriano Medrano|Elaboración de Diagrama de base de datos|
@@ -87,7 +89,21 @@ URL de la organización del proyecto: [https://github.com/upc-opensource-g-bliss
 
 <img src="resources/screentp1.JPG"/>
 
-<img src="resources/screentp1.JPG"/>
+<img src="resources/screentp2.JPG"/>
+
+**TB2**
+
+Integrante| Tareas Asignadas            |
+|-|-----------------------------|
+|André Arturo Bernaola Pérez| Deployment de los productos |
+|Diego Ivan Cabrera Buitron| Recopilación de entrevistas |
+|Elvia Marcela Rodriguez Villa| Análisis de entrevistas     |
+|David Alejandro Rivas Sarango| Elaboración del video about the product |
+|Diego Martin Soriano Medrano| Elaboración del video about the team |
+
+**TB2 GITHUB**
+<img src="resources/evidences/REPORT-1.png"/>
+<img src="resources/evidences/REPORT-2.png"/>
 
 ***
 
