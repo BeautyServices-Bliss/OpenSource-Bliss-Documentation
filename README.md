@@ -46,11 +46,13 @@
 |10          |04/09/2024|Rivas David|SEO and Meta tags|
 |11          |07/09/2024| Rivas David|Puntos 4.7 y 4.8|
 |12          |09/09/2024|Rodriguez Elvia, Rivas David|Implementación de Wireframes, Mockups y Prototipo|
+
 |13          |18/09/2024|Rodriguez Elvia, Rivas David|Correcciones de Implementación de Wireframes, Mockups y Prototipo|
 |14         |18/09/2024|Cabrera Diego|Corrección del capítulo 1 y Entrevistas|
 |15          |18/08/2024|Soriano Diego|Correcciones en la elaboración de diagrama de base de datos|
 |16          |23/09/2024|Bernaola, Andre|Actualización de Diagramas de Contexto|
 |17          |23/09/2024|Rivas Sarango|Elaboracion de Capítulo V|
+
 
 <br/>
 
@@ -79,6 +81,7 @@ URL de la organización del proyecto: [https://github.com/upc-opensource-g-bliss
 |-|-|
 |André Arturo Bernaola Pérez|Actualización de Diagramas de Contexto|
 |Diego Ivan Cabrera Buitron| |
+
 |Elvia Marcela Rodriguez Villa|Actualización de Mockups y Prototipo|
 |David Alejandro Rivas Sarango|Elaboración de Capítulo 5|
 |Diego Martin Soriano Medrano|Elaboración de Diagrama de base de datos|
@@ -2050,7 +2053,7 @@ URL Trello: https://trello.com/b/nl4FsaI0/si729-bliss-202402-grupo3
           	<td> Visualizar sección de alianzas </td>
             <td>  Visitante debe pober visualizar las alianzas de manera clara. </td>
             <td> 2 </td>
-            <td> Andre Bernaola </td>
+            <td>Elvia Rodriguez </td>
             <td> Done </td>
         </tr>
       <tr>
@@ -2060,7 +2063,7 @@ URL Trello: https://trello.com/b/nl4FsaI0/si729-bliss-202402-grupo3
           	<td> Visualizar sección de equipo </td>
             <td> Visitante debe pober visualizar a los miembros del equipo de manera clara. </td>
             <td> 2 </td>
-            <td>Andre Bernaola  </td>
+            <td>David Rivas  </td>
             <td> Done </td>
         </tr>
       <tr>
@@ -2070,7 +2073,7 @@ URL Trello: https://trello.com/b/nl4FsaI0/si729-bliss-202402-grupo3
           	<td> Visualizar sección de visión del proyecto </td>
             <td> Visitante debe pober visualizar la visión del proyecto de manera clara.  </td>
             <td> 2 </td>
-            <td> Andre Bernaola </td>
+            <td> Diego Soriano </td>
             <td> Done </td>
         </tr>
     </tbody>
