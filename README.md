@@ -2619,9 +2619,24 @@ Cada miembro del equipo se encargó de identificar sus respectivas historias de 
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |-|-|-|-|-|-|
-|  |  |  |  |  |  |
+| Bliss-Frontend-Web-Applications | develop | f5faf6f | refactor | update some to use 18v sintaxis | Oct 23, 2024 |
+| Bliss-Frontend-Web-Applications | develop | 5507ccc | refactor | rename endpoints for specialists cards | Oct 23, 2024 |
+| Bliss-Frontend-Web-Applications | develop | 66fef19 | chore | add some parameters to entities | Oct 23, 2024 |
+| Bliss-Frontend-Web-Applications | develop | 560dade | style | adjust layout and padding to match prototype | Oct 23, 2024 |
+| Bliss-Frontend-Web-Applications | develop | af5ac29 | chore | merge data from diff dbs | Oct 23, 2024 |
+| Bliss-Frontend-Web-Applications | feature/booking | eb105d5 | feat(booking) | fixed the CRUD function | Oct 30, 2024 |
+| Bliss-Frontend-Web-Applications | feature/booking | be2c1b4 | feat(booking) | added the CRUD service | Oct 28, 2024 |
+| Bliss-Frontend-Web-Applications | feature/feedback | 4abd139 | feat(Service History) | Styles updated | Oct 22, 2024 |
+| Bliss-Frontend-Web-Applications | feature/feedback | b1f5275 | fix(reservation history) | Filter according to status added | Oct 22, 2024 |
+| Bliss-Frontend-Web-Applications | feature/profile-management | 5507ccc | refactor | rename endpoints for specialists cards | Oct 23, 2024 |
+| Bliss-Frontend-Web-Applications | feature/profile-management | f5faf6f | refactor | update some to use 18v sintaxis | Oct 23, 2024 |
+| Bliss-Frontend-Web-Applications | feature/searching | 6bdfae9 | feat | update db.json | Oct 23, 2024 |
+| Bliss-Frontend-Web-Applications | feature/searching | a929b07 | feat(booking) | updated booking | Oct 23, 2024 |
+| Bliss-Frontend-Web-Applications | feature/services-management | de8df76 | feat | update entservices | Oct 20, 2024 |
+| Bliss-Frontend-Web-Applications | feature/services-management | c392ba1 | feat | update i18n files | Oct 20, 2024 |
 
-<br/>
+
+<br>
 
 - En el repositorio de Web Services, nos hemos enfocado en llevar a cabo todas las configuraciones necesarias para trabajar con el lenguaje y el framework asignados para el desarrollo. Iniciamos creando y cargando al repositorio el proyecto generado con Spring Initializr en el primer commit, seguido de la configuración de los archivos pertinentes. Finalmente, cada integrante se encargó de crear las ramas correspondientes a cada bounded context asignado, lo que nos permitirá comenzar con el desarrollo de manera organizada y estructurada.
 
@@ -2629,8 +2644,25 @@ Cada miembro del equipo se encargó de identificar sus respectivas historias de 
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |-|-|-|-|-|-|
-|  |  |  |  |  |  |
+| Bliss-web-services | develop | 733649b | chore: | set deploy config | Oct 30, 2024 |
+| Bliss-web-services | develop | 2fd1ea8 | fix: | set dev running config | Oct 30, 2024 |
+| Bliss-web-services | develop | dc67f13 | Merge | branch 'feature/booking' of https://github.com/SI729-Bliss/Bliss-web-services into feature/booking | Nov 4, 2024 |
+| Bliss-web-services | develop | 261491a | Merge | pull request #7 from SI729-Bliss/feature/services | Nov 4, 2024 |
+| Bliss-web-services | develop | 3ddc3ff | Merge | branch 'test-merge' into feature/payment | Nov 4, 2024 |
+| Bliss-web-services | develop | bf107fb | Merge | pull request #9 from SI729-Bliss/feature/payment | Nov 4, 2024 |
+| Bliss-web-services | develop | 2c6dcc2 | Merge | pull request #13 from SI729-Bliss/feature/booking | Nov 4, 2024 |
+| Bliss-web-services | feature/booking | ae3a9ea | feat(booking) | merge with the other bc | Nov 4, 2024 |
+| Bliss-web-services | feature/booking | a9a35a1 | feat:Add ReviewsController | including create, update, delete, and retrieve by reservation ID | Oct 29, 2024 |
+| Bliss-web-services | feature/payment | 559b201 | feat: payment create | getById and getAll | Nov 2, 2024 |
+| Bliss-web-services | feature/payment | db3d0a0 | fixed | ticket deleted, only payment table | Nov 4, 2024 |
+| Bliss-web-services | feature/profile-management | 47c2145 | refactor | specified exception message | Oct 27, 2024 |
+| Bliss-web-services | feature/profile-management | 2fd1ea8 | fix | set dev running config | Nov 4, 2024 |
+| Bliss-web-services | feature/review | af81321 | feat | Own configuration changed | Oct 29, 2024 |
+| Bliss-web-services | feature/review | a9a35a1 | feat | including create, update, delete, and retrieve by reservation ID | Oct 29, 2024 |
+| Bliss-web-services | feature/services | e8f4292 | feat | services application internal | Oct 28, 2024 |
+| Bliss-web-services | feature/services | 726f483 | feat | update add in application to services | Nov 4, 2024 |
 
+<br>
 
 ##### 5.2.3.4. Testing Suite Evidence for Sprint Review
 
