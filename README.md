@@ -2847,6 +2847,9 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 
 #### 5.4. Video About-the-Product
 
+<img src="/resources/fotoVideoPruebaProduct.png"/>
+
+URL en Onedrive: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e831_upc_edu_pe/EW3_bkhrLS1JuFxeD0ny8_UBHr-P97_szSMdbwkxxEgotg?e=VNYhMf
 
 ## Conclusiones
 
@@ -2865,3 +2868,4 @@ TP: En esta entrega iniciamos con la implementación y despliegue del producto y
 * **Trello:** https://trello.com/b/nl4FsaI0/si729-bliss-202402-grupo3
 * **Wireflows-Lucidchart:** https://lucid.app/lucidchart/7d2c78f1-74e6-4e06-bac7-fa7053cb3a4d/edit?beaconFlowId=85F79CDA3ED67A01&invitationId=inv_d318f86c-78f2-4c1c-80b0-0c5715a137bd&page=0_0#
 * **Figma:** https://www.figma.com/design/5gl2eOszEgsfeYKtZEmrQZ/BLISS-UX%2FUI-OPEN-SOURCE?node-id=0-1&t=Ykry5fgskkOCcXpg-1
+* **About-The-Product:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e831_upc_edu_pe/EW3_bkhrLS1JuFxeD0ny8_UBHr-P97_szSMdbwkxxEgotg?e=VNYhMf
