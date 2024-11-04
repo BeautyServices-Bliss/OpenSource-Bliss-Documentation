@@ -3060,12 +3060,12 @@ A continuación se presentan los detalles clave de las entrevistas realizadas a 
 
 | Entrevista 1: Usuario se servicios de belleza y cuidado   |                                                                                                                                                                                         |
 | --------------------------------------------------------- |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Nombre Entrevistado                                       |                                                                                                                                                                     |
-| Edad                                                      |                                                                                                                                                                                |
-| Profesión                                                 |                                                                                                                                                     |
-| Departamento                                              | Lima, Perú                                                                                                                                                                              |
-| Duración de la Entrevista                                 |                                                                                                                                                                                |
-| **Análisis de la Entrevista**                             |                                                                                                                                                                                         |
+| Nombre Entrevistado                                       |   Maricielo Sanchez Valerio   |
+| Edad                                                      |   22 años   |
+| Profesión                                                 |   Reservado   |
+| Departamento                                              |   Lima, Perú                                                                                                                                                                              |
+| Duración de la Entrevista                                 |   6:49   |
+| **Análisis de la Entrevista**                             |   Maricielo nos comenta que la plataforma es bastante intuitiva. El perfil es fácil de acceder, aunque mejorar la confirmación de cambios ayudaría. La navegación en el catálogo y la reserva de citas también son sencillas, aunque añadir descripciones más detalladas y guías de ayuda sería ideal. El historial de reservas es útil, aunque un filtro por fecha y una opción para repetir reservas serían prácticas. Dejar una review es fácil, pero podría incluir la opción de añadir fotos. Mejoraría el diseño visual de algunas confirmaciones y añadiría más personalización en el perfil.  |
 
 | Entrevista 2: Usuario de servicios de belleza y cuidado |                                                                                                                                                               |
 |---------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -3099,21 +3099,21 @@ A continuación se presentan los detalles clave de las entrevistas realizadas a 
 
 | Entrevista 5: Mypes o emprendedores |                                                                                                                                                            |
 |-------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Nombre Entrevistado                 |                                                                                                                                              |
-| Edad                                |                                                                                                                                                     |
-| Profesión                           |                                                                                                                                     |
-| Departamento                        |                                                                                                                                                |
-| Duración de la Entrevista           |                                                                                                                                                    |
-| **Análisis de la Entrevista**       |                                                                                                                                                            |
+| Nombre Entrevistado                 |  Matías Jhoan Munives Santamaría  |
+| Edad                                |  23 años  |
+| Profesión                           |  Reservado   |
+| Departamento                        |  Lima     |
+| Duración de la Entrevista           |  4:58   |
+| **Análisis de la Entrevista**       |  Matías Munives comenta que el acceso al perfil de empresa es intuitivo, con opciones visibles. La visualización de servicios es clara, aunque sugiere agregar descripciones. La información de los especialistas es adecuada, pero se beneficiaría de fotos y especializaciones de estos. La modificación de servicios es fácil, aunque sería útil una confirmación visual de los cambios. La navegación entre especialistas y servicios es eficiente y propone un diseño con tarjetas para mayor claridad. Valora la organización general de la plataforma, pero sugiere tutoriales y opciones de personalización para mejorar la experiencia.  |
 
 | Entrevista 6: Mypes o emprendedores |                                                                                                                                                            |
 |-------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Nombre Entrevistado                 |                                                                                                                                              |
-| Edad                                |                                                                                                                                                     |
-| Profesión                           |                                                                                                                                     |
-| Departamento                        |                                                                                                                                                |
-| Duración de la Entrevista           |                                                                                                                                                    |
-| **Análisis de la Entrevista**       |                                                                                                                                                            |
+| Nombre Entrevistado                 |  Jorge Ramirez Cerna  |
+| Edad                                |  24 años  |
+| Profesión                           |  Reservado  |
+| Departamento                        |  Lima   |
+| Duración de la Entrevista           |  5:30     |
+| **Análisis de la Entrevista**       |  Como segundo entrevistado, tenemos a Jorge Ramirez, nos comenta que el acceso al perfil de la empresa fue algo confuso inicialmente, sugiriendo un acceso directo para simplificarlo. La visualización de los servicios era clara en nombres y precios, pero mejoraría con descripciones o imágenes. La información de los especialistas estaba organizada, pero podría destacarse más con fotos, especialidad y experiencia. Al actualizar los servicios, sugiere un botón de "Editar Servicio" visible junto a cada opción. También menciona que incluir detalles como productos utilizados y recomendaciones post-servicio sería útil. La navegación entre especialistas y servicios fue adecuada, aunque prefiere un diseño más visual. Jorge nos comenta que sugiere añadir opciones avanzadas, como personalización de horarios y mensajes de bienvenida, y notificaciones que confirmen cambios guardados. Finalmente, compara esta plataforma con otras, destacando que sería beneficioso añadir tutoriales integrados y un diseño gráfico más moderno y profesional.  |
 
 #### 5.3.3. Evaluaciones según heurísticas
 
