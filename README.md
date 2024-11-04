@@ -2430,17 +2430,17 @@ El objetivo principal de este sprint es consolidar las tareas y las user stories
 En el desarrollo del Sprint número tres, hemos verificado el cumplimiento de las actividades asignadas en el sprint anterior. Consolidamos todas las historias de usuario relacionadas con el desarrollo frontend de la aplicación y asignamos a cada integrante las historias de usuario necesarias para comenzar con la implementación de los servicios backend.
 
 Cada miembro del equipo se encargó de identificar sus respectivas historias de usuario, lo cual se refleja en la plataforma Trello. Posteriormente, cada integrante elaboró una descripción detallada de las tareas realizadas, así como una estimación de las horas correspondientes para el desarrollo del backend.
-<!--
+
 **Board para el Sprint:**
 
-<img src="resources/ssTrelloTB1.JPG"/>
+<img src="https://raw.githubusercontent.com/diego5m/labtest/refs/heads/main/opensource-images/Board_Trello.png"/>
 
 <br/>
 
 **URL Trello:**
 
-URL Trello: https://trello.com/b/nl4FsaI0/si729-bliss-202402-grupo3
--->
+[https://trello.com/b/nl4FsaI0/si729-bliss-202402-grupo3](https://trello.com/b/nl4FsaI0/si729-bliss-202402-grupo3)
+
 <br/>
 
 <table>
@@ -2466,84 +2466,144 @@ URL Trello: https://trello.com/b/nl4FsaI0/si729-bliss-202402-grupo3
             <td> Status (To-do / In-Process / To-Review / Done) </td>
         </tr>
         <tr>
-            <td> US011 </td>
-          	<td> Notificación de confirmación de reserva </td>
+            <td> US004 </td>
+          	<td> Visualización de servicios reservados</td>
           	<td> 01 </td>
-          	<td> Crear componente para notificar las reservas </td>
-            <td> - Implementar lógica para gestionar la notificación automática </br> - Crear servicio para simular el envío de correo electrónico </br> - Pruebas de funcionalidad de notificación automática  </td>
+          	<td> Implementar visualización de servicios reservados </td>
+            <td> - Crear vista de servicios reservados </br> - Mostrar mensaje cuando no haya citas reservadas  </td>
+            <td> 2 </td>
+            <td> Diego Cabrera </td>
+            <td> Done </td>
+        </tr>
+        <tr>
+            <td> US005 </td>
+          	<td> Visualización de historial de servicios </td>
+          	<td> 02 </td>
+          	<td> Implementar visualización de historial de servicios </td>
+            <td> - Implementar la Consulta de Servicios Anteriores </br> - Añadir estilos a la lista de cards y formulario </td>
             <td> 2 </td>
             <td> Elvia Rodriguez </td>
+            <td> Done </td>
+        </tr>
+        <tr>
+            <td> US008 </td>
+          	<td> Crear reserva de citas </td>
+          	<td> 03 </td>
+          	<td> Funciones para crear reserva de citas </td>
+            <td> - Implementar la Lógica de Edición en el Servicio de Empresa </br> - Configurar el Endpoint en el Controlador de Empresa </td>
+            <td> 2 </td>
+            <td> Diego Cabrera </td>
+            <td> Done </td>
+        </tr>
+        <tr>
+            <td> US009 </td>
+          	<td> Cancelación de cita por parte del cliente </td>
+          	<td> 04 </td>
+          	<td> Cancelación de cita por parte del cliente </td>
+            <td> - Eliminar cita de la agenda personal </br> - Diseñar interfaz de cancelación de cita </td>
+            <td> 2 </td>
+            <td> Diego Cabrera </td>
+            <td> Done </td>
+        </tr>
+        <tr>
+            <td> US011 </td>
+          	<td> Notificación de confirmación de reserva </td>
+          	<td> 05 </td>
+          	<td> Notificación de confirmación de reserva </td>
+            <td> - Implementar lógica para gestionar la notificación automática </br> - Pruebas de funcionalidad de notificación automática </td>
+            <td> 2 </td>
+            <td> Diego Cabrera </td>
             <td> Done </td>
         </tr>
         <tr>
             <td> US012 </td>
           	<td> Dejar valoración y reseña después de la cita </td>
-          	<td> 02 </td>
-          	<td> Crear formulario para guardar reserñas de citas </td>
-            <td> - Implementar la lógica de interacción con el usuario </br> - Crear la funcionalidad de envío de reseñas al servidor </br> - Desarrollar la visualización de reseñas publicadas </br> - Probar el flujo completo de publicación y visualización de reseñas </td>
+          	<td> 06 </td>
+          	<td> Dejar valoración y reseña después de la cita </td>
+            <td> - Implementar la lógica de interacción con el usuario </br> - Probar el flujo completo de publicación y visualización de reseñas </td>
             <td> 2 </td>
             <td> Elvia Rodriguez </td>
             <td> Done </td>
         </tr>
         <tr>
-            <td> TS00 </td>
-          	<td>  </td>
-          	<td>  </td>
-          	<td>  </td>
-            <td> - </br> -  </br> -  </br> - </td> </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
+            <td> US021 </td>
+          	<td> Registro de perfil de empresa </td>
+          	<td> 07 </td>
+          	<td> Registro de perfil de empresa </td>
+            <td> - Implementar el diseño para la page de companies </br> - Implementar la Lógica del Formulario de Registro de Empresa </td>
+            <td> 2 </td>
+            <td> Andre Bernaola </td>
+            <td> Done </td>
         </tr>
         <tr>
-            <td> TS034 </td>
-          	<td> Visualización de servicios ofrecidos por la empresa </td>
-          	<td> 04 </td>
-          	<td> Obtener listado de servicios por empresa </td>
-            <td> - Codificación aggregate de servicios </br> - Codificación los value objects para servicios </br> - Crear la clase Servicios con extención de AggregateRoot </br> - Codificar Queries del modelo </br> - Codificar la interface para query de servicios </br> - Codificar la implementación de query para servicios </br> - Codificar las interfaces rest para servicios </br> - Implementar el endpoint para obtener el listado de todos los servicios </td>
-            <td> 3 </td>
+            <td> TS009 </td>
+          	<td> Implementar endpoint de creación de reservas </td>
+          	<td> 08 </td>
+          	<td> Desarrollar endpoint de creación de reservas </td>
+            <td> - Implementar solicitud POST para la creación de reservas. </br> - Validar datos de entrada. </td>
+            <td> 2 </td>
+            <td> Diego Cabrera </td>
+            <td> Done </td>
+        </tr>
+        <tr>
+            <td> TS014 </td>
+          	<td> Creación de endpoint para edición de perfil de empresa </td>
+          	<td> 09 </td>
+          	<td> Desarrollo endpoint para edición de perfil de empresa </td>
+            <td> - Implementar la Lógica de Edición en el Servicio de Empresa </br> - Implementar manejo de errores </br> - Configurar el Endpoint en el Controlador de Empresa </td>
+            <td> 2 </td>
+            <td> Andre Bernaola </td>
+            <td> Done </td>
+        </tr>
+        <tr>
+            <td> TS016 </td>
+          	<td> Endpoint para asignar disponibilidad y gestionar citas. </td>
+          	<td> 10 </td>
+          	<td> Desarrollo endpoint para asignar disponibilidad y gestionar citas. </td>
+            <td> - Implementar solicitud GET para listar citas. </td>
+            <td> 2 </td>
+            <td> Diego Cabrera </td>
+            <td> In-Process </td>
+        </tr>
+        <tr>
+            <td> TS022 </td>
+          	<td> Creación de servicio en el sistema </td>
+          	<td> 11 </td>
+          	<td> Backend para la creación y almacenamiento de servicios de empresa </td>
+            <td> - Crear aggregate de servicios </br> - Identificar los value objects para servicios  </br> - Crear la clase Servicios con extención de AggregateRoot  </br> - Codificar los atributos de la clase Servicios con los nombres para las tablas en bd  </br> - Codificar los constructores de Servicios  </br> - Codificar value objects de Servicios </br> - Codificar Commands del modelo </br> - Codificar Queries del modelo </td>
+            <td> 2 </td>
+            <td> Diego Soriano </td>
+            <td> Done </td>
+        </tr>
+        <tr>
+            <td> TS023 </td>
+          	<td> Actualización de servicios ofrecidos </td>
+          	<td> 12 </td>
+          	<td> Backend para actualización de servicios en base de datos </td>
+            <td> - Codificación de model command de actualización de servicios </br> - Codificación de los servicios command para el dominio </br> - Implementación de los servicios command </br> - Codificación de interfaces rest para eliminación de servicios </br> - Implementación del endpoint de eliminación de servicios </td>
+            <td> 2 </td>
             <td> Diego Soriano </td>
             <td> Done </td>
         </tr>
         <tr>
             <td> TS024 </td>
-          	<td> Creación de servicio en el sistema </td>
-          	<td> 05 </td>
-          	<td> Backend para la creación y almacenamiento de servicios de empresa </td>
-            <td> - Crear aggregate de servicios </br> - Identificar los value objects para servicios  </br> - Crear la clase Servicios con extención de AggregateRoot  </br> - Codificar los atributos de la clase Servicios con los nombres para las tablas en bd  </br> - Codificar los constructores de Servicios  </br> - Codificar value objects de Servicios </br> - Codificar Commands del modelo </br> - Codificar Queries del modelo </td>
-            <td> 3 </td>
+          	<td> Eliminación de servicio en el sistema </td>
+          	<td> 13 </td>
+          	<td> Backend para eliminación de servicios </td>
+            <td> - Codificación de los command de eliminación </br> - Codificación de los servicios command para el dominio </br> - Codificación de la implementación de los servicios command </br> - Implementación del endpoint de eliminación de servicios </td>
+            <td> 2 </td>
             <td> Diego Soriano </td>
             <td> Done </td>
         </tr>
         <tr>
             <td> TS025 </td>
-          	<td> Eliminación de servicio en el sistema </td>
-          	<td> 06 </td>
-          	<td> Backend para eliminación de servicios </td>
-            <td> - Codificación de los command de eliminación </br> - Codificación de los servicios command para el dominio </br> - Codificación de la implementación de los servicios command </br> - Implementación del endpoint de eliminación de servicios </td>
-            <td> 3 </td>
+          	<td> Visualización de servicios ofrecidos por la empresa </td>
+          	<td> 14 </td>
+          	<td> Obtener listado de servicios por empresa </td>
+            <td> - Codificación aggregate de servicios </br> - Codificación los value objects para servicios </br> - Crear la clase Servicios con extención de AggregateRoot </br> - Codificar Queries del modelo </br> - Codificar la interface para query de servicios </br> - Codificar la implementación de query para servicios </br> - Codificar las interfaces rest para servicios </br> - Implementar el endpoint para obtener el listado de todos los servicios </td>
+            <td> 2 </td>
             <td> Diego Soriano </td>
             <td> Done </td>
-        </tr>
-        <tr>
-            <td> TS030 </td>
-          	<td> Actualización de servicios ofrecidos </td>
-          	<td> 07 </td>
-          	<td> Backend para actualización de servicios en base de datos </td>
-            <td> - Codificación de model command de actualización de servicios </br> - Codificación de los servicios command para el dominio </br> - Implementación de los servicios command </br> - Codificación de interfaces rest para eliminación de servicios </br> - Implementación del endpoint de eliminación de servicios </td>
-            <td> 3 </td>
-            <td> Diego Soriano </td>
-            <td> Done </td>
-        </tr>
-        <tr>
-            <td>  </td>
-          	<td>  </td>
-          	<td>  </td>
-          	<td>  </td>
-            <td> - </br> -  </br> -  </br> - </br> </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
         </tr>
     </tbody>
 </table>
@@ -2672,13 +2732,15 @@ A continuación, se presenta la relación de endpoints documentados con OpenAPI,
 
 <br>
 
-<!--Imagen de los endpoins Services-->
+**Imágenes y documentación:**
+
+<img src="https://raw.githubusercontent.com/diego5m/labtest/refs/heads/main/opensource-images/API_Services.jpeg"/>
 
 <br>
 
-**URL Local de documentación desplegada:**
+**URL documentación desplegada:**
 
-[http://localhost:8092/swagger-ui/index.html/](http://localhost:8092/swagger-ui/index.html/)
+[https://exquisite-possibility-production.up.railway.app/swagger-ui/index.html](https://exquisite-possibility-production.up.railway.app/swagger-ui/index.html)
 
 
 **URL del repositorio de Web Services:**
