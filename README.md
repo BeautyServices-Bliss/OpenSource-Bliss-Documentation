@@ -2670,7 +2670,45 @@ Cada miembro del equipo se encargó de identificar sus respectivas historias de 
 
 ##### 5.2.3.5. Execution Evidence for Sprint Review
 
+En esta entrega del Sprint, se continuó con el desarrollo establecido en el Sprint anterior, manteniendo la separación de bounded contexts para la implementación de cada vista de nuestra aplicación web. Durante este proceso, se realizaron correcciones a lo ya desarrollado, alineándonos con los user stories y requisitos previamente definidos. Además, se identificaron y formularon nuevas user stories que se abordarán en este Sprint, teniendo en cuenta las características más relevantes, así como todas las vistas y funcionalidades planteadas.
 
+Cada miembro del equipo asumió la responsabilidad del desarrollo necesario para cumplir con sus tareas asignadas, lo que permitió alcanzar el resultado final que se presenta a continuación, acompañado de capturas de pantalla de las principales vistas mejoradas e implementadas.
+
+**Booking:**
+
+<img src="https://raw.githubusercontent.com/diego5m/labtest/refs/heads/main/opensource-images/View_booking.png"/>
+
+<br>
+
+**Catalog**
+
+<img src="https://raw.githubusercontent.com/diego5m/labtest/refs/heads/main/opensource-images/View_catalog.png"/>
+
+<br>
+
+**Services History**
+
+<img src="https://raw.githubusercontent.com/diego5m/labtest/refs/heads/main/opensource-images/View_history.png"/>
+
+<br>
+
+**Customer**
+
+<img src="https://raw.githubusercontent.com/diego5m/labtest/refs/heads/main/opensource-images/View_customer.png"/>
+
+<br>
+
+**Enterprise**
+
+<img src="https://raw.githubusercontent.com/diego5m/labtest/refs/heads/main/opensource-images/View_enterprise.png"/>
+
+<br>
+
+**Service Management**
+
+<img src="https://raw.githubusercontent.com/diego5m/labtest/refs/heads/main/opensource-images/View_servicem.png"/>
+
+<br>
 
 ##### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
