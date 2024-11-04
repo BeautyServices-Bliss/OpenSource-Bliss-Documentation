@@ -3229,7 +3229,37 @@ TP: En esta entrega iniciamos con la implementación y despliegue del producto y
 
 TB2: En esta entrega hemos logrado implementar una versión más amplia del web application, asimismo hemos logrado implementar el web service y desplegar el producto, además de realizar las validaciones necesarias para asegurar su correcto funcionamiento. Hemos trabajado en equipo para cumplir con los objetivos y hemos logrado una buena comunicación y coordinación entre los miembros del grupo.
 
+<br>
+
 #### Video About-The-Team
+
+**Introducción al Desarrollo:**
+
+A lo largo de los tres sprints, se desarrolló la Landing Page y se trabajó en el frontend y backend de cada uno de los bounded contexts planteados.
+
+**Sprint 1:**
+
+- Desarrollo de la Landing Page.
+- Inicio de la documentación del desarrollo.
+- Creación de repositorios en GitHub.
+- Realización de entrevistas.
+
+**Sprint 2:**
+
+- Ejercicio de liderazgo en el equipo y revisión de entrevistas.
+- Trabajo en el bounded context del frontend.
+
+**Sprint 3:**
+
+- Apoyo en la creación de estadísticas y realización de nuevas entrevistas.
+- Implementación de endpoints para cada bounded context definido.
+- Finalización del desarrollo frontend, conforme a las historias de usuario establecidas en el Sprint.
+
+**Mejoras en la Organización:**
+
+- Se observó una mejora en la organización del trabajo, utilizando Trello para dividir las tareas en historias de usuario. Sin embargo, se identificó la necesidad de optimizar la comunicación y coordinación dentro del equipo, sugiriendo que algunas tareas se realicen de forma colaborativa.
+
+<br>
 
 <img src="/resources/Video_AboutTeam.png"/>
 
