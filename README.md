@@ -3229,6 +3229,24 @@ TP: En esta entrega iniciamos con la implementación y despliegue del producto y
 
 TB2: En esta entrega hemos logrado implementar una versión más amplia del web application, asimismo hemos logrado implementar el web service y desplegar el producto, además de realizar las validaciones necesarias para asegurar su correcto funcionamiento. Hemos trabajado en equipo para cumplir con los objetivos y hemos logrado una buena comunicación y coordinación entre los miembros del grupo.
 
+#### Video About-The-Team
+
+<img src="/resources/Video_AboutTeam.png"/>
+
+<br>
+
+**URL de la versión publicada en Microsoft Stream:**
+
+[https://upcedupe-my.sharepoint.com/personal/u202114793_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202114793%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202401%2Dsi729%2Dws53%2DBeautyServices%2Dabout%2Dthe%2Dteam%2Dsprint%2D3%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E17c755c0%2D48dc%2D4434%2D9ab8%2D6d32ed36d092](https://upcedupe-my.sharepoint.com/personal/u202114793_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202114793%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202401%2Dsi729%2Dws53%2DBeautyServices%2Dabout%2Dthe%2Dteam%2Dsprint%2D3%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E17c755c0%2D48dc%2D4434%2D9ab8%2D6d32ed36d092)
+
+<br>
+
+**URL de la versión publicada en YouTube:**
+
+[https://youtu.be/vmn7WVgW7BA](https://youtu.be/vmn7WVgW7BA)
+
+<br>
+
 ## Bibliografía
 
 
