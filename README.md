@@ -2622,6 +2622,25 @@ Cada miembro del equipo se encargó de identificar sus respectivas historias de 
             <td> Diego Soriano </td>
             <td> Done </td>
         </tr>
+         <tr>
+            <td> US013 </td>
+          	<td> Pagos </td>
+          	<td> 15 </td>
+          	<td> Como cliente, quiero poder pagar los servicios desde el producto. </td>
+            <td> - Implementar lógica para gestionar la pasarela de pagos.</td>
+            <td> 2 </td>
+            <td> David Rivas </td>
+            <td> Done </td>
+        </tr>
+        <tr>
+            <td> TS030 </td>
+          	<td> Implementar endpoint de procesamiento de pagos </td>
+          	<td> 16 </td>
+          	<td> Obtener listado de payments procesados </td>
+            <td> - Codificación aggregate de payments </br> - Codificación los value objects para payments </br> - Crear la clase payments con extención de AggregateRoot </br> - Codificar Queries del modelo </br> - Codificar la interface para query de payments </br> - Codificar la implementación de query para payments </br> - Codificar las interfaces rest para payments </br> - Implementar el endpoint para obtener el listado de todos los payments </td>
+            <td> 3 </td>
+            <td> David Rivas </td>
+            <td> Done </td>
     </tbody>
 </table>
 
