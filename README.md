@@ -2923,8 +2923,9 @@ Finalmente generamos el url de la aplicación y verificamos que el servicio se e
 
 Repositorio Landing Page:
 
+<img src="resources/evidences/LP-S3-1.jpeg"/>
 
-
+<img src="resources/evidences/LP-S3-2.jpeg"/>
 
 Repositorio Back-end:
 
