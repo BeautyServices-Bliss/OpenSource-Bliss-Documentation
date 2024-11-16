@@ -2988,8 +2988,67 @@ Repositorio Front-end:
 <img src="resources/evidences/FRONT-S3-3.jpeg"/>
 
 #### 5.2.3. Sprint 4
-
 ##### 5.2.3.1. Sprint Planning 4
+
+En este último sprint definimos las tareas finales, todos los integrantes del equipo participaron, el objetivo principal fue culminar con las US y TS asignadas así como el manejo de errores e inconsistencias, tambié se buscó integrar el frontend con el backend.
+
+<table>
+    <thead>
+        <tr>
+            <td>Sprint #</td>
+            <td>Sprint 4</td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Planning Background</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Date</td>
+            <td>2024-11-16</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>21:00</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>UPC</td>
+        </tr>
+        <tr>
+            <td>Prepared By</td>
+            <td>BeautyServices</td>
+        </tr>
+        <tr>
+            <td>Attendees (to planning meeting)</td>
+            <td>Soriano Medrano, Diego Martin/Rodriguez Villa, Elvia Marcela/Cabrera Buitron, Diego Ivan/ Rivas Sarango, David Alejandro / Bernaola Pérez, André Arturo</td>
+        </tr>
+        <tr>
+            <td>Sprint n – 4 Review Summary</td>
+            <td>Siendo este el último sprint, se esperó la culminación de desarrollo de endpoints e integración con front para el despliegue de la aplicación.</td>
+        </tr>
+        <tr>
+            <td>Sprint n – 4 Retrospective Summary</td>
+            <td>Siendo el último sprint, se mencionará la expectativa de los miembros del equipo: Terminar las actividades antes de la fecha del despliegue. </td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Goal & User Stories</td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Goal</td>
+            <td> Nos enfocamos en integrar la persistencia de datos en el proyecto, creemos que esta conseguirá un lanzamiento inicial atractivo y seguro tanto en las empresas de belleza como en los clientes interesados en el cuidado y belleza, esto será confirmado cuando las empresas se registren y publiquen sus servicios y la cantidad de usuarios empieze a crecer. </td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Velocity</td>
+            <td>20</td>
+        </tr>
+        <tr>
+            <td>Sum of Story Points</td>
+            <td>26</td>
+        </tr>
+    </tbody>
+</table>
+
 ##### 5.2.3.2. Sprint Backlog 3
 ##### 5.2.3.3. Development Evidence for Sprint Review
 ##### 5.2.3.4. Testing Suite Evidence for Sprint Review
