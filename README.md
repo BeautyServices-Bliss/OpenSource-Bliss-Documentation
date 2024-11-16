@@ -2700,6 +2700,31 @@ Cada miembro del equipo se encargó de identificar sus respectivas historias de 
 
 ##### 5.2.3.4. Testing Suite Evidence for Sprint Review
 
+En esta entrega se inició con la implementación del backend de Bliss de la mano de los US y TS puntuales.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|-|-|-|-|-|-|
+|https://github.com/SI729-Bliss/Testing|feature/tb2-bernaola|20de094|Create US021.feature|Create US021.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tb2-bernaola|069f62c|feat: TS014 feature|feat: TS014 feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tb2-cabrera|a7cdf2b|feat: US004.feature|feat: US004.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tb2-cabrera|62d1517|feat: US008.feature|feat: US008.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tb2-cabrera|cb7c4c7|featL US009.feature|featL US009.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tb2-cabrera|069f62c|feat: US016.feature|feat: TS006.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tb2-cabrera|c65b07e|feat: TS008.feature|feat: TS008.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tb2-cabrera|c85747a|feat: TS016.feature|feat: TS016.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tb2-rivas|44fd7d8|feat: US011.feature|feat: US011.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tb2-rivas|f1faf2e|feat: US013.feature|feat: US013.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tb2-rivas|f56e597|feat: TS028.feature|feat: TS028.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tb2-rodriguez|aaf5f2d|feat: US005.feature|feat: US005.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tb2-rodriguez|c9c0fc6|feat: US012.feature|feat: US012.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tb2-rodriguez|3fe47f8|feat: US015.feature|feat: US015.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tb2-rodriguez|4827099|feat: US033.feature|feat: US033.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tb2-rodriguez|82ae12b|feat: TS010.feature|feat: TS010.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tb2-rodriguez|10d77bd|feat: TS011.feature|feat: TS011.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tb2-soriano|f653716|feat: TS022.feature|feat: TS022.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tb2-soriano|debd34f|feat: TS023.feature|feat: TS023.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tb2-soriano|022d25d|feat: TS024.feature|feat: TS024.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tb2-soriano|988c0e3|feat: TS025.feature|feat: TS025.feature|16/11/2024|
 
 
 ##### 5.2.3.5. Execution Evidence for Sprint Review
@@ -2973,6 +2998,7 @@ En esta entrega se realizaron los ultimos cambios a las Technical Stories para e
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |-|-|-|-|-|-|
+|https://github.com/SI729-Bliss/Testing|master|03d529d|Merge pull request #12 from SI729-Bliss/main|merge: to Master final version|16/11/2024|
 |https://github.com/SI729-Bliss/Testing|feature/tf-bernaola|dc1a2d8|Create US001.feature|Create US003.feature|16/11/2024|
 |https://github.com/SI729-Bliss/Testing|feature/tf-bernaola|afbc539|Create US003.feature|Create US003.feature|16/11/2024|
 |https://github.com/SI729-Bliss/Testing|feature/tf-bernaola|d2f636c|Create TS005.feature|Create TS005.feature|16/11/2024|
