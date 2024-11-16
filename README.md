@@ -2962,6 +2962,43 @@ Repositorio Front-end:
 
 <img src="resources/evidences/FRONT-S3-3.jpeg"/>
 
+#### 5.2.3. Sprint 4
+
+##### 5.2.3.1. Sprint Planning 4
+##### 5.2.3.2. Sprint Backlog 3
+##### 5.2.3.3. Development Evidence for Sprint Review
+##### 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+En esta entrega se realizaron los ultimos cambios a las Technical Stories para el backend junto con la integración entre el front y el back.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|-|-|-|-|-|-|
+|https://github.com/SI729-Bliss/Testing|feature/tf-bernaola|dc1a2d8|Create US001.feature|Create US003.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tf-bernaola|afbc539|Create US003.feature|Create US003.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tf-bernaola|d2f636c|Create TS005.feature|Create TS005.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tf-bernaola|e30730e|Create TS015.feature|Create TS015.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tf-bernaola|17508af|Create TS018.feature|Create TS018.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tf-bernaola|942cffa|Create TS019.feature|Create TS019.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tf-cabrera|7758a7d|Create US006.feature|Create US006.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tf-cabrera|59d7e05|Create US009.feature|Create US009.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tf-cabrera|ca2b13c|Create TS016.feature|Create TS016.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tf-rivas|3ea3e70|Create US020.feature|Create US020.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tf-rivas|5d68b13|Create US029.feature|Create US029.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tf-rivas|a2bc2ba|Create TS029.feature|Create TS029.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tf-rivas|30fa35c|Create TS030.feature|Create TS030.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tf-rodriguez|69dca43|Create TS017.feature|Create TS017.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tf-soriano|62218e1|Create TS007.feature|Create TS007.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tf-soriano|4694d9f|Create TS026.feature|Create TS026.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tf-soriano|5218261|Create TS027.feature|Create TS027.feature|16/11/2024|
+
+
+##### 5.2.3.5. Execution Evidence for Sprint Review
+##### 5.2.3.6. Services Documentation Evidence for Sprint Review
+##### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+
+##### 5.2.3.8. Team Collaboration Insights during Sprint
+
 
 ### 5.3. Validation Interviews
 
