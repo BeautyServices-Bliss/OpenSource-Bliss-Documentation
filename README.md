@@ -2777,72 +2777,30 @@ A continuación, se presenta la relación de endpoints documentados con OpenAPI,
 
 <br>
 
-**Bounded Context Payment**
+**Payment**
 
 | Endpoint | Acciones implementadas | Verbo HTTP | Sintaxis de Llamada | Parámetros |
 |----------|------------------------|------------|---------------------|------------|
-| /api/v1/ | Actualizar  | PUT | PUT /api/v1//{} | {} |
-| /api/v1/ | Eliminar  | DELETE | DELETE /api/v1//{} | {} |
-| /api/v1/ | Obtener lista  | GET | GET /api/v1/ | N/A |
-| /api/v1/ | Crear  | POST | POST /api/v1/ | Request body |
+| /api/v1/payments/payment/ | Obtener lista de todos los pagos | GET | GET /api/v1/payments/payment/ | N/A |
+| /api/v1/payments/payment/ | Crear un pago por reserva  | POST | POST /api/v1/payments/payment/ | Request body |
+| /api/v1/payments/payment/{} | Obtener un pago por Id  | GET | GET /api/v1/payments/payment/{} | {paymentId} |
 
 **Ejemplos de Ejecución y Respuesta:**
 
 |         Petición        |                Respuesta             |
 |-------------------------|--------------------------------------|
-| PUT /api/v1/ /1 { .. } | 200 OK - Retorna .. actualizado en formato JSON. |
-| DELETE /api/v1//1 | 200 Indica que .. eliminado exitosamente. |
-| GET /api/v1/ | 200 OK - Retorna .. en formato JSON. |
-| POST /api/v1/ { .. } | 200 Created - Retorna .. formato JSON. |
+| GET /api/v1/payments/payment/ | 200 OK - Retorna un arreglo de los pagos en formato JSON. |
+| POST /api/v1/payments/payment/ { "amount": 1, "reservationId": 1, "customerId": 1 } | 200 Created - Retorna el pago creado en formato JSON. |
+| GET /api/v1/payments/payment/1 | 200 OK - Retorna el pago consultado en formato JSON. |
 
 
 <br>
 
-**Bounded Context Companies**
+**Services**
 
 | Endpoint | Acciones implementadas | Verbo HTTP | Sintaxis de Llamada | Parámetros |
 |----------|------------------------|------------|---------------------|------------|
-| /api/v1/ | Actualizar  | PUT | PUT /api/v1//{} | {} |
-| /api/v1/ | Eliminar  | DELETE | DELETE /api/v1//{} | {} |
-| /api/v1/ | Obtener lista  | GET | GET /api/v1/ | N/A |
-| /api/v1/ | Crear  | POST | POST /api/v1/ | Request body |
-
-**Ejemplos de Ejecución y Respuesta:**
-
-|         Petición        |                Respuesta             |
-|-------------------------|--------------------------------------|
-| PUT /api/v1/ /1 { .. } | 200 OK - Retorna .. actualizado en formato JSON. |
-| DELETE /api/v1//1 | 200 Indica que .. eliminado exitosamente. |
-| GET /api/v1/ | 200 OK - Retorna .. en formato JSON. |
-| POST /api/v1/ { .. } | 200 Created - Retorna .. formato JSON. |
-
-<br>
-
-**Bounded Context Reviews**
-
-| Endpoint | Acciones implementadas | Verbo HTTP | Sintaxis de Llamada | Parámetros |
-|----------|------------------------|------------|---------------------|------------|
-| /api/v1/ | Actualizar  | PUT | PUT /api/v1//{} | {} |
-| /api/v1/ | Eliminar  | DELETE | DELETE /api/v1//{} | {} |
-| /api/v1/ | Obtener lista  | GET | GET /api/v1/ | N/A |
-| /api/v1/ | Crear  | POST | POST /api/v1/ | Request body |
-
-**Ejemplos de Ejecución y Respuesta:**
-
-|         Petición        |                Respuesta             |
-|-------------------------|--------------------------------------|
-| PUT /api/v1/ /1 { .. } | 200 OK - Retorna .. actualizado en formato JSON. |
-| DELETE /api/v1//1 | 200 Indica que .. eliminado exitosamente. |
-| GET /api/v1/ | 200 OK - Retorna .. en formato JSON. |
-| POST /api/v1/ { .. } | 200 Created - Retorna .. formato JSON. |
-
-<br>
-
-**Bounded Context Services**
-
-| Endpoint | Acciones implementadas | Verbo HTTP | Sintaxis de Llamada | Parámetros |
-|----------|------------------------|------------|---------------------|------------|
-| /api/v1/services | Actualizar un servicio por Id | PUT | PUT /api/v1/services/{} | {serviceId} |
+| /api/v1/services/{} | Actualizar un servicio por Id | PUT | PUT /api/v1/services/{} | {serviceId} \ Request body |
 | /api/v1/services | Eliminar un servicio por Id | DELETE | DELETE /api/v1/services/{} | {serviceId} |
 | /api/v1/services | Obtener lista de todos los servicios | GET | GET /api/v1/services | N/A |
 | /api/v1/services | Crear un servicio | POST | POST /api/v1/services | Request body |
@@ -2854,10 +2812,81 @@ A continuación, se presenta la relación de endpoints documentados con OpenAPI,
 |-------------------------|--------------------------------------|
 | PUT /api/v1/services/1 { "name": "string", "imageUrl": "string", "description": "string", "basePrice": 0 } | 200 OK - Retorna el servicio actualizado en formato JSON. |
 | DELETE /api/v1/services/1 | 200 Indica que el servicio con Id 1 fue eliminado exitosamente. |
-| GET /api/v1/services | 200 OK - Retorna un array de servicios en formato JSON. |
+| GET /api/v1/services | 200 OK - Retorna un arreglo de servicios en formato JSON. |
 | POST /api/v1/services { "name": "string", "imageUrl": "string", "description": "string", "basePrice": 0 } | 200 Created - Retorna el servicio creado en formato JSON. |
 | GET /api/v1/services/findBySalon?BeautySalonId=1 | 200 OK - Retorna un array de servicios correspondientes en formato JSON. |
 
+<br>
+
+**Booking**
+
+| Endpoint | Acciones implementadas | Verbo HTTP | Sintaxis de Llamada | Parámetros |
+|----------|------------------------|------------|---------------------|------------|
+| /api/v1/bookings | Obtener de todas las reservas | GET | GET /api/v1/bookings | N/A |
+| /api/v1/bookings | Crear una nueva reserva  | POST | POST /api/v1/bookings | Request body |
+| /api/v1/bookings/service/{} | Obtener reservas por identificador de servicios  | GET | GET /api/v1/bookings/service/{} | {serviceId} |
+| /api/v1/bookings/customer/{} | Obtener reservas por identificador de cliente  | GET | GET /api/v1/bookings/customer/{} | {customerId} |
+| /api/v1/bookings/company/{} | Obtener reservas por identificador de empresa  | GET | GET /api/v1/bookings/company/{} | {companyId} |
+| /api/v1/bookings/{} | Eliminar reserva por identificador  | DELETE | DELETE /api/v1/bookings/{} | {id} |
+
+
+**Ejemplos de Ejecución y Respuesta:**
+
+|         Petición        |                Respuesta             |
+|-------------------------|--------------------------------------|
+| GET /api/v1/bookings | 200 OK - Retorna un arreglo de todas las reservas en formato JSON. |
+| POST /api/v1/bookings { "customerId": 1, "serviceId": 1, "companyId": 1, "bookingDate": "12/11/24", "bookingTime": "17:00", "bookingStatus": true, "requirements": [ "Example" ] } | 200 Created - Retorna la reserva creada en formato JSON. |
+| GET /api/v1/bookings/service/1 | 200 OK - Retorna la reserva encontrada en formato JSON. |
+| GET /api/v1/bookings/customer/1 | 200 OK - Retorna la reserva encontrada en formato JSON. |
+| GET /api/v1/bookings/company/1 | 200 OK - Retorna la reserva encontrada en formato JSON. |
+| DELETE /api/v1/bookings/1 | 204 Indica que la reserva se ha eliminado exitosamente. |
+
+
+<br>
+
+**Profiles**
+
+| Endpoint | Acciones implementadas | Verbo HTTP | Sintaxis de Llamada | Parámetros |
+|----------|------------------------|------------|---------------------|------------|
+| /api/v1/companies/{} | Obtener empresas por identificador | GET | GET /api/v1/companies/{} | {companyId} |
+| /api/v1/companies/{} | Actualizar empresa por identificador  | PUT | PUT /api/v1/companies/{} | {companyId} \ Request body |
+| /api/v1/customers/{} | Actualizar cliente por identificador  | PUT | PUT /api/v1/customers/{} | {customerId} \ Request body |
+| /api/v1/customers/{} | Obtener clientes por identificador  | GET | GET /api/v1/customers/{} | {customerId} |
+
+**Ejemplos de Ejecución y Respuesta:**
+
+|         Petición        |                Respuesta             |
+|-------------------------|--------------------------------------|
+| GET /api/v1/companies/1 | 200 OK - Retorna la empresa encontrada en formato JSON. |
+| PUT /api/v1/companies/1 { "name": "New name", "email": "example@gmail.com", "phoneNumber": "123456", "address": "Av. example", "rating": 1 } | 200 OK - Retorna los datos de la empresa actualizados en formato JSON. |
+| PUT /api/v1/customers/1 { "name": "New name", "email": "example@gmail.com", "phoneNumber": "123456", "address": "Av. example" } | 200 OK - Retorna los datos del cliente actualizado en formato JSON. |
+| GET /api/v1/customers/1 | 200 OK - Retorna al cliente encontrado en formato JSON. |
+
+<br>
+
+**Review Management**
+
+| Endpoint | Acciones implementadas | Verbo HTTP | Sintaxis de Llamada | Parámetros |
+|----------|------------------------|------------|---------------------|------------|
+| /api/v1/reviews/{} | Obtener reseñas por identificador  | GET | GET /api/v1/reviews/{} | {id} |
+| /api/v1/reviews/{} | Actualizar reseña existente  | PUT | PUT /api/v1/reviews/{} | {id} \ Request body |
+| /api/v1/reviews/{} | Eliminar reseña por identificador | DELETE | DELETE /api/v1/reviews/{} | {id} |
+| /api/v1/reviews | Crear nueva reseña  | POST | POST /api/v1/reviews | Request body |
+| /api/v1/reviews/user/{} | Obtener reseñas por identificador de usuario  | GET | GET /api/v1/reviews/user/{} | {userId} |
+| /api/v1/reviews/reservation/{} | Obtener reseñas por identificador de reservación  | GET | GET /api/v1/reviews/reservation/{} | {reservationId} |
+| /api/v1/reviews/company/{} | Obtener reseñas por identificador de empresa  | GET | GET /api/v1/reviews/company/{} | {companyId} |
+
+**Ejemplos de Ejecución y Respuesta:**
+
+|         Petición        |                Respuesta             |
+|-------------------------|--------------------------------------|
+| GET /api/v1/reviews/1 | 200 OK - Retorna la reseña encontrada en formato JSON. |
+| PUT /api/v1/reviews/1 { "createdAt": "2024-11-17", "updatedAt": "2024-11-17", "reservationId": 1, "punctuation": 5, "comment": "Ejemplo", "reservationInfo": { "serviceId": 1, "companyId": 1 }, "imageUrls": [ "imagen.jpeg" ] } | 200 OK - Retorna los datos de la reseña actualizados en formato JSON. |
+| DELETE /api/v1/reviews/1 | 200 Indica que la reseña se ha eliminado exitosamente. |
+| POST /api/v1/reviews { "reservationId": 1, "punctuation": 5, "comment": "Great service!", "imageUrls": [ "http://example.com/image1.jpg", "http://example.com/image2.jpg" ] } | 200 Created - Retorna la reseña creada en formato JSON. |
+| GET /api/v1/reviews/user/1 | 200 OK - Retorna un arreglo de reseñas encontradas en formato JSON. |
+| GET /api/v1/reviews/reservation/1 | 200 OK - Retorna un arreglo de reseñas encontradas en formato JSON. |
+| GET /api/v1/reviews/company/1 | 200 OK - Retorna un arreglo de reseñas encontradas en formato JSON. |
 
 <br>
 
@@ -3316,9 +3345,149 @@ En esta entrega se realizaron los ultimos cambios a las Technical Stories para e
 |https://github.com/SI729-Bliss/Testing|feature/tf-soriano|5218261|Create TS027.feature|Create TS027.feature|16/11/2024|
 
 
-##### 5.2.4.5. Execution Evidence for Sprint Review
-##### 5.2.4.6. Services Documentation Evidence for Sprint Review
-##### 5.2.4.7. Software Deployment Evidence for Sprint Review
+##### 5.2.3.5. Execution Evidence for Sprint Review
+##### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+Durante el desarrollo del último sprint, continuamos trabajando en la implementación de nuestros Web Services para cada Bounded Context, asignando responsabilidades específicas a cada miembro del equipo. Dado que este es el último sprint y representa la fase final del ciclo de desarrollo, se llevó a cabo una revisión exhaustiva de la documentación de cada uno de los endpoints desarrollados para nuestros Web Services, utilizando la herramienta Swagger.
+
+Además, en todas las etapas de desarrollo y documentación, hemos cumplido con los estándares de nomenclatura y versionado establecidos para nuestra API. En este caso, utilizamos el prefijo "/api/v1" como parte inicial para cada endpoint. Esta práctica ha facilitado la integración de nuestro proyecto con otros productos en desarrollo y ha permitido verificar su correcto funcionamiento.
+
+A continuación, se presenta la relación de endpoints documentados con OpenAPI, clasificados por cada Bounded Context:
+
+<br>
+
+**Payment**
+
+| Endpoint | Acciones implementadas | Verbo HTTP | Sintaxis de Llamada | Parámetros |
+|----------|------------------------|------------|---------------------|------------|
+| /api/v1/payments/payment/ | Obtener lista de todos los pagos | GET | GET /api/v1/payments/payment/ | N/A |
+| /api/v1/payments/payment/ | Crear un pago por reserva  | POST | POST /api/v1/payments/payment/ | Request body |
+| /api/v1/payments/payment/{} | Obtener un pago por Id  | GET | GET /api/v1/payments/payment/{} | {paymentId} |
+
+**Ejemplos de Ejecución y Respuesta:**
+
+|         Petición        |                Respuesta             |
+|-------------------------|--------------------------------------|
+| GET /api/v1/payments/payment/ | 200 OK - Retorna un arreglo de los pagos en formato JSON. |
+| POST /api/v1/payments/payment/ { "amount": 1, "reservationId": 1, "customerId": 1 } | 200 Created - Retorna el pago creado en formato JSON. |
+| GET /api/v1/payments/payment/1 | 200 OK - Retorna el pago consultado en formato JSON. |
+
+
+<br>
+
+**Services**
+
+| Endpoint | Acciones implementadas | Verbo HTTP | Sintaxis de Llamada | Parámetros |
+|----------|------------------------|------------|---------------------|------------|
+| /api/v1/services/{} | Actualizar un servicio por Id | PUT | PUT /api/v1/services/{} | {serviceId} \ Request body |
+| /api/v1/services | Eliminar un servicio por Id | DELETE | DELETE /api/v1/services/{} | {serviceId} |
+| /api/v1/services | Obtener lista de todos los servicios | GET | GET /api/v1/services | N/A |
+| /api/v1/services | Crear un servicio | POST | POST /api/v1/services | Request body |
+| /api/v1/services/findBySalon | Obtener lista de servicios por id de salon | GET | GET /api/v1/services/findBySalon?BeautySalonId={} | {beautySalonId} |
+
+**Ejemplos de Ejecución y Respuesta:**
+
+|         Petición        |                Respuesta             |
+|-------------------------|--------------------------------------|
+| PUT /api/v1/services/1 { "name": "string", "imageUrl": "string", "description": "string", "basePrice": 0 } | 200 OK - Retorna el servicio actualizado en formato JSON. |
+| DELETE /api/v1/services/1 | 200 Indica que el servicio con Id 1 fue eliminado exitosamente. |
+| GET /api/v1/services | 200 OK - Retorna un arreglo de servicios en formato JSON. |
+| POST /api/v1/services { "name": "string", "imageUrl": "string", "description": "string", "basePrice": 0 } | 200 Created - Retorna el servicio creado en formato JSON. |
+| GET /api/v1/services/findBySalon?BeautySalonId=1 | 200 OK - Retorna un array de servicios correspondientes en formato JSON. |
+
+<br>
+
+**Booking**
+
+| Endpoint | Acciones implementadas | Verbo HTTP | Sintaxis de Llamada | Parámetros |
+|----------|------------------------|------------|---------------------|------------|
+| /api/v1/bookings | Obtener de todas las reservas | GET | GET /api/v1/bookings | N/A |
+| /api/v1/bookings | Crear una nueva reserva  | POST | POST /api/v1/bookings | Request body |
+| /api/v1/bookings/service/{} | Obtener reservas por identificador de servicios  | GET | GET /api/v1/bookings/service/{} | {serviceId} |
+| /api/v1/bookings/customer/{} | Obtener reservas por identificador de cliente  | GET | GET /api/v1/bookings/customer/{} | {customerId} |
+| /api/v1/bookings/company/{} | Obtener reservas por identificador de empresa  | GET | GET /api/v1/bookings/company/{} | {companyId} |
+| /api/v1/bookings/{} | Eliminar reserva por identificador  | DELETE | DELETE /api/v1/bookings/{} | {id} |
+
+
+**Ejemplos de Ejecución y Respuesta:**
+
+|         Petición        |                Respuesta             |
+|-------------------------|--------------------------------------|
+| GET /api/v1/bookings | 200 OK - Retorna un arreglo de todas las reservas en formato JSON. |
+| POST /api/v1/bookings { "customerId": 1, "serviceId": 1, "companyId": 1, "bookingDate": "12/11/24", "bookingTime": "17:00", "bookingStatus": true, "requirements": [ "Example" ] } | 200 Created - Retorna la reserva creada en formato JSON. |
+| GET /api/v1/bookings/service/1 | 200 OK - Retorna la reserva encontrada en formato JSON. |
+| GET /api/v1/bookings/customer/1 | 200 OK - Retorna la reserva encontrada en formato JSON. |
+| GET /api/v1/bookings/company/1 | 200 OK - Retorna la reserva encontrada en formato JSON. |
+| DELETE /api/v1/bookings/1 | 204 Indica que la reserva se ha eliminado exitosamente. |
+
+
+<br>
+
+**Profiles**
+
+| Endpoint | Acciones implementadas | Verbo HTTP | Sintaxis de Llamada | Parámetros |
+|----------|------------------------|------------|---------------------|------------|
+| /api/v1/companies/{} | Obtener empresas por identificador | GET | GET /api/v1/companies/{} | {companyId} |
+| /api/v1/companies/{} | Actualizar empresa por identificador  | PUT | PUT /api/v1/companies/{} | {companyId} \ Request body |
+| /api/v1/customers/{} | Actualizar cliente por identificador  | PUT | PUT /api/v1/customers/{} | {customerId} \ Request body |
+| /api/v1/customers/{} | Obtener clientes por identificador  | GET | GET /api/v1/customers/{} | {customerId} |
+
+**Ejemplos de Ejecución y Respuesta:**
+
+|         Petición        |                Respuesta             |
+|-------------------------|--------------------------------------|
+| GET /api/v1/companies/1 | 200 OK - Retorna la empresa encontrada en formato JSON. |
+| PUT /api/v1/companies/1 { "name": "New name", "email": "example@gmail.com", "phoneNumber": "123456", "address": "Av. example", "rating": 1 } | 200 OK - Retorna los datos de la empresa actualizados en formato JSON. |
+| PUT /api/v1/customers/1 { "name": "New name", "email": "example@gmail.com", "phoneNumber": "123456", "address": "Av. example" } | 200 OK - Retorna los datos del cliente actualizado en formato JSON. |
+| GET /api/v1/customers/1 | 200 OK - Retorna al cliente encontrado en formato JSON. |
+
+<br>
+
+**Review Management**
+
+| Endpoint | Acciones implementadas | Verbo HTTP | Sintaxis de Llamada | Parámetros |
+|----------|------------------------|------------|---------------------|------------|
+| /api/v1/reviews/{} | Obtener reseñas por identificador  | GET | GET /api/v1/reviews/{} | {id} |
+| /api/v1/reviews/{} | Actualizar reseña existente  | PUT | PUT /api/v1/reviews/{} | {id} \ Request body |
+| /api/v1/reviews/{} | Eliminar reseña por identificador | DELETE | DELETE /api/v1/reviews/{} | {id} |
+| /api/v1/reviews | Crear nueva reseña  | POST | POST /api/v1/reviews | Request body |
+| /api/v1/reviews/user/{} | Obtener reseñas por identificador de usuario  | GET | GET /api/v1/reviews/user/{} | {userId} |
+| /api/v1/reviews/reservation/{} | Obtener reseñas por identificador de reservación  | GET | GET /api/v1/reviews/reservation/{} | {reservationId} |
+| /api/v1/reviews/company/{} | Obtener reseñas por identificador de empresa  | GET | GET /api/v1/reviews/company/{} | {companyId} |
+
+**Ejemplos de Ejecución y Respuesta:**
+
+|         Petición        |                Respuesta             |
+|-------------------------|--------------------------------------|
+| GET /api/v1/reviews/1 | 200 OK - Retorna la reseña encontrada en formato JSON. |
+| PUT /api/v1/reviews/1 { "createdAt": "2024-11-17", "updatedAt": "2024-11-17", "reservationId": 1, "punctuation": 5, "comment": "Ejemplo", "reservationInfo": { "serviceId": 1, "companyId": 1 }, "imageUrls": [ "imagen.jpeg" ] } | 200 OK - Retorna los datos de la reseña actualizados en formato JSON. |
+| DELETE /api/v1/reviews/1 | 200 Indica que la reseña se ha eliminado exitosamente. |
+| POST /api/v1/reviews { "reservationId": 1, "punctuation": 5, "comment": "Great service!", "imageUrls": [ "http://example.com/image1.jpg", "http://example.com/image2.jpg" ] } | 200 Created - Retorna la reseña creada en formato JSON. |
+| GET /api/v1/reviews/user/1 | 200 OK - Retorna un arreglo de reseñas encontradas en formato JSON. |
+| GET /api/v1/reviews/reservation/1 | 200 OK - Retorna un arreglo de reseñas encontradas en formato JSON. |
+| GET /api/v1/reviews/company/1 | 200 OK - Retorna un arreglo de reseñas encontradas en formato JSON. |
+
+<br>
+
+**Imágenes y documentación:**
+
+<img src=""/>
+
+<br>
+
+**URL documentación desplegada:**
+
+[]()
+
+
+**URL del repositorio de Web Services:**
+
+[https://github.com/SI729-Bliss/Bliss-web-services](https://github.com/SI729-Bliss/Bliss-web-services)
+
+
+<br>
+
+##### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
 
 ##### 5.2.4.8. Team Collaboration Insights during Sprint
