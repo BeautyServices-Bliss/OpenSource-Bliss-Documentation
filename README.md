@@ -2987,8 +2987,8 @@ Repositorio Front-end:
 
 <img src="resources/evidences/FRONT-S3-3.jpeg"/>
 
-#### 5.2.3. Sprint 4
-##### 5.2.3.1. Sprint Planning 4
+#### 5.2.4. Sprint 4
+##### 5.2.4.1. Sprint Planning 4
 
 En este último sprint definimos las tareas finales, todos los integrantes del equipo participaron, el objetivo principal fue culminar con las US y TS asignadas así como el manejo de errores e inconsistencias, tambié se buscó integrar el frontend con el backend.
 
@@ -3049,7 +3049,7 @@ En este último sprint definimos las tareas finales, todos los integrantes del e
     </tbody>
 </table>
 
-##### 5.2.3.2. Sprint Backlog 4
+##### 5.2.4.2. Sprint Backlog 4
 
 Para el desarrollo del último sprint, todo el equipo se reunió con el objetivo de verificar el cumplimiento de las actividades asignadas en el sprint anterior y llevar a cabo la planificación del sprint. En esta última entrega, todas las actividades se centraron en finalizar y consolidar el desarrollo de las historias de usuario (user stories) y las historias técnicas (technical stories) asignadas a cada integrante del grupo. Esto permitió culminar con el ciclo de desarrollo de ambas partes de nuestra aplicación y realizar las tareas correspondientes a la integración del frontend y backend, siendo cada miembro responsable de las historias de usuario que le fueron asignadas.
 
@@ -3073,53 +3073,224 @@ Además, cada integrante elaboró una descripción detallada de las tareas reali
     <thead>
         <tr>
             <td>Sprint #</td>
-            <td colspan="7" >Sprint 4</td>
+            <td colspan="7">Sprint 4</td>
         </tr>
         <tr>
-            <td colspan="2" > User Story</td>
-            <td colspan="6" > Work-Item / Task </td>
+            <td colspan="2">User Story</td>
+            <td colspan="6">Work-Item / Task</td>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td> Id </td>
-            <td> Title </td>
-            <td> Id </td>
-            <td> Title </td>
-            <td> Description </td>
-            <td> Estimation (Hours) </td>
-            <td> Assigned To </td>
-            <td> Status (To-do / In-Process / To-Review / Done) </td>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Description</td>
+            <td>Estimation (Hours)</td>
+            <td>Assigned To</td>
+            <td>Status (To-do / In-Process / To-Review / Done)</td>
         </tr>
         <tr>
-            <td> US00 </td>
-          	<td>  </td>
-          	<td> 01 </td>
-          	<td>   </td>
-            <td> -  </br> -  </br> -    </td>
-            <td> 2 </td>
-            <td>   </td>
-            <td> Done </td>
+            <td>US001</td>
+            <td>Creación de cuenta</td>
+            <td>01</td>
+            <td>Implementar registro</td>
+            <td>Implementación del formulario de registro y manejo de errores.</td>
+            <td>4</td>
+            <td>Andre Bernaola</td>
+            <td>Done</td>
         </tr>
         <tr>
-            <td> US00 </td>
-          	<td>  </td>
-          	<td> 01 </td>
-          	<td>   </td>
-            <td> -  </br> -  </br> -    </td>
-            <td> 2 </td>
-            <td>   </td>
-            <td> Done </td>
+            <td>US003</td>
+            <td>Inicio de sesión</td>
+            <td>02</td>
+            <td>Desarrollar inicio de sesión</td>
+            <td>Implementación de la pantalla y lógica de autenticación.</td>
+            <td>5</td>
+            <td>Andre Bernaola</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS005</td>
+            <td>Endpoint de login</td>
+            <td>03</td>
+            <td>Implementar login API</td>
+            <td>Creación del endpoint POST para autenticación.</td>
+            <td>3</td>
+            <td>Andre Bernaola</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US006</td>
+            <td>Disponibilidad de citas</td>
+            <td>04</td>
+            <td>Mostrar disponibilidad</td>
+            <td>Vista de horarios y manejo de errores de acceso.</td>
+            <td>6</td>
+            <td>Diego Cabrera</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US009</td>
+            <td>Cancelación de cita</td>
+            <td>05</td>
+            <td>Función de cancelación</td>
+            <td>Cancelación de citas con validaciones de fecha.</td>
+            <td>5</td>
+            <td>Diego Cabrera</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US020</td>
+            <td>Visualización de ticket</td>
+            <td>06</td>
+            <td>Desplegar ticket</td>
+            <td>Mostrar boleta/factura tras confirmación de pago.</td>
+            <td>4</td>
+            <td>Rivas David</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US029</td>
+            <td>Sincronizar con calendario</td>
+            <td>07</td>
+            <td>Integrar calendario</td>
+            <td>Sincronización de citas con Google/Outlook.</td>
+            <td>6</td>
+            <td>Rivas David</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS007</td>
+            <td>Historial de servicios</td>
+            <td>08</td>
+            <td>Implementar historial</td>
+            <td>Endpoint GET para historial de servicios.</td>
+            <td>4</td>
+            <td>Andre Bernaola</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS015</td>
+            <td>Edición de perfil</td>
+            <td>09</td>
+            <td>Endpoint editar perfil</td>
+            <td>Actualizar perfiles de especialistas.</td>
+            <td>5</td>
+            <td>Andre Bernaola</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS016</td>
+            <td>Gestión de citas</td>
+            <td>10</td>
+            <td>Endpoint citas</td>
+            <td>Asignar disponibilidad y gestionar citas.</td>
+            <td>5</td>
+            <td>Diego Cabrera</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS017</td>
+            <td>Reseñas de servicios</td>
+            <td>11</td>
+            <td>Visualizar reseñas</td>
+            <td>Endpoint GET para visualizar reseñas.</td>
+            <td>4</td>
+            <td>Elvia Rodriguez</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS018</td>
+            <td>Creación de especialista</td>
+            <td>12</td>
+            <td>Crear especialista</td>
+            <td>Implementar creación de nuevos especialistas.</td>
+            <td>4</td>
+            <td>Andre Bernaola</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS019</td>
+            <td>Eliminar especialista</td>
+            <td>13</td>
+            <td>Eliminar especialista</td>
+            <td>Funcionalidad de eliminación con validación.</td>
+            <td>4</td>
+            <td>Andre Bernaola</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS026</td>
+            <td>Buscar servicios</td>
+            <td>14</td>
+            <td>Implementar búsqueda</td>
+            <td>Endpoint de búsqueda con validaciones.</td>
+            <td>5</td>
+            <td>Diego Soriano</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS027</td>
+            <td>Personalización de servicios</td>
+            <td>15</td>
+            <td>Incorporar variables</td>
+            <td>Agregar variables de personalización.</td>
+            <td>4</td>
+            <td>Diego Soriano</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS029</td>
+            <td>Sincronización con calendario</td>
+            <td>16</td>
+            <td>Sincronizar con Google</td>
+            <td>Sincronización con Google Calendar.</td>
+            <td>5</td>
+            <td>Rivas David</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS030</td>
+            <td>Finanzas de pagos</td>
+            <td>17</td>
+            <td>Ver finanzas</td>
+            <td>Implementar endpoint de visualización financiera.</td>
+            <td>6</td>
+            <td>Rivas David</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS031</td>
+            <td>Integración Front/Back</td>
+            <td>18</td>
+            <td>Integrar front y back</td>
+            <td>Despliegue e integración completa del proyecto.</td>
+            <td>6</td>
+            <td>Todos</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS032</td>
+            <td>Auditable</td>
+            <td>19</td>
+            <td>Incluir auditable</td>
+            <td>Agregar auditable en entidades y agregados.</td>
+            <td>5</td>
+            <td>Todos</td>
+            <td>Done</td>
         </tr>
     </tbody>
 </table>
 
 
+
 <br/>
 
 
-##### 5.2.3.3. Development Evidence for Sprint Review
-##### 5.2.3.4. Testing Suite Evidence for Sprint Review
+##### 5.2.4.3. Development Evidence for Sprint Review
+##### 5.2.4.4. Testing Suite Evidence for Sprint Review
 
 En esta entrega se realizaron los ultimos cambios a las Technical Stories para el backend junto con la integración entre el front y el back.
 
@@ -3145,12 +3316,12 @@ En esta entrega se realizaron los ultimos cambios a las Technical Stories para e
 |https://github.com/SI729-Bliss/Testing|feature/tf-soriano|5218261|Create TS027.feature|Create TS027.feature|16/11/2024|
 
 
-##### 5.2.3.5. Execution Evidence for Sprint Review
-##### 5.2.3.6. Services Documentation Evidence for Sprint Review
-##### 5.2.3.7. Software Deployment Evidence for Sprint Review
+##### 5.2.4.5. Execution Evidence for Sprint Review
+##### 5.2.4.6. Services Documentation Evidence for Sprint Review
+##### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
 
-##### 5.2.3.8. Team Collaboration Insights during Sprint
+##### 5.2.4.8. Team Collaboration Insights during Sprint
 
 
 ### 5.3. Validation Interviews
