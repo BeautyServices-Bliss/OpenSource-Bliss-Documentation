@@ -3372,6 +3372,53 @@ A continuación, se presenta la relación de endpoints documentados con OpenAPI,
 | POST /api/v1/payments/payment/ { "amount": 1, "reservationId": 1, "customerId": 1 } | 200 Created - Retorna el pago creado en formato JSON. |
 | GET /api/v1/payments/payment/1 | 200 OK - Retorna el pago consultado en formato JSON. |
 
+<br>
+
+**IAM**
+
+| Endpoint | Acciones implementadas | Verbo HTTP | Sintaxis de Llamada | Parámetros |
+|----------|------------------------|------------|---------------------|------------|
+| /api/v1/authentication/sign-up | Operación de registro en el sistema  | POST | POST /api/v1/authentication/sign-up | Request body |
+| /api/v1/authentication/sign-in | Operación de acceso al sistema  | POST | POST /api/v1/authentication/sign-in | Request body |
+| /api/v1/users | Obtener todos los usuarios registrados | GET | GET /api/v1/users | N/A |
+| /api/v1/users/{} | Obtener usuario por identificador | GET | GET /api/v1/users/{} | {userId} |
+| /api/v1/roles | Obtener roles | GET | GET /api/v1/roles | N/A |
+
+**Ejemplos de Ejecución y Respuesta:**
+
+|         Petición        |                Respuesta             |
+|-------------------------|--------------------------------------|
+| POST /api/v1/authentication/sign-up { "username": "Example", "password": "123456", "roles": [ "ROLE_USER" ] } | 200 Created - Retorna el usuario registrado en el sistema en formato JSON. |
+| POST /api/v1/authentication/sign-in { "id": 1, "username": "Example", "token": "eyJhbGciOiJIUzM4NCJ9..." } | 200 Created - Retorna las credenciales de acceso del usuario en formato JSON. |
+| GET /api/v1/users | 200 OK - Retorna un arreglo de todos los usuarios registrados en formato JSON. |
+| GET /api/v1/users/1 | 200 OK - Retorna el usuario encontrado en formato JSON. |
+| GET /api/v1/roles | 200 OK - Retorna todos roles de registro en formato JSON. |
+
+<br>
+
+**Reviews**
+
+| Endpoint | Acciones implementadas | Verbo HTTP | Sintaxis de Llamada | Parámetros |
+|----------|------------------------|------------|---------------------|------------|
+| /api/v1/reviews/{} | Obtener reseñas por identificador  | GET | GET /api/v1/reviews/{} | {id} |
+| /api/v1/reviews/{} | Actualizar reseña existente  | PUT | PUT /api/v1/reviews/{} | {id} \ Request body |
+| /api/v1/reviews/{} | Eliminar reseña por identificador | DELETE | DELETE /api/v1/reviews/{} | {id} |
+| /api/v1/reviews | Crear nueva reseña  | POST | POST /api/v1/reviews | Request body |
+| /api/v1/reviews/user/{} | Obtener reseñas por identificador de usuario  | GET | GET /api/v1/reviews/user/{} | {userId} |
+| /api/v1/reviews/reservation/{} | Obtener reseñas por identificador de reservación  | GET | GET /api/v1/reviews/reservation/{} | {reservationId} |
+| /api/v1/reviews/company/{} | Obtener reseñas por identificador de empresa  | GET | GET /api/v1/reviews/company/{} | {companyId} |
+
+**Ejemplos de Ejecución y Respuesta:**
+
+|         Petición        |                Respuesta             |
+|-------------------------|--------------------------------------|
+| GET /api/v1/reviews/1 | 200 OK - Retorna la reseña encontrada en formato JSON. |
+| PUT /api/v1/reviews/1 { "createdAt": "2024-11-17", "updatedAt": "2024-11-17", "reservationId": 1, "punctuation": 5, "comment": "Ejemplo", "reservationInfo": { "serviceId": 1, "companyId": 1 }, "imageUrls": [ "imagen.jpeg" ] } | 200 OK - Retorna los datos de la reseña actualizados en formato JSON. |
+| DELETE /api/v1/reviews/1 | 200 Indica que la reseña se ha eliminado exitosamente. |
+| POST /api/v1/reviews { "reservationId": 1, "punctuation": 5, "comment": "Great service!", "imageUrls": [ "http://example.com/image1.jpg", "http://example.com/image2.jpg" ] } | 200 Created - Retorna la reseña creada en formato JSON. |
+| GET /api/v1/reviews/user/1 | 200 OK - Retorna un arreglo de reseñas encontradas en formato JSON. |
+| GET /api/v1/reviews/reservation/1 | 200 OK - Retorna un arreglo de reseñas encontradas en formato JSON. |
+| GET /api/v1/reviews/company/1 | 200 OK - Retorna un arreglo de reseñas encontradas en formato JSON. |
 
 <br>
 
@@ -3380,20 +3427,24 @@ A continuación, se presenta la relación de endpoints documentados con OpenAPI,
 | Endpoint | Acciones implementadas | Verbo HTTP | Sintaxis de Llamada | Parámetros |
 |----------|------------------------|------------|---------------------|------------|
 | /api/v1/services/{} | Actualizar un servicio por Id | PUT | PUT /api/v1/services/{} | {serviceId} \ Request body |
-| /api/v1/services | Eliminar un servicio por Id | DELETE | DELETE /api/v1/services/{} | {serviceId} |
+| /api/v1/services/{} | Eliminar un servicio por Id | DELETE | DELETE /api/v1/services/{} | {serviceId} |
+| /api/v1/services/details/{} | Actualizar un detalle por identificador | PUT | PUT /api/v1/services/details/1 | {detailId} \ Request body |
 | /api/v1/services | Obtener lista de todos los servicios | GET | GET /api/v1/services | N/A |
 | /api/v1/services | Crear un servicio | POST | POST /api/v1/services | Request body |
-| /api/v1/services/findBySalon | Obtener lista de servicios por id de salon | GET | GET /api/v1/services/findBySalon?BeautySalonId={} | {beautySalonId} |
+| /api/v1/services/findBySalon | Obtener servicios por identificador de salon | GET | GET /api/v1/services/findBySalon?BeautySalonId={} | {beautySalonId} |
+| /api/v1/services/details/findByService | Obtener detalles por identificador de servicios | GET | GET /api/v1/services/details/findByService?serviceId={} | {serviceId} |
 
 **Ejemplos de Ejecución y Respuesta:**
 
 |         Petición        |                Respuesta             |
 |-------------------------|--------------------------------------|
-| PUT /api/v1/services/1 { "name": "string", "imageUrl": "string", "description": "string", "basePrice": 0 } | 200 OK - Retorna el servicio actualizado en formato JSON. |
+| PUT /api/v1/services/1 { "name": "Example", "imageUrl": "htttp://example.jpeg", "description": "example", "basePrice": 20 } | 200 OK - Retorna el servicio actualizado en formato JSON. |
 | DELETE /api/v1/services/1 | 200 Indica que el servicio con Id 1 fue eliminado exitosamente. |
+| PUT /api/v1/services/details/1 { "detail": "example", "price": 15 } | 200 OK - Retorna el detalle con sus datos actualizados en formato JSON. |
 | GET /api/v1/services | 200 OK - Retorna un arreglo de servicios en formato JSON. |
 | POST /api/v1/services { "name": "string", "imageUrl": "string", "description": "string", "basePrice": 0 } | 200 Created - Retorna el servicio creado en formato JSON. |
-| GET /api/v1/services/findBySalon?BeautySalonId=1 | 200 OK - Retorna un array de servicios correspondientes en formato JSON. |
+| GET /api/v1/services/findBySalon?BeautySalonId=1 | 200 OK - Retorna un arreglo de servicios encontrados en formato JSON. |
+| GET /api/v1/services/details/findByService?serviceId=1 | 200 OK - Retorna un arreglo de detalles encontrados en formato JSON. |
 
 <br>
 
@@ -3423,55 +3474,31 @@ A continuación, se presenta la relación de endpoints documentados con OpenAPI,
 
 <br>
 
-**Profiles**
+**Profiles Management**
 
 | Endpoint | Acciones implementadas | Verbo HTTP | Sintaxis de Llamada | Parámetros |
 |----------|------------------------|------------|---------------------|------------|
+| /api/v1/customers/{} | Actualizar cliente por identificador  | PUT | PUT /api/v1/customers/{} | {customerId} \ Request body |
 | /api/v1/companies/{} | Obtener empresas por identificador | GET | GET /api/v1/companies/{} | {companyId} |
 | /api/v1/companies/{} | Actualizar empresa por identificador  | PUT | PUT /api/v1/companies/{} | {companyId} \ Request body |
-| /api/v1/customers/{} | Actualizar cliente por identificador  | PUT | PUT /api/v1/customers/{} | {customerId} \ Request body |
+| /api/v1/specialists | Obtener todos los especialistas | GET | GET /api/v1/specialists | N/A |
 | /api/v1/customers/{} | Obtener clientes por identificador  | GET | GET /api/v1/customers/{} | {customerId} |
 
 **Ejemplos de Ejecución y Respuesta:**
 
 |         Petición        |                Respuesta             |
 |-------------------------|--------------------------------------|
+| PUT /api/v1/customers/1 { "name": "New name", "email": "example@gmail.com", "phoneNumber": "123456", "address": "Av. example" } | 200 OK - Retorna los datos del cliente actualizado en formato JSON. |
 | GET /api/v1/companies/1 | 200 OK - Retorna la empresa encontrada en formato JSON. |
 | PUT /api/v1/companies/1 { "name": "New name", "email": "example@gmail.com", "phoneNumber": "123456", "address": "Av. example", "rating": 1 } | 200 OK - Retorna los datos de la empresa actualizados en formato JSON. |
-| PUT /api/v1/customers/1 { "name": "New name", "email": "example@gmail.com", "phoneNumber": "123456", "address": "Av. example" } | 200 OK - Retorna los datos del cliente actualizado en formato JSON. |
+| GET /api/v1/specialists | 200 OK - Retorna un arreglo de tos los especialistas encontrados en formato JSON. |
 | GET /api/v1/customers/1 | 200 OK - Retorna al cliente encontrado en formato JSON. |
-
-<br>
-
-**Review Management**
-
-| Endpoint | Acciones implementadas | Verbo HTTP | Sintaxis de Llamada | Parámetros |
-|----------|------------------------|------------|---------------------|------------|
-| /api/v1/reviews/{} | Obtener reseñas por identificador  | GET | GET /api/v1/reviews/{} | {id} |
-| /api/v1/reviews/{} | Actualizar reseña existente  | PUT | PUT /api/v1/reviews/{} | {id} \ Request body |
-| /api/v1/reviews/{} | Eliminar reseña por identificador | DELETE | DELETE /api/v1/reviews/{} | {id} |
-| /api/v1/reviews | Crear nueva reseña  | POST | POST /api/v1/reviews | Request body |
-| /api/v1/reviews/user/{} | Obtener reseñas por identificador de usuario  | GET | GET /api/v1/reviews/user/{} | {userId} |
-| /api/v1/reviews/reservation/{} | Obtener reseñas por identificador de reservación  | GET | GET /api/v1/reviews/reservation/{} | {reservationId} |
-| /api/v1/reviews/company/{} | Obtener reseñas por identificador de empresa  | GET | GET /api/v1/reviews/company/{} | {companyId} |
-
-**Ejemplos de Ejecución y Respuesta:**
-
-|         Petición        |                Respuesta             |
-|-------------------------|--------------------------------------|
-| GET /api/v1/reviews/1 | 200 OK - Retorna la reseña encontrada en formato JSON. |
-| PUT /api/v1/reviews/1 { "createdAt": "2024-11-17", "updatedAt": "2024-11-17", "reservationId": 1, "punctuation": 5, "comment": "Ejemplo", "reservationInfo": { "serviceId": 1, "companyId": 1 }, "imageUrls": [ "imagen.jpeg" ] } | 200 OK - Retorna los datos de la reseña actualizados en formato JSON. |
-| DELETE /api/v1/reviews/1 | 200 Indica que la reseña se ha eliminado exitosamente. |
-| POST /api/v1/reviews { "reservationId": 1, "punctuation": 5, "comment": "Great service!", "imageUrls": [ "http://example.com/image1.jpg", "http://example.com/image2.jpg" ] } | 200 Created - Retorna la reseña creada en formato JSON. |
-| GET /api/v1/reviews/user/1 | 200 OK - Retorna un arreglo de reseñas encontradas en formato JSON. |
-| GET /api/v1/reviews/reservation/1 | 200 OK - Retorna un arreglo de reseñas encontradas en formato JSON. |
-| GET /api/v1/reviews/company/1 | 200 OK - Retorna un arreglo de reseñas encontradas en formato JSON. |
 
 <br>
 
 **Imágenes y documentación:**
 
-<img src=""/>
+<img src="https://raw.githubusercontent.com/diego5m/labtest/refs/heads/main/opensource-images/ApiDocimage.png"/>
 
 <br>
 
