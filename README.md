@@ -3621,11 +3621,16 @@ Finalmente generamos el url de la aplicación y verificamos que el servicio se e
 <img src="resources/deployment/BACK-6.jpeg"/>
 
 Link de acceso al Api documentation desplegado: 
-[Link](https://bliss-web-services-production.up.railway.app/swagger-ui/index.html#/)
+[https://bliss-web-services-production.up.railway.app/swagger-ui/index.html#/](https://bliss-web-services-production.up.railway.app/swagger-ui/index.html#/)
+
+<br>
 
 Link de acceso al WebApplication desplegado:
 
-[Link](https://bliss-frontend-app.web.app/sign-in)
+[https://bliss-frontend-app.web.app/sign-in](https://bliss-frontend-app.web.app/sign-in)
+
+<br>
+
 ##### 5.2.4.8. Team Collaboration Insights during Sprint
 
 
