@@ -3532,7 +3532,7 @@ A continuación, se presenta la relación de endpoints documentados con OpenAPI,
 
 **Imágenes y documentación:**
 
-<img src="https://raw.githubusercontent.com/diego5m/labtest/refs/heads/main/opensource-images/ApiDocimage.png"/>
+<img src="resources/ApiDocimage.png"/>
 
 <br>
 
