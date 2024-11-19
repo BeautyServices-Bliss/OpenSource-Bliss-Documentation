@@ -109,7 +109,7 @@ Integrante| Tareas Asignadas            |
 <img src="resources/evidences/REPORT-1.png"/>
 <img src="resources/evidences/REPORT-2.png"/>
 
-**TB2**
+**TF**
 
 Integrante| Tareas Asignadas                                                                               |
 |-|------------------------------------------------------------------------------------------------|
@@ -118,7 +118,7 @@ Integrante| Tareas Asignadas                                                    
 |David Alejandro Rivas Sarango| Sprint Planning 4 y Testing Suite Evidence for Sprint Review.                                                                            |
 |Diego Martin Soriano Medrano|  Services Documentation Evidence for Sprint Review.                                                           |
 
-**TB2 GITHUB**
+**TF GITHUB**
 <img src="resources/ReportEvidences/a.png"/>
 <img src="resources/ReportEvidences/b.png"/>
 <img src="resources/ReportEvidences/c.png"/>
