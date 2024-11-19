@@ -3837,25 +3837,31 @@ A lo largo de los tres sprints, se desarrolló la Landing Page y se trabajó en 
 - Implementación de endpoints para cada bounded context definido.
 - Finalización del desarrollo frontend, conforme a las historias de usuario establecidas en el Sprint.
 
+**Sprint 4:**
+
+- Verificación del desarrollo backend e implementación final de todos los endpoints según el contexto delimitado (bounded context).
+- Integración de los productos desarrollados, incluyendo la Landing Page, el frontend y el backend.
+- Finalización del ciclo de desarrollo y verificación del cumplimiento de todos los requisitos establecidos por los stakeholders.
+
 **Mejoras en la Organización:**
 
 - Se observó una mejora en la organización del trabajo, utilizando Trello para dividir las tareas en historias de usuario. Sin embargo, se identificó la necesidad de optimizar la comunicación y coordinación dentro del equipo, sugiriendo que algunas tareas se realicen de forma colaborativa.
 
 <br>
 
-<img src="/resources/Video_AboutTeam.png"/>
+<img src="/resources/AboutTeam.png"/>
 
 <br>
 
 **URL de la versión publicada en Microsoft Stream:**
 
-[https://upcedupe-my.sharepoint.com/personal/u202114793_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202114793%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202401%2Dsi729%2Dws53%2DBeautyServices%2Dabout%2Dthe%2Dteam%2Dsprint%2D3%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E17c755c0%2D48dc%2D4434%2D9ab8%2D6d32ed36d092](https://upcedupe-my.sharepoint.com/personal/u202114793_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202114793%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202401%2Dsi729%2Dws53%2DBeautyServices%2Dabout%2Dthe%2Dteam%2Dsprint%2D3%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E17c755c0%2D48dc%2D4434%2D9ab8%2D6d32ed36d092)
+[https://upcedupe-my.sharepoint.com/personal/u202114793_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202114793%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202401%2Dsi729%2DWS53%2DBeautyServices%2Dabout%2Dthe%2Dteam%2Dsprint%2D4%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E2b5276ad%2D9661%2D42c9%2D80a6%2D079a6dc3d922](https://upcedupe-my.sharepoint.com/personal/u202114793_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202114793%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202401%2Dsi729%2DWS53%2DBeautyServices%2Dabout%2Dthe%2Dteam%2Dsprint%2D4%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E2b5276ad%2D9661%2D42c9%2D80a6%2D079a6dc3d922)
 
 <br>
 
 **URL de la versión publicada en YouTube:**
 
-[https://youtu.be/vmn7WVgW7BA](https://youtu.be/vmn7WVgW7BA)
+[https://youtu.be/GgQzsgs3AZU](https://youtu.be/GgQzsgs3AZU)
 
 <br>
 
