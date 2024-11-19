@@ -2759,37 +2759,37 @@ Cada miembro del equipo asumió la responsabilidad del desarrollo necesario para
 
 **Booking:**
 
-<img src="https://raw.githubusercontent.com/diego5m/labtest/refs/heads/main/opensource-images/View_booking.png"/>
+<img src="resources/execution/b.png"/>
 
 <br>
 
 **Catalog**
 
-<img src="https://raw.githubusercontent.com/diego5m/labtest/refs/heads/main/opensource-images/View_catalog.png"/>
+<img src="resources/execution/c.png"/>
 
 <br>
 
 **Services History**
 
-<img src="https://raw.githubusercontent.com/diego5m/labtest/refs/heads/main/opensource-images/View_history.png"/>
+<img src="resources/execution/d.png"/>
 
 <br>
 
 **Customer**
 
-<img src="https://raw.githubusercontent.com/diego5m/labtest/refs/heads/main/opensource-images/View_customer.png"/>
+<img src="resources/execution/e.png"/>
 
 <br>
 
 **Enterprise**
 
-<img src="https://raw.githubusercontent.com/diego5m/labtest/refs/heads/main/opensource-images/View_enterprise.png"/>
+<img src="resources/execution/f.png"/>
 
 <br>
 
 **Service Management**
 
-<img src="https://raw.githubusercontent.com/diego5m/labtest/refs/heads/main/opensource-images/View_servicem.png"/>
+<img src="resources/execution/g.png"/>
 
 <br>
 
@@ -2916,7 +2916,7 @@ A continuación, se presenta la relación de endpoints documentados con OpenAPI,
 
 **Imágenes y documentación:**
 
-<img src="https://raw.githubusercontent.com/diego5m/labtest/refs/heads/main/opensource-images/API_Services.jpeg"/>
+<img src="resources/evidences/swagger.png"/>
 
 <br>
 
@@ -3112,7 +3112,7 @@ Además, cada integrante elaboró una descripción detallada de las tareas reali
 
 **Board para el Sprint:**
 
-<img src="https://raw.githubusercontent.com/diego5m/labtest/refs/heads/main/opensource-images/Board_Trello.png"/>
+<img src="resources/evidences/trello.png"/>
 
 <br/>
 
@@ -3532,7 +3532,7 @@ A continuación, se presenta la relación de endpoints documentados con OpenAPI,
 
 **Imágenes y documentación:**
 
-<img src="https://raw.githubusercontent.com/diego5m/labtest/refs/heads/main/opensource-images/ApiDocimage.png"/>
+<img src="resources/evidences/ApiDocimage.png"/>
 
 <br>
 
