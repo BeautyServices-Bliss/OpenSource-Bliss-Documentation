@@ -51,8 +51,9 @@
 | 15      | 18/08/2024 | Soriano Diego                   | Correcciones en la elaboración de diagrama de base de datos       |
 | 16      | 23/09/2024 | Bernaola, Andre                 | Actualización de Diagramas de Contexto                            |
 | 17      | 23/09/2024 | Rivas Sarango                   | Elaboracion de Capítulo V                                         |
-| 18      | 04/11/2024  | Elvia Rodríguez y Diego Cabrera | Elaboración de las Validation Interview questions                 |
-| 18      | 04/11/2024  | Bernaola André                  | Elaboración del deployment de los productos                       |
+| 18      | 04/11/2024 | Elvia Rodríguez y Diego Cabrera | Elaboración de las Validation Interview questions                 |
+| 18      | 04/11/2024 | Bernaola André                  | Elaboración del deployment de los productos                       |
+| 18      | 19/11/2024 | Bernaola André                  | Elaboración del deployment evidence y execution evidence           |
 
 <br/>
 
@@ -3370,6 +3371,15 @@ En esta entrega se realizaron los ultimos cambios a las Technical Stories para e
 
 
 ##### 5.2.4.5. Execution Evidence for Sprint Review
+
+El Sprint actual incluyó la implementación de la sección de pagos y la autenticación de usuarios, lo que mejora la experiencia de los clientes al ofrecerles un proceso de compra más seguro y eficiente. Desde el lado del desarrollo, se crearon y optimizaron nuevos endpoints para soportar estas funcionalidades, y se integró completamente el frontend con el backend, garantizando una comunicación fluida entre ambos. Para el equipo de desarrollo, esto representó una mejora en la arquitectura del sistema y mayor robustez en las interacciones del backend. Para la empresa, estas mejoras permiten ofrecer un servicio más competitivo y aumentar la satisfacción del cliente. El despliegue del backend se realizó con éxito, asegurando que todas las funciones estén disponibles y operativas en el entorno de producción.
+
+<img src="resources/execution/a.png"/>
+<img src="resources/execution/booking.png"/>
+<img src="resources/execution/postman.png"/>
+<img src="resources/execution/sign-in.png"/>
+<img src="resources/execution/swagger.png"/>
+
 ##### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
 Durante el desarrollo del último sprint, continuamos trabajando en la implementación de nuestros Web Services para cada Bounded Context, asignando responsabilidades específicas a cada miembro del equipo. Dado que este es el último sprint y representa la fase final del ciclo de desarrollo, se llevó a cabo una revisión exhaustiva de la documentación de cada uno de los endpoints desarrollados para nuestros Web Services, utilizando la herramienta Swagger.
@@ -3610,7 +3620,12 @@ Paso 6:
 Finalmente generamos el url de la aplicación y verificamos que el servicio se encuentre en funcionamiento.
 <img src="resources/deployment/BACK-6.jpeg"/>
 
+Link de acceso al Api documentation desplegado: 
+[Link](https://bliss-web-services-production.up.railway.app/swagger-ui/index.html#/)
 
+Link de acceso al WebApplication desplegado:
+
+[Link](https://bliss-frontend-app.web.app/sign-in)
 ##### 5.2.4.8. Team Collaboration Insights during Sprint
 
 
@@ -3997,3 +4012,6 @@ A lo largo de los tres sprints, se desarrolló la Landing Page y se trabajó en 
 * **Wireflows-Lucidchart:** https://lucid.app/lucidchart/7d2c78f1-74e6-4e06-bac7-fa7053cb3a4d/edit?beaconFlowId=85F79CDA3ED67A01&invitationId=inv_d318f86c-78f2-4c1c-80b0-0c5715a137bd&page=0_0#
 * **Figma:** https://www.figma.com/design/5gl2eOszEgsfeYKtZEmrQZ/BLISS-UX%2FUI-OPEN-SOURCE?node-id=0-1&t=Ykry5fgskkOCcXpg-1
 * **About-The-Product:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e831_upc_edu_pe/EUdm3C5IFB9AkrAPPuLZduIBy_CW2s2oiU0mL4fsShNDHQ?e=KeHquJ
+* **API documentation:** https://bliss-web-services-production.up.railway.app/swagger-ui/index.html#/
+* **Web Application:** https://bliss-frontend-app.web.app/sign-in
+
