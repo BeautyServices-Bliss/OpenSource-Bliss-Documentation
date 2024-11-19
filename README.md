@@ -3538,7 +3538,7 @@ A continuación, se presenta la relación de endpoints documentados con OpenAPI,
 
 **URL documentación desplegada:**
 
-[]()
+[https://bliss-web-services-production.up.railway.app/swagger-ui/index.html#/](https://bliss-web-services-production.up.railway.app/swagger-ui/index.html#/)
 
 
 **URL del repositorio de Web Services:**
