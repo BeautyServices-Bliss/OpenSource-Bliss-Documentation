@@ -12,7 +12,7 @@
 
 ###  <center>Docente: Juan Antonio Flores Moroco</center>
 
-## <center>Informe del TB1</center>
+## <center>Informe del TF</center>
 
 ###  <center>Startup: BeautyServices </center>
 
@@ -32,25 +32,28 @@
 
 ## Registro de versiones del informe
 
-| Versión   | Fecha     | Autor |Descripción de la modificación |
-|-----------|-----------|-------|-------------                  |
-| 1         |16/08/24|Rivas David|Creación del documento de trabajo en markdown|
-| 2         |18/08/2024|Cabrera Diego|Desarrollo del capítulo 1 y Entrevistas|
-| 3         |24/08/2024|Rivas David,  Rodriguez Elvia|Desarrollo de las US y Product Backlog|
-|4          |25/08/2024|Bernaola Andre|Implementación de la Landing Page|
-|5          |25/08/2024|Soriano Diego|Elaboracion de Diagrama de Clases|
-|6          |28/08/2024|Soriano Diego|Elaboración de diagrama de base de datos|
-|7          |28/08/2024|Rivas David|Capítulo 5|
-|8          |30/08/2024|Cabrera Diego|Arreglo de entrevistas|
-|9          |01/09/2024|Bernaola Andre|Elaboración de modelos C4|
-|10          |04/09/2024|Rivas David|SEO and Meta tags|
-|11          |07/09/2024| Rivas David|Puntos 4.7 y 4.8|
-|12          |09/09/2024|Rodriguez Elvia, Rivas David|Implementación de Wireframes, Mockups y Prototipo|
-|13          |18/09/2024|Rodriguez Elvia, Rivas David|Correcciones de Implementación de Wireframes, Mockups y Prototipo|
-|14         |18/09/2024|Cabrera Diego|Corrección del capítulo 1 y Entrevistas|
-|15          |18/08/2024|Soriano Diego|Correcciones en la elaboración de diagrama de base de datos|
-|16          |23/09/2024|Bernaola, Andre|Actualización de Diagramas de Contexto|
-|17          |23/09/2024|Rivas Sarango|Elaboracion de Capítulo V|
+| Versión | Fecha      | Autor                           | Descripción de la modificación                                    |
+|---------|------------|---------------------------------|-------------------------------------------------------------------|
+| 1       | 16/08/24   | Rivas David                     | Creación del documento de trabajo en markdown                     |
+| 2       | 18/08/2024 | Cabrera Diego                   | Desarrollo del capítulo 1 y Entrevistas                           |
+| 3       | 24/08/2024 | Rivas David,  Rodriguez Elvia   | Desarrollo de las US y Product Backlog                            |
+| 4       | 25/08/2024 | Bernaola Andre                  | Implementación de la Landing Page                                 |
+| 5       | 25/08/2024 | Soriano Diego                   | Elaboracion de Diagrama de Clases                                 |
+| 6       | 28/08/2024 | Soriano Diego                   | Elaboración de diagrama de base de datos                          |
+| 7       | 28/08/2024 | Rivas David                     | Capítulo 5                                                        |
+| 8       | 30/08/2024 | Cabrera Diego                   | Arreglo de entrevistas                                            |
+| 9       | 01/09/2024 | Bernaola Andre                  | Elaboración de modelos C4                                         |
+| 10      | 04/09/2024 | Rivas David                     | SEO and Meta tags                                                 |
+| 11      | 07/09/2024 | Rivas David                     | Puntos 4.7 y 4.8                                                  |
+| 12      | 09/09/2024 | Rodriguez Elvia, Rivas David    | Implementación de Wireframes, Mockups y Prototipo                 |
+| 13      | 18/09/2024 | Rodriguez Elvia, Rivas David    | Correcciones de Implementación de Wireframes, Mockups y Prototipo |
+| 14      | 18/09/2024 | Cabrera Diego                   | Corrección del capítulo 1 y Entrevistas                           |
+| 15      | 18/08/2024 | Soriano Diego                   | Correcciones en la elaboración de diagrama de base de datos       |
+| 16      | 23/09/2024 | Bernaola, Andre                 | Actualización de Diagramas de Contexto                            |
+| 17      | 23/09/2024 | Rivas Sarango                   | Elaboracion de Capítulo V                                         |
+| 18      | 04/11/2024 | Elvia Rodríguez y Diego Cabrera | Elaboración de las Validation Interview questions                 |
+| 18      | 04/11/2024 | Bernaola André                  | Elaboración del deployment de los productos                       |
+| 18      | 19/11/2024 | Bernaola André                  | Elaboración del deployment evidence y execution evidence           |
 
 
 <br/>
@@ -60,6 +63,7 @@
 URL de la organización del proyecto: [https://github.com/upc-opensource-g-bliss]
 
 **TB1**
+
 |Integrante|Tareas Asignadas|
 |-|-|
 |André Arturo Bernaola Pérez|Elaboración de Diagramas de clase, Implementación de Landing Page y Domain-Driven Software Architecture|
@@ -76,11 +80,11 @@ URL de la organización del proyecto: [https://github.com/upc-opensource-g-bliss
 
 
 **TP**
+
 |Integrante|Tareas Asignadas|
 |-|-|
 |André Arturo Bernaola Pérez|Actualización de Diagramas de Contexto|
-|Diego Ivan Cabrera Buitron| |
-
+|Diego Ivan Cabrera Buitron|Elaboración de Capítulo 5|
 |Elvia Marcela Rodriguez Villa|Actualización de Mockups y Prototipo|
 |David Alejandro Rivas Sarango|Elaboración de Capítulo 5|
 |Diego Martin Soriano Medrano|Elaboración de Diagrama de base de datos|
@@ -89,8 +93,36 @@ URL de la organización del proyecto: [https://github.com/upc-opensource-g-bliss
 
 <img src="resources/screentp1.JPG"/>
 
-<img src="resources/screentp1.JPG"/>
+<img src="resources/screentp2.JPG"/>
 
+
+**TB2**
+
+Integrante| Tareas Asignadas            |
+|-|-----------------------------|
+|André Arturo Bernaola Pérez| Deployment de los productos |
+|Diego Ivan Cabrera Buitron| Recopilación de entrevistas |
+|Elvia Marcela Rodriguez Villa| Análisis de entrevistas     |
+|David Alejandro Rivas Sarango| Elaboración del video about the product |
+|Diego Martin Soriano Medrano| Elaboración del video about the team |
+
+**TB2 GITHUB**
+<img src="resources/evidences/REPORT-1.png"/>
+<img src="resources/evidences/REPORT-2.png"/>
+
+**TF**
+
+Integrante| Tareas Asignadas                                                                               |
+|-|------------------------------------------------------------------------------------------------|
+|André Arturo Bernaola Pérez| Team Collaboration Insights for Sprint review y Software Deployment Evidence for Sprint Review |
+|Elvia Marcela Rodriguez Villa| Testing Suite Evidence for Sprint Review.                                     |
+|David Alejandro Rivas Sarango| Sprint Planning 4 y Testing Suite Evidence for Sprint Review.                                                                            |
+|Diego Martin Soriano Medrano|  Services Documentation Evidence for Sprint Review.                                                           |
+
+**TF GITHUB**
+<img src="resources/ReportEvidences/a.png"/>
+<img src="resources/ReportEvidences/b.png"/>
+<img src="resources/ReportEvidences/c.png"/>
 ***
 
 ## Contenido
@@ -188,6 +220,15 @@ URL de la organización del proyecto: [https://github.com/upc-opensource-g-bliss
 5.2.3.6. [Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review) <br>
 5.2.3.7. [Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review) <br>
 5.2.3.8. [Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint) <br>
+   5.2.4. [Sprint 4](#524-sprint-4) <br>
+   5.2.4.1. [Sprint Planning 4](#5241-sprint-planning-4) <br>
+   5.2.4.2. [Sprint Backlog 4](#5242-sprint-backlog-4) <br>
+   5.2.4.3. [Development Evidence for Sprint Review](#5243-development-evidence-for-sprint-review) <br>
+   5.2.4.4. [Testing Suite Evidence for Sprint Review](#5244-testing-suite-evidence-for-sprint-review) <br>
+   5.2.4.5. [Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review) <br>
+   5.2.4.6. [Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review) <br>
+   5.2.4.7. [Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review) <br>
+   5.2.4.8. [Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint) <br>
 5.3. [***Validation Interviews***](#53-validation-interviews) <br>
 5.3.1.[Diseño de Entrevistas](#531-diseño-de-entrevistas) <br>
 5.3.2.[Registro de Entrevistas](#532-registro-de-entrevistas) <br>
@@ -201,10 +242,10 @@ URL de la organización del proyecto: [https://github.com/upc-opensource-g-bliss
 
 ## Students Outcomes
 
-| Criterio específico | Acciones realizadas | Conclusiones |
-|---------------------|---------------------|--------------|
-|Comunica oralmente con efectividad a diferentes rangos de audiencia.| **André Arturo Bernaola Pérez** <br> **TB1** <br> En esta entrega, expliqué a mi equipo las decisiones arquitectónicas del modelo C4, lo que facilitó la comprensión del enfoque adoptado. Además, implementé retroalimentación activa para mejorar tanto las User Stories como el diagrama de base de datos, integrando de manera efectiva las sugerencias del equipo para optimizar la calidad del proyecto. <br>**TP** Lideré al equipo en el diseño de los bounded context, organizando tareas y asegurando la alineación arquitectónica. Además, supervisé la integración de las propuestas para garantizar la calidad del trabajo. <br>**TB2** <br> **Diego Ivan Cabrera Buitron** <br> **TB1** <br> Para esta entrega identifiqué el problema a solucionar y así pude realizar los assumptions y las entrevistas de manera concreta. <br>**TP** -Para esta entrega logré identificar los bounded context para poder ejecutar el booking component y desplegarlo.<br>**Elvia Marcela Rodriguez Villa** <br> **TB1** En la presente actividad he colaborado con el diseño y elaboración de productos como mockups y prototipos, por ello ha sido necesaria una comunicación constante con mis compañeros de trabajo para acordar decisiones e incorporar opiniones a fin de elaborar un producto de acuerdo a las necesidads de un usuario final. <br>**TP** En esta actividad, participé en discusiones con mis compañeros para asegurar que todos estuvieran al tanto de las decisiones tomadas. Mantuve una comunicación constante sobre los avances del equipo y consulté al profesor para recibir retroalimentación sobre nuestras propuestas, lo que nos ayudó a mejorar nuestro enfoque. Esta interacción con diferentes audiencias demostró mi capacidad para comunicarme de manera efectiva y colaborar en equipo. <br>**David Alejandro Rivas Sarango** <br> **TB1** En esta entrega diseñe la aplicación web de acuerdo a los sectores entrevistados, nuestros ahora clientes deben sentirse cómodos con el servicio que les proporcionamos y estamos al tanto de la retroalimentación que se nos brinda para una mejora continua. <br>**TP** En esta entrega realice ls diseños del home y su codificación en Angular que me permitieron saber el orden de flujo que recibe un cliente cuando requiere un servicio de belleza. <br>**TB2** En esta tercera entrega la principal actividad fue elaborar el backend del proyecto, acordando entre los miembros del equipo los métodos y entidades a crear y como se conectarían, personalmente, me encargué de payments que se relaciona con la tala cliente y reserva. <br>**Diego Martin Soriano Medrano** <br> **TB1** <br> Para la primera entrega del trabajo, realicé diversas actividades, entre las cuales destaco la habilidad para comunicar efectivamente mis ideas y consideraciones sobre el desarrollo del proyecto a mis compañeros de grupo. <br>**TP**  <br>**TB2**<br> Se integraron nuevas estrategias de comunicación para que todos puedan comunicar sus necesidades según las tereas y actividades asignadas para poder sobrellevar el desarrollo del trabajo. <br> | Se ha demostrado una clara comprensión y aplicación de las técnicas y herramientas necesarias, lo que ha permitido una integración coherente de los distintos componentes del proyecto. La capacidad para adaptar y mejorar las User Stories y el diagrama de base de datos ha optimizado la calidad y precisión del trabajo realizado. En general, el equipo ha establecido una base sólida para las siguientes etapas del proyecto, evidenciando un trabajo colaborativo y bien documentado que facilita la continuación del desarrollo con una visión clara y alineada. |
-|Comunica por escrito con efectividad a diferentes rangos de audiencia|**André Arturo Bernaola Pérez** <br> **TB1** <br> Al realizar los diagramas del modelo C4 para el trabajo, justifiqué la arquitectura y los patrones empleados de manera detallada para asegurar una comprensión clara de las decisiones técnicas. <br> **TP** Implementé estrategias de gestión que facilitaron la comunicación y el flujo de trabajo eficiente, logrando la entrega a tiempo y una integración coherente con el resto del proyecto. <br>  **Diego Ivan Cabrera Buitron** <br> **TB1** <br> Al identificar el problema, en la realización de las entrevistas, tomé muy en cuenta las necesidades de nuestro público objetico para poder analizarlas. <br>**TP** La identificar las funcionalidades de los servicios, pude comprender las necesidades de nuetro público objetivo y qué se requiere para poder realizarlas.<br>**Elvia Marcela Rodriguez Villa** <br> **TB1** <br> Las decisiones respecto al diseño visual e interactivo de los mockups y prototipos fueron debidamente justificados de acuerdo a los parámetros y heurísticas de diseño UX, por lo mencionado, he incluido información escrita que especifica la razón detras del diseño visual y estructura de los productos mencionados. <br>**TP**En esta actividad, participé en discusiones con mis compañeros para asegurar que todos estuvieran al tanto de las decisiones tomadas. Mantuve una comunicación constante sobre los avances del equipo y consulté al profesor para recibir retroalimentación sobre nuestras propuestas, lo que nos ayudó a mejorar nuestro enfoque. Esta interacción con diferentes audiencias demostró mi capacidad para comunicarme de manera efectiva y colaborar en equipo. <br>**David Alejandro Rivas Sarango** <br> **TB1** Para esta entrega planteamos grupalmente las pautas que nos permitirán trabajar ordenadamente durante los sprints, siendo la documentación lo primero que realizamos, en mi caso realize las historias de usuario, que son vitales para los requisitos que debe cumplir el proyecto.<br>**TP** En esta entrega realice ls diseños del home y su codificación en Angular que me permitieron saber el orden de flujo que recibe un cliente cuando requiere un servicio de belleza. <br> **TB2** Nos encargamos de documentar cada actividad que realizabamos, mi trabajo principal fue realizar la presentación del producto final al usuario sus opiniones sobre el producto Front ya elaborado y desplegado. <br>**Diego Martin Soriano Medrano** <br> **TB1** <br> Para llevar a cabo el trabajo de manera organizada, se emplearon diversos canales de comunicación, a través de los cuales fue necesario transmitir por escrito nuestras consideraciones sobre partes específicas del proyecto. <br> **TP** <br> Para llevar a cabo el trabajo de manera organizada, reconsidero el uso canales de comunicación, para poder llevar a cabo el desarrollo del trabajo de forma fluida y para que todos puedan desarrollar las partes asignadas del proyecto. <br> | El equipo ha establecido una sólida base en comunicación escrita, logrando documentar claramente los diagramas del modelo C4, las historias de usuario y el diseño UX. Esta documentación ha facilitado la coordinación y comprensión entre los miembros del equipo, sentando una base efectiva para el desarrollo continuo del proyecto.|
+| Criterio específico | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Conclusiones |
+|---------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+|Comunica oralmente con efectividad a diferentes rangos de audiencia.| **André Arturo Bernaola Pérez** <br> **TB1** <br> En esta entrega, expliqué a mi equipo las decisiones arquitectónicas del modelo C4, lo que facilitó la comprensión del enfoque adoptado. Además, implementé retroalimentación activa para mejorar tanto las User Stories como el diagrama de base de datos, integrando de manera efectiva las sugerencias del equipo para optimizar la calidad del proyecto. <br>**TP** Lideré al equipo en el diseño de los bounded context, organizando tareas y asegurando la alineación arquitectónica. Además, supervisé la integración de las propuestas para garantizar la calidad del trabajo. <br>**TF** <br> En esta última entrega lideré el equipo y me encargué del bounded context porfile manegement, logré comunicarme efectivamente con mis compañeros para llegar a mejorar los artefactos del sprint anterior y además lograr terminar con éxito el proyecto. <br> **Diego Ivan Cabrera Buitron** <br> **TB1** <br> Para esta entrega identifiqué el problema a solucionar y así pude realizar los assumptions y las entrevistas de manera concreta. <br>**TP** -Para esta entrega logré identificar los bounded context para poder ejecutar el booking component y desplegarlo.<br>TB2: <br>Para esta entrega se elaboró el backend del proyecto, por mi lado me encargué de la sección del booking que se relaciona con la tabla de services y services_personalization.<br>**TF** -Para esta última entrega me encargué de la sección de booking, buscando información relevante sobre el funcionamiento correcto de los GET, POST, PUT y DELETE para poder aplicarlo en este bounded context. <br>**Elvia Marcela Rodriguez Villa** <br> **TB1** En la presente actividad he colaborado con el diseño y elaboración de productos como mockups y prototipos, por ello ha sido necesaria una comunicación constante con mis compañeros de trabajo para acordar decisiones e incorporar opiniones a fin de elaborar un producto de acuerdo a las necesidads de un usuario final. <br>**TP** En esta actividad, participé en discusiones con mis compañeros para asegurar que todos estuvieran al tanto de las decisiones tomadas. Mantuve una comunicación constante sobre los avances del equipo y consulté al profesor para recibir retroalimentación sobre nuestras propuestas, lo que nos ayudó a mejorar nuestro enfoque. Esta interacción con diferentes audiencias demostró mi capacidad para comunicarme de manera efectiva y colaborar en equipo.<br>**TB2**<br> En este sprint me desempeñé en la implmentación de el bounded context reseñas tanto en la parte frontend como backend, por otro lado me encargué del diseño y análisis de entrevistas así como la evaluación de heurísticas. A diferencia del sprint pasado, esta entrega me ha permitido aprender más respecto al manejo eficiente de los recursos y la distribución de tareas, por ello consdiero que me he desempaño en este aspecto, liderando y consultando los avances del resto del equipo para tener una visión general de lo que hemos y nos falta por avanzar <br> <br>**TF** El presente proyectme permitió aprender respecto a como enfrentarme a circunstancias de tención, por ello traté de tener una participación activa y colaborativa, desempeñandome en tareas diversas según sea lo necesario. <br> <br>**David Alejandro Rivas Sarango** <br> **TB1** En esta entrega diseñe la aplicación web de acuerdo a los sectores entrevistados, nuestros ahora clientes deben sentirse cómodos con el servicio que les proporcionamos y estamos al tanto de la retroalimentación que se nos brinda para una mejora continua. <br>**TP** En esta entrega realice ls diseños del home y su codificación en Angular que me permitieron saber el orden de flujo que recibe un cliente cuando requiere un servicio de belleza. <br>**TB2** En esta tercera entrega la principal actividad fue elaborar el backend del proyecto, acordando entre los miembros del equipo los métodos y entidades a crear y como se conectarían, personalmente, me encargué de payments que se relaciona con la tala cliente y reserva. <br>**TF** En esta última entrega me encargué de la sección payments, he buscado informaciónm relevante que debe tener este bounded context como referencia. He comunicado mis necesidades para la relación con nuevos bounded context, además, he realizado la versión final del ideo about-the-product, permitiendome conocer si el proyecto esta bien encaminado o si nos falta hacer alguna corrección para el público. <br> **TF** El presente sprint fué un desafi como equipo, la tensión de la entrega y demás factores hicieron que la comunicación no fuere acertiva del todo, por ello considero haber aportado en alguna medida escuchando y apoyando en la mejora de una comunicación más eficiente y acertiva. <br> **Diego Martin Soriano Medrano** <br> **TB1** Para la primera entrega del trabajo, realicé diversas actividades, entre las cuales destaco la habilidad para comunicar efectivamente mis ideas y consideraciones sobre el desarrollo del proyecto a mis compañeros de grupo. <br>**TP** Se integraron nuevas estrategias de comunicación para que todos puedan comunicar sus necesidades según las tereas y actividades asignadas para poder sobrellevar el desarrollo del trabajo. <br>**TB3** Se llevó a cabo el diseño y planteamiento necesarios para el desarrollo de la parte backend de cada bounded context identificado para la aplicación. <br> **TF**  En este último sprint, se priorizó el desarrollo del lado backend de nuestra aplicación. Además, se llevaron a cabo presentaciones sobre el progreso continuo del proyecto, en las cuales se identificaron áreas de mejora. <br> | Se ha demostrado una clara comprensión y aplicación de las técnicas y herramientas necesarias, lo que ha permitido una integración coherente de los distintos componentes del proyecto. La capacidad para adaptar y mejorar las User Stories y el diagrama de base de datos ha optimizado la calidad y precisión del trabajo realizado. En general, el equipo ha establecido una base sólida para las siguientes etapas del proyecto, evidenciando un trabajo colaborativo y bien documentado que facilita la continuación del desarrollo con una visión clara y alineada. |
+|Comunica por escrito con efectividad a diferentes rangos de audiencia| **André Arturo Bernaola Pérez** <br> **TB1** <br> Al realizar los diagramas del modelo C4 para el trabajo, justifiqué la arquitectura y los patrones empleados de manera detallada para asegurar una comprensión clara de las decisiones técnicas. <br> **TP** Implementé estrategias de gestión que facilitaron la comunicación y el flujo de trabajo eficiente, logrando la entrega a tiempo y una integración coherente con el resto del proyecto. <br> **TF**  En esta entrega realicé detalladamente los pasos a seguir para el deploy de los productos frontend, backend y la landing page <br>  **Diego Ivan Cabrera Buitron** <br> **TB1** <br> Al identificar el problema, en la realización de las entrevistas, tomé muy en cuenta las necesidades de nuestro público objetico para poder analizarlas. <br>**TP** La identificar las funcionalidades de los servicios, pude comprender las necesidades de nuetro público objetivo y qué se requiere para poder realizarlas.<br>**TB2**: <br>El equipo se encargó de realizar este sprint en conjunto, mi aporte fue la recopilación de las entrevistas y la elaboración de las heurísticas.<br>**TF** <br>El trabajo fue culminado de manera concreta, durante la realización de este último sprint me encargué de tareas relacionadas al backend y su funcionamiento. <br>**Elvia Marcela Rodriguez Villa** <br> **TB1** <br> Las decisiones respecto al diseño visual e interactivo de los mockups y prototipos fueron debidamente justificados de acuerdo a los parámetros y heurísticas de diseño UX, por lo mencionado, he incluido información escrita que especifica la razón detras del diseño visual y estructura de los productos mencionados. <br>**TP**En esta actividad, participé en discusiones con mis compañeros para asegurar que todos estuvieran al tanto de las decisiones tomadas. Mantuve una comunicación constante sobre los avances del equipo y consulté al profesor para recibir retroalimentación sobre nuestras propuestas, lo que nos ayudó a mejorar nuestro enfoque. Esta interacción con diferentes audiencias demostró mi capacidad para comunicarme de manera efectiva y colaborar en equipo.<br> **TB2** <br> En esta entrega realicé entrevistas de validación y conocí las opiniones de usuarios rales respecto a nuestra implementación, debido a esto, considero haber demostrado mi capacidad de comunicación efectiva para poder reconocer las opiniones de los entrevistados. <br> **TF** En la presente entrega me encargué de parte de la documentación referida a los logros del sprint, por ello identifiqué las mejoras e implementaciones para redactarlas correctamente en el presente informe <br>**David Alejandro Rivas Sarango** <br> **TB1** Para esta entrega planteamos grupalmente las pautas que nos permitirán trabajar ordenadamente durante los sprints, siendo la documentación lo primero que realizamos, en mi caso realize las historias de usuario, que son vitales para los requisitos que debe cumplir el proyecto.<br>**TP** En esta entrega realice ls diseños del home y su codificación en Angular que me permitieron saber el orden de flujo que recibe un cliente cuando requiere un servicio de belleza. <br> **TB2** Nos encargamos de documentar cada actividad que realizabamos, mi trabajo principal fue realizar la presentación del producto final al usuario sus opiniones sobre el producto Front ya elaborado y desplegado. <br>**TF** En esta entrega realize las entrevistas sobre about the product, se verificaron las respuestas de los segmentos objetivos sobre el proyecto, preguntándoles si actualmente la aplicación sería relevante para el uso cotidiano del usuario. <br> **Diego Martin Soriano Medrano** <br> **TB1** Para llevar a cabo el trabajo de manera organizada, se emplearon diversos canales de comunicación, a través de los cuales fue necesario transmitir por escrito nuestras consideraciones sobre partes específicas del proyecto. <br> **TP** Para llevar a cabo el trabajo de manera organizada, reconsidero el uso canales de comunicación, para poder llevar a cabo el desarrollo del trabajo de forma fluida y para que todos puedan desarrollar las partes asignadas del proyecto. <br> **TB3** Se completó el trabajo y desarrollo correspondiente a la parte backend de la aplicación, con el fin de obtener los endpoints necesarios para cada bounded context asignado e identificado. <br> **TF** Durante el desarrollo de este último sprint, llevé a cabo actividades tanto en el backend como en el frontend de nuestra aplicación. A lo largo de este proceso, se organizaron reuniones y actividades en las que todo el equipo coordinó esfuerzos por escrito, utilizando diversas plataformas de mensajería y aplicaciones de gestión para facilitar la organización del trabajo. Esto permitió un desarrollo eficiente y colaborativo, asegurando que se cumplieran todos los objetivos establecidos como equipo. <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | El equipo ha establecido una sólida base en comunicación escrita, logrando documentar claramente los diagramas del modelo C4, las historias de usuario y el diseño UX. Esta documentación ha facilitado la coordinación y comprensión entre los miembros del equipo, sentando una base efectiva para el desarrollo continuo del proyecto.|
 
 ***
 
@@ -398,7 +439,7 @@ Asumimos que implementar procesos de verificación de profesionales y mostrar cl
 
 1. Clientas aficionadas al embellecimiento: Este segmento esta compuesto por mujeres en el rango de edad de 20 a 45 años, del sector socioeconómico B-C que residan en Lima.
 
-2. MYPES: Este segmento esta compuesto por dueños de negocios que brindan servicios de cuidado y belleza que funcionan en Lima.
+2. MYPES: Este segmento está compuesto por dueños de negocios que brindan servicios de cuidado y belleza que funcionan en Lima.
 
 <br/>
 
@@ -739,17 +780,16 @@ En conclusión segmentos muestran un alto grado de interacción con sus respecti
 | US008  | Crear reserva de citas                           | Como cliente, quiero registrar una nueva reserva para poder acceder a mi servicio deseado.|**Escenario 1:Correcta reserva de cita**<br>Dado que el cliente quiere reservar una cita <br>Cuando rellena el formulario de reserva, confirma su intención de reserva y realiza el pago, <br>Entonces el sistema almacena la información de la reserva en la base de datos y el cliente recibe una confirmación de reserva por correo electrónico o notificación en la aplicación.<br> **Escenario 2:Error de reserva de cita**<br>Dado que el cliente quiere reservar una cita <br>Cuando confirma su intención de reserva pero no se procesa correctamente el pago,<br>Entonces el sistema muestra un mensaje de error indicando que la reserva no pudo ser completada debido a un problema con el pago, y sugiere intentar nuevamente o utilizar otro método de pago.|EP003: Reserva y confirmacion de servicios|
 | US009  | Cancelación de cita por parte del cliente    | Como cliente, quiero cancelar una cita reservada en la aplicación para asegurarme de no asistir a un servicio que ya no deseo| **Escenario 1: Cancelación Confirmada**<br> Dado que el cliente quiere cancelar una cita<br> Cuando selecciona la opción de cancelar la cita Y la fecha actual es al menos dos días antes de la fecha programada <br> Entonces se presenta un mensaje de confirmación para asegurar la cancelación Y se eliminala cita  de su agenda personal.<br>**Escenario 2: Error de Cancelación** Dado que el cliente quiere cancelar una cita<br> Cuando selecciona la opción de cancelar la cita Y la fecha actual es menor a dos días antes de la fecha programada <br>Entonces se muestra un mensaje de error indicando que la cancelación no puede realizarse ya que no se cumple el plazo mínimo de deos días de anticipación. <br>**Escenario 3: Error técnico de Cancelación** Dado que el cliente quiere cancelar una cita<br> Cuando selecciona la opción de cancelar la cita <br>Entonces se muestra un mensaje de error debido a un problema técnico y sugiere intentar más tarde o contactar al soporte| EP003:	Reserva y confirmacion de servicios|
 | US010  | Búsqueda de servicios                        | Como cliente, quiero  buscar un servicio o establecimiento específico mediante un cuadro de texto de busqueda para encontrar facilmente lo que necesito | **Escenario 1: Busqueda por nombre** <br>Dado que el cliente quiere buscar un servicio o establecimiento específico <br> Cuando escribe el nombre del establecimiento o servicio en el cuadro de búsqueda <br> Entonces visualiza los resultados coincidentes con su búsqueda<br>**Escenario 2: Búsqueda sin coincidencias** <br>Dado que el cliente busca un servicio o establecimiento <br> Cuando el cliente ingrsa un nombre que no tiene coincidencias en el catálogo<br>Entonces el sistema muestra un mensaje que indica "No se encontraron resultados y sugiere términos alternativos "<br>| EP002: Busqueda y selección de servicios|
-| US011  | Notificación de confirmación de reserva      | Como cliente, quiero recibir una notificación de confirmación después de reservar una cita para tener la seguridad de que se ha realizado correctamente.| **Escenario 1: Notificación Automática**<br> Dado que el cliente reserva una cita <br>Cuando pasa 1 minuto <br>Entonces recibe la notificación con detalles de la cita en su correo electrónico.<br> **Escenario 2: Notificación no enviada**<br> Dado que el cliente reserva una cita <br>Cuando pasa 1 minuto y  no recibe una notificación en ningún dispositivo vinculado <br>Entonces puede seleccionar la opción de reenviar confirmación. | EP003: Reserva y confirmacion de servicios|
+| US011  | Notificación de confirmación de pago      | Como cliente, quiero recibir una notificación de confirmación después de reservar y pagar una cita para tener la seguridad de que se ha realizado correctamente.| **Escenario 1: Notificación Automática**<br> Dado que el cliente reserva una cita <br>Cuando se intenta confirmar el pago <br>Entonces recibe la notificación con detalles de la cita en su correo electrónico.<br> **Escenario 2: Notificación no enviada**<br> Dado que el cliente reserva una cita <br>>Cuando se intenta confirmar el pago <br>Entonces saldrá un mensaje de error indicando que el proceso no fue realizado correctamente. | EP010: Sistema de pagos|
 | US012  | Dejar valoración y reseña después de la cita | Como cliente, quiero dejar una valoración y reseña sobre el servicio recibido después de completar una cita para ayudar a otros cliente en su elección.| **Escenario 1: Publicación de Reseña Postcita confirmada** <br> Dado que el usuario ya recibio el servicio <br> Cuando selecciona la opción de dejar reseña en el perfil de la empresa Y  escriba respecto a su experiencia Y asigne un puntaje con un indicador de 5 estrellas <br>Entonces su reseña se visualiza en el perfil de la empresa <br>**Escenario 2: Error en la reseña**<br> Dado que el usuario ya recibio el servicio <br>Cuando selecciona la opción de dejar reseña en el perfil de la empresa Y no pueda publicar su reseña  <br>Entonces se muestra un mensaje de error al publicar la reseña| EP004: Retroalimentación y valoración|
-| US013  | Pago | Como cliente, quiero pagar el servicio de belleza o cuidado en una plataforma para asegurarme de que se procese mi pago sin problemas| **Escenario 1: Pago Directo** <br>Dado que el cliente tiene su tarjeta bancaria asociada <br> Cuando selecciona un servicio para reservar una cita Y se reciba la confirmación del banco solicitado <br> Entonces se reserva el servicio solicitado.<br>**Escenario 2: Error de Pago** <br>Dado que el cliente tiene su tarjeta bancaria asociada <br> Cuando selecciona un servicio para reservar una cita Y no se recibe la confirmación del banco asociado <br> Entonces no se reserva el servicio solicitado y se muestra un mensaje de error.<br>| EP009: Sistema de pagos|
+| US013 | Pago por reserva de servicio | Como cliente, quiero pagar el servicio de belleza o cuidado en una plataforma para asegurarme de que se procese mi pago sin problemas. | **Escenario 1: Pago Directo** <br> Dado que el cliente tiene su tarjeta bancaria asociada, <br> Cuando selecciona un servicio para reservar una cita y el banco confirma la transacción, <br> Entonces se procesa el pago exitosamente y se reserva el servicio solicitado. <br> **Escenario 2: Error de Pago** <br> Dado que el cliente tiene su tarjeta bancaria asociada, <br> Cuando selecciona un servicio para reservar una cita pero el banco no confirma la transacción, <br> Entonces no se procesa el pago ni se reserva el servicio solicitado, y se muestra un mensaje de error indicando el problema. | EP009: Sistema de pagos |
 | US014 | Visualización del detalle de servicio | Como cliente, quiero saber la información del servicio al que accederé para poder elegir mejor. | **Escenario 1: Visualización correcta** <br>Dado que el cliente quiere conocer información explícita del servicio <br> Cuando selecciona un servicio del catálogo <br> Y entra a la pestaña del servicio <br> Entonces se muestra la información más relevante del servicio en cuestión.<br>**Escenario 2: Error de visualización** <br>Dado que el cliente quiere conocer información explícita del servicio <br> Cuando selecciona un servicio del catálogo <br> Y entra a la pestaña del servicio <br> Entonces no se muestra la información más relevante del servicio y aparece un mensaje de error. | EP002: Búsqueda y selección de servicios |
 | US015 | Visualización de reseñas del servicio | Como cliente, quiero ver las reseñas del servicio al que accederé para tomar una mejor decisión. | **Escenario 1: Visualización correcta** <br>Dado que el cliente quiere ver las reseñas del servicio <br> Cuando selecciona un servicio del catálogo <br> Y entra a la pestaña del servicio <br> Entonces se muestran las reseñas previamente calificadas del servicio.<br>**Escenario 2: Error de visualización** <br>Dado que el cliente quiere ver las reseñas del servicio <br> Cuando selecciona un servicio del catálogo <br> Y entra a la pestaña del servicio <br> Entonces aparece un mensaje de error de carga de reseñas. | EP002: Búsqueda y selección de servicios |
 | US016 | Personalización del servicio | Como cliente, quiero personalizar algunos detalles del servicio reservado para que se ajuste a mis necesidades. | **Escenario 1: Personalización correcta del servicio** <br>Dado que el cliente quiere personalizar el servicio <br> Cuando realiza una reserva y puede modificar o incluir detalles respecto al servicio (ej. técnicas específicas, productos deseados) y tiene la intención de confirmar estas opciones <br> Entonces se establecen los nuevos requisitos del servicio.<br>**Escenario 2: Error en la personalización del servicio**<br>Dado que el cliente quiere personalizar el servicio <br> Cuando realiza una reserva e intenta modificar aspectos que no fueron aceptados por la empresa que ofrece el servicio <br> Entonces se muestra una ventana emergente con un mensaje que indica que no se puede modificar ese aspecto del servicio. | EP006: Personalización del servicio |
 | US017 | Visualización de precios del servicio | Como cliente, quiero visualizar tanto el precio total como el precio base del servicio reservado para estimar el presupuesto. | **Escenario 1: Correcto cálculo del servicio personalizado** <br>Dado que el cliente quiere pagar el servicio <br> Cuando se encuentra en la sección de boleta de pago <br> Entonces se establece y se muestra el correcto cálculo del precio final del servicio.<br>**Escenario 2: Error en el cálculo del servicio** <br>Dado que el cliente quiere pagar el servicio <br> Cuando se encuentra en la sección de boleta de pago <br> Entonces no se establece ni se visualiza un precio base ni total del servicio y se muestra un mensaje de error | EP009: Sistema de pagos |
 | US018 | Ver perfil de cliente | Como cliente, quiero poder ver mi perfil para acceder a mi información personal en mi cuenta como nombre, teléfono, información bancaria, dirección y servicios favoritos. | **Escenario 1: Visualización correcta del perfil del cliente** <br>Dado que el cliente quiere ver su perfil <br> Cuando ingresa a su perfil de cliente <br> Entonces se muestra la información del cliente.<br>**Escenario 2: Error en la visualización del perfil del cliente**<br>Dado que el cliente quiere ver su perfil <br> Cuando ingresa a su perfil de cliente <br> Entonces la información no se carga. | EP001: Gestión de usuario |
 | US019 | Editar mi perfil de cliente | Como cliente, quiero editar mi perfil para mantener actualizada mi cuenta. | **Escenario 1: Correcta actualización del perfil del cliente** <br>Dado que el cliente quiere modificar su información personal <br> Cuando realiza las modificaciones necesarias en el perfil de cliente <br> Entonces el sistema actualiza la información editada.<br> **Escenario 2: Error al actualizar el perfil del cliente** <br>Dado que el cliente quiere modificar su información personal <br> Cuando realiza las modificaciones necesarias en el perfil de cliente <br> Entonces se muestra un mensaje de error al actualizar. | EP001: Gestión de usuario |
-| US020 | Notificación de recordatorio de cita | Como cliente, quiero recibir una notificación de recordatorio antes de mi cita para asegurarme de no olvidarla. | **Escenario 1: Recordatorio programado** <br>Dado que el cliente ha reservado una cita <br>Cuando se acerque la fecha de la cita, por ejemplo, 24 horas antes <br>Entonces el cliente recibe una notificación de recordatorio por correo electrónico o mensaje de texto con los detalles de la cita.<br> **Escenario 2: Recordatorio no recibido** <br>Dado que el cliente ha reservado una cita <br>Cuando se acerque la fecha de la cita y el cliente no recibe la notificación <br>Entonces el cliente puede solicitar un recordatorio manualmente a través de la aplicación o el sitio web. | EP008: Reservas |
-| US021  | Visualización de ticket de pago | Como cliente, quiero visualizar la boleta/factura que realize en la plataforma para acceder a un servicio de belleza o cuidado para confirmar la compra.| **Escenario 1: Visualización correcta** <br>Dado que el cliente se encuentra pagando el servicio. <br> Cuando confirme el pago <br> Entonces aparecerá una ventana con la información de la compra.<br>**Escenario 2: Visualización incorrecta** <br>Dado que el cliente se encuentra pagando el servicio. <br> Cuando confirme el pago <br> Entonces se mostrará un mensaje de error.<br>| EP009: Sistema de pagos|
+| US020  | Visualización de ticket de pago | Como cliente, quiero visualizar la boleta/factura que realize en la plataforma para acceder a un servicio de belleza o cuidado para confirmar la compra.| **Escenario 1: Visualización correcta** <br>Dado que el cliente se encuentra pagando el servicio. <br> Cuando confirme el pago <br> Entonces aparecerá una ventana con la información de la compra.<br>**Escenario 2: Visualización incorrecta** <br>Dado que el cliente se encuentra pagando el servicio. <br> Cuando confirme el pago <br> Entonces se mostrará un mensaje de error.<br>| EP009: Sistema de pagos|
 
 #### 3.2.2 User Stories-Empresa Especialista
 
@@ -762,15 +802,13 @@ En conclusión segmentos muestran un alto grado de interacción con sus respecti
 | US025 | Creación de servicio | Como empresa, quiero crear y especificar los detalles de un servicio para que los usuarios lo soliciten. | Escenario 1: Creación Correcta de Servicio: <br> Dado que la empresa quiere crear un servicio, <br> Cuando cree y modifique los datos del servicio, <br> Entonces el servicio será publicado en el catálogo de servicios de la empresa. <br> Escenario 2: Error al Crear Servicio: <br> Dado que la empresa quiere crear un servicio, <br> Cuando cree y modifique los datos del servicio, <br> Entonces el sistema mostrará un mensaje de error. | EP005: Gestión del catálogo de servicios |
 | US026 | Eliminación de servicio | Como empresa, quiero poder eliminar un servicio que yo creé para mantener los servicios relevantes y a mi criterio. | Escenario 1: Eliminación Correcta de Servicio: <br> Dado que la empresa quiere eliminar un servicio, <br> Cuando quiera confirmar la eliminación, <br> Entonces el sistema muestra que el servicio ha sido correctamente eliminado. <br> Escenario 2: Error en la Eliminación de Servicio: <br> Dado que la empresa quiere eliminar un servicio, <br> Cuando quiera confirmar la eliminación, <br> Entonces el sistema muestra un mensaje de error en la eliminación. | EP005: Gestión del catálogo de servicios |
 | US027 | Actualización de servicios ofrecidos | Como empresa, quiero actualizar los detalles de los servicios que ofrezco en la aplicación. | Escenario 1: Actualización de Servicios: <br> Dado que la empresa quiere modificar un servicio, <br> Cuando modifica e intenta guardar los cambios en uno de los servicios ofrecidos, <br> Entonces los cambios se visualizarán en la sección de detalles del servicio. <br> Escenario 2: Error de Disponibilidad de Servicios: <br> Dado que la empresa quiere modificar un servicio, <br> Cuando modifica e intenta guardar los cambios en uno de los servicios ofrecidos, <br> Entonces recibe un mensaje de error al guardar el cambio. | EP005: Gestión del catálogo de servicios |
-| US028 | Suscripción al sistema de pagos | Como empresa, quiero suscribirme al sistema de pagos en la aplicación para gestionar los pagos de las citas de manera segura. | Escenario 1: Habilitación de Pagos Seguros: <br> Dado que la empresa quiere recibir pagos por los servicios en la aplicación, <br> Cuando sigue los pasos para completar la suscripción y confirma los reglamentos, <br> Entonces está habilitado para recibir pagos de manera segura. <br> Escenario 2: Error en la Habilitación: <br> Dado que la empresa quiere recibir pagos por los servicios en la aplicación, <br> Cuando sigue los pasos para completar la suscripción y confirma los reglamentos, <br> Entonces el sistema muestra un mensaje de error al habilitar los pagos. | EP010: Sistema de pagos |
+| US028 | Visualización de finanzas de pagos | Como empresa, quiero el retorno de mis servicios la aplicación para gestionar los pagos de las citas de manera segura. | Escenario 1: Retorno de Pagos: <br> Dado que la empresa necesita visualizar el retorno de sus servicios, <br> Cuando accede al módulo de finanzas, <br> Entonces podrá visualizar un resumen detallado de los pagos realizados por los clientes en relación con los servicios ofrecidos. <br> Escenario 2: Error en la Visualización de Finanzas: <br> Dado que la empresa quiere revisar los retornos, <br> Cuando accede al módulo de finanzas pero ocurre un error, <br> Entonces se mostrará un mensaje indicando que los datos no están disponibles temporalmente. | EP010: Sistema de Pagos |
 | US029 | Integración con calendario personal | Como empresa, quiero sincronizar mis citas y reservas con mi calendario personal (Google Calendar, Outlook) para mantenerme organizado. | Escenario 1: Sincronización Exitosa: <br> Dado que la empresa desea sincronizar su calendario, <br> Cuando la empresa importe el calendario de citas en su calendario personal, <br> Entonces las citas y reservas se reflejarán en el calendario personal del usuario. <br> Escenario 2: Error en la Sincronización: <br> Dado que la empresa desea sincronizar su calendario, <br> Cuando la empresa importe el calendario de citas en su calendario personal, <br> Entonces el sistema muestra un mensaje de error y no se visualizan las citas. | EP012: Gestión de Citas y Reservas |
 | US030 | Creación de Especialista | Como empresa, quiero crear y completar los detalles de un especialista para mantener a mi equipo actualizado. | Escenario 1: Creación Correcta de Especialista: <br> Dado que la empresa quiere crear un perfil de especialista, <br> Cuando cree el especialista, <br> Entonces el especialista podrá verse en la lista de especialistas de la empresa. <br> Escenario 2: Error al Crear Especialista: <br> Dado que la empresa quiere crear un perfil de especialista, <br> Cuando cree el especialista, <br> Entonces el especialista no podrá verse en la lista de especialistas de la empresa y mostrará un mensaje de error. | EP001: Gestión de usuario |
 | US031 | Eliminación de Especialista | Como empresa, quiero eliminar el perfil de un especialista para mantener a mi equipo actualizado. | Escenario 1: Eliminación Correcta de Especialista: <br> Dado que la empresa quiere eliminar el perfil de un especialista, <br> Cuando elimine el especialista, <br> Entonces el especialista dejará de verse en la lista de especialistas de la empresa. <br> Escenario 2: Error al Eliminar Especialista: <br> Dado que la empresa quiere eliminar el perfil de un especialista, <br> Cuando elimine el especialista, <br> Entonces el especialista seguirá viéndose en la lista de especialistas de la empresa. | EP001: Gestión de usuario |
 | US032 | Modificación de datos del Especialista | Como empresa, quiero modificar el perfil de un especialista para mantener a mi equipo actualizado. | Escenario 1: Modificación Correcta de Especialista: <br> Dado que la empresa quiere modificar el perfil de un especialista, <br> Cuando modifique los datos del especialista y guarde los cambios, <br> Entonces la nueva información podrá verse en la lista de especialistas de la empresa. <br> Escenario 2: Error en la Modificación de Especialista: <br> Dado que la empresa quiere modificar los datos del perfil de un especialista, <br> Cuando modifique los datos del especialista y guarde los cambios, <br> Entonces los datos anteriores del especialista seguirán viéndose en la lista de especialistas de la empresa. | EP001: Gestión de usuario |
 | US033 | Visualización de reseña de servicios | Como empresa, quiero poder visualizar las reseñas de un servicio para disponer de críticas constructivas alrededor de mi negocio. | Escenario 1: Visualización de Reseñas: <br> Dado que la empresa quiere visualizar una reseña de un servicio, <br> Cuando quiera mirar el contenido del mismo, <br> Entonces el sistema muestra el detalle de cada reseña. <br> Escenario 2: Error en la Visualización de Reseñas: <br> Dado que la empresa quiere visualizar una reseña de un servicio, <br> Cuando quiera mirar el contenido del mismo, <br> Entonces el sistema mostrará un mensaje de error al cargar el contenido de la reseña. | EP004: Retroalimentación y valoración |
 | US034 | Visualización de servicios  | Como empresa, quiero poder visualizar los servicios que ofrezco para  manejar mejor mi negocio. | Escenario 1: Visualización de Servicios Populares: <br> Dado que la empresa quiere visualizar los servicios, <br> Cuando quiera identificar y mirar el contenido de los mismos, <br> Entonces el sistema muestra la lista de los servicios. <br> Escenario 2: Error en la Visualización de Servicios : <br> Dado que la empresa quiere visualizar los servicios, <br> Cuando quiera identificar y mirar el contenido de los mismos, <br> Entonces el sistema mostrará un mensaje de error al cargar los servicios. | EP004: Retroalimentación y valoración |
-
-
 
 
 #### 3.2.2 User Stories- Landing Page
@@ -789,38 +827,38 @@ En conclusión segmentos muestran un alto grado de interacción con sus respecti
 
 | ID    | Título | Descripción| Criterios de Aceptación| EpicID|
 |-|-|-|-|-|
-| TS001 | Implementar endpoint de creación de cuenta                      | Como Developer, necesito implementar un endpoint RESTful para permitir a los usuarios registrarse en la aplicación y autenticar su identidad para acceder a sus cuentas| **Escenario 1: Creación exitosa**<br>Dado que se envía una solicitud POST con datos válidos<br>Cuando se recibe la solicitud<br>Entonces se crea una cuenta y se retorna un código 201 con el Created con el encabezado 'Location' que enlace a "/users/{id}".<br>**Escenario 2:  Datos de registro faltantes o inválidos**<br>Dado que el Developer implementa el endpoint "/api/register"<br>Cuando un usuario envía una solicitud POST con datos de registro faltantes o inválidos<br>Entonces la respuesta debe ser 400 Bad Request con un mensaje que indique los campos requeridos o el formato incorrecto.<br>**Escenario 3: Usuario ya registrado**<br>Dado que el Developer implementa el endpoint "/api/register"<br>Cuando un usuario envía una solicitud POST con un correo electrónico que ya está registrado en el sistema<br>Entonces la respuesta debe ser 409 Conflict indicando que el recurso ya existe.| EP001: Gestión de usuario                  |
-| TS002 | Implementar verificación de correo                              | Como Developer, necesito implementar un endpoint RESTful para verificar la dirección de correo electrónico del usuario.                    | **Escenario 1: Verificación exitosa**<br>Dado que se envía una solicitud GET con un código de verificación válido<br>Cuando se recibe la solicitud<br>Entonces se activa la cuenta y se retorna un código 200 con el mensaje "Cuenta activada".<br>**Escenario 2: Error en verificación**<br>Dado que se envía un código de verificación inválido<br>Cuando se recibe la solicitud<br>Entonces se retorna un código 400 con un mensaje de error.                         | EP007: Seguridad y Verificación            |
-| TS003 | Implementar hash de contraseñas                            | Como Developer, quiero implementar el hash de contraseñas en el endpoint de creación de cuenta y en el inicio de sesión para proteger las contraseñas de los usuarios y garantizar la seguridad.                                          | **Escenario 1: Hash de contraseñas en creación de cuenta**<br>Dado que se envía una solicitud POST para crear una cuenta<br>Cuando se recibe la contraseña del usuario<br>Entonces la contraseña debe ser convertida en un hash antes de almacenarla en la base de datos.<br>**Escenario 2: Verificación de contraseñas durante el inicio de sesión**<br>Dado que se envía una solicitud POST para iniciar sesión<br>Cuando se recibe una contraseña del usuario<br>Entonces la contraseña proporcionada debe ser comparada con el hash almacenado en la base de datos.                                                                                                                                                                                                                    | EP001: Gestión de usuario                  |
-| TS004 | Implementar autenticación con tokens JWT                   | Como Developer, quiero implementar la autenticación basada en JWT (JSON Web Tokens) en el endpoint de inicio de sesión para permitir a los usuarios autenticados acceder a recursos protegidos.                                           | **Escenario 1: Generación de token JWT**<br>Dado que se envía una solicitud POST para iniciar sesión con credenciales válidas<br>Cuando se recibe la solicitud<br>Entonces se debe generar un token JWT y retornar un código 200 con el token en el cuerpo de la respuesta.<br>**Escenario 2: Validación de token JWT**<br>Dado que se envía una solicitud GET a un endpoint protegido<br>Cuando se incluye un token JWT en el encabezado de autorización<br>Entonces se debe validar el token y permitir el acceso si es válido, o retornar un código 401 si el token es inválido o ha expirado.                                                                                                                                                                                          | EP001: Gestión de usuario                  |
-| TS005 | Implementar endpoint de inicio de sesión                        | Como Developer, necesito implementar un endpoint RESTful para el inicio de sesión de usuarios.                                             | **Escenario 1: Inicio de sesión exitoso**<br>Dado que se envía una solicitud POST con credenciales válidas<br>Cuando se recibe la solicitud<br>Entonces se retorna un código 200 con un token de autenticación.<br>**Escenario 2: Error en inicio de sesión**<br>Dado que se envía una solicitud POST con credenciales inválidas<br>Cuando se recibe la solicitud<br>Entonces se retorna un código 401 con un mensaje de error.                                          | EP001: Gestión de usuario                  |
-| TS006 | Implementar endpoint de visualización de reservas               | Como Developer, necesito implementar un endpoint RESTful para que los clientes puedan ver sus reservas.                                    | **Escenario 1: Visualización de reservas**<br>Dado que se envía una solicitud GET con un token válido<br>Cuando se recibe la solicitud<br>Entonces se retorna un código 200 con la lista de reservas del cliente.<br>**Escenario 2: No hay reservas**<br>Dado que el cliente no tiene reservas<br>Cuando se recibe la solicitud<br>Entonces se retorna un código 200 con un mensaje "No hay reservas".                                                                   | EP011: Gestión Reservas                    |
-| TS007 | Implementar endpoint de historial de servicios                  | Como Developer, necesito implementar un endpoint RESTful para que los clientes puedan ver el historial de servicios solicitados.           | **Escenario 1: Visualización de historial**<br>Dado que se envía una solicitud GET con un token válido<br>Cuando se recibe la solicitud<br>Entonces se retorna un código 200 con la lista del historial de servicios del cliente.<br>**Escenario 2: No hay historial**<br>Dado que el cliente no tiene historial<br>Cuando se recibe la solicitud<br>Entonces se retorna un código 200 con un mensaje "No hay historial".                                                | EP002: Busqueda y selección de servicios   |
-| TS008 | Implementar endpoint de disponibilidad de citas                 | Como Developer, necesito implementar un endpoint RESTful para mostrar la disponibilidad de citas para un servicio específico.              | **Escenario 1: Disponibilidad de citas**<br>Dado que se envía una solicitud GET con un servicio específico<br>Cuando se recibe la solicitud<br>Entonces se retorna un código 200 con los horarios disponibles.<br>**Escenario 2: Error de disponibilidad**<br>Dado que el servicio solicitado no tiene disponibilidad<br>Cuando se recibe la solicitud<br>Entonces se retorna un código 404 con un mensaje "No hay disponibilidad".                                      | EP003: Reserva y Confirmación de Servicios |
-| TS009 | Implementar endpoint de creación de reserva                     | Como Developer, necesito implementar un endpoint RESTful para que los clientes puedan crear una nueva reserva.                             | **Escenario 1: Creación de reserva exitosa**<br>Dado que se envía una solicitud POST con los datos válidos de reserva<br>Cuando se recibe la solicitud<br>Entonces se retorna un código 201 con el mensaje "Reserva creada" y los detalles de la reserva.<br>**Escenario 2: Error en la creación de reserva**<br>Dado que se envía una solicitud POST con datos inválidos<br>Cuando se recibe la solicitud<br>Entonces se retorna un código 400 con un mensaje de error. | EP003: Reserva y Confirmación de Servicios |
-| TS010 | Implementar endpoint de cancelación de reserva                  | Como Developer, necesito implementar un endpoint RESTful para que los clientes puedan cancelar una reserva existente.                      | **Escenario 1: Cancelación exitosa**<br>Dado que se envía una solicitud DELETE con una reserva válida<br>Cuando se recibe la solicitud<br>Entonces se retorna un código 200 con el mensaje "Reserva cancelada".<br>**Escenario 2: Error en cancelación**<br>Dado que se envía una solicitud DELETE con una reserva no válida o fuera de plazo<br>Cuando se recibe la solicitud<br>Entonces se retorna un código 400 o 403 con un mensaje de error.                       | EP003: Reserva y Confirmación de Servicios |
-| TS011 | Endpoint para gestión de reseñas | Como Developer, quiero crear un endpoint para permitir a los usuarios dejar una reseña y valoración sobre el servicio recibido, así como consultar y gestionar estas reseñas. | **Escenario 1: Creación exitosa de reseña**<br>Dado que el Developer implementa el endpoint "/services/{serviceId}/reviews"<br>Cuando un usuario envía una solicitud POST con una reseña válida<br>Entonces la respuesta debe ser 201 Created con el encabezado 'Location' que enlace a "/services/{serviceId}/reviews/{reviewId}"<br>Y la reseña debe ser guardada en el sistema.<br>**Escenario 2: Datos de reseña faltantes o inválidos**<br>Dado que el Developer implementa el endpoint "/services/{serviceId}/reviews"<br>Cuando un usuario envía una solicitud POST con datos de reseña faltantes o inválidos<br>Entonces la respuesta debe ser 400 Bad Request con un mensaje que indique los campos requeridos o el formato incorrecto.<br>**Escenario 3: Consulta exitosa de reseñas**<br>Dado el endpoint "/services/{serviceId}/reviews"<br>Cuando un usuario envía una solicitud GET para obtener las reseñas de un servicio<br>Entonces la respuesta debe ser 200 OK con una lista de reseñas relacionadas con ese servicio.<br>**Escenario 4: Actualización exitosa de reseña**<br>Dado el endpoint "/services/{serviceId}/reviews/{reviewId}"<br>Y la reseña existe en el sistema<br>Cuando un usuario envía una solicitud PUT con información válida para actualizar la reseña<br>Entonces la respuesta debe ser 200 OK<br>Y la reseña debe reflejar las actualizaciones realizadas.<br>**Escenario 5: Eliminación exitosa de reseña**<br>Dado el endpoint "/services/{serviceId}/reviews/{reviewId}"<br>Y la reseña existe en el sistema<br>Cuando un usuario envía una solicitud DELETE<br>Entonces la respuesta debe ser 204 No Content<br>Y la reseña debe ser eliminada del sistema.<br>**Escenario 6: Reseña no encontrada**<br>Dado el endpoint "/services/{serviceId}/reviews/{reviewId}"<br>Cuando un usuario envía una solicitud GET, PUT o DELETE con un ID de reseña que no existe<br>Entonces la respuesta debe ser 404 Not Found indicando que la reseña no fue encontrada.| EP004: Retroalimentación y valoración      |
-| TS012 | Endpoint para gestión de citas   | Como Developer, quiero crear un endpoint para permitir a las empresas gestionar sus citas programadas, incluyendo la actualización, visualización y cancelación.         | **Escenario 1: Actualización exitosa de cita**<br>Dado el endpoint "/stylists/{id}/appointments/{appointmentId}"<br>Y la cita existe en el sistema<br>Cuando el estilista realiza una solicitud PUT con información válida para actualizar la cita<br>Entonces la respuesta debe ser 200 OK<br>Y la cita debe reflejar las actualizaciones realizadas.<br>**Escenario 2: Visualización exitosa de cita**<br>Dado el endpoint "/stylists/{id}/appointments/{appointmentId}"<br>Y la cita existe en el sistema<br>Cuando el estilista realiza una solicitud GET<br>Entonces la respuesta debe ser 200 OK con la información de la cita.<br>**Escenario 3: Cancelación exitosa de cita**<br>Dado el endpoint "/stylists/{id}/appointments/{appointmentId}"<br>Y la cita existe en el sistema<br>Cuando el estilista realiza una solicitud DELETE<br>Entonces la respuesta debe ser 204 No Content<br>Y la cita debe ser eliminada del sistema.<br>**Escenario 4: Cita no encontrada**<br>Dado el endpoint "/stylists/{id}/appointments/{appointmentId}"<br>Cuando el estilista realiza una solicitud GET, PUT o DELETE con un ID de cita que no existe<br>Entonces la respuesta debe ser 404 Not Found indicando que la cita no fue encontrada.| EP009   |
-| TS013 | Implementar funcionalidades de administración de usuarios  | Como Developer, quiero implementar funcionalidades de administración de usuarios para permitir a los administradores gestionar y modificar usuarios en el sistema.                                                                        | **Escenario 1: Creación de usuario**<br>Dado que un administrador envía una solicitud POST para crear un usuario<br>Cuando se reciben los datos del nuevo usuario<br>Entonces el usuario debe ser creado y almacenado en la base de datos con un código 201.<br>**Escenario 2: Modificación de usuario**<br>Dado que un administrador envía una solicitud PUT para modificar un usuario existente<br>Cuando se reciben los datos actualizados del usuario<br>Entonces el usuario debe ser actualizado en la base de datos con un código 200.<br>**Escenario 3: Eliminación de usuario**<br>Dado que un administrador envía una solicitud DELETE para eliminar un usuario<br>Cuando se recibe la solicitud<br>Entonces el usuario debe ser eliminado de la base de datos con un código 204. | EP003: Reserva y Confirmación de Servicios     |
-| TS014 | Creación de endpoint para registro de perfil de empresa     | Como desarrollador, quiero crear un endpoint para permitir a las empresas registrar sus perfiles, proporcionando los detalles necesarios del negocio y los servicios que ofrecen.        | **Escenario 1: Solicitud exitosa**<br>Dado que el cliente envía una solicitud POST al endpoint `/api/empresas` con datos válidos<br>Cuando se procesa la solicitud<br>Entonces el sistema debe devolver un código de estado 201 y un mensaje de confirmación de que el perfil ha sido creado exitosamente.<br>**Escenario 2: Solicitud fallida por datos incompletos**<br>Dado que el cliente envía una solicitud POST al endpoint `/api/empresas` con datos incompletos<br>Cuando se procesa la solicitud<br>Entonces el sistema debe devolver un código de estado 400 con un mensaje de error que describa el campo faltante.                                                           | EP001: Gestión de usuario                |
-| TS015 | Creación de endpoint para edición de perfil de especialista | Como desarrollador, quiero crear un endpoint para permitir a las empresas editar los perfiles de los especialistas para que los clientes puedan ver la información actualizada de estos. | **Escenario 1: Solicitud exitosa**<br>Dado que el cliente envía una solicitud PUT al endpoint `/api/especialistas/{id}` con datos válidos<br>Cuando se procesa la solicitud<br>Entonces el sistema debe devolver un código de estado 200 con un mensaje de confirmación de que el perfil del especialista ha sido actualizado correctamente.<br>**Escenario 2: Solicitud fallida por especialista no encontrado**<br>Dado que el cliente envía una solicitud PUT al endpoint `/api/especialistas/{id}` con un id no válido<br>Cuando se procesa la solicitud<br>Entonces el sistema debe devolver un código de estado 404 con un mensaje indicando que el especialista no fue encontrado. | EP002: Búsqueda y selección de servicios |
-| TS016 | Endpoint para asignar disponibilidad y gestionar citas      | Como desarrollador, quiero implementar un endpoint para permitir a las empresas asignar disponibilidad y gestionar citas de sus servicios.                                               | **Escenario 1: Consulta exitosa de citas**<br>Dado que el cliente envía una solicitud GET al endpoint `/api/citas`<br>Cuando se procesa la solicitud<br>Entonces el sistema debe devolver un código de estado 200 con una lista de citas disponibles.<br>**Escenario 2: Solicitud fallida por disponibilidad no asignada**<br>Dado que el cliente envía una solicitud GET al endpoint `/api/citas` sin que haya disponibilidad<br>Entonces el sistema debe devolver un código de estado 404 indicando que no hay citas disponibles.                                                                                                                                                       | EP008: Reservas                          |
-| TS017 | Visualización de reseñas de servicios                       | Como desarrollador, quiero crear un endpoint para permitir a las empresas visualizar las reseñas de los servicios ofrecidos.                                                             | **Escenario 1: Visualización exitosa de reseñas**<br>Dado que el cliente envía una solicitud GET al endpoint `/api/servicios/{id}/reseñas` con un id de servicio válido<br>Cuando se procesa la solicitud<br>Entonces el sistema debe devolver un código de estado 200 con la lista de reseñas del servicio.<br>**Escenario 2: Error por servicio no encontrado**<br>Dado que el cliente envía una solicitud GET al endpoint `/api/servicios/{id}/reseñas` con un id no válido<br>Cuando se procesa la solicitud<br>Entonces el sistema debe devolver un código de estado 404 indicando que el servicio no fue encontrado.                                                                | EP004: Retroalimentación y valoración    |
-| TS018 | Creación de Especialista               | Como Developer, quiero implementar la funcionalidad para crear un nuevo especialista en el sistema para gestionar los profesionales disponibles para las reservas. | **Escenario 1: Creación exitosa de especialista**<br>Dado que un administrador envía una solicitud POST para crear un especialista<br>Cuando se reciben los datos del nuevo especialista<br>Entonces el especialista debe ser creado y almacenado en la base de datos con un código 201.<br>**Escenario 2: Datos inválidos**<br>Dado que un administrador envía una solicitud POST con datos inválidos<br>Cuando se recibe la solicitud<br>Entonces se debe retornar un código 400 con un mensaje de error adecuado.                    | EP001: Gestión de usuario        |
-| TS019 | Eliminación de Especialista            | Como Developer, quiero implementar la funcionalidad para eliminar un especialista del sistema para mantener la información del personal actualizada.               | **Escenario 1: Eliminación exitosa de especialista**<br>Dado que un administrador envía una solicitud DELETE para eliminar un especialista<br>Cuando se recibe la solicitud<br>Entonces el especialista debe ser eliminado de la base de datos con un código 204.<br>**Escenario 2: Especialista no encontrado**<br>Dado que un administrador envía una solicitud DELETE para un especialista que no existe<br>Cuando se recibe la solicitud<br>Entonces se debe retornar un código 404 con un mensaje de error adecuado.               | EP001: Gestión de usuario        |
-| TS020 | Implementar actualización de especialidades         | Como Developer, quiero permitir la actualización de especialidades de los especialistas para que la información refleje las habilidades actuales.                           | **Escenario 1: Actualización exitosa de especialidades**<br>Dado que un administrador envía una solicitud PUT para actualizar las especialidades de un especialista<br>Cuando se recibe la solicitud<br>Entonces las especialidades deben ser actualizadas en la base de datos y se debe retornar un código 200.<br>**Escenario 2: Especialidad no encontrada**<br>Dado que un administrador envía una solicitud PUT para actualizar especialidades de un especialista que no existe<br>Cuando se recibe la solicitud<br>Entonces se debe retornar un código 404 con un mensaje de error adecuado. | EP002: Búsqueda y selección de servicios |
-| TS021 | Implementar asignación de servicios a especialistas | Como Developer, quiero implementar la funcionalidad para asignar servicios a especialistas para que los servicios ofrecidos estén claramente asociados a cada especialista. | **Escenario 1: Asignación exitosa de servicios**<br>Dado que un administrador envía una solicitud POST para asignar un servicio a un especialista<br>Cuando se recibe la solicitud<br>Entonces el servicio debe ser asignado al especialista y la base de datos debe actualizarse con un código 200.<br>**Escenario 2: Asignación fallida**<br>Dado que un administrador envía una solicitud POST para asignar un servicio a un especialista que no existe<br>Cuando se recibe la solicitud<br>Entonces se debe retornar un código 404 con un mensaje de error adecuado.                           | EP004: Búsqueda y selección de servicios |
-| TS022 | Creación de servicio en el sistema                          | Como desarrollador, quiero crear un endpoint que permita a las empresas crear servicios para que los clientes puedan solicitarlos.                                                       | **Escenario 1: Solicitud exitosa de creación**<br>Dado que el cliente envía una solicitud POST al endpoint `/api/servicios` con datos válidos<br>Cuando se procesa la solicitud<br>Entonces el sistema debe devolver un código de estado 201 indicando que el servicio ha sido creado exitosamente.<br>**Escenario 2: Error por datos inválidos**<br>Dado que el cliente envía una solicitud POST al endpoint `/api/servicios` con datos inválidos<br>Cuando se procesa la solicitud<br>Entonces el sistema debe devolver un código de estado 400 indicando los errores de validación.                                                                                                    | EP005: Gestión del catálogo de servicios |
-| TS023 | Actualización de servicios ofrecidos                      | Como Developer, quiero implementar la funcionalidad para actualizar los detalles de un servicio ofrecido para reflejar cambios en la información del servicio.   | **Escenario 1: Actualización exitosa de servicio**<br>Dado que un administrador envía una solicitud PUT para actualizar un servicio existente<br>Cuando se reciben los datos actualizados del servicio<br>Entonces el servicio debe ser actualizado en la base de datos con un código 200.<br>**Escenario 2: Servicio no encontrado**<br>Dado que un administrador envía una solicitud PUT para un servicio que no existe<br>Cuando se recibe la solicitud<br>Entonces se debe retornar un código 404 con un mensaje de error adecuado. | EP002: Búsqueda y selección de servicios |
-| TS024 | Eliminación de servicio en el sistema                       | Como desarrollador, quiero implementar un endpoint para permitir a las empresas eliminar servicios obsoletos o irrelevantes.                                                             | **Escenario 1: Eliminación exitosa**<br>Dado que el cliente envía una solicitud DELETE al endpoint `/api/servicios/{id}` con un id válido<br>Cuando se procesa la solicitud<br>Entonces el sistema debe devolver un código de estado 200 indicando que el servicio ha sido eliminado exitosamente.<br>**Escenario 2: Error por servicio no encontrado**<br>Dado que el cliente envía una solicitud DELETE al endpoint `/api/servicios/{id}` con un id no válido<br>Cuando se procesa la solicitud<br>Entonces el sistema debe devolver un código de estado 404 indicando que el servicio no fue encontrado.                                                                               | EP005: Gestión del catálogo de servicios |
-| TS025 | Visualización de servicios ofrecidos por la empresa       | Como Developer, quiero implementar la funcionalidad para que la empresa visualice todos los servicios ofrecidos para gestionar y actualizar la información de manera centralizada.                                      | **Escenario 1: Visualización correcta de servicios**<br>Dado que un administrador de la empresa envía una solicitud GET para ver todos los servicios ofrecidos<br>Cuando se recibe la solicitud<br>Entonces se debe retornar la lista completa de servicios ofrecidos por la empresa con un código 200.<br>**Escenario 2: No hay servicios disponibles**<br>Dado que un administrador de la empresa envía una solicitud GET pero no hay servicios ofrecidos<br>Cuando se recibe la solicitud<br>Entonces se debe retornar una lista vacía con un código 200.                  | EP002: Búsqueda y selección de servicios |
-| TS026 | Implementar endpoint de búsqueda de servicios                   | Como Developer, necesito implementar un endpoint RESTful "/api/search" para que los clientes puedan buscar servicios o establecimientos específicos.     | **Escenario 1: Búsqueda exitosa**<br>Dado que se envía una solicitud GET con un término de búsqueda válido (tipo de servicio, ubicación, rango de precios)<br>Cuando se recibe la solicitud<br>Entonces se retorna un código 200 con los resultados de la búsqueda.<br>**Escenario 2: Parámetros de búsqueda inválidos**<br>Dado que el Developer implementa el endpoint "/api/search"<br>Cuando un usuario envía una solicitud GET con parámetros de búsqueda en un formato incorrecto<br>Entonces la respuesta debe ser 400 Bad Request con un mensaje que indique el formato correcto de los parámetros.<br>**Escenario 3: Ningún servicio encontrado**<br>Dado que el Developer implementa el endpoint "/api/search"<br>Cuando un usuario envía una solicitud GET con parámetros de búsqueda válidos pero no se encuentran servicios que coincidan<br>Entonces la respuesta debe ser 200 OK con una lista vacía de servicios.| EP002: Búsqueda y selección de servicios   |
-| TS027 | Incorporación de variables de personalización de servicio | Como Developer, quiero implementar la funcionalidad para permitir la incorporación de variables de personalización en los servicios ofrecidos para ajustar los servicios a las necesidades específicas de los clientes. | **Escenario 1: Incorporación exitosa de variables**<br>Dado que un administrador envía una solicitud POST para incorporar variables de personalización en un servicio<br>Cuando se reciben los datos de las variables<br>Entonces las variables deben ser incorporadas y almacenadas en la base de datos con un código 201.<br>**Escenario 2: Datos inválidos**<br>Dado que un administrador envía una solicitud POST con datos inválidos<br>Cuando se recibe la solicitud<br>Entonces se debe retornar un código 400 con un mensaje de error adecuado.                       | EP006: Personalización de Servicios      |
-| TS028 | Recomendaciones basadas en historial del usuario          | Como Developer, quiero implementar la funcionalidad para generar recomendaciones personalizadas basadas en el historial de reservas del usuario para ayudarle a descubrir nuevos servicios que puedan interesarle.      | **Escenario 1: Recomendaciones basadas en historial**<br>Dado que un usuario ha realizado varias reservas y envía una solicitud GET para recomendaciones<br>Cuando se recibe la solicitud<br>Entonces se deben generar recomendaciones basadas en el historial de reservas del usuario con un código 200.<br>**Escenario 2: Sin historial suficiente**<br>Dado que un usuario no tiene suficiente historial para recomendaciones<br>Cuando se recibe la solicitud<br>Entonces se debe retornar un mensaje indicando que no hay recomendaciones disponibles con un código 204. | EP006: Personalización de Servicios      |
-| TS029 | Recomendaciones basadas en servicios cercanos             | Como Developer, quiero implementar la funcionalidad para generar recomendaciones de servicios basados en la proximidad a la ubicación actual del usuario para facilitar la búsqueda de opciones cercanas.               | **Escenario 1: Recomendaciones basadas en proximidad**<br>Dado que un usuario envía una solicitud GET para recomendaciones basadas en proximidad<br>Cuando se recibe la solicitud con la ubicación del usuario<br>Entonces se deben generar recomendaciones de servicios cercanos con un código 200.<br>**Escenario 2: Sin servicios cercanos**<br>Dado que no hay servicios cercanos a la ubicación del usuario<br>Cuando se recibe la solicitud<br>Entonces se debe retornar un mensaje indicando que no hay servicios cercanos con un código 204.                          | EP006: Personalización de Servicios      |
-| TS030 | Implementar endpoint de procesamiento de pagos                  | Como Developer, necesito implementar un endpoint RESTful para procesar pagos de los clientes para los servicios reservados.                | **Escenario 1: Pago exitoso**<br>Dado que se envía una solicitud POST con los detalles de pago válidos<br>Cuando se recibe la solicitud<br>Entonces se retorna un código 200 con el mensaje "Pago procesado".<br>**Escenario 2: Error en el procesamiento del pago**<br>Dado que se envía una solicitud POST con detalles de pago inválidos<br>Cuando se recibe la solicitud<br>Entonces se retorna un código 400 con un mensaje de error.                               | EP006: Gestión de Pagos                    |
-| TS031 | Sincronización con Google Calendar                          | Como desarrollador, quiero crear un endpoint para permitir la sincronización de citas y reservas con el calendario personal de la empresa, como Google Calendar o Outlook.               | **Escenario 1: Sincronización exitosa**<br>Dado que el cliente envía una solicitud POST al endpoint `/api/sincronizar-calendario` con las credenciales necesarias para Google Calendar<br>Cuando se procesa la solicitud<br>Entonces el sistema debe devolver un código de estado 200 indicando que las citas han sido sincronizadas correctamente.<br>**Escenario 2: Error en las credenciales**<br>Dado que el cliente envía una solicitud POST al endpoint `/api/sincronizar-calendario` con credenciales inválidas<br>Cuando se procesa la solicitud<br>Entonces el sistema debe devolver un código de estado 401 indicando un error de autenticación.                                | EP008: Reservas   |
-| TS032 | Sistema de suscripción a pagos                              | Como desarrollador, quiero implementar un endpoint para permitir que las empresas se suscriban al sistema de pagos dentro de la aplicación.                                              | **Escenario 1: Suscripción exitosa**<br>Dado que el cliente envía una solicitud POST al endpoint `/api/pagos/suscripcion` con datos válidos<br>Cuando se procesa la solicitud<br>Entonces el sistema debe devolver un código de estado 201 indicando que la suscripción ha sido creada exitosamente.<br>**Escenario 2: Error de validación en los datos**<br>Dado que el cliente envía una solicitud POST al endpoint `/api/pagos/suscripcion` con datos inválidos<br>Cuando se procesa la solicitud<br>Entonces el sistema debe devolver un código de estado 400 indicando los errores de validación.                                                                                    | EP009: Sistema de pagos                  |
+| TS001 | Implementar endpoint de creación de cuenta                      | **Como** Developer, **quiero** implementar un endpoint RESTful **para** permitir a los usuarios registrarse en la aplicación y autenticar su identidad para acceder a sus cuentas| **Escenario 1: Creación exitosa**<br>Dado que se envía una solicitud POST con datos válidos<br>Cuando se recibe la solicitud<br>Entonces se crea una cuenta y se retorna un código 201 con el Created con el encabezado 'Location' que enlace a "/users/{id}".<br>**Escenario 2:  Datos de registro faltantes o inválidos**<br>Dado que el Developer implementa el endpoint "/api/register"<br>Cuando un usuario envía una solicitud POST con datos de registro faltantes o inválidos<br>Entonces la respuesta debe ser 400 Bad Request con un mensaje que indique los campos requeridos o el formato incorrecto.<br>**Escenario 3: Usuario ya registrado**<br>Dado que el Developer implementa el endpoint "/api/register"<br>Cuando un usuario envía una solicitud POST con un correo electrónico que ya está registrado en el sistema<br>Entonces la respuesta debe ser 409 Conflict indicando que el recurso ya existe.| EP001: Gestión de usuario                  |
+| TS002 | Implementar verificación de correo                              | **Como** Developer, **quiero** implementar un endpoint RESTful **para** verificar la dirección de correo electrónico del usuario.                    | **Escenario 1: Verificación exitosa**<br>Dado que se envía una solicitud GET con un código de verificación válido<br>Cuando se recibe la solicitud<br>Entonces se activa la cuenta y se retorna un código 200 con el mensaje "Cuenta activada".<br>**Escenario 2: Error en verificación**<br>Dado que se envía un código de verificación inválido<br>Cuando se recibe la solicitud<br>Entonces se retorna un código 400 con un mensaje de error.                         | EP007: Seguridad y Verificación            |
+| TS003 | Implementar hash de contraseñas                            | **Como** Developer, **quiero** implementar el hash de contraseñas en el endpoint de creación de cuenta y en el inicio de sesión **para** proteger las contraseñas de los usuarios y garantizar la seguridad.                                          | **Escenario 1: Hash de contraseñas en creación de cuenta**<br>Dado que se envía una solicitud POST para crear una cuenta<br>Cuando se recibe la contraseña del usuario<br>Entonces la contraseña debe ser convertida en un hash antes de almacenarla en la base de datos.<br>**Escenario 2: Verificación de contraseñas durante el inicio de sesión**<br>Dado que se envía una solicitud POST para iniciar sesión<br>Cuando se recibe una contraseña del usuario<br>Entonces la contraseña proporcionada debe ser comparada con el hash almacenado en la base de datos.                                                                                                                                                                                                                    | EP001: Gestión de usuario                  |
+| TS004 | Implementar autenticación con tokens JWT                   | **Como** Developer, **quiero** implementar la autenticación basada en JWT (JSON Web Tokens) en el endpoint de inicio de sesión **para** permitir a los usuarios autenticados acceder a recursos protegidos.                                           | **Escenario 1: Generación de token JWT**<br>Dado que se envía una solicitud POST para iniciar sesión con credenciales válidas<br>Cuando se recibe la solicitud<br>Entonces se debe generar un token JWT y retornar un código 200 con el token en el cuerpo de la respuesta.<br>**Escenario 2: Validación de token JWT**<br>Dado que se envía una solicitud GET a un endpoint protegido<br>Cuando se incluye un token JWT en el encabezado de autorización<br>Entonces se debe validar el token y permitir el acceso si es válido, o retornar un código 401 si el token es inválido o ha expirado.                                                                                                                                                                                          | EP001: Gestión de usuario                  |
+| TS005 | Implementar endpoint de inicio de sesión                        | **Como** Developer, **quiero** implementar un endpoint RESTful **para** el inicio de sesión de usuarios.                                             | **Escenario 1: Inicio de sesión exitoso**<br>Dado que se envía una solicitud POST con credenciales válidas<br>Cuando se recibe la solicitud<br>Entonces se retorna un código 200 con un token de autenticación.<br>**Escenario 2: Error en inicio de sesión**<br>Dado que se envía una solicitud POST con credenciales inválidas<br>Cuando se recibe la solicitud<br>Entonces se retorna un código 401 con un mensaje de error.                                          | EP001: Gestión de usuario                  |
+| TS006 | Implementar endpoint de visualización de reservas               | **Como** Developer, **quiero** implementar un endpoint RESTful **para** que los clientes puedan ver sus reservas.                                    | **Escenario 1: Visualización de reservas**<br>Dado que se envía una solicitud GET con un token válido<br>Cuando se recibe la solicitud<br>Entonces se retorna un código 200 con la lista de reservas del cliente.<br>**Escenario 2: No hay reservas**<br>Dado que el cliente no tiene reservas<br>Cuando se recibe la solicitud<br>Entonces se retorna un código 200 con un mensaje "No hay reservas".                                                                   | EP011: Gestión Reservas                    |
+| TS007 | Implementar endpoint de historial de servicios                  | **Como** Developer, **quiero** implementar un endpoint RESTful **para** que los clientes puedan ver el historial de servicios solicitados.           | **Escenario 1: Visualización de historial**<br>Dado que se envía una solicitud GET con un token válido<br>Cuando se recibe la solicitud<br>Entonces se retorna un código 200 con la lista del historial de servicios del cliente.<br>**Escenario 2: No hay historial**<br>Dado que el cliente no tiene historial<br>Cuando se recibe la solicitud<br>Entonces se retorna un código 200 con un mensaje "No hay historial".                                                | EP002: Busqueda y selección de servicios   |
+| TS008 | Implementar endpoint de disponibilidad de citas                 | **Como** Developer, **quiero** implementar un endpoint RESTful **para** mostrar la disponibilidad de citas para un servicio específico.              | **Escenario 1: Disponibilidad de citas**<br>Dado que se envía una solicitud GET con un servicio específico<br>Cuando se recibe la solicitud<br>Entonces se retorna un código 200 con los horarios disponibles.<br>**Escenario 2: Error de disponibilidad**<br>Dado que el servicio solicitado no tiene disponibilidad<br>Cuando se recibe la solicitud<br>Entonces se retorna un código 404 con un mensaje "No hay disponibilidad".                                      | EP003: Reserva y Confirmación de Servicios |
+| TS009 | Implementar endpoint de creación de reserva                     | **Como** Developer, **quiero** implementar un endpoint RESTful **para** que los clientes puedan crear una nueva reserva.                             | **Escenario 1: Creación de reserva exitosa**<br>Dado que se envía una solicitud POST con los datos válidos de reserva<br>Cuando se recibe la solicitud<br>Entonces se retorna un código 201 con el mensaje "Reserva creada" y los detalles de la reserva.<br>**Escenario 2: Error en la creación de reserva**<br>Dado que se envía una solicitud POST con datos inválidos<br>Cuando se recibe la solicitud<br>Entonces se retorna un código 400 con un mensaje de error. | EP003: Reserva y Confirmación de Servicios |
+| TS010 | Implementar endpoint de cancelación de reserva                  | **Como** Developer, **quiero** implementar un endpoint RESTful **para** que los clientes puedan cancelar una reserva existente.                      | **Escenario 1: Cancelación exitosa**<br>Dado que se envía una solicitud DELETE con una reserva válida<br>Cuando se recibe la solicitud<br>Entonces se retorna un código 200 con el mensaje "Reserva cancelada".<br>**Escenario 2: Error en cancelación**<br>Dado que se envía una solicitud DELETE con una reserva no válida o fuera de plazo<br>Cuando se recibe la solicitud<br>Entonces se retorna un código 400 o 403 con un mensaje de error.                       | EP003: Reserva y Confirmación de Servicios |
+| TS011 | Endpoint para gestión de reseñas | **Como** Developer, **quiero** crear un endpoint **para** permitir a los usuarios dejar una reseña y valoración sobre el servicio recibido, así como consultar y gestionar estas reseñas. | **Escenario 1: Creación exitosa de reseña**<br>Dado que el Developer implementa el endpoint "/services/{serviceId}/reviews"<br>Cuando un usuario envía una solicitud POST con una reseña válida<br>Entonces la respuesta debe ser 201 Created con el encabezado 'Location' que enlace a "/services/{serviceId}/reviews/{reviewId}"<br>Y la reseña debe ser guardada en el sistema.<br>**Escenario 2: Datos de reseña faltantes o inválidos**<br>Dado que el Developer implementa el endpoint "/services/{serviceId}/reviews"<br>Cuando un usuario envía una solicitud POST con datos de reseña faltantes o inválidos<br>Entonces la respuesta debe ser 400 Bad Request con un mensaje que indique los campos requeridos o el formato incorrecto.<br>**Escenario 3: Consulta exitosa de reseñas**<br>Dado el endpoint "/services/{serviceId}/reviews"<br>Cuando un usuario envía una solicitud GET para obtener las reseñas de un servicio<br>Entonces la respuesta debe ser 200 OK con una lista de reseñas relacionadas con ese servicio.<br>**Escenario 4: Actualización exitosa de reseña**<br>Dado el endpoint "/services/{serviceId}/reviews/{reviewId}"<br>Y la reseña existe en el sistema<br>Cuando un usuario envía una solicitud PUT con información válida para actualizar la reseña<br>Entonces la respuesta debe ser 200 OK<br>Y la reseña debe reflejar las actualizaciones realizadas.<br>**Escenario 5: Eliminación exitosa de reseña**<br>Dado el endpoint "/services/{serviceId}/reviews/{reviewId}"<br>Y la reseña existe en el sistema<br>Cuando un usuario envía una solicitud DELETE<br>Entonces la respuesta debe ser 204 No Content<br>Y la reseña debe ser eliminada del sistema.<br>**Escenario 6: Reseña no encontrada**<br>Dado el endpoint "/services/{serviceId}/reviews/{reviewId}"<br>Cuando un usuario envía una solicitud GET, PUT o DELETE con un ID de reseña que no existe<br>Entonces la respuesta debe ser 404 Not Found indicando que la reseña no fue encontrada.| EP004: Retroalimentación y valoración      |
+| TS012 | Endpoint para gestión de citas   | **Como** Developer, **quiero** crear un endpoint **para** permitir a las empresas gestionar sus citas programadas, incluyendo la actualización, visualización y cancelación.         | **Escenario 1: Actualización exitosa de cita**<br>Dado el endpoint "/stylists/{id}/appointments/{appointmentId}"<br>Y la cita existe en el sistema<br>Cuando el estilista realiza una solicitud PUT con información válida para actualizar la cita<br>Entonces la respuesta debe ser 200 OK<br>Y la cita debe reflejar las actualizaciones realizadas.<br>**Escenario 2: Visualización exitosa de cita**<br>Dado el endpoint "/stylists/{id}/appointments/{appointmentId}"<br>Y la cita existe en el sistema<br>Cuando el estilista realiza una solicitud GET<br>Entonces la respuesta debe ser 200 OK con la información de la cita.<br>**Escenario 3: Cancelación exitosa de cita**<br>Dado el endpoint "/stylists/{id}/appointments/{appointmentId}"<br>Y la cita existe en el sistema<br>Cuando el estilista realiza una solicitud DELETE<br>Entonces la respuesta debe ser 204 No Content<br>Y la cita debe ser eliminada del sistema.<br>**Escenario 4: Cita no encontrada**<br>Dado el endpoint "/stylists/{id}/appointments/{appointmentId}"<br>Cuando el estilista realiza una solicitud GET, PUT o DELETE con un ID de cita que no existe<br>Entonces la respuesta debe ser 404 Not Found indicando que la cita no fue encontrada.| EP009   |
+| TS013 | Implementar funcionalidades de administración de usuarios  | **Como** Developer, **quiero** implementar funcionalidades de administración de usuarios **para** permitir a los administradores gestionar y modificar usuarios en el sistema.                                                                        | **Escenario 1: Creación de usuario**<br>Dado que un administrador envía una solicitud POST para crear un usuario<br>Cuando se reciben los datos del nuevo usuario<br>Entonces el usuario debe ser creado y almacenado en la base de datos con un código 201.<br>**Escenario 2: Modificación de usuario**<br>Dado que un administrador envía una solicitud PUT para modificar un usuario existente<br>Cuando se reciben los datos actualizados del usuario<br>Entonces el usuario debe ser actualizado en la base de datos con un código 200.<br>**Escenario 3: Eliminación de usuario**<br>Dado que un administrador envía una solicitud DELETE para eliminar un usuario<br>Cuando se recibe la solicitud<br>Entonces el usuario debe ser eliminado de la base de datos con un código 204. | EP003: Reserva y Confirmación de Servicios     |
+| TS014 | Creación de endpoint para registro de perfil de empresa     | **Como** desarrollador, **quiero** crear un endpoint **para** permitir a las empresas registrar sus perfiles, proporcionando los detalles necesarios del negocio y los servicios que ofrecen.        | **Escenario 1: Solicitud exitosa**<br>Dado que el cliente envía una solicitud POST al endpoint `/api/empresas` con datos válidos<br>Cuando se procesa la solicitud<br>Entonces el sistema debe devolver un código de estado 201 y un mensaje de confirmación de que el perfil ha sido creado exitosamente.<br>**Escenario 2: Solicitud fallida por datos incompletos**<br>Dado que el cliente envía una solicitud POST al endpoint `/api/empresas` con datos incompletos<br>Cuando se procesa la solicitud<br>Entonces el sistema debe devolver un código de estado 400 con un mensaje de error que describa el campo faltante.                                                           | EP001: Gestión de usuario                |
+| TS015 | Creación de endpoint para edición de perfil de especialista | **Como** desarrollador, **quiero** crear un endpoint **para** permitir a las empresas editar los perfiles de los especialistas para que los clientes puedan ver la información actualizada de estos. | **Escenario 1: Solicitud exitosa**<br>Dado que el cliente envía una solicitud PUT al endpoint `/api/especialistas/{id}` con datos válidos<br>Cuando se procesa la solicitud<br>Entonces el sistema debe devolver un código de estado 200 con un mensaje de confirmación de que el perfil del especialista ha sido actualizado correctamente.<br>**Escenario 2: Solicitud fallida por especialista no encontrado**<br>Dado que el cliente envía una solicitud PUT al endpoint `/api/especialistas/{id}` con un id no válido<br>Cuando se procesa la solicitud<br>Entonces el sistema debe devolver un código de estado 404 con un mensaje indicando que el especialista no fue encontrado. | EP002: Búsqueda y selección de servicios |
+| TS016 | Endpoint para asignar disponibilidad y gestionar citas      | **Como** desarrollador, **quiero** implementar un endpoint **para** permitir a las empresas asignar disponibilidad y gestionar citas de sus servicios.                                               | **Escenario 1: Consulta exitosa de citas**<br>Dado que el cliente envía una solicitud GET al endpoint `/api/citas`<br>Cuando se procesa la solicitud<br>Entonces el sistema debe devolver un código de estado 200 con una lista de citas disponibles.<br>**Escenario 2: Solicitud fallida por disponibilidad no asignada**<br>Dado que el cliente envía una solicitud GET al endpoint `/api/citas` sin que haya disponibilidad<br>Entonces el sistema debe devolver un código de estado 404 indicando que no hay citas disponibles.| EP008: Reservas|
+| TS017 | Visualización de reseñas de servicios                       | **Como** desarrollador, **quiero** crear un endpoint **para** permitir a las empresas visualizar las reseñas de los servicios ofrecidos.                                                             | **Escenario 1: Visualización exitosa de reseñas**<br>Dado que el cliente envía una solicitud GET al endpoint `/api/servicios/{id}/reseñas` con un id de servicio válido<br>Cuando se procesa la solicitud<br>Entonces el sistema debe devolver un código de estado 200 con la lista de reseñas del servicio.<br>**Escenario 2: Error por servicio no encontrado**<br>Dado que el cliente envía una solicitud GET al endpoint `/api/servicios/{id}/reseñas` con un id no válido<br>Cuando se procesa la solicitud<br>Entonces el sistema debe devolver un código de estado 404 indicando que el servicio no fue encontrado.                                                                | EP004: Retroalimentación y valoración    |
+| TS018 | Creación de Especialista               | **Como** Developer, **quiero** implementar la funcionalidad **para** crear un nuevo especialista en el sistema para gestionar los profesionales disponibles para las reservas. | **Escenario 1: Creación exitosa de especialista**<br>Dado que un administrador envía una solicitud POST para crear un especialista<br>Cuando se reciben los datos del nuevo especialista<br>Entonces el especialista debe ser creado y almacenado en la base de datos con un código 201.<br>**Escenario 2: Datos inválidos**<br>Dado que un administrador envía una solicitud POST con datos inválidos<br>Cuando se recibe la solicitud<br>Entonces se debe retornar un código 400 con un mensaje de error adecuado.                    | EP001: Gestión de usuario        |
+| TS019 | Eliminación de Especialista            | **Como** Developer, **quiero** implementar la funcionalidad **para** eliminar un especialista del sistema para mantener la información del personal actualizada.               | **Escenario 1: Eliminación exitosa de especialista**<br>Dado que un administrador envía una solicitud DELETE para eliminar un especialista<br>Cuando se recibe la solicitud<br>Entonces el especialista debe ser eliminado de la base de datos con un código 204.<br>**Escenario 2: Especialista no encontrado**<br>Dado que un administrador envía una solicitud DELETE para un especialista que no existe<br>Cuando se recibe la solicitud<br>Entonces se debe retornar un código 404 con un mensaje de error adecuado.               | EP001: Gestión de usuario        |
+| TS020 | Implementar actualización de especialidades         | **Como** Developer, **quiero** permitir la actualización de especialidades de los especialistas **para** que la información refleje las habilidades actuales.                           | **Escenario 1: Actualización exitosa de especialidades**<br>Dado que un administrador envía una solicitud PUT para actualizar las especialidades de un especialista<br>Cuando se recibe la solicitud<br>Entonces las especialidades deben ser actualizadas en la base de datos y se debe retornar un código 200.<br>**Escenario 2: Especialidad no encontrada**<br>Dado que un administrador envía una solicitud PUT para actualizar especialidades de un especialista que no existe<br>Cuando se recibe la solicitud<br>Entonces se debe retornar un código 404 con un mensaje de error adecuado. | EP002: Búsqueda y selección de servicios |
+| TS021 | Implementar asignación de servicios a especialistas | **Como** Developer, **quiero** implementar la funcionalidad **para** asignar servicios a especialistas para que los servicios ofrecidos estén claramente asociados a cada especialista. | **Escenario 1: Asignación exitosa de servicios**<br>Dado que un administrador envía una solicitud POST para asignar un servicio a un especialista<br>Cuando se recibe la solicitud<br>Entonces el servicio debe ser asignado al especialista y la base de datos debe actualizarse con un código 200.<br>**Escenario 2: Asignación fallida**<br>Dado que un administrador envía una solicitud POST para asignar un servicio a un especialista que no existe<br>Cuando se recibe la solicitud<br>Entonces se debe retornar un código 404 con un mensaje de error adecuado.                           | EP004: Búsqueda y selección de servicios |
+| TS022 | Creación de servicio en el sistema                          | **Como** desarrollador, **quiero** crear un endpoint que permita a las empresas crear servicios **para** que los clientes puedan solicitarlos.                                                       | **Escenario 1: Solicitud exitosa de creación**<br>Dado que el cliente envía una solicitud POST al endpoint `/api/servicios` con datos válidos<br>Cuando se procesa la solicitud<br>Entonces el sistema debe devolver un código de estado 201 indicando que el servicio ha sido creado exitosamente.<br>**Escenario 2: Error por datos inválidos**<br>Dado que el cliente envía una solicitud POST al endpoint `/api/servicios` con datos inválidos<br>Cuando se procesa la solicitud<br>Entonces el sistema debe devolver un código de estado 400 indicando los errores de validación.                                                                                                    | EP005: Gestión del catálogo de servicios |
+| TS023 | Actualización de servicios ofrecidos                      | **Como** Developer, **quiero** implementar la funcionalidad **para** actualizar los detalles de un servicio ofrecido para reflejar cambios en la información del servicio.   | **Escenario 1: Actualización exitosa de servicio**<br>Dado que un administrador envía una solicitud PUT para actualizar un servicio existente<br>Cuando se reciben los datos actualizados del servicio<br>Entonces el servicio debe ser actualizado en la base de datos con un código 200.<br>**Escenario 2: Servicio no encontrado**<br>Dado que un administrador envía una solicitud PUT para un servicio que no existe<br>Cuando se recibe la solicitud<br>Entonces se debe retornar un código 404 con un mensaje de error adecuado. | EP002: Búsqueda y selección de servicios |
+| TS024 | Eliminación de servicio en el sistema                       | **Como** desarrollador, **quiero** implementar un endpoint **para** permitir a las empresas eliminar servicios obsoletos o irrelevantes.                                                             | **Escenario 1: Eliminación exitosa**<br>Dado que el cliente envía una solicitud DELETE al endpoint `/api/servicios/{id}` con un id válido<br>Cuando se procesa la solicitud<br>Entonces el sistema debe devolver un código de estado 200 indicando que el servicio ha sido eliminado exitosamente.<br>**Escenario 2: Error por servicio no encontrado**<br>Dado que el cliente envía una solicitud DELETE al endpoint `/api/servicios/{id}` con un id no válido<br>Cuando se procesa la solicitud<br>Entonces el sistema debe devolver un código de estado 404 indicando que el servicio no fue encontrado.                                                                               | EP005: Gestión del catálogo de servicios |
+| TS025 | Visualización de servicios ofrecidos por la empresa       | **Como** Developer, **quiero** implementar la funcionalidad **para** que la empresa visualice todos los servicios ofrecidos para gestionar y actualizar la información de manera centralizada.                                      | **Escenario 1: Visualización correcta de servicios**<br>Dado que un administrador de la empresa envía una solicitud GET para ver todos los servicios ofrecidos<br>Cuando se recibe la solicitud<br>Entonces se debe retornar la lista completa de servicios ofrecidos por la empresa con un código 200.<br>**Escenario 2: No hay servicios disponibles**<br>Dado que un administrador de la empresa envía una solicitud GET pero no hay servicios ofrecidos<br>Cuando se recibe la solicitud<br>Entonces se debe retornar una lista vacía con un código 200.                  | EP002: Búsqueda y selección de servicios |
+| TS026 | Implementar endpoint de búsqueda de servicios                   | **Como** Developer, **quiero** implementar un endpoint RESTful "/api/search" **para** que los clientes puedan buscar servicios o establecimientos específicos.     | **Escenario 1: Búsqueda exitosa**<br>Dado que se envía una solicitud GET con un término de búsqueda válido (tipo de servicio, ubicación, rango de precios)<br>Cuando se recibe la solicitud<br>Entonces se retorna un código 200 con los resultados de la búsqueda.<br>**Escenario 2: Parámetros de búsqueda inválidos**<br>Dado que el Developer implementa el endpoint "/api/search"<br>Cuando un usuario envía una solicitud GET con parámetros de búsqueda en un formato incorrecto<br>Entonces la respuesta debe ser 400 Bad Request con un mensaje que indique el formato correcto de los parámetros.<br>**Escenario 3: Ningún servicio encontrado**<br>Dado que el Developer implementa el endpoint "/api/search"<br>Cuando un usuario envía una solicitud GET con parámetros de búsqueda válidos pero no se encuentran servicios que coincidan<br>Entonces la respuesta debe ser 200 OK con una lista vacía de servicios.| EP002: Búsqueda y selección de servicios   |
+| TS027 | Incorporación de variables de personalización de servicio | **Como** Developer, **quiero** implementar la funcionalidad **para** permitir la incorporación de variables de personalización en los servicios ofrecidos para ajustar los servicios a las necesidades específicas de los clientes. | **Escenario 1: Incorporación exitosa de variables**<br>Dado que un administrador envía una solicitud POST para incorporar variables de personalización en un servicio<br>Cuando se reciben los datos de las variables<br>Entonces las variables deben ser incorporadas y almacenadas en la base de datos con un código 201.<br>**Escenario 2: Datos inválidos**<br>Dado que un administrador envía una solicitud POST con datos inválidos<br>Cuando se recibe la solicitud<br>Entonces se debe retornar un código 400 con un mensaje de error adecuado.                       | EP006: Personalización de Servicios      |
+| TS028 | Implementar endpoint de procesamiento de pagos                  | **Como** Developer, **quiero** implementar un endpoint RESTful **para** procesar pagos de los clientes para los servicios reservados.                | **Escenario 1: Pago exitoso**<br>Dado que se envía una solicitud POST con los detalles de pago válidos<br>Cuando se recibe la solicitud<br>Entonces se retorna un código 200 con el mensaje "Pago procesado".<br>**Escenario 2: Error en el procesamiento del pago**<br>Dado que se envía una solicitud POST con detalles de pago inválidos<br>Cuando se recibe la solicitud<br>Entonces se retorna un código 400 con un mensaje de error.                               | EP006: Gestión de Pagos                    |
+| TS029 | Sincronización con Google Calendar                          | **Como** desarrollador, **quiero** crear un endpoint **para** permitir la sincronización de citas y reservas con el calendario personal de la empresa, como Google Calendar o Outlook.               | **Escenario 1: Sincronización exitosa**<br>Dado que el cliente envía una solicitud POST al endpoint `/api/sincronizar-calendario` con las credenciales necesarias para Google Calendar<br>Cuando se procesa la solicitud<br>Entonces el sistema debe devolver un código de estado 200 indicando que las citas han sido sincronizadas correctamente.<br>**Escenario 2: Error en las credenciales**<br>Dado que el cliente envía una solicitud POST al endpoint `/api/sincronizar-calendario` con credenciales inválidas<br>Cuando se procesa la solicitud<br>Entonces el sistema debe devolver un código de estado 401 indicando un error de autenticación.                                | EP008: Reservas   |
+| TS030 | Visualización de finanzas de pagos                              | **Como** desarrollador, **quiero** implementar un endpoint **para** permitir que las empresas visualizen el retorno de sus servicios dentro de la aplicación.| **Escenario 1: Visualización exitosa**<br>Dado que la empresa envía una solicitud GET al endpoint `/api/payments` con datos válidos<br>Cuando se procesa la solicitud<br>Entonces el sistema debe devolver un código de estado 201 indicando que la lista de  ha sido devuelta exitosamente.<br>**Escenario 2: Error de visualización en los datos**<br>Dado que el cliente envía una solicitud GET al endpoint `/api/payments` con datos inválidos<br>Cuando se procesa la solicitud<br>Entonces el sistema debe devolver un código de estado 400 indicando los errores de validación.| EP009: Sistema de pagos|
+| TS031 | Integración de Front y Back                              | **Como** developer <br>**quiero** que mi aplicación funcione con mi parte de backend con front <br>**para** que sea un proyecto completo.| **Escenario 1: El proyecto esta integrado**<br>Dado que el proyecto front esta desplegado con Firebase<br>Cuando despliegue e el front con las configuraciones en ambas partes<br>Entonces al ingresar al URL del frontend, este reconocera los datos proporcionados por los endpoints creados en el back<br>**Escenario 2: El proyecto se integra de forma errónea**<br>Dado que el proyecto front esta desplegado con Firebase<br>Cuando despliegue e el front con las configuraciones en ambas partes<br>Entonces al ingresar al URL del frontend,  este solo tendrá la interfaz funcionando, mas no se mostrara ningún dato.| EP007:Seguridad y Verificación|
+| TS032 | Auditable| **Como** developer<br>**quiero** incluir Auditable en cada entity y aggregate<br>**para** que el proyecto pueda ser auditado.| **Escenario 1: Auditable exitoso**<br>Dado que auditable se encuentra en todos los entities y aggregates<br>Cuando realizo cualquier solicitud<br>Entonces la solicitud procesa correctamente y los metadatos se almacenan en Auditable para una próxima auditoría.<br>**Escenario 2: Auditable falla**<br>Dado que auditable se encuentra en todos los entities y aggregates<br>Cuando realizo cualquier solicitud<br>Entonces la soliticud no se procesa correctamente y no se guarda ningun metadato.| EP007:Seguridad y Verificación|
 
 <br>
 
@@ -848,34 +886,34 @@ Link de Miro: https://miro.com/welcomeonboard/SjRSYUFMUThqcHdEZ2JnV3ZJVkxhendnbz
 | 10        | US007             | Catálogo de servicios                        | Como cliente, quiero ver los servicios de los centros de belleza y cuidado para elegir lo que necesito en este momento.                                                    | 5                |
 | 11        | US006             | Visualización de disponibilidad de citas     | Como cliente, quiero ver la disponibilidad de citas para el servicio seleccionado en los centros de belleza y cuidado para elegir un horario conveniente.                  | 5                |
 | 12        | US008             | Crear reserva de citas                       | Como cliente, quiero registrar una nueva reserva para poder acceder a mi servicio deseado.                                                                                 | 8                |
-| 13        | US011             | Notificación de confirmación de reserva      | Como cliente, quiero recibir una notificación de confirmación después de reservar una cita para tener la seguridad de que se ha realizado correctamente.                   | 3                |
-| 14        | US013             | Pago                                         | Como cliente, quiero pagar el servicio de belleza o cuidado en una plataforma para asegurarme de que se procese mi pago sin problemas.                                     | 5                |
-| 15        | US020             | Notificación de recordatorio de cita         | Como cliente, quiero recibir una notificación de recordatorio antes de mi cita para asegurarme de no olvidarla.                                                            | 3                |
-| 16        | US004             | Visualización de servicios reservados        | Como cliente, quiero ver una lista de los servicios que he reservado para poder revisar los detalles y fechas de mis próximas citas.                                       | 4                |
-| 17        | US005             | Visualización de historial de servicios      | Como cliente, quiero visualizar el historial de servicios de belleza que he solicitado anteriormente para poder consultar mis experiencias previas.                        | 3                |
-| 18        | US012             | Dejar valoración y reseña después de la cita | Como cliente, quiero dejar una valoración y reseña sobre el servicio recibido después de completar una cita para ayudar a otros clientes en su elección.                   | 4                |
-| 19        | US014             | Visualización del detalle de servicio        | Como cliente, quiero saber la información del servicio al que accederé para poder elegir mejor.                                                                            | 3                |
-| 20        | US015             | Visualización de reseñas del servicio        | Como cliente, quiero ver las reseñas del servicio al que accederé para tomar una mejor decisión.                                                                           | 3                |
-| 21        | US018             | Ver perfil de cliente                        | Como cliente, quiero poder ver mi perfil para acceder a mi información personal en mi cuenta como nombre, teléfono, información bancaria, dirección y servicios favoritos. | 3                |
-| 22        | US019             | Editar mi perfil de cliente                  | Como cliente, quiero editar mi perfil para mantener actualizada mi cuenta.                                                                                                 | 2                |
-| 23        | US021             | Registro de perfil de empresa                | Como empresa, quiero crear un perfil para mostrar información sobre mi negocio y los servicios que ofrezco.                                                                | 5                |
-| 24        | US022             | Edición de perfil de especialista            | Como empresa, quiero editar los perfiles de mis especialistas para que el cliente pueda visualizar las características de los especialistas.                               | 3                |
-| 25        | US023             | Gestión de citas                             | Como empresa, quiero asignar disponibilidad y detalles de los servicios para que los clientes puedan agendarlos.                                                           | 5                |
-| 26        | US024             | Lista de servicios                           | Como empresa, quiero saber los detalles de cada servicio actualmente ofrecido para mantener actualizado mi sector.                                                         | 3                |
+| 13        | US013             | Pago por reserva de servicio                 | Como cliente, quiero pagar el servicio de belleza o cuidado en una plataforma para asegurarme de que se procese mi pago sin problemas.                                     | 5                |
+| 14        | US011             | Notificación de confirmación de pago         | Como cliente, quiero recibir una notificación de confirmación después de reservar y pagar una cita para tener la seguridad de que se ha realizado correctamente.           | 3                |
+| 15        | US004             | Visualización de servicios reservados        | Como cliente, quiero ver una lista de los servicios que he reservado para poder revisar los detalles y fechas de mis próximas citas.                                       | 4                |
+| 16        | US005             | Visualización de historial de servicios      | Como cliente, quiero visualizar el historial de servicios de belleza que he solicitado anteriormente para poder consultar mis experiencias previas.                        | 3                |
+| 17        | US012             | Dejar valoración y reseña después de la cita | Como cliente, quiero dejar una valoración y reseña sobre el servicio recibido después de completar una cita para ayudar a otros clientes en su elección.                   | 4                |
+| 18        | US014             | Visualización del detalle de servicio        | Como cliente, quiero saber la información del servicio al que accederé para poder elegir mejor.                                                                            | 3                |
+| 19        | US015             | Visualización de reseñas del servicio        | Como cliente, quiero ver las reseñas del servicio al que accederé para tomar una mejor decisión.                                                                           | 3                |
+| 20        | US018             | Ver perfil de cliente                        | Como cliente, quiero poder ver mi perfil para acceder a mi información personal en mi cuenta como nombre, teléfono, información bancaria, dirección y servicios favoritos. | 3                |
+| 21        | US019             | Editar mi perfil de cliente                  | Como cliente, quiero editar mi perfil para mantener actualizada mi cuenta.                                                                                                 | 2                |
+| 22        | US021             | Registro de perfil de empresa                | Como empresa, quiero crear un perfil para mostrar información sobre mi negocio y los servicios que ofrezco.                                                                | 5                |
+| 23        | US022             | Edición de perfil de especialista            | Como empresa, quiero editar los perfiles de mis especialistas para que el cliente pueda visualizar las características de los especialistas.                               | 3                |
+| 24        | US023             | Gestión de citas                             | Como empresa, quiero asignar disponibilidad y detalles de los servicios para que los clientes puedan agendarlos.                                                           | 5                |
+| 25        | US024             | Lista de servicios                           | Como empresa, quiero saber los detalles de cada servicio actualmente ofrecido para mantener actualizado mi sector.                                                         | 3                |
+| 26        | US034             | Visualización de servicios                   | Como empresa, quiero poder visualizar los servicios que ofrezco para manejar mejor mi negocio.                                                                             | 2                |
 | 27        | US025             | Creación de servicio                         | Como empresa, quiero crear y especificar los detalles de un servicio para que los usuarios lo soliciten.                                                                   | 5                |
 | 28        | US026             | Eliminación de servicio                      | Como empresa, quiero poder eliminar un servicio que yo creé para mantener los servicios relevantes y a mi criterio.                                                        | 3                |
 | 29        | US027             | Actualización de servicios ofrecidos         | Como empresa, quiero actualizar los detalles de los servicios que ofrezco en la aplicación.                                                                                | 4                |
-| 30        | US028             | Suscripción al sistema de pagos              | Como empresa, quiero suscribirme al sistema de pagos en la aplicación para gestionar los pagos de las citas de manera segura.                                              | 5                |
-| 31        | US030             | Creación de Especialista                     | Como empresa, quiero crear y completar los detalles de un especialista para mantener a mi equipo actualizado.                                                              | 5                |
-| 32        | US031             | Eliminación de Especialista                  | Como empresa, quiero eliminar el perfil de un especialista para mantener a mi equipo actualizado.                                                                          | 3                |
-| 33        | US032             | Modificación de datos del Especialista       | Como empresa, quiero modificar el perfil de un especialista para mantener a mi equipo actualizado.                                                                         | 3                |
-| 34        | US033             | Visualización de reseña de servicios         | Como empresa, quiero poder visualizar las reseñas de un servicio para disponer de críticas constructivas alrededor de mi negocio.                                          | 2                |
-| 35        | US029             | Integración con calendario personal          | Como empresa, quiero sincronizar mis citas y reservas con mi calendario personal (Google Calendar, Outlook) para mantenerme organizado.                                    | 5                |
-| 36        | US034             | Visualización de servicios                   | Como empresa, quiero poder visualizar los servicios que ofrezco para manejar mejor mi negocio.                                                                             | 2                |
-| 37        | US035             | Solicitud de evaluación                      | Como visitante del segmento empresa, quiero solicitar información para convertirme en empresa asociada.                                                                    | 5                |
-| 38        | US009             | Cancelación de cita por parte del cliente    | Como cliente, quiero cancelar una cita reservada en la aplicación para asegurarme de no asistir a un servicio que ya no deseo.                                             | 3                |
-| 39        | US017             | Visualización de precios del servicio        | Como cliente, quiero visualizar tanto el precio total como el precio base del servicio reservado para estimar el presupuesto.                                              | 3                |
-| 40        | US028             | Notificación de cambios en servicios         | Como empresa, quiero recibir notificaciones sobre cambios en los servicios ofrecidos para estar al tanto de las actualizaciones.                                           | 4                |
+| 30        | US033             | Visualización de reseña de servicios         | Como empresa, quiero poder visualizar las reseñas de un servicio para disponer de críticas constructivas alrededor de mi negocio.                                          | 2                |
+| 31        | US009             | Cancelación de cita por parte del cliente    | Como cliente, quiero cancelar una cita reservada en la aplicación para asegurarme de no asistir a un servicio que ya no deseo.                                             | 3                |
+| 32        | US017             | Visualización de precios del servicio        | Como cliente, quiero visualizar tanto el precio total como el precio base del servicio reservado para estimar el presupuesto.                                              | 3                |
+| 33        | US028             | Visualización de finanzas de pagos            | Como empresa, quiero visualizar el retorno de los servicios para gestionar los pagos de las citas de manera segura.                                                        | 5                |
+| 34        | US030             | Creación de Especialista                     | Como empresa, quiero crear y completar los detalles de un especialista para mantener a mi equipo actualizado.                                                              | 5                |
+| 35        | US031             | Eliminación de Especialista                  | Como empresa, quiero eliminar el perfil de un especialista para mantener a mi equipo actualizado.                                                                          | 3                |
+| 36        | US032             | Modificación de datos del Especialista       | Como empresa, quiero modificar el perfil de un especialista para mantener a mi equipo actualizado.                                                                         | 3                |
+| 37        | US021             | Visualización de ticket de pago              | Como cliente, quiero visualizar la boleta/factura que realize en la plataforma para acceder a un servicio de belleza o cuidado para confirmar la compra.                   | 4                |
+| 38        | US035             | Solicitud de evaluación                      | Como visitante del segmento empresa, quiero solicitar información para convertirme en empresa asociada.                                                                    | 5                |
+| 39        | US029             | Integración con calendario personal          | Como empresa, quiero sincronizar mis citas y reservas con mi calendario personal (Google Calendar, Outlook) para mantenerme organizado.                                    | 5                |
+| 40        | US020             | Notificación de recordatorio de cita         | Como cliente, quiero recibir una notificación de recordatorio antes de mi cita para asegurarme de no olvidarla.                                                            | 3                |
 
 Link Product Backlog Trello: https://trello.com/b/nl4FsaI0/si729-bliss-202402-grupo3
 
@@ -2052,7 +2090,7 @@ URL Trello: https://trello.com/b/nl4FsaI0/si729-bliss-202402-grupo3
           	<td> Visualizar sección de alianzas </td>
             <td>  Visitante debe pober visualizar las alianzas de manera clara. </td>
             <td> 2 </td>
-            <td>Elvia Rodriguez </td>
+            <td> Andre Bernaola </td>
             <td> Done </td>
         </tr>
       <tr>
@@ -2062,7 +2100,7 @@ URL Trello: https://trello.com/b/nl4FsaI0/si729-bliss-202402-grupo3
           	<td> Visualizar sección de equipo </td>
             <td> Visitante debe pober visualizar a los miembros del equipo de manera clara. </td>
             <td> 2 </td>
-            <td>David Rivas  </td>
+            <td>Andre Bernaola  </td>
             <td> Done </td>
         </tr>
       <tr>
@@ -2072,7 +2110,7 @@ URL Trello: https://trello.com/b/nl4FsaI0/si729-bliss-202402-grupo3
           	<td> Visualizar sección de visión del proyecto </td>
             <td> Visitante debe pober visualizar la visión del proyecto de manera clara.  </td>
             <td> 2 </td>
-            <td> Diego Soriano </td>
+            <td> Andre Bernaola </td>
             <td> Done </td>
         </tr>
     </tbody>
@@ -2607,6 +2645,25 @@ Cada miembro del equipo se encargó de identificar sus respectivas historias de 
             <td> Diego Soriano </td>
             <td> Done </td>
         </tr>
+         <tr>
+            <td> US013 </td>
+          	<td> Pagos </td>
+          	<td> 15 </td>
+          	<td> Como cliente, quiero poder pagar los servicios desde el producto. </td>
+            <td> - Implementar lógica para gestionar la pasarela de pagos.</td>
+            <td> 2 </td>
+            <td> David Rivas </td>
+            <td> Done </td>
+        </tr>
+        <tr>
+            <td> TS030 </td>
+          	<td> Implementar endpoint de procesamiento de pagos </td>
+          	<td> 16 </td>
+          	<td> Obtener listado de payments procesados </td>
+            <td> - Codificación aggregate de payments </br> - Codificación los value objects para payments </br> - Crear la clase payments con extención de AggregateRoot </br> - Codificar Queries del modelo </br> - Codificar la interface para query de payments </br> - Codificar la implementación de query para payments </br> - Codificar las interfaces rest para payments </br> - Implementar el endpoint para obtener el listado de todos los payments </td>
+            <td> 3 </td>
+            <td> David Rivas </td>
+            <td> Done </td>
     </tbody>
 </table>
 
@@ -2668,6 +2725,31 @@ Cada miembro del equipo se encargó de identificar sus respectivas historias de 
 
 ##### 5.2.3.4. Testing Suite Evidence for Sprint Review
 
+En esta entrega se inició con la implementación del backend de Bliss de la mano de los US y TS puntuales.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|-|-|-|-|-|-|
+|https://github.com/SI729-Bliss/Testing|feature/tb2-bernaola|20de094|Create US021.feature|Create US021.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tb2-bernaola|069f62c|feat: TS014 feature|feat: TS014 feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tb2-cabrera|a7cdf2b|feat: US004.feature|feat: US004.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tb2-cabrera|62d1517|feat: US008.feature|feat: US008.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tb2-cabrera|cb7c4c7|featL US009.feature|featL US009.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tb2-cabrera|069f62c|feat: US016.feature|feat: TS006.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tb2-cabrera|c65b07e|feat: TS008.feature|feat: TS008.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tb2-cabrera|c85747a|feat: TS016.feature|feat: TS016.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tb2-rivas|44fd7d8|feat: US011.feature|feat: US011.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tb2-rivas|f1faf2e|feat: US013.feature|feat: US013.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tb2-rivas|f56e597|feat: TS028.feature|feat: TS028.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tb2-rodriguez|aaf5f2d|feat: US005.feature|feat: US005.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tb2-rodriguez|c9c0fc6|feat: US012.feature|feat: US012.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tb2-rodriguez|3fe47f8|feat: US015.feature|feat: US015.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tb2-rodriguez|4827099|feat: US033.feature|feat: US033.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tb2-rodriguez|82ae12b|feat: TS010.feature|feat: TS010.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tb2-rodriguez|10d77bd|feat: TS011.feature|feat: TS011.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tb2-soriano|f653716|feat: TS022.feature|feat: TS022.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tb2-soriano|debd34f|feat: TS023.feature|feat: TS023.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tb2-soriano|022d25d|feat: TS024.feature|feat: TS024.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tb2-soriano|988c0e3|feat: TS025.feature|feat: TS025.feature|16/11/2024|
 
 
 ##### 5.2.3.5. Execution Evidence for Sprint Review
@@ -2678,37 +2760,37 @@ Cada miembro del equipo asumió la responsabilidad del desarrollo necesario para
 
 **Booking:**
 
-<img src="https://raw.githubusercontent.com/diego5m/labtest/refs/heads/main/opensource-images/View_booking.png"/>
+<img src="resources/execution/b.png"/>
 
 <br>
 
 **Catalog**
 
-<img src="https://raw.githubusercontent.com/diego5m/labtest/refs/heads/main/opensource-images/View_catalog.png"/>
+<img src="resources/execution/c.png"/>
 
 <br>
 
 **Services History**
 
-<img src="https://raw.githubusercontent.com/diego5m/labtest/refs/heads/main/opensource-images/View_history.png"/>
+<img src="resources/execution/d.png"/>
 
 <br>
 
 **Customer**
 
-<img src="https://raw.githubusercontent.com/diego5m/labtest/refs/heads/main/opensource-images/View_customer.png"/>
+<img src="resources/execution/e.png"/>
 
 <br>
 
 **Enterprise**
 
-<img src="https://raw.githubusercontent.com/diego5m/labtest/refs/heads/main/opensource-images/View_enterprise.png"/>
+<img src="resources/execution/f.png"/>
 
 <br>
 
 **Service Management**
 
-<img src="https://raw.githubusercontent.com/diego5m/labtest/refs/heads/main/opensource-images/View_servicem.png"/>
+<img src="resources/execution/g.png"/>
 
 <br>
 
@@ -2720,72 +2802,30 @@ A continuación, se presenta la relación de endpoints documentados con OpenAPI,
 
 <br>
 
-**Bounded Context Payment**
+**Payment**
 
 | Endpoint | Acciones implementadas | Verbo HTTP | Sintaxis de Llamada | Parámetros |
 |----------|------------------------|------------|---------------------|------------|
-| /api/v1/ | Actualizar  | PUT | PUT /api/v1//{} | {} |
-| /api/v1/ | Eliminar  | DELETE | DELETE /api/v1//{} | {} |
-| /api/v1/ | Obtener lista  | GET | GET /api/v1/ | N/A |
-| /api/v1/ | Crear  | POST | POST /api/v1/ | Request body |
+| /api/v1/payments/payment/ | Obtener lista de todos los pagos | GET | GET /api/v1/payments/payment/ | N/A |
+| /api/v1/payments/payment/ | Crear un pago por reserva  | POST | POST /api/v1/payments/payment/ | Request body |
+| /api/v1/payments/payment/{} | Obtener un pago por Id  | GET | GET /api/v1/payments/payment/{} | {paymentId} |
 
 **Ejemplos de Ejecución y Respuesta:**
 
 |         Petición        |                Respuesta             |
 |-------------------------|--------------------------------------|
-| PUT /api/v1/ /1 { .. } | 200 OK - Retorna .. actualizado en formato JSON. |
-| DELETE /api/v1//1 | 200 Indica que .. eliminado exitosamente. |
-| GET /api/v1/ | 200 OK - Retorna .. en formato JSON. |
-| POST /api/v1/ { .. } | 200 Created - Retorna .. formato JSON. |
+| GET /api/v1/payments/payment/ | 200 OK - Retorna un arreglo de los pagos en formato JSON. |
+| POST /api/v1/payments/payment/ { "amount": 1, "reservationId": 1, "customerId": 1 } | 200 Created - Retorna el pago creado en formato JSON. |
+| GET /api/v1/payments/payment/1 | 200 OK - Retorna el pago consultado en formato JSON. |
 
 
 <br>
 
-**Bounded Context Companies**
+**Services**
 
 | Endpoint | Acciones implementadas | Verbo HTTP | Sintaxis de Llamada | Parámetros |
 |----------|------------------------|------------|---------------------|------------|
-| /api/v1/ | Actualizar  | PUT | PUT /api/v1//{} | {} |
-| /api/v1/ | Eliminar  | DELETE | DELETE /api/v1//{} | {} |
-| /api/v1/ | Obtener lista  | GET | GET /api/v1/ | N/A |
-| /api/v1/ | Crear  | POST | POST /api/v1/ | Request body |
-
-**Ejemplos de Ejecución y Respuesta:**
-
-|         Petición        |                Respuesta             |
-|-------------------------|--------------------------------------|
-| PUT /api/v1/ /1 { .. } | 200 OK - Retorna .. actualizado en formato JSON. |
-| DELETE /api/v1//1 | 200 Indica que .. eliminado exitosamente. |
-| GET /api/v1/ | 200 OK - Retorna .. en formato JSON. |
-| POST /api/v1/ { .. } | 200 Created - Retorna .. formato JSON. |
-
-<br>
-
-**Bounded Context Reviews**
-
-| Endpoint | Acciones implementadas | Verbo HTTP | Sintaxis de Llamada | Parámetros |
-|----------|------------------------|------------|---------------------|------------|
-| /api/v1/ | Actualizar  | PUT | PUT /api/v1//{} | {} |
-| /api/v1/ | Eliminar  | DELETE | DELETE /api/v1//{} | {} |
-| /api/v1/ | Obtener lista  | GET | GET /api/v1/ | N/A |
-| /api/v1/ | Crear  | POST | POST /api/v1/ | Request body |
-
-**Ejemplos de Ejecución y Respuesta:**
-
-|         Petición        |                Respuesta             |
-|-------------------------|--------------------------------------|
-| PUT /api/v1/ /1 { .. } | 200 OK - Retorna .. actualizado en formato JSON. |
-| DELETE /api/v1//1 | 200 Indica que .. eliminado exitosamente. |
-| GET /api/v1/ | 200 OK - Retorna .. en formato JSON. |
-| POST /api/v1/ { .. } | 200 Created - Retorna .. formato JSON. |
-
-<br>
-
-**Bounded Context Services**
-
-| Endpoint | Acciones implementadas | Verbo HTTP | Sintaxis de Llamada | Parámetros |
-|----------|------------------------|------------|---------------------|------------|
-| /api/v1/services | Actualizar un servicio por Id | PUT | PUT /api/v1/services/{} | {serviceId} |
+| /api/v1/services/{} | Actualizar un servicio por Id | PUT | PUT /api/v1/services/{} | {serviceId} \ Request body |
 | /api/v1/services | Eliminar un servicio por Id | DELETE | DELETE /api/v1/services/{} | {serviceId} |
 | /api/v1/services | Obtener lista de todos los servicios | GET | GET /api/v1/services | N/A |
 | /api/v1/services | Crear un servicio | POST | POST /api/v1/services | Request body |
@@ -2797,16 +2837,87 @@ A continuación, se presenta la relación de endpoints documentados con OpenAPI,
 |-------------------------|--------------------------------------|
 | PUT /api/v1/services/1 { "name": "string", "imageUrl": "string", "description": "string", "basePrice": 0 } | 200 OK - Retorna el servicio actualizado en formato JSON. |
 | DELETE /api/v1/services/1 | 200 Indica que el servicio con Id 1 fue eliminado exitosamente. |
-| GET /api/v1/services | 200 OK - Retorna un array de servicios en formato JSON. |
+| GET /api/v1/services | 200 OK - Retorna un arreglo de servicios en formato JSON. |
 | POST /api/v1/services { "name": "string", "imageUrl": "string", "description": "string", "basePrice": 0 } | 200 Created - Retorna el servicio creado en formato JSON. |
 | GET /api/v1/services/findBySalon?BeautySalonId=1 | 200 OK - Retorna un array de servicios correspondientes en formato JSON. |
 
+<br>
+
+**Booking**
+
+| Endpoint | Acciones implementadas | Verbo HTTP | Sintaxis de Llamada | Parámetros |
+|----------|------------------------|------------|---------------------|------------|
+| /api/v1/bookings | Obtener de todas las reservas | GET | GET /api/v1/bookings | N/A |
+| /api/v1/bookings | Crear una nueva reserva  | POST | POST /api/v1/bookings | Request body |
+| /api/v1/bookings/service/{} | Obtener reservas por identificador de servicios  | GET | GET /api/v1/bookings/service/{} | {serviceId} |
+| /api/v1/bookings/customer/{} | Obtener reservas por identificador de cliente  | GET | GET /api/v1/bookings/customer/{} | {customerId} |
+| /api/v1/bookings/company/{} | Obtener reservas por identificador de empresa  | GET | GET /api/v1/bookings/company/{} | {companyId} |
+| /api/v1/bookings/{} | Eliminar reserva por identificador  | DELETE | DELETE /api/v1/bookings/{} | {id} |
+
+
+**Ejemplos de Ejecución y Respuesta:**
+
+|         Petición        |                Respuesta             |
+|-------------------------|--------------------------------------|
+| GET /api/v1/bookings | 200 OK - Retorna un arreglo de todas las reservas en formato JSON. |
+| POST /api/v1/bookings { "customerId": 1, "serviceId": 1, "companyId": 1, "bookingDate": "12/11/24", "bookingTime": "17:00", "bookingStatus": true, "requirements": [ "Example" ] } | 200 Created - Retorna la reserva creada en formato JSON. |
+| GET /api/v1/bookings/service/1 | 200 OK - Retorna la reserva encontrada en formato JSON. |
+| GET /api/v1/bookings/customer/1 | 200 OK - Retorna la reserva encontrada en formato JSON. |
+| GET /api/v1/bookings/company/1 | 200 OK - Retorna la reserva encontrada en formato JSON. |
+| DELETE /api/v1/bookings/1 | 204 Indica que la reserva se ha eliminado exitosamente. |
+
+
+<br>
+
+**Profiles**
+
+| Endpoint | Acciones implementadas | Verbo HTTP | Sintaxis de Llamada | Parámetros |
+|----------|------------------------|------------|---------------------|------------|
+| /api/v1/companies/{} | Obtener empresas por identificador | GET | GET /api/v1/companies/{} | {companyId} |
+| /api/v1/companies/{} | Actualizar empresa por identificador  | PUT | PUT /api/v1/companies/{} | {companyId} \ Request body |
+| /api/v1/customers/{} | Actualizar cliente por identificador  | PUT | PUT /api/v1/customers/{} | {customerId} \ Request body |
+| /api/v1/customers/{} | Obtener clientes por identificador  | GET | GET /api/v1/customers/{} | {customerId} |
+
+**Ejemplos de Ejecución y Respuesta:**
+
+|         Petición        |                Respuesta             |
+|-------------------------|--------------------------------------|
+| GET /api/v1/companies/1 | 200 OK - Retorna la empresa encontrada en formato JSON. |
+| PUT /api/v1/companies/1 { "name": "New name", "email": "example@gmail.com", "phoneNumber": "123456", "address": "Av. example", "rating": 1 } | 200 OK - Retorna los datos de la empresa actualizados en formato JSON. |
+| PUT /api/v1/customers/1 { "name": "New name", "email": "example@gmail.com", "phoneNumber": "123456", "address": "Av. example" } | 200 OK - Retorna los datos del cliente actualizado en formato JSON. |
+| GET /api/v1/customers/1 | 200 OK - Retorna al cliente encontrado en formato JSON. |
+
+<br>
+
+**Review Management**
+
+| Endpoint | Acciones implementadas | Verbo HTTP | Sintaxis de Llamada | Parámetros |
+|----------|------------------------|------------|---------------------|------------|
+| /api/v1/reviews/{} | Obtener reseñas por identificador  | GET | GET /api/v1/reviews/{} | {id} |
+| /api/v1/reviews/{} | Actualizar reseña existente  | PUT | PUT /api/v1/reviews/{} | {id} \ Request body |
+| /api/v1/reviews/{} | Eliminar reseña por identificador | DELETE | DELETE /api/v1/reviews/{} | {id} |
+| /api/v1/reviews | Crear nueva reseña  | POST | POST /api/v1/reviews | Request body |
+| /api/v1/reviews/user/{} | Obtener reseñas por identificador de usuario  | GET | GET /api/v1/reviews/user/{} | {userId} |
+| /api/v1/reviews/reservation/{} | Obtener reseñas por identificador de reservación  | GET | GET /api/v1/reviews/reservation/{} | {reservationId} |
+| /api/v1/reviews/company/{} | Obtener reseñas por identificador de empresa  | GET | GET /api/v1/reviews/company/{} | {companyId} |
+
+**Ejemplos de Ejecución y Respuesta:**
+
+|         Petición        |                Respuesta             |
+|-------------------------|--------------------------------------|
+| GET /api/v1/reviews/1 | 200 OK - Retorna la reseña encontrada en formato JSON. |
+| PUT /api/v1/reviews/1 { "createdAt": "2024-11-17", "updatedAt": "2024-11-17", "reservationId": 1, "punctuation": 5, "comment": "Ejemplo", "reservationInfo": { "serviceId": 1, "companyId": 1 }, "imageUrls": [ "imagen.jpeg" ] } | 200 OK - Retorna los datos de la reseña actualizados en formato JSON. |
+| DELETE /api/v1/reviews/1 | 200 Indica que la reseña se ha eliminado exitosamente. |
+| POST /api/v1/reviews { "reservationId": 1, "punctuation": 5, "comment": "Great service!", "imageUrls": [ "http://example.com/image1.jpg", "http://example.com/image2.jpg" ] } | 200 Created - Retorna la reseña creada en formato JSON. |
+| GET /api/v1/reviews/user/1 | 200 OK - Retorna un arreglo de reseñas encontradas en formato JSON. |
+| GET /api/v1/reviews/reservation/1 | 200 OK - Retorna un arreglo de reseñas encontradas en formato JSON. |
+| GET /api/v1/reviews/company/1 | 200 OK - Retorna un arreglo de reseñas encontradas en formato JSON. |
 
 <br>
 
 **Imágenes y documentación:**
 
-<img src="https://raw.githubusercontent.com/diego5m/labtest/refs/heads/main/opensource-images/API_Services.jpeg"/>
+<img src="resources/evidences/swagger.png"/>
 
 <br>
 
@@ -2899,18 +3010,19 @@ Finalmente generamos el url de la aplicación y verificamos que el servicio se e
 
 ##### 5.2.3.8. Team Collaboration Insights during Sprint
 
-|**Integrante**|**Acciones realizadas durante el sprint**|
-|-|-|
-|Andre Bernaola|Implementacion inicial de bc-profiles en backend|
-|Elvia Rodriguez|Implementacion inicial de bg-feedback|
-|David Rivas| Implementacion inicial de bc-services en backend|
-|Diego Soriano|Implementacion inicial de bc-services en backend|
-|Diego Carbajal|Implementacion inicial de bc-booking en backend|
+|**Integrante**| **Acciones realizadas durante el sprint**        |
+|-|--------------------------------------------------|
+|Andre Bernaola| Implementacion inicial de bc-profiles en backend |
+|Elvia Rodriguez| Implementacion inicial de bc-feedback            |
+|David Rivas| Implementacion inicial de bc-services en backend |
+|Diego Soriano| Implementacion inicial de bc-services en backend |
+|Diego Carbajal| Implementacion inicial de bc-booking en backend  |
 
 Repositorio Landing Page:
 
+<img src="resources/evidences/LP-S3-1.jpeg"/>
 
-
+<img src="resources/evidences/LP-S3-2.jpeg"/>
 
 Repositorio Back-end:
 
@@ -2928,6 +3040,621 @@ Repositorio Front-end:
 <img src="resources/evidences/FRONT-S3-2.jpeg"/>
 
 <img src="resources/evidences/FRONT-S3-3.jpeg"/>
+
+#### 5.2.4. Sprint 4
+##### 5.2.4.1. Sprint Planning 4
+
+En este último sprint definimos las tareas finales, todos los integrantes del equipo participaron, el objetivo principal fue culminar con las US y TS asignadas así como el manejo de errores e inconsistencias, tambié se buscó integrar el frontend con el backend.
+
+<table>
+    <thead>
+        <tr>
+            <td>Sprint #</td>
+            <td>Sprint 4</td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Planning Background</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Date</td>
+            <td>2024-11-16</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>21:00</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>UPC</td>
+        </tr>
+        <tr>
+            <td>Prepared By</td>
+            <td>BeautyServices</td>
+        </tr>
+        <tr>
+            <td>Attendees (to planning meeting)</td>
+            <td>Soriano Medrano, Diego Martin/Rodriguez Villa, Elvia Marcela/Cabrera Buitron, Diego Ivan/ Rivas Sarango, David Alejandro / Bernaola Pérez, André Arturo</td>
+        </tr>
+        <tr>
+            <td>Sprint n – 4 Review Summary</td>
+            <td>Siendo este el último sprint, se esperó la culminación de desarrollo de endpoints e integración con front para el despliegue de la aplicación.</td>
+        </tr>
+        <tr>
+            <td>Sprint n – 4 Retrospective Summary</td>
+            <td>Siendo el último sprint, se mencionará la expectativa de los miembros del equipo: Terminar las actividades antes de la fecha del despliegue. </td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Goal & User Stories</td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Goal</td>
+            <td> Nos enfocamos en integrar la persistencia de datos en el proyecto, creemos que esta conseguirá un lanzamiento inicial atractivo y seguro tanto en las empresas de belleza como en los clientes interesados en el cuidado y belleza, esto será confirmado cuando las empresas se registren y publiquen sus servicios y la cantidad de usuarios empieze a crecer. </td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Velocity</td>
+            <td>20</td>
+        </tr>
+        <tr>
+            <td>Sum of Story Points</td>
+            <td>26</td>
+        </tr>
+    </tbody>
+</table>
+
+##### 5.2.4.2. Sprint Backlog 4
+
+Para el desarrollo del último sprint, todo el equipo se reunió con el objetivo de verificar el cumplimiento de las actividades asignadas en el sprint anterior y llevar a cabo la planificación del sprint. En esta última entrega, todas las actividades se centraron en finalizar y consolidar el desarrollo de las historias de usuario (user stories) y las historias técnicas (technical stories) asignadas a cada integrante del grupo. Esto permitió culminar con el ciclo de desarrollo de ambas partes de nuestra aplicación y realizar las tareas correspondientes a la integración del frontend y backend, siendo cada miembro responsable de las historias de usuario que le fueron asignadas.
+
+Al final del sprint, se consolidó el cumplimiento de todas las actividades programadas, lo que permitió completar el desarrollo de la aplicación e integrar todos los productos creados durante el ciclo de vida del proyecto, incluyendo la Landing Page, Web Services y Frontend Web Applications. Cada miembro del equipo identificó sus respectivas historias de usuario asignadas, lo cual se documentó en la plataforma Trello, donde se corroboró posteriormente el cumplimiento de todas las actividades.
+
+Además, cada integrante elaboró una descripción detallada de las tareas realizadas, así como una estimación de las horas dedicadas al desarrollo. Se registraron todas las actividades para asegurar una gestión adecuada de las tareas y los productos entregables, tal como se detalla a continuación.
+
+**Board para el Sprint:**
+
+<img src="resources/evidences/trello.png"/>
+
+<br/>
+
+**URL Trello:**
+
+[https://trello.com/b/nl4FsaI0/si729-bliss-202402-grupo3](https://trello.com/b/nl4FsaI0/si729-bliss-202402-grupo3)
+
+<br/>
+
+<table>
+    <thead>
+        <tr>
+            <td>Sprint #</td>
+            <td colspan="7">Sprint 4</td>
+        </tr>
+        <tr>
+            <td colspan="2">User Story</td>
+            <td colspan="6">Work-Item / Task</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Description</td>
+            <td>Estimation (Hours)</td>
+            <td>Assigned To</td>
+            <td>Status (To-do / In-Process / To-Review / Done)</td>
+        </tr>
+        <tr>
+            <td>US001</td>
+            <td>Creación de cuenta</td>
+            <td>01</td>
+            <td>Implementar registro</td>
+            <td>Implementación del formulario de registro y manejo de errores.</td>
+            <td>4</td>
+            <td>Andre Bernaola</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US003</td>
+            <td>Inicio de sesión</td>
+            <td>02</td>
+            <td>Desarrollar inicio de sesión</td>
+            <td>Implementación de la pantalla y lógica de autenticación.</td>
+            <td>5</td>
+            <td>Andre Bernaola</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS005</td>
+            <td>Endpoint de login</td>
+            <td>03</td>
+            <td>Implementar login API</td>
+            <td>Creación del endpoint POST para autenticación.</td>
+            <td>3</td>
+            <td>Andre Bernaola</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US006</td>
+            <td>Disponibilidad de citas</td>
+            <td>04</td>
+            <td>Mostrar disponibilidad</td>
+            <td>Vista de horarios y manejo de errores de acceso.</td>
+            <td>6</td>
+            <td>Diego Cabrera</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US009</td>
+            <td>Cancelación de cita</td>
+            <td>05</td>
+            <td>Función de cancelación</td>
+            <td>Cancelación de citas con validaciones de fecha.</td>
+            <td>5</td>
+            <td>Diego Cabrera</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US020</td>
+            <td>Visualización de ticket</td>
+            <td>06</td>
+            <td>Desplegar ticket</td>
+            <td>Mostrar boleta/factura tras confirmación de pago.</td>
+            <td>4</td>
+            <td>Rivas David</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US029</td>
+            <td>Sincronizar con calendario</td>
+            <td>07</td>
+            <td>Integrar calendario</td>
+            <td>Sincronización de citas con Google/Outlook.</td>
+            <td>6</td>
+            <td>Rivas David</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS007</td>
+            <td>Historial de servicios</td>
+            <td>08</td>
+            <td>Implementar historial</td>
+            <td>Endpoint GET para historial de servicios.</td>
+            <td>4</td>
+            <td>Andre Bernaola</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS015</td>
+            <td>Edición de perfil</td>
+            <td>09</td>
+            <td>Endpoint editar perfil</td>
+            <td>Actualizar perfiles de especialistas.</td>
+            <td>5</td>
+            <td>Andre Bernaola</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS016</td>
+            <td>Gestión de citas</td>
+            <td>10</td>
+            <td>Endpoint citas</td>
+            <td>Asignar disponibilidad y gestionar citas.</td>
+            <td>5</td>
+            <td>Diego Cabrera</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS017</td>
+            <td>Reseñas de servicios</td>
+            <td>11</td>
+            <td>Visualizar reseñas</td>
+            <td>Endpoint GET para visualizar reseñas.</td>
+            <td>4</td>
+            <td>Elvia Rodriguez</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS018</td>
+            <td>Creación de especialista</td>
+            <td>12</td>
+            <td>Crear especialista</td>
+            <td>Implementar creación de nuevos especialistas.</td>
+            <td>4</td>
+            <td>Andre Bernaola</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS019</td>
+            <td>Eliminar especialista</td>
+            <td>13</td>
+            <td>Eliminar especialista</td>
+            <td>Funcionalidad de eliminación con validación.</td>
+            <td>4</td>
+            <td>Andre Bernaola</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS026</td>
+            <td>Buscar servicios</td>
+            <td>14</td>
+            <td>Implementar búsqueda</td>
+            <td>Endpoint de búsqueda con validaciones.</td>
+            <td>5</td>
+            <td>Diego Soriano</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS027</td>
+            <td>Personalización de servicios</td>
+            <td>15</td>
+            <td>Incorporar variables</td>
+            <td>Agregar variables de personalización.</td>
+            <td>4</td>
+            <td>Diego Soriano</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS029</td>
+            <td>Sincronización con calendario</td>
+            <td>16</td>
+            <td>Sincronizar con Google</td>
+            <td>Sincronización con Google Calendar.</td>
+            <td>5</td>
+            <td>Rivas David</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS030</td>
+            <td>Finanzas de pagos</td>
+            <td>17</td>
+            <td>Ver finanzas</td>
+            <td>Implementar endpoint de visualización financiera.</td>
+            <td>6</td>
+            <td>Rivas David</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS031</td>
+            <td>Integración Front/Back</td>
+            <td>18</td>
+            <td>Integrar front y back</td>
+            <td>Despliegue e integración completa del proyecto.</td>
+            <td>6</td>
+            <td>Todos</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS032</td>
+            <td>Auditable</td>
+            <td>19</td>
+            <td>Incluir auditable</td>
+            <td>Agregar auditable en entidades y agregados.</td>
+            <td>5</td>
+            <td>Todos</td>
+            <td>Done</td>
+        </tr>
+    </tbody>
+</table>
+
+
+
+<br/>
+
+
+##### 5.2.4.3. Development Evidence for Sprint Review
+
+##### 5.2.4.4. Testing Suite Evidence for Sprint Review
+
+En esta entrega se realizaron los ultimos cambios a las Technical Stories para el backend junto con la integración entre el front y el back.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|-|-|-|-|-|-|
+|https://github.com/SI729-Bliss/Testing|master|03d529d|Merge pull request #12 from SI729-Bliss/main|merge: to Master final version|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tf-bernaola|dc1a2d8|Create US001.feature|Create US003.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tf-bernaola|afbc539|Create US003.feature|Create US003.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tf-bernaola|d2f636c|Create TS005.feature|Create TS005.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tf-bernaola|e30730e|Create TS015.feature|Create TS015.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tf-bernaola|17508af|Create TS018.feature|Create TS018.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tf-bernaola|942cffa|Create TS019.feature|Create TS019.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tf-cabrera|7758a7d|Create US006.feature|Create US006.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tf-cabrera|59d7e05|Create US009.feature|Create US009.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tf-cabrera|ca2b13c|Create TS016.feature|Create TS016.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tf-rivas|3ea3e70|Create US020.feature|Create US020.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tf-rivas|5d68b13|Create US029.feature|Create US029.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tf-rivas|a2bc2ba|Create TS029.feature|Create TS029.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tf-rivas|30fa35c|Create TS030.feature|Create TS030.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tf-rodriguez|69dca43|Create TS017.feature|Create TS017.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tf-soriano|62218e1|Create TS007.feature|Create TS007.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tf-soriano|4694d9f|Create TS026.feature|Create TS026.feature|16/11/2024|
+|https://github.com/SI729-Bliss/Testing|feature/tf-soriano|5218261|Create TS027.feature|Create TS027.feature|16/11/2024|
+
+
+##### 5.2.4.5. Execution Evidence for Sprint Review
+
+El Sprint actual incluyó la implementación de la sección de pagos y la autenticación de usuarios, lo que mejora la experiencia de los clientes al ofrecerles un proceso de compra más seguro y eficiente. Desde el lado del desarrollo, se crearon y optimizaron nuevos endpoints para soportar estas funcionalidades, y se integró completamente el frontend con el backend, garantizando una comunicación fluida entre ambos. Para el equipo de desarrollo, esto representó una mejora en la arquitectura del sistema y mayor robustez en las interacciones del backend. Para la empresa, estas mejoras permiten ofrecer un servicio más competitivo y aumentar la satisfacción del cliente. El despliegue del backend se realizó con éxito, asegurando que todas las funciones estén disponibles y operativas en el entorno de producción.
+
+<img src="resources/execution/a.png"/>
+<img src="resources/execution/booking.png"/>
+<img src="resources/execution/postman.png"/>
+<img src="resources/execution/sign-in.png"/>
+<img src="resources/execution/swagger.png"/>
+
+##### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+Durante el desarrollo del último sprint, continuamos trabajando en la implementación de nuestros Web Services para cada Bounded Context, asignando responsabilidades específicas a cada miembro del equipo. Dado que este es el último sprint y representa la fase final del ciclo de desarrollo, se llevó a cabo una revisión exhaustiva de la documentación de cada uno de los endpoints desarrollados para nuestros Web Services, utilizando la herramienta Swagger.
+
+Además, en todas las etapas de desarrollo y documentación, hemos cumplido con los estándares de nomenclatura y versionado establecidos para nuestra API. En este caso, utilizamos el prefijo "/api/v1" como parte inicial para cada endpoint. Esta práctica ha facilitado la integración de nuestro proyecto con otros productos en desarrollo y ha permitido verificar su correcto funcionamiento.
+
+A continuación, se presenta la relación de endpoints documentados con OpenAPI, clasificados por cada Bounded Context:
+
+<br>
+
+**Payment**
+
+| Endpoint | Acciones implementadas | Verbo HTTP | Sintaxis de Llamada | Parámetros |
+|----------|------------------------|------------|---------------------|------------|
+| /api/v1/payments/payment/ | Obtener lista de todos los pagos | GET | GET /api/v1/payments/payment/ | N/A |
+| /api/v1/payments/payment/ | Crear un pago por reserva  | POST | POST /api/v1/payments/payment/ | Request body |
+| /api/v1/payments/payment/{} | Obtener un pago por Id  | GET | GET /api/v1/payments/payment/{} | {paymentId} |
+
+**Ejemplos de Ejecución y Respuesta:**
+
+|         Petición        |                Respuesta             |
+|-------------------------|--------------------------------------|
+| GET /api/v1/payments/payment/ | 200 OK - Retorna un arreglo de los pagos en formato JSON. |
+| POST /api/v1/payments/payment/ { "amount": 1, "reservationId": 1, "customerId": 1 } | 200 Created - Retorna el pago creado en formato JSON. |
+| GET /api/v1/payments/payment/1 | 200 OK - Retorna el pago consultado en formato JSON. |
+
+<br>
+
+**IAM**
+
+| Endpoint | Acciones implementadas | Verbo HTTP | Sintaxis de Llamada | Parámetros |
+|----------|------------------------|------------|---------------------|------------|
+| /api/v1/authentication/sign-up | Operación de registro en el sistema  | POST | POST /api/v1/authentication/sign-up | Request body |
+| /api/v1/authentication/sign-in | Operación de acceso al sistema  | POST | POST /api/v1/authentication/sign-in | Request body |
+| /api/v1/users | Obtener todos los usuarios registrados | GET | GET /api/v1/users | N/A |
+| /api/v1/users/{} | Obtener usuario por identificador | GET | GET /api/v1/users/{} | {userId} |
+| /api/v1/roles | Obtener roles | GET | GET /api/v1/roles | N/A |
+
+**Ejemplos de Ejecución y Respuesta:**
+
+|         Petición        |                Respuesta             |
+|-------------------------|--------------------------------------|
+| POST /api/v1/authentication/sign-up { "username": "Example", "password": "123456", "roles": [ "ROLE_USER" ] } | 200 Created - Retorna el usuario registrado en el sistema en formato JSON. |
+| POST /api/v1/authentication/sign-in { "id": 1, "username": "Example", "token": "eyJhbGciOiJIUzM4NCJ9..." } | 200 Created - Retorna las credenciales de acceso del usuario en formato JSON. |
+| GET /api/v1/users | 200 OK - Retorna un arreglo de todos los usuarios registrados en formato JSON. |
+| GET /api/v1/users/1 | 200 OK - Retorna el usuario encontrado en formato JSON. |
+| GET /api/v1/roles | 200 OK - Retorna todos roles de registro en formato JSON. |
+
+<br>
+
+**Reviews**
+
+| Endpoint | Acciones implementadas | Verbo HTTP | Sintaxis de Llamada | Parámetros |
+|----------|------------------------|------------|---------------------|------------|
+| /api/v1/reviews/{} | Obtener reseñas por identificador  | GET | GET /api/v1/reviews/{} | {id} |
+| /api/v1/reviews/{} | Actualizar reseña existente  | PUT | PUT /api/v1/reviews/{} | {id} \ Request body |
+| /api/v1/reviews/{} | Eliminar reseña por identificador | DELETE | DELETE /api/v1/reviews/{} | {id} |
+| /api/v1/reviews | Crear nueva reseña  | POST | POST /api/v1/reviews | Request body |
+| /api/v1/reviews/user/{} | Obtener reseñas por identificador de usuario  | GET | GET /api/v1/reviews/user/{} | {userId} |
+| /api/v1/reviews/reservation/{} | Obtener reseñas por identificador de reservación  | GET | GET /api/v1/reviews/reservation/{} | {reservationId} |
+| /api/v1/reviews/company/{} | Obtener reseñas por identificador de empresa  | GET | GET /api/v1/reviews/company/{} | {companyId} |
+
+**Ejemplos de Ejecución y Respuesta:**
+
+|         Petición        |                Respuesta             |
+|-------------------------|--------------------------------------|
+| GET /api/v1/reviews/1 | 200 OK - Retorna la reseña encontrada en formato JSON. |
+| PUT /api/v1/reviews/1 { "createdAt": "2024-11-17", "updatedAt": "2024-11-17", "reservationId": 1, "punctuation": 5, "comment": "Ejemplo", "reservationInfo": { "serviceId": 1, "companyId": 1 }, "imageUrls": [ "imagen.jpeg" ] } | 200 OK - Retorna los datos de la reseña actualizados en formato JSON. |
+| DELETE /api/v1/reviews/1 | 200 Indica que la reseña se ha eliminado exitosamente. |
+| POST /api/v1/reviews { "reservationId": 1, "punctuation": 5, "comment": "Great service!", "imageUrls": [ "http://example.com/image1.jpg", "http://example.com/image2.jpg" ] } | 200 Created - Retorna la reseña creada en formato JSON. |
+| GET /api/v1/reviews/user/1 | 200 OK - Retorna un arreglo de reseñas encontradas en formato JSON. |
+| GET /api/v1/reviews/reservation/1 | 200 OK - Retorna un arreglo de reseñas encontradas en formato JSON. |
+| GET /api/v1/reviews/company/1 | 200 OK - Retorna un arreglo de reseñas encontradas en formato JSON. |
+
+<br>
+
+**Services**
+
+| Endpoint | Acciones implementadas | Verbo HTTP | Sintaxis de Llamada | Parámetros |
+|----------|------------------------|------------|---------------------|------------|
+| /api/v1/services/{} | Actualizar un servicio por Id | PUT | PUT /api/v1/services/{} | {serviceId} \ Request body |
+| /api/v1/services/{} | Eliminar un servicio por Id | DELETE | DELETE /api/v1/services/{} | {serviceId} |
+| /api/v1/services/details/{} | Actualizar un detalle por identificador | PUT | PUT /api/v1/services/details/1 | {detailId} \ Request body |
+| /api/v1/services | Obtener lista de todos los servicios | GET | GET /api/v1/services | N/A |
+| /api/v1/services | Crear un servicio | POST | POST /api/v1/services | Request body |
+| /api/v1/services/findBySalon | Obtener servicios por identificador de salon | GET | GET /api/v1/services/findBySalon?BeautySalonId={} | {beautySalonId} |
+| /api/v1/services/details/findByService | Obtener detalles por identificador de servicios | GET | GET /api/v1/services/details/findByService?serviceId={} | {serviceId} |
+
+**Ejemplos de Ejecución y Respuesta:**
+
+|         Petición        |                Respuesta             |
+|-------------------------|--------------------------------------|
+| PUT /api/v1/services/1 { "name": "Example", "imageUrl": "htttp://example.jpeg", "description": "example", "basePrice": 20 } | 200 OK - Retorna el servicio actualizado en formato JSON. |
+| DELETE /api/v1/services/1 | 200 Indica que el servicio con Id 1 fue eliminado exitosamente. |
+| PUT /api/v1/services/details/1 { "detail": "example", "price": 15 } | 200 OK - Retorna el detalle con sus datos actualizados en formato JSON. |
+| GET /api/v1/services | 200 OK - Retorna un arreglo de servicios en formato JSON. |
+| POST /api/v1/services { "name": "string", "imageUrl": "string", "description": "string", "basePrice": 0 } | 200 Created - Retorna el servicio creado en formato JSON. |
+| GET /api/v1/services/findBySalon?BeautySalonId=1 | 200 OK - Retorna un arreglo de servicios encontrados en formato JSON. |
+| GET /api/v1/services/details/findByService?serviceId=1 | 200 OK - Retorna un arreglo de detalles encontrados en formato JSON. |
+
+<br>
+
+**Booking**
+
+| Endpoint | Acciones implementadas | Verbo HTTP | Sintaxis de Llamada | Parámetros |
+|----------|------------------------|------------|---------------------|------------|
+| /api/v1/bookings | Obtener de todas las reservas | GET | GET /api/v1/bookings | N/A |
+| /api/v1/bookings | Crear una nueva reserva  | POST | POST /api/v1/bookings | Request body |
+| /api/v1/bookings/service/{} | Obtener reservas por identificador de servicios  | GET | GET /api/v1/bookings/service/{} | {serviceId} |
+| /api/v1/bookings/customer/{} | Obtener reservas por identificador de cliente  | GET | GET /api/v1/bookings/customer/{} | {customerId} |
+| /api/v1/bookings/company/{} | Obtener reservas por identificador de empresa  | GET | GET /api/v1/bookings/company/{} | {companyId} |
+| /api/v1/bookings/{} | Eliminar reserva por identificador  | DELETE | DELETE /api/v1/bookings/{} | {id} |
+
+
+**Ejemplos de Ejecución y Respuesta:**
+
+|         Petición        |                Respuesta             |
+|-------------------------|--------------------------------------|
+| GET /api/v1/bookings | 200 OK - Retorna un arreglo de todas las reservas en formato JSON. |
+| POST /api/v1/bookings { "customerId": 1, "serviceId": 1, "companyId": 1, "bookingDate": "12/11/24", "bookingTime": "17:00", "bookingStatus": true, "requirements": [ "Example" ] } | 200 Created - Retorna la reserva creada en formato JSON. |
+| GET /api/v1/bookings/service/1 | 200 OK - Retorna la reserva encontrada en formato JSON. |
+| GET /api/v1/bookings/customer/1 | 200 OK - Retorna la reserva encontrada en formato JSON. |
+| GET /api/v1/bookings/company/1 | 200 OK - Retorna la reserva encontrada en formato JSON. |
+| DELETE /api/v1/bookings/1 | 204 Indica que la reserva se ha eliminado exitosamente. |
+
+
+<br>
+
+**Profiles Management**
+
+| Endpoint | Acciones implementadas | Verbo HTTP | Sintaxis de Llamada | Parámetros |
+|----------|------------------------|------------|---------------------|------------|
+| /api/v1/customers/{} | Actualizar cliente por identificador  | PUT | PUT /api/v1/customers/{} | {customerId} \ Request body |
+| /api/v1/companies/{} | Obtener empresas por identificador | GET | GET /api/v1/companies/{} | {companyId} |
+| /api/v1/companies/{} | Actualizar empresa por identificador  | PUT | PUT /api/v1/companies/{} | {companyId} \ Request body |
+| /api/v1/specialists | Obtener todos los especialistas | GET | GET /api/v1/specialists | N/A |
+| /api/v1/customers/{} | Obtener clientes por identificador  | GET | GET /api/v1/customers/{} | {customerId} |
+
+**Ejemplos de Ejecución y Respuesta:**
+
+|         Petición        |                Respuesta             |
+|-------------------------|--------------------------------------|
+| PUT /api/v1/customers/1 { "name": "New name", "email": "example@gmail.com", "phoneNumber": "123456", "address": "Av. example" } | 200 OK - Retorna los datos del cliente actualizado en formato JSON. |
+| GET /api/v1/companies/1 | 200 OK - Retorna la empresa encontrada en formato JSON. |
+| PUT /api/v1/companies/1 { "name": "New name", "email": "example@gmail.com", "phoneNumber": "123456", "address": "Av. example", "rating": 1 } | 200 OK - Retorna los datos de la empresa actualizados en formato JSON. |
+| GET /api/v1/specialists | 200 OK - Retorna un arreglo de tos los especialistas encontrados en formato JSON. |
+| GET /api/v1/customers/1 | 200 OK - Retorna al cliente encontrado en formato JSON. |
+
+<br>
+
+**Imágenes y documentación:**
+
+<img src="resources/evidences/ApiDocimage.png"/>
+
+<br>
+
+**URL documentación desplegada:**
+
+[https://bliss-web-services-production.up.railway.app/swagger-ui/index.html#/](https://bliss-web-services-production.up.railway.app/swagger-ui/index.html#/)
+
+
+**URL del repositorio de Web Services:**
+
+[https://github.com/SI729-Bliss/Bliss-web-services](https://github.com/SI729-Bliss/Bliss-web-services)
+
+
+<br>
+
+##### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+En esta sección se presenta la evidencia del despliegue del software realizado durante el tercer sprint. Se detallan los pasos seguidos para el deployment de nuestros productos, así como las herramientas y plataformas utilizadas para asegurar un despliegue exitoso y funcional del sistema.
+
+###### Despliegue de la Landing Page con Github Pages
+Para el despliegue de la landing page se utilizó Github Pages, se siguió los siguientes pasos:
+
+Paso 1:
+Primero se creó un nuevo repositorio en Github con el nombre de `bliss-landing-page`.
+<br>
+Paso 2:
+Luego se clonó el repositorio en el directorio del proyecto y se copió el contenido de la landing page en el repositorio.
+<br>
+Paso 3:
+Después nos dirigimos a la pestaña de `Settings` y luego a la sección de `Pages`.
+<br>
+Paso 4:
+Finalmente se seleccionó la rama `main` para el despliegue de la landing page.
+
+<img src="resources/deployment/LANDING-PAGE.png"/>
+
+###### Despliegue del Frontend en Firebase
+
+Para el frontend se utilizó firebase para el despliegue de la aplicación, se siguió los siguientes pasos:
+
+Paso 1:
+Primero se creó una cuenta en firebase y se creó un nuevo proyecto.
+<br>
+Paso 2:
+Luego en la consola, en el mismo directorio del proyecto, se ejecutó el comando `firebase login` para conectar mi cuenta con el proyecto.
+<br>
+Paso 3:
+Se ejecutó el comando `firebase init` para inicializar el proyecto en firebase.
+<br>
+Paso 4:
+Se seleccionó la opción de hosting y se siguió los pasos para configurar el proyecto.
+<br>
+Paso 4:
+Finalmente se ejecutó el comando `firebase deploy` para desplegar la aplicación.
+
+<img src="resources/deployment/FRONT.png"/>
+
+
+
+###### Despliegue del Backend en Railway
+Para el despliegue del backend se utilizó Railway, se siguió los siguientes pasos:
+
+
+Paso 1:
+Creamos una cuenta en railway e iniciamos sesión. En primer lugar creamos un nuevo proyecto.
+<img src="resources/deployment/BACK-1.jpeg"/>
+
+Paso 2:
+Seleccionamos la opción de despliegue de un nuevo servicio, desplegamos una base de datos de postres en la nube.
+<img src="resources/deployment/BACK-2.jpeg"/>
+
+Paso 3:
+Copiamos la información de la base de datos, como el nombre, host, puerto, usuario y contraseña.
+<img src="resources/deployment/BACK-3.jpeg"/>
+
+Paso 4:
+Creamos un servicio para el backend, enlazamos el repositorio a railway dando permisos de acceso.
+<img src="resources/deployment/BACK-4.jpeg"/>
+
+Paso 5:
+Mientras inicia el servicio configuramos los datos que copiamos de la base de datos y la pegamos como variables de entorno
+<img src="resources/deployment/BACK-5.jpeg"/>
+
+Paso 6:
+Finalmente generamos el url de la aplicación y verificamos que el servicio se encuentre en funcionamiento.
+<img src="resources/deployment/BACK-6.jpeg"/>
+
+Link de acceso al Api documentation desplegado: 
+[Link](https://bliss-web-services-production.up.railway.app/swagger-ui/index.html#/)
+
+Link de acceso al WebApplication desplegado:
+
+[Link](https://bliss-frontend-app.web.app/sign-in)
+##### 5.2.4.8. Team Collaboration Insights during Sprint
+
+
+|**Integrante**| **Acciones realizadas durante el sprint**             |
+|-|-------------------------------------------------------|
+|Andre Bernaola| Integración de front y back del bc profile management |
+|Elvia Rodriguez| Integración de front y back del bc reviews            |
+|David Rivas| Integración de front y back del bc payments           |
+|Diego Soriano| Integración de front y back del bc service management |
+|Diego Carbajal| Integración de front y back del bc bookings           |
+
+
+Repositorio Back-end:
+
+<img src="resources/evidences/BACK-S4-1.jpeg"/>
+
+<img src="resources/evidences/BACK-S4-2.jpeg"/>
+
+<img src="resources/evidences/BACK-S4-3.jpeg"/>
+
+
+Repositorio Front-end:
+
+<img src="resources/evidences/FRONT-S4-1.jpeg"/>
+
+<img src="resources/evidences/FRONT-S4-2.jpeg"/>
+
+<img src="resources/evidences/FRONT-S4-3.jpeg"/>
 
 
 ### 5.3. Validation Interviews
@@ -3040,70 +3767,75 @@ En esta sección registramos los puntos e ideas más importantes de las entrevis
 
 |                                                           |                                                                                                                                                   |
 |-----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Link de video de entrevistas**                          | [Link de acceso]() |
+| **Link de video de entrevistas**                          | [Link de acceso](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c784_upc_edu_pe/Eex4t5Zi6VJDrtctZorqyPQB5lxtCXpGYrvC0TJ52B-Xjg?e=fvj9nh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
 
 A continuación se presentan los detalles clave de las entrevistas realizadas a los usuarios y MYPES del sector de belleza y cuidado personal.
 
 | Entrevista 1: Usuario se servicios de belleza y cuidado   |                                                                                                                                                                                         |
 | --------------------------------------------------------- |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Nombre Entrevistado                                       |                                                                                                                                                                     |
-| Edad                                                      |                                                                                                                                                                                |
-| Profesión                                                 |                                                                                                                                                     |
-| Departamento                                              | Lima, Perú                                                                                                                                                                              |
-| Duración de la Entrevista                                 |                                                                                                                                                                                |
-| **Análisis de la Entrevista**                             |                                                                                                                                                                                         |
+| Nombre Entrevistado                                       |   Maricielo Sanchez Valerio   |
+| Edad                                                      |   22 años   |
+| Profesión                                                 |   Reservado   |
+| Departamento                                              |   Lima, Perú                                                                                                                                                                              |
+| Duración de la Entrevista                                 |   6:49   |
+| **Análisis de la Entrevista**                             |   Maricielo nos comenta que la plataforma es bastante intuitiva. El perfil es fácil de acceder, aunque mejorar la confirmación de cambios ayudaría. La navegación en el catálogo y la reserva de citas también son sencillas, aunque añadir descripciones más detalladas y guías de ayuda sería ideal. El historial de reservas es útil, aunque un filtro por fecha y una opción para repetir reservas serían prácticas. Dejar una review es fácil, pero podría incluir la opción de añadir fotos. Mejoraría el diseño visual de algunas confirmaciones y añadiría más personalización en el perfil.  |
 
-| Entrevista 2: Usuario de servicios de belleza y cuidado |                                                                                                                                                               |
-|---------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Nombre Entrevistado                                     |                                                                                                                                                 |
-| Edad                                                    |                                                                                                                                                      |
-| Profesión                                               |                                                                                                                            |
-| Departamento                                            | Lima, Perú                                                                                                                                                    |
-| Duración de la Entrevista                               |                                                                                                                                                 |
-| **Análisis de la Entrevista**                           |                                                                                                                                                               |
+| Entrevista 1: Usuario de servicios de belleza y cuidado |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|--------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nombre Entrevistado**                                | Karol Pamela Villa Cayetano                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| **Edad**                                               | 22 Años                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **Profesión**                                          | Estudiante de Arquitectura                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| **Departamento**                                       | Lima, Perú                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| **Duración de la Entrevista**                          | 14:11 min                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| **Análisis de la Entrevista**                          | La entrevistada menciona que la navegación es confusa y que hay demasiados pasos, además, las etiquetas del toolbar no son claras. También señala que no entiende por qué se solicita nuevamente el nombre al reservar, y que la notificación de éxito en la reserva no es clara.  Comenta que las tarjetas en su perfil ocupan demasiado espacio y crean ruido visual. Aprecia la posibilidad de crear servicios, pero le gustaría poder subir imágenes desde un archivo y que la duración del servicio se predeterminara en lugar de ingresarse manualmente. Por último, señala que los filtros de servicios no funcionan adecuadamente, ya que redirigen a la página de inicio. |
 
-| Entrevista 3: Usuario se servicios de belleza y cuidado |                                                                                                                                                          |
-|---------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Nombre Entrevistado                                     |                                                                                                                                          |
-| Edad                                                    |                                                                                                                                                   |
-| Profesión                                               |                                                                                                           |
-| Departamento                                            | Lima, Perú                                                                                                                                               |
-| Duración de la Entrevista                               |                                                                                                                                                 |
-| **Análisis de la Entrevista**                           |                                                                                                                                                          |
+| Entrevista 2: Usuario de servicios de belleza y cuidado |                                                                                                                                                                |
+|--------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nombre Entrevistado**                                | Carlos Villa Cayetano                                                                                                                                        |
+| **Edad**                                               | 20 Años                                                                                                                                                         |
+| **Profesión**                                          | Estudiante de contabilidad                                                                                                                                   |
+| **Departamento**                                       | Lima, Perú                                                                                                                                                     |
+| **Duración de la Entrevista**                          | 8:09 min                                                                                                                                                       |
+| **Análisis de la Entrevista**                          | El entrevistado no tuvo inconvenientes significativos al buscar servicios, pero preferiría que los filtros ocuparan menos espacio en pantalla. Comenta que el diálogo de información es muy grande y que preferiría imágenes más pertinentes. Aprecia los mensajes de confirmación, pero agradecería poder ver el nombre y un logo distintivo de la compañía. En cuanto a la visualización de su agenda, menciona que no tiene inconvenientes, aunque cree que permitir eliminar citas sin restricciones podría no ser conveniente. También sugiere cambiar el título de la sección de historial y reseñas, y menciona que arrastrar imágenes hacia la sección de reseñas facilitaría el proceso. Por último, destaca la facilidad de uso de la toolbar, aunque preferiría un sidebar para mayor comodidad en la navegación vertical. |
 
 A continuación se presentan los detalles clave de las entrevistas realizadas a las MYPES y emprendedores del sector de belleza y cuidado personal.
 
-| Entrevista 4: Mypes o emprendedores |                                                                                                                                                                                                                                                                       |
-|-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Nombre Entrevistado               |                                                                                                                                                                                                                                            |
-| Edad                              |                                                                                                                                                                                                                                                            |
-| Profesión                         |                                                                                                                                                                                                                                           |
-| Departamento                      | Lima, Perú                                                                                                                                                                                                                                                            |
-| Duración de la Entrevista         | 13:01 min                                                                                                                                                                                                                                                             |
-| Análisis de la Entrevista         |                                                                                                                                                                                                                                                                       |
+| Entrevista 4: Mypes o emprendedores |                                                                                                                                                                                                                        |
+|-------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nombre Entrevistado**             | Eliana                                                                                                                                                                                                                 |
+| **Edad**                            | 18 Años                                                                                                                                                                                                                |
+| **Profesión**                       | Manicurista independiente                                                                                                                                                                                              |
+| **Departamento**                    | Lima, Perú                                                                                                                                                                                                             |
+| **Duración de la Entrevista**       | 13:01 min                                                                                                                                                                                                              |
+| **Análisis de la Entrevista**       |                                                                                                                                                                                                                        |
+| **Visualización de Perfil**         | Menciona que el perfil es claro, pero le gustaría que fuese más dinámico y visual. También comenta que las **cards ocupan demasiado espacio en pantalla** y que hay mucho ruido visual.                                 |
+| **Manejo de servicios**             | Comenta que la creación de servicios es fácil, pero tiene dificultades para **subir imágenes desde el archivo**, ya que solo permite usar un link, lo cual complica el proceso. También preferiría más opciones de personalización, como intervalos de tiempo predeterminados, ya que **la duración del servicio tiene que ser ingresada manualmente**. |
+| **Gestión de reservas**             | Opina que la gestión de reservas es funcional, pero señala que **no entiende por qué se solicita nuevamente el nombre** al hacer la reserva. Le gustaría ver más opciones como un calendario con las citas registradas pendientes. Además, menciona que **la notificación de éxito al hacer una reserva no es clara**. |
+| **Recepción de reviews**            | Menciona que le gusta la opción de reseñas, pero preferiría que solo algunas fueran visibles y que se pudiera responder a las mismas desde el perfil.                                                                   |
+| **Navegación general**              | Navegar es sencillo, pero menciona que **la navegación es confusa** y que preferiría que los **labels del toolbar** fueran más claros, ya que el término "list" no le dice nada. Además, señala que los **filtros de servicio no funcionan correctamente** y la redirigen nuevamente a la página principal (home). |
+
 
 
 | Entrevista 5: Mypes o emprendedores |                                                                                                                                                            |
 |-------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Nombre Entrevistado                 |                                                                                                                                              |
-| Edad                                |                                                                                                                                                     |
-| Profesión                           |                                                                                                                                     |
-| Departamento                        |                                                                                                                                                |
-| Duración de la Entrevista           |                                                                                                                                                    |
-| **Análisis de la Entrevista**       |                                                                                                                                                            |
+| Nombre Entrevistado                 |  Matías Jhoan Munives Santamaría  |
+| Edad                                |  23 años  |
+| Profesión                           |  Reservado   |
+| Departamento                        |  Lima     |
+| Duración de la Entrevista           |  4:58   |
+| **Análisis de la Entrevista**       |  Matías Munives comenta que el acceso al perfil de empresa es intuitivo, con opciones visibles. La visualización de servicios es clara, aunque sugiere agregar descripciones. La información de los especialistas es adecuada, pero se beneficiaría de fotos y especializaciones de estos. La modificación de servicios es fácil, aunque sería útil una confirmación visual de los cambios. La navegación entre especialistas y servicios es eficiente y propone un diseño con tarjetas para mayor claridad. Valora la organización general de la plataforma, pero sugiere tutoriales y opciones de personalización para mejorar la experiencia.  |
 
 | Entrevista 6: Mypes o emprendedores |                                                                                                                                                            |
 |-------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Nombre Entrevistado                 |                                                                                                                                              |
-| Edad                                |                                                                                                                                                     |
-| Profesión                           |                                                                                                                                     |
-| Departamento                        |                                                                                                                                                |
-| Duración de la Entrevista           |                                                                                                                                                    |
-| **Análisis de la Entrevista**       |                                                                                                                                                            |
+| Nombre Entrevistado                 |  Jorge Ramirez Cerna  |
+| Edad                                |  24 años  |
+| Profesión                           |  Reservado  |
+| Departamento                        |  Lima   |
+| Duración de la Entrevista           |  5:30     |
+| **Análisis de la Entrevista**       |  Como segundo entrevistado, tenemos a Jorge Ramirez, nos comenta que el acceso al perfil de la empresa fue algo confuso inicialmente, sugiriendo un acceso directo para simplificarlo. La visualización de los servicios era clara en nombres y precios, pero mejoraría con descripciones o imágenes. La información de los especialistas estaba organizada, pero podría destacarse más con fotos, especialidad y experiencia. Al actualizar los servicios, sugiere un botón de "Editar Servicio" visible junto a cada opción. También menciona que incluir detalles como productos utilizados y recomendaciones post-servicio sería útil. La navegación entre especialistas y servicios fue adecuada, aunque prefiere un diseño más visual. Jorge nos comenta que sugiere añadir opciones avanzadas, como personalización de horarios y mensajes de bienvenida, y notificaciones que confirmen cambios guardados. Finalmente, compara esta plataforma con otras, destacando que sería beneficioso añadir tutoriales integrados y un diseño gráfico más moderno y profesional.  |
 
 #### 5.3.3. Evaluaciones según heurísticas
 
-# **Anexo D. Formato para Evaluación de User Experience según Heurísticas**
 
 #### **UX Heuristics & Principles Evaluation**
 **Usability – Inclusive Design – Information Architecture**
@@ -3113,67 +3845,92 @@ A continuación se presentan los detalles clave de las entrevistas realizadas a 
 - **SECCIÓN**: WS53
 - **PROFESORES**: Juan Antonio Flores Moroco
 - **AUDITOR**: Nombre del Grupo que ejecuta la Sesión de evaluación
-- **CLIENTE(S)**: 
+- **Nombre de App**: Bliss
 
----
-
-**NOTA**: Los contenidos de este formato (en color plomo) son referidos a un sitio web de ejemplo. Use este formato como referencia de la estructura que tiene que ser entregada y elimine el contenido en plomo. Coloque su contenido con color azul.
-
----
-
-###### **SITE o APP A EVALUAR**:
-**Nombre de App**
-
----
-
-###### **TAREAS A EVALUAR**:
+#### Tareas a Evaluar
 El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
 
-1. Registro de un usuario nuevo
+##### Para el Segmento Cliente:
+1. **Navegación del Catálogo de Servicios:** Evaluar la facilidad para encontrar y explorar servicios como manicure, pedicure y tratamientos faciales.
+2. **Proceso de Reserva:** Evaluar la facilidad para reservar un servicio, seleccionar un horario y elegir un profesional.
+3. **Recepción de Servicios:** Evaluar la confirmación de la reserva, notificaciones y feedback post-servicio.
 
-No están incluidas en esta versión de la evaluación las siguientes tareas:
+##### Para el Segmento Empresa:
+1. **Visualización del Perfil de la Empresa:** Evaluar cómo la empresa visualiza su propio perfil.
+2. **Creación de Servicio:** Evaluar la facilidad para crear y personalizar nuevos servicios.
+3. **Gestión de Reservas:** Evaluar la capacidad para gestionar reservas de clientes, incluyendo la visualización y modificación de citas.
+4. **Recepción de Reviews y Feedback de Clientes:** Evaluar cómo las empresas reciben y gestionan reseñas de los clientes.
 
-1. 
+#### Escala de Severidad
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
----
+| Nivel | Descripción |
+|-------|-------------|
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2     | Problema menor: puede ocurrir con más frecuencia o es más difícil de superar para el usuario. Debería tener una prioridad baja para resolverse en la próxima versión. |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Debería tener alta prioridad para corregirse. |
+| 4     | Problema muy grave: error que impide al usuario continuar utilizando la herramienta. Debe corregirse antes del lanzamiento. |
 
-###### **ESCALA DE SEVERIDAD**:
-Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+#### Tabla Resumen
 
-| **Nivel** | **Descripción** |
-|-----------|-----------------|
-| **1** | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
-| **2** | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja para resolverlo de cara al siguiente release. |
-| **3** | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Es importante que sea corregido y se le debe asignar una prioridad alta. |
-| **4** | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+| #  | Problema                                                                 | Escala de severidad | Heurística/Principio violado            | Tarea evaluada                                  |
+|----|--------------------------------------------------------------------------|--------------------|----------------------------------------|-------------------------------------------------|
+| 1  | Navegación confusa, muchos pasos y etiquetas del toolbar no son claras   | 3                  | Consistencia y eficiencia             | Navegación del Catálogo de Servicios            |
+| 2  | No se entiende por qué se solicita nuevamente el nombre al reservar      | 2                  | Minimalismo y prevención de errores   | Proceso de Reserva                              |
+| 3  | Notificación de éxito en la reserva no es clara                          | 3                  | Visibilidad del estado del sistema     | Recepción de Servicios                          |
+| 4  | Las tarjetas en el perfil ocupan demasiado espacio y crean ruido visual  | 2                  | Diseño estético y minimalista         | Visualización del Perfil de la Empresa          |
+| 5  | No permite subir imágenes desde archivo en la creación de servicios      | 3                  | Flexibilidad y eficiencia             | Creación de Servicio                            |
+| 6  | La duración del servicio debe ingresarse manualmente, preferirían predeterminado | 2            | Flexibilidad y eficiencia             | Creación de Servicio                            |
+| 7  | Los filtros de servicios no funcionan, redirigen a la página de inicio   | 3                  | Control y libertad del usuario        | Navegación del Catálogo de Servicios            |
 
----
+#### Descripción de Problemas
 
-###### **TABLA RESUMEN**:
+##### Problema #1: Navegación confusa y etiquetas del toolbar no son claras
+- **Tarea Evaluada:** Navegación del Catálogo de Servicios
+- **Recomendación:** Mejorar la estructura de navegación reduciendo los pasos entre secciones clave. Cambiar etiquetas poco claras como “list” por denominaciones más comprensibles para los usuarios.
 
-| # | **Problema** | **Escala de severidad** | **Heurística/Principio violado** |
-|---|--------------|-------------------------|----------------------------------|
-| 1 | -            | -                       | -                                |
+##### Problema #2: No se entiende por qué se solicita nuevamente el nombre al reservar
+- **Tarea Evaluada:** Proceso de Reserva
+- **Recomendación:** Evitar solicitar información redundante como el nombre del usuario si ya fue proporcionado anteriormente.
 
----
+##### Problema #3: Notificación de éxito en la reserva no es clara
+- **Tarea Evaluada:** Recepción de Servicios
+- **Recomendación:** Aumentar la visibilidad y claridad de las notificaciones de confirmación de reservas, utilizando colores o mensajes más destacados para evitar confusión.
 
-###### **DESCRIPCIÓN DE PROBLEMAS**:
+##### Problema #4: Las tarjetas en el perfil ocupan demasiado espacio y crean ruido visual
+- **Tarea Evaluada:** Visualización del Perfil de la Empresa
+- **Recomendación:** Reducir el tamaño de las tarjetas y reorganizar la información para disminuir el ruido visual, priorizando datos relevantes.
 
-**PROBLEMA #1: No hay un control que permita regresar a la tienda durante el trámite de compra**
-- **Severidad**: 3
-- **Heurística violada**: Usabilidad - Libertad y control del usuario
+##### Problema #5: No permite subir imágenes desde archivo en la creación de servicios
+- **Tarea Evaluada:** Creación de Servicio
+- **Recomendación:** Permitir la subida de imágenes desde archivos locales además de enlaces, para facilitar la personalización de los servicios por parte de la empresa.
 
-**Problema**:  
+##### Problema #6: La duración del servicio debe ingresarse manualmente
+- **Tarea Evaluada:** Creación de Servicio
+- **Recomendación:** Ofrecer duraciones de servicio preconfiguradas para acelerar el proceso de creación de servicios y evitar errores al ingresarlas manualmente.
 
+##### Problema #7: Los filtros de servicios no funcionan, redirigen a la página de inicio
+- **Tarea Evaluada:** Navegación del Catálogo de Servicios
+- **Recomendación:** Arreglar el funcionamiento de los filtros para que apliquen los criterios de búsqueda sin interrumpir la navegación, evitando redireccionamientos no deseados.
 
-**Recomendación**
+#### User Flows a Validar
+
+##### Para el Segmento Cliente:
+1. **Navegación del Catálogo de Servicios:** Evaluar la facilidad para encontrar y explorar servicios como manicure, pedicure y tratamientos faciales.
+2. **Proceso de Reserva:** Evaluar la facilidad para reservar un servicio, seleccionar un horario y elegir un profesional.
+3. **Recepción de Servicios:** Evaluar la confirmación de la reserva, notificaciones y feedback post-servicio.
+
+##### Para el Segmento Empresa:
+1. **Visualización del Perfil de la Empresa:** Evaluar cómo la empresa visualiza su propio perfil.
+2. **Creación de Servicio:** Evaluar la facilidad para crear y personalizar nuevos servicios.
+3. **Gestión de Reservas:** Evaluar la capacidad para gestionar reservas de clientes, visualizar y modificar citas de clientes.
 
 
 #### 5.4. Video About-the-Product
 
 <img src="/resources/fotoVideoPruebaProduct.PNG"/>
 
-URL en Onedrive: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e831_upc_edu_pe/EW3_bkhrLS1JuFxeD0ny8_UBHr-P97_szSMdbwkxxEgotg?e=VNYhMf
+URL en Onedrive: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e831_upc_edu_pe/EUdm3C5IFB9AkrAPPuLZduIBy_CW2s2oiU0mL4fsShNDHQ?e=KeHquJ
 
 ## Conclusiones
 
@@ -3181,6 +3938,69 @@ URL en Onedrive: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e831_up
 TB1: En esta primera entrega, nos adecuamos al proyecto con la ayuda de herramientas utilizadas como Figma o Miro. De esta manera, hemos trabajado de manera adecuada con ansias por desplegar y codear este proyecto con toda la retroalimentación posible.
 
 TP: En esta entrega iniciamos con la implementación y despliegue del producto y su documentación de acuerdo a los requisitos del usuario. Utilizamos gitflow para la elaboración del mismo, siempre hablando entre los miembros del equipo para mantener una fluidez y coherencia en los archivos del proyecto como en su ciclo de vida.
+
+TB2: En esta entrega hemos logrado implementar una versión más amplia del web application, asimismo hemos logrado implementar el web service y desplegar el producto, además de realizar las validaciones necesarias para asegurar su correcto funcionamiento. Hemos trabajado en equipo para cumplir con los objetivos y hemos logrado una buena comunicación y coordinación entre los miembros del grupo.
+
+TF:  Para la última entrega del trabajo, cada integrante elaborará una conclusión individual:
+* A lo largo del proyecto, profundizamos en nuestros conocimientos sobre el desarrollo fullstack, lo que nos permitió ampliar nuestras habilidades en programación. El enfoque del proyecto en el sector de la belleza nos brindó una perspectiva valiosa sobre las necesidades específicas de esta industria, destacando la importancia del estilo y la atención al cliente como elementos fundamentales para el éxito empresarial.
+* Durante el ciclo de desarrollo, participamos en diversas actividades que fomentaron la adquisición de nuevas habilidades tanto en el desarrollo del lado frontend como backend. Este proceso no solo cumplió con los objetivos académicos establecidos, sino que también fortaleció nuestras capacidades de comunicación y colaboración en equipo. Además, mantuvimos una rigurosa documentación a lo largo del proyecto, lo cual es esencial para asegurar la calidad y la trazabilidad de los productos de software desarrollados. Este enfoque nos permitió alinearnos con los requerimientos de los stakeholders y garantizar que el producto final cumpliera con las expectativas de los usuarios y las reglas de negocio identificadas.
+* Al finalizar el proyecto, consideramos que hemos adquirido todas las habilidades necesarias para cumplir con los objetivos del curso. Esto nos ha dotado de nuevas herramientas y competencias que ahora nos permiten desarrollar aplicaciones web utilizando tecnologías open source como Angular para el frontend y Spring Boot para el backend. Este enfoque integral asegura que nuestras aplicaciones estén alineadas con las necesidades del negocio y cumplan con las historias de usuario definidas, facilitando así la entrega de software que satisface los requerimientos planteados por nuestros clientes.
+* A lo largo del proyecto, implementamos buenas prácticas relacionadas con el desarrollo ágil, lo que nos permitió adaptarnos rápidamente a los cambios y mejorar continuamente nuestro proceso de trabajo. La metodología ágil fomentó una comunicación constante entre los miembros del equipo y con los stakeholders, asegurando que cada iteración del producto fuera revisada y validada. Esta dinámica no solo optimizó nuestro flujo de trabajo, sino que también resultó en un producto final más robusto y alineado con las expectativas del cliente.
+* La atención al detalle en el diseño y desarrollo de nuestra aplicación tuvo un impacto significativo en la experiencia del usuario final. Al priorizar la usabilidad y la estética, logramos crear una interfaz intuitiva que no solo cumple con los requisitos funcionales, sino que también mejora la satisfacción del cliente. Esta experiencia práctica nos ha enseñado la importancia de poner al usuario en el centro del proceso de desarrollo, lo cual es fundamental para cualquier proyecto exitoso en el ámbito tecnológico.
+
+<br>
+
+#### Video About-The-Team
+
+**Introducción al Desarrollo:**
+
+A lo largo de los tres sprints, se desarrolló la Landing Page y se trabajó en el frontend y backend de cada uno de los bounded contexts planteados.
+
+**Sprint 1:**
+
+- Desarrollo de la Landing Page.
+- Inicio de la documentación del desarrollo.
+- Creación de repositorios en GitHub.
+- Realización de entrevistas.
+
+**Sprint 2:**
+
+- Ejercicio de liderazgo en el equipo y revisión de entrevistas.
+- Trabajo en el bounded context del frontend.
+
+**Sprint 3:**
+
+- Apoyo en la creación de estadísticas y realización de nuevas entrevistas.
+- Implementación de endpoints para cada bounded context definido.
+- Finalización del desarrollo frontend, conforme a las historias de usuario establecidas en el Sprint.
+
+**Sprint 4:**
+
+- Verificación del desarrollo backend e implementación final de todos los endpoints según el contexto delimitado (bounded context).
+- Integración de los productos desarrollados, incluyendo la Landing Page, el frontend y el backend.
+- Finalización del ciclo de desarrollo y verificación del cumplimiento de todos los requisitos establecidos por los stakeholders.
+
+**Mejoras en la Organización:**
+
+- Se observó una mejora en la organización del trabajo, utilizando Trello para dividir las tareas en historias de usuario. Sin embargo, se identificó la necesidad de optimizar la comunicación y coordinación dentro del equipo, sugiriendo que algunas tareas se realicen de forma colaborativa.
+
+<br>
+
+<img src="/resources/AboutTeam.png"/>
+
+<br>
+
+**URL de la versión publicada en Microsoft Stream:**
+
+[https://upcedupe-my.sharepoint.com/personal/u202114793_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202114793%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202401%2Dsi729%2DWS53%2DBeautyServices%2Dabout%2Dthe%2Dteam%2Dsprint%2D4%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E2b5276ad%2D9661%2D42c9%2D80a6%2D079a6dc3d922](https://upcedupe-my.sharepoint.com/personal/u202114793_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202114793%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202401%2Dsi729%2DWS53%2DBeautyServices%2Dabout%2Dthe%2Dteam%2Dsprint%2D4%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E2b5276ad%2D9661%2D42c9%2D80a6%2D079a6dc3d922)
+
+<br>
+
+**URL de la versión publicada en YouTube:**
+
+[https://youtu.be/GgQzsgs3AZU](https://youtu.be/GgQzsgs3AZU)
+
+<br>
 
 ## Bibliografía
 
@@ -3192,4 +4012,7 @@ TP: En esta entrega iniciamos con la implementación y despliegue del producto y
 * **Trello:** https://trello.com/b/nl4FsaI0/si729-bliss-202402-grupo3
 * **Wireflows-Lucidchart:** https://lucid.app/lucidchart/7d2c78f1-74e6-4e06-bac7-fa7053cb3a4d/edit?beaconFlowId=85F79CDA3ED67A01&invitationId=inv_d318f86c-78f2-4c1c-80b0-0c5715a137bd&page=0_0#
 * **Figma:** https://www.figma.com/design/5gl2eOszEgsfeYKtZEmrQZ/BLISS-UX%2FUI-OPEN-SOURCE?node-id=0-1&t=Ykry5fgskkOCcXpg-1
-* **About-The-Product:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e831_upc_edu_pe/EW3_bkhrLS1JuFxeD0ny8_UBHr-P97_szSMdbwkxxEgotg?e=VNYhMf
+* **About-The-Product:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e831_upc_edu_pe/EUdm3C5IFB9AkrAPPuLZduIBy_CW2s2oiU0mL4fsShNDHQ?e=KeHquJ
+* **API documentation:** https://bliss-web-services-production.up.railway.app/swagger-ui/index.html#/
+* **Web Application:** https://bliss-frontend-app.web.app/sign-in
+
