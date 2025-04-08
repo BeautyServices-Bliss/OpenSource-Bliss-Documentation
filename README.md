@@ -55,6 +55,7 @@
 | 18      | 04/11/2024 | Bernaola André                  | Elaboración del deployment de los productos                       |
 | 18      | 19/11/2024 | Bernaola André                  | Elaboración del deployment evidence y execution evidence           |
 
+
 <br/>
 
 ## Project Report Collaboration Insights
